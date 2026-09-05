@@ -1,0 +1,172 @@
+p1: Menu Menu poulet Menu filets Menu sandwich à
+p1: Chakalaka 16€ Yassa 16€ de poulet frits 17€ l’effiloché de bœuf 18€
+p1: Tomates, poivrons, haricots blancs Poulet cuisiné aux oignons Filets de poulet aux épices frits Effiloché de bœuf aux épices, salade, oignons confits,
+p1: et pois chiches et citron accompagnés de légumes pimentés en sauce tomate, coriandre et moutarde à l’américaine
+p1: Riz cassé Riz cassé Frites de patates douces Frites de patates douces
+p1: Boisson fraîche 50 cl Boisson fraîche 50 cl Frites « Curve » Frites « Curve »
+p1: OU OU
+p1: (excepté eau de coco) (excepté eau de coco)
+p1: Boisson fraîche 50 cl Boisson fraîche 50 cl
+p1: (excepté eau de coco) (excepté eau de coco)
+p1: Tomatoes, sweet peppers, white beans Yassa chicken
+p1: and chickpeas Chicken stewed with onions
+p1: Fried chicken stripes Pulled beef sandwich
+p1: Broken rice and lemon
+p1: Fried spicy chicken stripes Spiced pulled beef, lettuce, candied onions,
+p1: Broken rice
+p1: Cold drink 50 cl with spicy vegetables in sauce tomato, coriander and American mustard
+p1: (except coconut water) Cold drink 50 cl Sweet potatoes fries Sweet potatoes fries
+p1: (except coconut water)
+p1: “Curve” fries “Curve” fries
+p1: OR OR
+p1: Cold drink 50 cl Cold drink 50 cl 18€
+p1: (except coconut water) (except coconut water)
+p1: À LA CARTE MENU ENFANT 1100€€ DESSERTS
+p1: KIDS’ MENU
+p1: Salade Hakuna 7€ Cupcake de la savane1 5€
+p1: Salade, ananas, fèves pelées, concombre, Pour enfants âgés de 3 à 11 ans Cupcake à la banane garni d’une crème
+p1: au beurre parfumée au chocolat
+p1: patates douces, tomates, poivrons, For children ages 3 to 11
+p1: Bananabread cupcake stuffed with
+p1: oignons rouges, cacahuètes grillées
+p1: a chocolate flavour buttered cream
+p1: Hakuna salad
+p1: Lettuce, pineapple, beans, cucumber, Mini sandwich à l’effiloché Small pulled beef
+p1: Dessert Mickey1 5€
+p1: sweet potatoes, tomatoes, sweet peppers,
+p1: de bœuf sandwich
+p1: Mousse chocolat et génoise
+p1: red onions, grilled peanuts
+p1: Bouchées de poulet
+p1: Crispy chicken bites Mickey Dessert1
+p1: Salade Hakuna au poulet 7,5€ croustillantes +
+p1: Chocolate mousse and sponge cake
+p1: +
+p1: Aiguillettes de poulet, salade, ananas, fèves pelées,
+p1: Sweet potatoes fries
+p1: concombre, patates douces, tomates, poivrons,
+p1: Banane plantain 4€
+p1: Frites de patates douces “Curve” fries
+p1: oignons rouges, cacahuètes grillées
+p1: avec noix de coco et
+p1: Frites « Curve » Cherry tomatoes
+p1: Hakuna chicken salad
+p1: Plantain banana
+p1: Tomates cerise +
+p1: Chicken strips, lettuce, pineapple, beans,
+p1: with coconut and Nutella®
+p1: +
+p1: cucumber, sweet potatoes, tomatoes, Organic Mini Babybel® cheese2
+p1: sweet peppers, red onions, grilled peanuts
+p1: Yaourt sur lit de fruit 3€
+p1: Mini Babybel® Bio2 Flavoured sweet
+p1: Yoghurt with a fruit layer
+p1: Chakalaka 14€ Yaourt à boire sucré aromatisé drinking yoghurt
+p1: P urée de pommes Bio Organic apple purée
+p1: Filets de poulet frits 13€
+p1: Double Mickey Cake 3,8€
+p1: (sans sucres ajoutés) (no added sugar)
+p1: Fried chicken stripes
+p1: Amande-chocolat / Almond-chocolate
+p1: Magnum® Mini Amande Magnum® Mini Almond
+p1: Poulet Yassa / Yassa chicken 14€ +
+p1: +
+p1: Sachet de fruit / Fruit bag 4€
+p1: Sandwich à l’effiloché de bœuf 13€
+p1: Juicy Water (pomme-fraise) 20 cl Juicy Water (apple-strawberry)
+p1: 20 cl
+p1: Pulled beef sandwich
+p1: Lait
+p1: 20 cl Milk 20 cl GLACES
+p1: Vittel®
+p1: Frites de patates douces 4,5€ 33 cl Vittel®
+p1: 33 cl
+p1: ICE CREAMS
+p1: Sweet potatoes fries
+p1: A u t re b o is s o n f ra î c h e ( 2 5 c l ) s u r d e m ande
+p1: Frites « Curve » / »Curve» fries 4,5€ O th e r c o l d drink (25 cl) may replace similar item Magnum® 4€
+p1: et r e m p la c e m e n t d u p r o d u i t p r o p o s é on r e q u e s t La Pistache
+p1: Riz cassé / Broken rice 3,5€
+p1: Magnum® Amande / Almond 4€
+p1: MENU DISNEY CHECK 10€
+p1: Magnum® 4€
+p1: Amande / Almond
+p1: PAUSE GOÛTER 7€
+p1: DISNEY CHECK MENU
+p1: Twister® Frrreeze 3,5€
+p1: SWEET BREAK
+p1: Pour enfants âgés de 3 à 11 ans Parfums framboise, orange et pêche
+p1: For children ages 3 to 11
+p1: Raspberry, orange and peach flavours
+p1: Double Mickey Cake
+p1: Amande-chocolat
+p1: Bouchées de poulet Crispy chicken bites Cornetto® Soft 4,3€
+p1: Magnum® Mini Amande
+p1: croustillantes + Stracciatella & sauce caramel
+p1: +
+p1: + Stracciatella & caramel sauce
+p1: Cherry tomatoes
+p1: Boisson chaude
+p1: T omates cerise +
+p1: Glace Mickey 4,5€
+p1: Boisson fraîche
+p1: +
+p1: Organic apple purée
+p1: Saveur vanille
+p1: Double Mickey Cake
+p1: Purée de pommes Bio (no added sugar) Mickey Ice Cream Bar
+p1: Almond-chocolate +
+p1: (sans sucres ajoutés) Vanilla flavour
+p1: Magnum® +
+p1: Vittel® 33 cl
+p1: Mini Almond
+p1: Solero® Fraise & Citron vert 3,5€
+p1: + Vittel® 33 cl
+p1: Glace vanille
+p1: Hot drink
+p1: Cette association de produits comprend This menu (without substitution) contains Solero Strawberry Twist
+p1: Cold drink au moins 2 portions de fruits et légumes at least 2 servings of fruits and vegetables
+p1: Vanilla ice cream
+p1: et est faible en graisses saturées and is low in saturated fats
+p1: BOISSONS FRAÎCHES / COLD DRINKS GRANITÉ / SLUSH SOUVENIRS
+p1: 50 cl
+p1: Paille Mickey ou Minnie 6€
+p1: Parfum fraise ou pomme / Strawberry or apple flavour
+p1: Petit gobelet / Small cup 25 cl 3,5€ Mickey or Minnie Straw
+p1: avec boisson fraîche 7€
+p1: Grand gobelet / Large cup 50 cl 6€
+p1: Gobelet avec granité / Tumbler with a slush 17€ and a cold drink
+p1: 4,2€
+p1: Mug Simba 15€
+p1: Jus d’orange ou de pomme 23,5 cl 3,8€ avec boisson chaude 17€
+p1: BOISSONS CHAUDES
+p1: Orange or apple juice gnidnib-non
+p1: with a hot drink
+p1: HOT DRINKS
+p1: Lait demi-écrémé / Semi-skimmed milk 2,5€
+p1: 20 cl
+p1: Gobelet / Tumbler 15€
+p1: Eau de coco / Coconut water 4,8€ Espresso 100% Arabica 3,3€ era
+p1: 50 cl
+p1: sotohp
+p1: avec boisson fraîche ou granité 17€
+p1: Double Espresso 100% Arabica 3,8€
+p1: EAUX MINÉRALES / with a cold drink or a slush noitatneserP
+p1: MINERAL WATERS
+p1: Café 100% Arabica / Coffee 3,5€
+p1: Vittel® 50 cl 3,5€ Café au lait / Coffee with milk 4€ Gourde Simba / Simba sipper 15€
+p1: /
+p1: S.Pellegrino® 3,8€ Cappuccino 4€ avec boisson fraîche 17€ selleutcartnoc
+p1: 50 cl
+p1: Chocolat chaud / Hot chocolate 4,2€ with a cold drink
+p1: BIÈRE PRESSION
+p1: / DRAUGHT BEER
+p1: non
+p1: 1664® Premium 25 cl 5€ 50 cl 7,5€ Thé, infusion / Tea, herbal tea 3,5€ sotohP
+p1: -
+p1: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members 62/40
+p1: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have
+p1: -
+p1: yensiD©
+p1: Prix nets / Tax included - 1 produit décongelé / defrosted product - 2 2 pièces : 1 pièce pour le déjeuner, 1 pièce pour le goûter / 2 pieces : 1 piece for lunch, 1 piece for snacking
+p1: Eau potable à votre disposition / Drinking water available
