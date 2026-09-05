@@ -1,0 +1,220 @@
+p1: MENU Plat /Main Salade fraîcheur /Side salad
+p1: OU / OR
+p1: Frites /French fries Boisson fraîche /Cold drink
+p1: ET /AND ET / AND 50 cl
+p1: 18€ 16€ POULET FUMÉ 16€
+p1: LE BBQ DU SHÉRIF SAUCISSES DE PORC
+p1: SMOKED CHICKEN
+p1: SHERIFF’S BBQ GRILLÉES
+p1: GRILLED PORK SAUSAGES
+p1: TTrraavveerrss ddee ppoorrcc ffuumméé,, ppoouulleett ffuumméé,, 1/2 poulet fumé,
+p1: ssaauucciissssee ddee ppoorrcc ggrriillllééee aauuxx ééppiicceess sauce barbecue
+p1: Saucisses de porc grillées
+p1: Smoked half chicken,
+p1: ccaajjuunn eett ssaauuccee bbaarrbbeeccuuee
+p1: aux épices cajun
+p1: BBQ sauce
+p1: SSmmookkeedd ppoorrkk rriibbss,, ssmmookkeedd cchhiicckkeenn,,
+p1: Grilled pork sausages
+p1: ggggrrrriiiilllllllleeeedddd ppppoooorrrrkkkk ssssaaaauuuussssaaaaggggeeee
+p1: wwwiiittthhh CCCaaajjjuuunnn ssspppiiiccceeesss
+p1: wwwiiittthhh cccaaajjjuuunnn ssspppiiiccceeesss
+p1: aaannnddd BBBBBBQQQ sssaaauuuccceee
+p1: PREMIUM CHEESEBURGER 17€ BURGER VÉGÉTAL 17€
+p1: PLANT-BASED BURGER
+p1: Steak haché de bœuf, cheddar fondu, salade roquette,
+p1: beignets d’oignons, tomate et sauce
+p1: GGaalleettttee vvééggééttaallee,, ttoommaattee,, ssaallaaddee,,
+p1: BBBeeeeeefff bbbuuurrrgggeeerrr,,, mmmeeelllttteeeddd ccchhheeeddddddaaarrr ccchhheeeeeessseee,,, rrroooccckkkeeettt sssaaalllaaaddd,,,
+p1: cornichons et sauce vegan
+p1: ooonnniiiooonnnsss rrriiinnngggsss,,, tttooommmaaatttooo aaannnddd sssaaauuuccceee
+p1: PPPlllaaannnttt---bbbaaassseeeddd pppaaattttttyyy,,, tttooommmaaatttooo,,, llleeettttttuuuccceee,,,
+p1: pickles and vegan sauce
+p1: MENU SALADE /SALAD MENU
+p1: Boisson fraîche
+p1: ET 50 cl
+p1: a Cold drink
+p1: AND 50 cl
+p1: SALADE POULET
+p1: SALADE VEGAN 15€ 15€
+p1: CHICKEN SALAD
+p1: VEGAN SALAD
+p1: Salade, poulet, œuf dur,
+p1: QQQQQuuuuuiiiiinnnnnoooooaaaaa,,,,, bbbbbooooouuuuulllllgggggooooouuuuurrrrr,,,,, ooooorrrrrgggggeeeee,,,,, llllleeeeennnnntttttiiiiilllllllllleeeeesssss,,,,, sssssooooojjjjjaaaaa,,,,,
+p1: Grana Padano, tomates
+p1: boulettes pois chiches-coco-curry,
+p1: Lettuce, Lettuce, chicken, chicken, hard-boiled hard-boiled egg, egg,
+p1: tomates, noix de cajou
+p1: Grana Padano cheese, tomatoes
+p1: Quinoa, bulgur, barley,
+p1: lentils, soybeans,
+p1: chickpea-coco-curry balls,
+p1: tomatoes, cashew nuts
+p1: ,
+p1: MENU ENFANT / KIDS MENU 10€
+p1: POUR ENFANTS ÂGÉS DE 3 À 11 ANS / FOR CHILDREN AGES 3 TO 11
+p1: Plat Main Dessert
+p1: /
+p1: ET /AND
+p1: Accompagnement / Side Boisson / Drink
+p1: ET /AND ET /AND
+p1: Saucisses de volaille enfant Kids’ turkey sausages
+p1: Le petit burger poulet The little chicken burger
+p1: OU OR MENU DISNEY CHECK
+p1: PPoouulleett,, cchheeddddaarr ffoonndduu,, ttoommaattee,, ssaallaaddee,, CChhiicckkeenn,, mmeelltteedd cchheeddddaarr cchheeeessee,, ttoommaattooee
+p1: sauce à La Vache qui rit® lettuce, La Vache qui rit® cheese sauce
+p1: 10€
+p1: Tomates cerise Cherry tomatoes
+p1: ET AND
+p1: 4BCC
+p1: Salade fraîcheur Side salad
+p1: OU OR
+p1: POUR ENFANTS ÂGÉS DE 3 À 11 ANS -
+p1: gnidnib-non
+p1: Frites Fries
+p1: OU OR FOR CHILDREN AGES 3 TO 11
+p1: Mini Babybel® Bio2 Organic mini Babybel® cheese2
+p1: era
+p1: ET AND
+p1: Le petit burger poulet sotohp
+p1: P urée de pommes Bio (sans sucres ajoutés) Organic apple purée (no added sugar)
+p1: OU OR
+p1: The little chicken burger noitatneserPN
+p1: Yaourt à boire sucré aromatisé Flavoured sweet drinking yoghurt
+p1: OU OR
+p1: Magnum® Mini Amande Magnum® Mini Almond Tomates cerise
+p1: OU OR
+p1: ET /AND
+p1: /
+p1: selleutcartnoc
+p1: Cherry tomatoes
+p1: Juicy Water Juicy Water
+p1: (pomme-fraise) (apple-strawberry)
+p1: ET AND
+p1: Lait Milk Purée de pommes Bio (sans sucres ajoutés)
+p1: OU 20 cl OR 20 cl
+p1: ET /AND
+p1: non
+p1: Vittel® Vittel®
+p1: Organic apple purée (no added sugar)
+p1: OU 33 cl OR 33 cl
+p1: sotohP
+p1: Autre boisson fraîche sur demande Other cold drink may replace
+p1: (25 cl) (25 cl) Vittel® 33 cl -
+p1: ET /AND 62/40
+p1: et remplacement du produit proposé similar item on request
+p1: -
+p1: yensiD©
+p1: Cette association de produits comprend au moins 2 portions de fruits et légumes et est faible en graisses saturées /This selection of products contains at least 2 servings of fruits and vegetables and is low in saturated fats
+p1: Prix nets /Tax included -1 2 pièces - 1 pièce pour le déjeuner, 1 pièce pour le goûter /2 pieces - 1 piece for lunch, 1 piece for snacking
+p2: 7€
+p2: PAUSE GOÛTER / SWEET BREAK
+p2: Brownie au chocolat et noix de pécan1
+p2: Magnum® Mini Amande
+p2: OU
+p2: boisson chaude fraîche
+p2: ET OU
+p2: Chocolate and pecan nuts brownie1
+p2: Magnum® Mini Almond
+p2: OR
+p2: a hot a cold drink
+p2: AND OR
+p2: Saucisses de porc grillées 12€
+p2: Grilled pork sausages
+p2: MMMMaaaaccccaaaarrrroooonnnn aaaauuuuxxxx nnnnooooiiiixxxx ddddeeee ppppééééccccaaaannnn1 5€
+p2: 1/2 poulet fumé 12€ PPPPeeeeccccaaaannnn nnnnuuuuttttssss mmmmaaaaccccaaaarrrroooonnnn1
+p2: Smoked half chicken
+p2: DDDDeeeesssssssseeeerrrrtttt MMMMiiiicccckkkkeeeeyyyy1 5€
+p2: Le BBQ du Shérif 13€
+p2: Mickey dessert1
+p2: Sheriff’s BBQ
+p2: Mousse chocolat et génoise /
+p2: Chocolate mousse and sponge cake
+p2: Travers de porc fumé 13€
+p2: Yaourt sur lit de fruit 3€
+p2: Smoked pork ribs
+p2: Yoghurt with a fruit layer
+p2: Premium cheeseburger 12€
+p2: Sachet de fruit 4€
+p2: Burger végétal 12€ Fruit bag
+p2: Plant-Based burger
+p2: Brownie au chocolat et noix de pécan1 3,8€
+p2: CChhooccoollaattee aanndd ppeeccaann nnuuttss bbrroowwnniiee1
+p2: Salade vegan 12€
+p2: Vegan salad
+p2: Double Mickey Cake 3,8€
+p2: Salade poulet 12€ AAAmmmaaannndddeee---ccchhhooocccooolllaaattt
+p2: AAAlllmmmooonnnddd---ccchhhooocccooolllaaattteee
+p2: Chicken salad
+p2: Salade fraîcheur 3,3€
+p2: Side salad
+p2: Frites 4,5€ BOISSONS FRAÎCHES /COLD DRINKS
+p2: Fries 50 cl
+p2: Sauce : Moutarde / mustard ou/or mayonnaise
+p2: ou/or ketchup
+p2: 4,2€
+p2: SSSSSSSuuuuuuupppppppeeeeeeerrrrrrr TTTTTTTwwwwwwwiiiiiiisssssssttttttteeeeeeerrrrrrr®
+p2: 23,5 cl
+p2: PPPPPaaaaarrrrrfffffuuuuummmmmsssss OOOOOrrrrraaaaannnnngggggeeeee,,,,,
+p2: MMaaggnnuumm® Amande
+p2: 3,8€ 3,5€ 3,8€
+p2: FFFrrraaaiiissseee,,, CCCiiitttrrrooonnn
+p2: MMaaggnnuumm® Almond
+p2: OOOrrraaannngggeee,,, SSStttrrraaawwwbbbeeerrrrrryyy,,,
+p2: Lait demi-écrémé / Semi-skimmed milk 2,5€
+p2: 20 cl
+p2: LLLeeemmmooonnn FFFlllaaavvvooouuurrrsss
+p2: 444€€€
+p2: 333,,,555€€€
+p2: BOISSONS CHAUDES
+p2: R
+p2: E
+p2: P
+p2: U
+p2: HOT DRINKS
+p2: S
+p2: Espresso 100% Arabica 3,3€
+p2: Double Espresso 100% Arabica 3,8€
+p2: Café 100% Arabica / Coffee 3,5€
+p2: Cornetto® GGGlllaaaccceee MMMiiiccckkkeeeyyy
+p2: Café au lait / Coffee with milk 4€
+p2: King Cône MMMMiiiicccckkkkeeeeyyyy iiiicccceeee ccccrrrreeeeaaaammmm bbbbaaaarrrr
+p2: Cappuccino 4€
+p2: Sauce cacao /Cocoa sauce SSSSaaaavvvveeeeuuuurrrr vvvvaaaannnniiiilllllllleeee
+p2: Chocolat chaud / Hot chocolate 4,2€
+p2: VVVaaannniiillllllaaa ffflllaaavvvooouuurrr
+p2: 4,3€
+p2: 444,,,555€€€
+p2: Thé, infusion / Tea, herbal tea 3,5€
+p2: 25 cl 50 cl
+p2: BIÈRE / BEER
+p2: Brooklyn IPA 5,5€ 8,5€
+p2: SOUVENIRS
+p2: 4BCC
+p2: -
+p2: gnidnib-non
+p2: Paille Mickey ou Minnie / Straw 6€
+p2: era
+p2: 7€
+p2: et boisson fraîche / and a cold drink 7€ SANGRIA sotohp
+p2: 12 cl
+p2: noitatneserP
+p2: Gobelet / Tumbler 15€
+p2: Boisson aromatisée
+p2: /
+p2: selleutcartnoc
+p2: avec boisson fraîche / with a cold drink 17€
+p2: à base de vin
+p2: (produite en France)
+p2: Wine-based flavoured drink
+p2: non
+p2: Mug 15€ (made in France)
+p2: sotohP
+p2: avec boisson chaude / with a hot drink 17€
+p2: -
+p2: 62/40
+p2: -
+p2: yensiD©
+p2: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p2: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have
+p2: Prix nets /Tax included - 1 produit décongelé /defrosted product

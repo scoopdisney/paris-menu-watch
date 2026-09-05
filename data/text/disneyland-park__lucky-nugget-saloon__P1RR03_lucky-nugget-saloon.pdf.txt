@@ -1,0 +1,172 @@
+p1: Menu
+p1: Avec
+p1: Boisson fraîche
+p1: 33 cl
+p1: ou Eau
+p1: 28€ minérale 50
+p1: cl
+p1: With a cold drink
+p1: 33 cl
+p1: or Mineral
+p1: water 50 cl
+p1: ou / or ou / or
+p1: Poulet croustillant Burger de l’Ouest
+p1: Travers de porc
+p1: du Lucky Nugget Pain au poivre, steak haché de bœuf, sauce barbecue
+p1: avec sauce barbecue, beignets d’oignons
+p1: avec sauce sweet-chili fumée, cheddar au poivre, tomate, bacon, roquette
+p1: Pork spare ribs with barbecue sauce, onions rings
+p1: Pepper Rush Burger : Pepper bread, beef steak, smoked barbecue
+p1: Lucky Nugget’s crispy chicken
+p1: et Salade fraîcheur ou Frites
+p1: sauce, pepper cheddar cheese, tomato, bacon, rocket salad
+p1: with sweet-chilli sauce
+p1: Side salad or Fries
+p1: et Salade fraîcheur ou Frites
+p1: et Salade fraîcheur ou Frites
+p1: Side salad or Fries Side salad or Fries
+p1: avec / with
+p1: Sundae parfum vanille Coupe de salade de fruits à l’orange sanguine
+p1: avec sauce caramel, pépites d’amandes et de noisettes caramélisées
+p1: Fruit salad with blood orange cup
+p1: ou sauce chocolat ou sauce fruits rouges ou / or
+p1: Vanilla-Flavoured sundae with caramel sauce, caramelised almonds and hazelnuts chuncks
+p1: or chocolate sauce or red berry sauce
+p1: 32€
+p1: saveurs Menu Double Burger de l’Ouest
+p1: Doublez les
+p1: avec le menu ddoouubbllee sstteeaakk hhaacchhéé ddee bbœœuuff,, ddoouubbllee cchheeddddaarr aauu ppooiivvrree eett ddoouubbllee bbaaccoonn
+p1: the fl avour Double pepper rush burger menu
+p1: Double
+p1: with the menu double beef steak, double pepper cheddar cheese and double bacon
+p1: 16€
+p1: 28€ Menu Enfant
+p1: Menu Vegan
+p1: Kids’ Menu
+p1: Pour enfants âgés de 3 à 11 ans
+p1: For children ages 3 to 11
+p1: Cheeseburger, sauce fromagère à La Vache qui rit®
+p1: Poulet croustillant du Lucky Nugget et sauce barbecue
+p1: ou
+p1: Frites ou Tomates cerise
+p1: Kids’ Sundae Yaourt à boire sucré aromatisé
+p1: ou
+p1: Purée de pommes bio
+p1: ou (sans sucres ajoutés)
+p1: gnidniB-noN
+p1: Cassolette végétale Vittel® ou Jus d’orange ou de pomme ou Lait
+p1: 33 cl 25 cl 20 cl
+p1: Ragoût de haricots, fèves, butternut et pommes de terre violettes,
+p1: Autre boisson fraîche 25 cl sur demande et en remplacement du produit proposé
+p1: era
+p1: boulettes végétales panées aux flocons d’avoine
+p1: sotohP
+p1: Cheeseburger with The Laughing Cow® cheese sauce
+p1: et graines de courge, sauce tomatée
+p1: or Lucky Nugget’s crispy chicken with barbecue noitatneserP
+p1: Mousse chocolat-amandes et brisures de cookie choco-noisettes Fries Cherry tomatoes
+p1: or
+p1: Kids’ Sundae or Sweet drinking yoghurt
+p1: Boisson fraîche ou Eau minérale /
+p1: 33 cl 50 cl selleutcartnoc
+p1: or Organic apple purée (no added sugar)
+p1: Veggie cassolette Vittel® Orange or apple juice Milk
+p1: 33 cl or 25 cl or 20 cl
+p1: Beans, beans, butternut and purple potatoes stew,
+p1: non
+p1: Other cold drink 25 cl may replace similar item on request
+p1: vegetable dumplings breaded sotohP
+p1: Ce menu (sans modification) comprend au moins 2 portions
+p1: with oat flakes and pumpkin seeds, tomato sauce
+p1: de fruits et légumes et est faible en graisses saturées.
+p1: - 52/11
+p1: Chocolate almonds mousse with chocolate-hazelnut cookie chunks This menu (without substitution) contains at least 2 servings
+p1: of fruits and vegetables and is low in saturated fats. -
+p1: yensiD©
+p1: Cold drink 33 cl or Mineral water 50 cl
+p1: Veggie = végétarien - Prix nets / Tax included
+p2: À la carte
+p2: Poulet croustillant du Lucky Nugget .................................................20€ Double burger de l’Ouest......................................................................25€
+p2: avec sauce sweet-chili et Salade fraîcheur ou Frites Pain au poivre, double steak haché de bœuf, sauce barbecue fumée, double cheddar
+p2: Lucky Nugget’s crispy chicken with sweet-chilli sauce and Side salad or Fries au poivre, tomate, double bacon, roquette et Salade fraîcheur ou Frites
+p2: Double pepper rush burger : Pepper bread, double beef steak, smoked barbecue sauce,
+p2: Travers de porc .......................................................................................20€
+p2: double pepper cheddar cheese, tomato, double bacon, rocket salad and Side salad
+p2: Sauce barbecue, beignets d’oignons et Salade fraîcheur ou Frites
+p2: or Fries
+p2: Pork spare ribs : Barbecue sauce, onions rings and Side salad or Fries
+p2: Cassolette végétale ....................................................................20€
+p2: Burger de l’Ouest ...................................................................................20€
+p2: Ragoût de haricots, fèves, butternut et pommes de terre violettes,
+p2: Pain au poivre, steak haché de bœuf, sauce barbecue fumée,
+p2: boulettes végétales panées aux flocons d’avoine
+p2: cheddar au poivre, tomate, bacon, roquette et Salade fraîcheur ou Frites
+p2: et graines de courge, sauce tomatée
+p2: Pepper rush burger : Pepper bread, beef steak, smoked barbecue sauce, pepper cheddar
+p2: Veggie Cassolette : Beans, beans, butternut and purple potatoes stew, vegetable dumplings
+p2: cheese, tomato, bacon, rocket salad and Side salad or Fries
+p2: breaded with oat flakes and pumpkin seeds, tomato sauce
+p2: Desserts
+p2: Coupe de salade de fruits MMuuffffiinn11 Brownie au chocolat Donut1 Sundae parfum vanille,
+p2: avec sauce caramel, pépites d’amandes
+p2: à l’orange sanguine 6,5€ et noix de pécan1 Doughnut1
+p2: et de noisettes caramélisées ou sauce chocolat
+p2: Fruit salad Chocolate and pecan 6€ ou sauce fruits rouges
+p2: with blood orange cup nuts brownie1 Vanilla-Flavoured sundae,
+p2: 5€ with caramel sauce, caramelised almonds
+p2: 6€
+p2: and hazelnuts chuncks or chocolate sauce
+p2: or red berry sauce
+p2: Goûter / 13€ 8€
+p2: Tea-Time treat
+p2: de 15h à 18h / from 3pm to 6pm
+p2: Donut1 ou Brownie au chocolat et noix de pécan1
+p2: et Sundae parfum vanille, avec sauce caramel, Pause Gourmande /
+p2: Sweet break 9€
+p2: pépites d’amandes et de noisettes caramélisées
+p2: de 15h à 18h / from 3pm to 6pm
+p2: ou sauce chocolat ou sauce fruits rouges
+p2: Muffin1 et Boisson chaude2 ou fraîche
+p2: et Boisson fraîche ou chaude2 33cl
+p2: 33cl
+p2: Doughnut1 or Chocolate and pecan nuts brownie1 Muffin1 and a Hot2 or a Cold drink 33cl
+p2: and a Vanilla-Flavoured sundae, with caramel sauce, caramelised
+p2: almonds and hazelnuts chuncks or chocolate sauce or red berry sauce
+p2: and a Hot2 or a Cold drink
+p2: 33cl
+p2: Vins au verre / Boissons chaudes /
+p2: Glass of wine 15 cl Hot drinks
+p2: Blanc / White : IGP Pays d’Oc - Naturalys - Chardonnay - Bio ...7€ Espresso 100% Arabica .......................................................3,5€
+p2: Rouge / Red : IGP Pays d’Oc - Naturalys - Merlot - Bio ..............6,5€ Double Espresso 100% Arabica ............................................4€
+p2: Rosé : IGP Pays d’Oc - Gris Blanc ............................................6,5€ Café 100% Arabica / Coffee ..................................................3,8€
+p2: Café au lait / Coffee with milk ...............................................4,2€
+p2: Bières /
+p2: Beers
+p2: Cappuccino ..........................................................................4,2€
+p2: Pression / Draught 1664® Premium ......... 5,5€ ......8,5€
+p2: 25 cl 50 cl Chocolat chaud / Hot chocolate .............................................4,4€
+p2: Bouteilles / Bottled Bud® .................................................. 7,5€
+p2: 33 cl
+p2: Gallia Nouveau Western IPA 33 cl .............................................. 7€
+p2: Thé, infusion / Tea, herbal tea ...............................................3,8€
+p2: gnidniB-noN
+p2: Lait demi-écrémé / Semi-skimmed milk ...........................3,5€
+p2: Cidre / Cider 20 cl
+p2: La Mordue Original - Cidre aromatisé / Flavoured cider ......7€
+p2: 27,5 cl
+p2: era
+p2: sotohP
+p2: Boissons fraîches /
+p2: Cold drinks noitatneserP
+p2: /
+p2: selleutcartnoc
+p2: non
+p2: 33 cl 25 cl 50 cl 50 cl
+p2: sotohP
+p2: 5€ 4,5€ 3,8€ 4€
+p2: -
+p2: 52/11
+p2: (1) Produit décongelé / defrosted product - (2) excepté / except Espresso - Veggie = végétarien - Prix nets / Tax included -
+p2: yensiD©
+p2: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p2: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have

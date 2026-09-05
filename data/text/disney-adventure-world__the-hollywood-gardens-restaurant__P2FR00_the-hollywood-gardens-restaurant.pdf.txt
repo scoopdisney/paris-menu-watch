@@ -1,0 +1,168 @@
+p1: 19€
+p1: Menu disponible sans dessert / Available without dessert
+p1: MENU NUGGETS 18€
+p1: MENU 22€
+p1: ET/AND Frites / Fries
+p1: Salade fraîcheur
+p1: OU/OR
+p1: BURGER EMPEREUR ZURG
+p1: Side salad
+p1: EMPEROR ZURG BURGER
+p1: ET/AND Boisson fraîche
+p1: Steak haché de bœuf, cheddar fondu,
+p1: confit d’oignons, oignons crispy, roquette,
+p1: Cold drink
+p1: sauces barbecue blanche et chimichurri
+p1: Beef burger, melted cheddar, onion confit,
+p1: NUGGETS ÉTOILE
+p1: crispy onions, rocket salad, white barbecue
+p1: AU POULET x8
+p1: and chimichurri sauces
+p1: CHICKEN STAR
+p1: Frites Salade fraîcheur Boisson fraîche L’Eclair du ranger1
+p1: (50 cl) NUGGETS x8
+p1: OU/OR
+p1: Fries
+p1: Side salad Cold drink Infinity & Beyond Eclair1
+p1: (50 cl)
+p1: MENU BURGER MENU SALADE / SALAD
+p1: Frites / Fries Salade fraîcheur / Side salad Boisson fraîche / Cold drink Boisson fraîche / Cold drink
+p1: ET/AND OU/OR ET/AND ET/AND
+p1: 15€
+p1: BURGER SUPERSTAR 20€ BURGER LA PREMIÈRE 19€ SUNSET
+p1: SUPERSTAR BURGER THE PREMIERE BURGER
+p1: Quinoa, boulgour, orge, lentilles,
+p1: Poisson pané, roquette, préparation soja, boulettes de pois chiches
+p1: Filet de poulet pané, gouda rouge,
+p1: au citron, oignons rouges coco-curry, tomates,
+p1: salade, éclats d’oignons frits,
+p1: caramélisés et sauce tartare-curry noix de cajou
+p1: guacamole et sauce au cheddar
+p1: Breaded fish, rocket salad, Quinoa, bulgur, barley,
+p1: fondu-poivrons
+p1: lemon dressing, caramelised lentils, soybeans, gnidnib-non
+p1: Breaded chicken fillet, red gouda
+p1: red onions and tartar-curry sauce chickpea-coco-curry
+p1: cheese, lettuce, fried onion flakes, balls, tomatoes,
+p1: guacamole and melted cheddar- cashew nuts era
+p1: piquillo sauce sotohp
+p1: 19€
+p1: BURGER HOLLY’ROUGE BOULEVARD
+p1: noitatneserP
+p1: HOLLY’RED BOULEVARD BURGER CÉSAR D’HONNEUR 15€
+p1: 17€
+p1: DITES CHEEEESE BURGER
+p1: CÉSAR AWARDS
+p1: Galette végétale, tranche végétale saveur cheddar,
+p1: SAY CHEEEESE BURGER /
+p1: oignons rouges caramélisés, roquette, ketchup
+p1: selleutcartnoc
+p1: Salade, poulet, œuf dur,
+p1: Steak haché de bœuf, cheddar fondu, de betterave et sauce chimichurri
+p1: Grana Padano et tomates
+p1: salade, éclats d’oignons frits Plant-based patty, plant-based
+p1: Lettuce, chicken,
+p1: et sauce cheddar-flavoured slice,
+p1: hard-boiled egg,
+p1: Beef burger, melted caramelised red onions, non
+p1: Grana Padano cheese sotohP
+p1: cheddar cheese, lettuce, rocket salad, beetroot ketchup
+p1: and tomatoes
+p1: fried onion flakes and sauce and chimichurri sauce
+p1: -
+p1: 62/60
+p1: yensiD©
+p1: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p1: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have
+p1: Prix nets / Tax included - 1 produit décongelé / defrosted product - Eau potable à votre disposition / Drinking water available
+p2: À LA CARTE
+p2: MENU DISNEY CHECK 10€ DESSERTS
+p2: POUR ENFANTS ÂGÉS DE 3 À 11 ANS
+p2: BURGER EMPEREUR ZURG ....................................................................15€
+p2: FOR CHILDREN AGES 3 TO 11 CUPCAKE D’AVANT-PREMIÈRE1 .................5€
+p2: EMPEROR ZURG BURGER
+p2: LE PETIT BURGER POULET SPOTLIGHT SWIRL1
+p2: BURGER SUPERSTAR ..................................................................................16€
+p2: THE LITTLE CHICKEN BURGER Chocolat-vanille / Chocolate-vanilla
+p2: SUPERSTAR BURGER
+p2: ET/AND Tomates cerise
+p2: L’ÉCLAIR DU RANGER1 ....................................5€
+p2: Cherry tomatoes DITES CHEEEESE BURGER ....................................................................13€
+p2: INFINITY & BEYOND ECLAIR1
+p2: ET/AND Purée de pommes Bio SAY CHEEEESE BURGER Chocolat-praliné / Praliné-chocolate
+p2: (sans sucres ajoutés)
+p2: BURGER LA PREMIÈRE ..............................................................................15€ BEIGNETS AVEC NAPPAGE x21 ...................3€
+p2: Organic apple purée
+p2: THE PREMIERE BURGER
+p2: GLAZED BEIGNETS x21
+p2: (no added sugar)
+p2: ET/AND Vittel® (33 cl) BURGER HOLLY'ROUGE BOULEVARD ......15€ COOKIE MICKEY .........................................4,3€
+p2: HOLLY’RED BOULEVARD BURGER
+p2: C ette association de produits comprend au moins Pépites de chocolat au lait
+p2: 2 portions de fruits et légumes et est faible en graisses saturées. SALADE SUNSET ................................................................................12€ Milk chocolate chunks
+p2: This selection of products contains at least 2 servings of fruits ......................3,8€
+p2: and vegetables and is low in saturated fats. SUNSET SALAD BROWNIE AU CHOCOLAT ET NOIX DE PÉCAN1
+p2: CHOCOLATE AND PECAN NUTS BROWNIE1
+p2: SALADE CÉSAR D’HONNEUR .................................................................12€
+p2: YAOURT SUR LIT DE FRUIT ..................................................................3€
+p2: MENU P’TITES VEDETTES 10€ CÉSAR AWARDS SALAD
+p2: YOGHURT WITH A FRUIT LAYER
+p2: LITTLE LEGEND’S MENU CROUSTILLANTS VÉGÉTAUX
+p2: PANÉS (x6) .....................7,5€ SACHET DE FRUIT ..........................................................................4€
+p2: POUR ENFANTS ÂGÉS DE 3 À 11 ANS FRUIT BAG
+p2: PLANT-BASED BREADED
+p2: FOR CHILDREN AGES 3 TO 11
+p2: CRISPS (x6)
+p2: KIDS' CHEESEBURGER Choix de sauce / Choice of sauce:
+p2: GLACES ICE CREAMS
+p2: Moutarde / Mustard, mayonnaise, ketchup
+p2: S teak haché de bœuf, cheddar fondu et sauce ketchup
+p2: Beef burger, melted cheddar cheese and ketchup sauce KIDS' CHEESEBURGER ..............................................................................7€
+p2: MAGNUM® AMANDE / ALMOND .........................................................4€
+p2: L E PETIT BURGER POULET LE PETIT BURGER POULET ....................................................................7€
+p2: OU/OR
+p2: THE LITTLE CHICKEN BURGER MAGNUM® AMANDE VEGAN / ALMOND ............................4€
+p2: THE LITTLE CHICKEN BURGER
+p2: P oulet, cheddar fondu, salade, sauce à La Vache qui rit® ....................................4,5€
+p2: SALADE FRAÎCHEUR .....................................................................3,3€ GLACE MICKEY/ MICKEY ICE CREAM BAR
+p2: Chicken, melted cheddar cheese, lettuce,
+p2: Saveur vanille / Vanilla flavour
+p2: SIDE SALAD
+p2: La Vache qui rit® cheese sauce
+p2: SUPER TWISTER® .......................................................................................3,5€
+p2: FRITES / FRIES..................................................................................................4,5€
+p2: OU/OR NUGGETS ÉTOILE AU POULET 4 pièces Parfums Orange, Fraise, Citron / Orange, Strawberry, Lemon Flavours
+p2: CHICKEN STAR NUGGETS 4 pieces gnidnib-non
+p2: CORNETTO® KING CÔNE ...............................................................................4,3€
+p2: 7€
+p2: ET/AND Tomates cerise / Cherry tomatoes PAUSE GOÛTER / SWEET BREAK Sauce cacao / Cocoa sauce
+p2: Frites
+p2: OU/OR / Fries SOLERO FRAISE & CITRON VERT – GLACE VANILLE .................3,5€
+p2: era
+p2: COOKIE MICKEY SOLERO STRAWBERRY TWIST – VANILLA ICE CREAM
+p2: ET/AND Beignets avec nappage x21 Pépites de chocolat au lait / Milk chocolate chunks sotohp
+p2: Glazed beignets x21
+p2: OU/OR BROWNIE AU CHOCOLAT ET NOIX DE PÉCAN1
+p2: OU/OR Purée de pommes Bio (sans sucres ajoutés) CHOCOLATE AND PECAN NUTS BROWNIE1 noitatneserP
+p2: SOUVENIRS
+p2: Organic apple purée (no added sugar)
+p2: OU/OR Yaourt à boire sucré aromatisé OU/OR MAGNUM® MINI AMANDE / MAGNUM® MINI ALMOND
+p2: Flavoured sweet drinking yoghurt GOBELET ....................................................................................15€
+p2: ET/AND B OISSON FRAÎCHE OU CHAUDE / TUMBLER /
+p2: OU/OR Mini Babybel® Bio (2 pièces) 1 A COLD OR A HOT DRINK selleutcartnoc
+p2: AVEC BOISSON FRAÎCHE / WITH A COLD DRINK ............................17€
+p2: Organic mini Babybel® cheese (2 pieces) 1
+p2: OU/OR Magnum® Mini Amande / Magnum® Mini Almond
+p2: MUG / CUP ...........................................................................................................15€
+p2: ET/AND Juicy Water (pomme-fraise) ou Lait (20 cl) ou Vittel® (33 cl)
+p2: AVEC BOISSON CHAUDE / WITH A HOT DRINK ..............................17€ non
+p2: Juicy Water (apple-strawberry) or Milk (20 cl) or Vittel® (33 cl)
+p2: sotohP
+p2: Autre boisson fraîche (25 cl) sur demande et remplacement du produit proposé Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez PAILLE MICKEY OU MINNIE / MICKEY OR MINNIE STRAW .......6€
+p2: Other cold drink (25 cl) may replace similar item on request pas à vous signaler et à le demander à l’un de nos Cast Members -
+p2: ET BOISSON FRAÎCHE / WITH A COLD DRINK ....................................7€ 62/60
+p2: A list of the allergens present in our dishes is available upon request with any of our Cast
+p2: 1 1 pièce pour le déjeuner, 1 pièce pour le goûter Members; please make a Cast Member aware of any allergies you may have
+p2: yensiD©
+p2: 1 1 piece for lunch, 1 piece for snacking Prix nets / Tax included - Veggie = végétarien - 1 produit décongelé / defrosted product
+p2: Eau potable à votre disposition / Drinking water available

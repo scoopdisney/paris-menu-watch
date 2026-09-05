@@ -1,0 +1,128 @@
+p1: = =
+p1: V.004
+p1: BUFFET à VOLONTÉ
+p1: ``ALL-YOU-CAN-EAT ´´ BUFFET
+p1: 1 ADULTE / ADULT
+p1: 45€
+p1: Boisson fraîche ou Eau minérale
+p1: (33 cl) (50 cl)
+p1: A Cold drink or a Mineral water
+p1: (33 cl) (50 cl)
+p1: C
+p1: 2 ENFANT / KIDS’
+p1: 25€
+p1: POUR ENFANTS ÂGÉS DE 3 À 11 ANS / FOR CHILDREN AGES 3 TO 11
+p1: Vittel® ou Jus d’orange ou de pomme
+p1: (33 cl) (25 cl)
+p1: ou Lait
+p1: (20 cl)
+p1: MAGNIFICATION 300%
+p1: Vittel® or Orange or apple juice
+p1: (33 cl) (25 cl)
+p1: or Milk
+p1: (20 cl)
+p1: AUTRE BOISSON FRAÎCHE (25 cl) SUR DEMANDE ET EN REMPLACEMENT DU PRODUIT PROPOSÉ.
+p1: OTHER COLD DRINK (25 cl) MAY REPLACE SIMILAR ITEM ON REQUEST.
+p1: 2
+p1: 3
+p1: CÉLÉBREZ VOTRE ANNIVERSAIRE
+p1: EN NOTRE COMPAGNIE
+p1: CELEBRATE YOUR BIRTHDAY WITH US
+p1: 1 ET COMMANDEZ VOTRE DESSERT D’ANNIVERSAIRE EN DÉBUT DE REPAS !
+p1: DON’T FORGET TO ORDER YOUR BIRTHDAY DESSERT BEFORE YOUR MEAL!
+p1: Dessert à partir de 2 personnes 6 personnes
+p1: 25€ 45€
+p1: Dessert to share for 2 or more people 6 or more people
+p1: DRINKS
+p1: BOISSONS
+p1: 1 COCKTAIL SIGNATURE 6 BIÈRES I BEERS
+p1: ..............................25
+p1: cl .........33 cl ...........50 cl
+p1: SIGNATURE COCKTAIL
+p1: PRESSION I DRAUGHT
+p1: Spritz bleu et baies de Goji ......................................................................15,5€ 1664® Premium...............................................................6€ ..........................8,8€
+p1: Chardonnay bleu effervescent, vermouth blanc, Perrier® et baies de Goji
+p1: Grimbergen blonde .....................................................6€ ..........................8,8€
+p1: Blue Spritz and Goji Berries
+p1: BOUTEILLE I BOTTLED
+p1: Sparkling Blue Chardonnay, White Vermouth, Perrier® and Goji Berries
+p1: Cherry Chouffe ...............................................................8€
+p1: Grimbergen d’Abbaye rouge ......................................8€
+p1: Lindemans framboise ....................................7€
+p1: 2 MOCKTAIL SIGNATURE
+p1: SIGNATURE MOCKTAIL
+p1: 7
+p1: VINS I WINE
+p1: .......................10,5€
+p1: Mocktail à particules et son sérum de fruits rouges
+p1: Sprite SANS SUCRES, sirop saveur curaçao bleu, nectar de canneberge(1), ROUGES I RED ...................................................15
+p1: cl ..........37,5 cl ........75 cl
+p1: purée de griottes, jus de citron frais et perles aromatisées à la fraise
+p1: AOC Bordeaux - Mouton Cadet
+p1: Particles Mocktail and Red Fruits Serum ..............................10€ .......24€ .......38€
+p1: Baron Philippe de Rothschild
+p1: Sprite SANS SUCRES, Blue Curaçao Flavour Syrup, Cranberry Nectar(1),
+p1: AOC Bourgogne - Pinot Noir - Hudelot-Bajard - Bio ......................38€
+p1: Cherry Purée, Lemon Juice and Strawberry Flavour Pearls
+p1: AOC Côtes du Rhône - Esprit Rouge - Brotte ........................32€
+p1: Cuvée Disneyland® Paris - AOP La Clape
+p1: Château L’Hospitalet - Bio - Demeter ............8€ ..............................35€
+p1: 3
+p1: BIÈRES SIGNATURE I SIGNATURE BEERS
+p1: IGP Méditerranée - La Réserve - Estoublon - Bio ........................34€
+p1: Bières rouges à petite échelle
+p1: (4 x 6 cl) U.S.A. : Beringer Classics - Cabernet Sauvignon .................38€
+p1: avec reglette et ses mini verres à bière (à emporter).......................19€
+p1: ROSÉ ...................................................................15 cl ..........50 cl ...........75 cl
+p1: Dégustation de quatre bières rouges (Chouffe cerise, Grimbergen d’Abbaye rouge,
+p1: AOP Côtes de Provence
+p1: Lindemans framboise et 1664® Premium à la purée de griottes)
+p1: ou Quatre bières blondes 1664® Premium Minuty - Prestige rosé ..............................................8€ ..........25€ ........36€
+p1: Small Scale Red Beers
+p1: (4 x 6 cl)
+p1: BLANCS I WHITE ................................................15
+p1: with Mini-Beer Glasses and Ruler Board (to take away) cl ..........37,5 cl ........75 cl
+p1: Tasting of Four Red Beers (Cherry Chouffe, Red Grimbergen, Raspberry Lindemans AOC Chablis - La Pierrelée - La Chablisienne .9,5€ .....23€ .......43€
+p1: and 1664® Premium with Cherry Purée)
+p1: AOP Sancerre - Château de Sancerre - Sauvignon blanc ...........49€
+p1: or Four 1664® Premium Blond
+p1: Cuvée Disneyland® Paris - AOP La Clape
+p1: Château L’Hospitalet - Bio - Demeter ............8€ ..............................38€
+p1: 4 AOC Alsace - Gentil Hugel - Famille Hugel .....................................41€
+p1: BOISSONS ALCOOLISÉES SIGNATURE
+p1: U.S.A : Diamond Collection - Francis coppola - Sauvignon blanc ...49€
+p1: SIGNATURE ALCOHOLIC DRINKS
+p1: ...............................................................................15
+p1: cl ......25 cl ........50 cl
+p1: 8
+p1: BOISSONS FRAÎCHES
+p1: Pasion Blue - Chardonnay Bleu sec
+p1: COLD DRINKS
+p1: Dry Blue Chardonnay ........................................................9€ ........15€ ......28€ ...................... .................. ................ .................33 cl
+p1: Bleu pétillant - Santa Margarita - Chardonnay 9€ ........15€ ......28€ Coca-Cola ORIGINAL, Coca-Cola ZÉRO SUCRES .................5,5€
+p1: Sparkling Blue Chardonnay
+p1: Coca-Cola ZÉRO SUCRES Cherry - Saveur cerise ....................5,5€
+p1: Fanta Orange SANS SUCRES, Sprite SANS SUCRES ...............5,5€
+p1: 5 LE SOUVENIR PYM KITCHEN
+p1: TROPICO Original ...........................................................................5,5€
+p1: PYM KITCHEN SOUVENIR
+p1: FuzeTea Pêche Intense I Peach Black Tea 5,5€
+p1: .................................
+p1: Jus d’orange ou de pomme I Orange or apple juice 5€
+p1: Réglette et ses mini verres à bière (sans boisson) .......................15€ .......... 25cl
+p1: Mini-Beer Glasses with Ruler Board (without drink) Perrier® ................................................................................................................... 4,3€
+p1: 9 62/30
+p1: EAUX MINÉRALES
+p1: MINERAL WATER
+p1: ............. .................. ................50 cl ..........100 cl -
+p1: yensiD©
+p1: Vittel® .....................................................................................................4,5€ ........5,5€
+p1: S.Pellegrino® .....................................................................................4,8€ ........5,8€
+p1: Consultez le menu
+p1: Check out our menu
+p1: (1) jus à base de concentré de fruits - Prix nets
+p1: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members.
+p1: Le prix du buffet sera facturé à toute personne installée en salle.
+p1: (1) made from concentrated fruit juice - Tax included
+p1: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have.
+p1: The price of the buffet will be charged to any person seated in the restaurant.

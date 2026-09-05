@@ -1,0 +1,196 @@
+p1: MENU
+p1: 22
+p1: €
+p1: MARIACHI
+p1: ET/AND ET/AND
+p1: Burrito
+p1: Frites «Ziggy» Inoubliable Accord1
+p1: Bœuf / Beef
+p1: Melody1
+p1: Fries Exotic
+p1: Poulet / Chicken
+p1: Vegan OU/OR ET/AND
+p1: Salade fraîcheur Boisson fraîche
+p1: 50 cl
+p1: Cold drink
+p1: Side salad
+p1: 50 cl
+p1: MENU ENFANT
+p1: CHAMACO
+p1: 10
+p1: €
+p1: KIDS’ MENU
+p1: Pour enfants âgés de 3 à 11 ans / For children ages 3 to 11
+p1: ET/ AND gnidnib-non
+p1: Magnum® / Almond
+p1: Mini Amande
+p1: era
+p1: sotohp
+p1: Petit burrito au poulet Mini Babybel® Bio2
+p1: OU/OR
+p1: noitatneserP
+p1: Organic mini Babybel®2
+p1: Small chicken burrito
+p1: Poulet épicé, riz, cheddar râpé, guacamole,
+p1: OU/OR Purée de pommes Bio (sans sucres ajoutés)
+p1: /
+p1: selleutcartnoc
+p1: salade, tomate, oignon rouge et coriandre
+p1: Organic apple purée
+p1: (no added sugar)
+p1: Spicy chicken, rice, grated cheddar, guacamole,
+p1: lettuce, tomato, red onion and cilantro
+p1: ET/ AND non
+p1: sotohP
+p1: ET/ AND
+p1: Juicy Water (pomme-fraise)
+p1: -
+p1: 62/40
+p1: Frites «Ziggy» / Fries
+p1: Vittel®
+p1: OU Lait OU
+p1: 20 cl 33 cl
+p1: -
+p1: yensiD©
+p1: Tomates cerise / Cherry tomatoes Juicy Water (apple-strawberry)
+p1: OU/OR
+p1: Salade fraîcheur / Side salad Milk Vittel®
+p1: OU/OR OR 20 cl OR 33 cl
+p1: Autre boisson fraîche sur demande et remplacement du produit proposé
+p1: (25 cl)
+p1: Other cold drink (25 cl) may replace similar item on request
+p1: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p1: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have
+p1: Prix nets / Tax included
+p1: 1 produit décongelé / defrosted product - 2 2 pièces : 1 pièce pour le déjeuner, 1 pièce pour le goûter / 2 pieces: 1 piece for lunch, 1 piece for snacking
+p2: Burrito au bœuf 12€
+p2: Beef burrito
+p2: Chili au bœuf épicé, riz, cheddar râpé, guacamole,
+p2: salade, tomate, oignon rouge et coriandre
+p2: Spicy beef chilli, rice, grated cheddar, guacamole,
+p2: lettuce, tomato, red onion and cilantro Salade végétarienne 12€
+p2: Vegetarian salad
+p2: Burrito au poulet 12€
+p2: Haricots rouges, pois chiches, avocat, ananas, olives noires,
+p2: Chicken burrito
+p2: maïs, poivron, tomate, oignon rouge et coriandre
+p2: Poulet épicé, riz, cheddar râpé, guacamole,
+p2: Red beans, chickpeas, avocado, pineapple, black olives, corn,
+p2: salade, tomate, oignon rouge et coriandre pepper, tomato, red onion and cilantro
+p2: Spicy chicken, rice, grated cheddar, guacamole,
+p2: lettuce, tomato, red onion and cilantro
+p2: Burrito vegan 12€
+p2: Vegan burrito
+p2: Chili aux protéines de soja, riz, râpé végétal
+p2: saveur mozzarella, guacamole, salade,
+p2: 15€
+p2: tomate, oignon rouge et coriandre Empanadas de carne
+p2: Chilli with soya proteins, rice, grated
+p2: Empanadas au bœuf, riz, sauce au cheddar
+p2: plant-based mozzarella flavour, guacamole,
+p2: fondu-jalapeño, tomate, oignon rouge et coriandre
+p2: lettuce, tomato, red onion and cilantro
+p2: Empanadas with beef, rice, melted cheddar-jalapeño sauce,
+p2: tomato, red onion and cilantro
+p2: Doritos® 6€
+p2: Sauce au cheddar
+p2: / Fries 4,5€
+p2: Frites « Ziggy »
+p2: Cheddar cheese sauce
+p2: Sauce : Moutarde /mustard,
+p2: mayonnaise, ketchup
+p2: 5,5€
+p2: Jalapeños au cheddar
+p2: Jalapeños with cheddar cheese
+p2: / Side salad 3,8€
+p2: Salade fraîcheur
+p2: Beignets d’oignons 5,5€
+p2: Onion rings
+p2: Frozen
+p2: saveur Margarita
+p2: Bouchées au poulet
+p2: avec alcool 9€
+p2: 25 cl
+p2: Frozen Margarita flavour rit® 7€
+p2: sauce à La Vache qui
+p2: with alcohol
+p2: Chicken bites, La Vache qui rit® sauce
+p2: Granité, parfum fraise
+p2: ENFANT
+p2: / KIDS
+p2: Slush, strawberry flavour
+p2: Gourde Dante / Dante sipper 16€
+p2: Pour enfants âgés de 3 à 11 ans / For children ages 3 to 11
+p2: 3,5€
+p2: Petit gobelet / Small cup avec boisson fraîche 18€
+p2: 25 cl
+p2: Grand gobelet / Large cup 6€ with a cold drink
+p2: 50 cl
+p2: Mini Babybel® Bio2 2,3€
+p2: Organic mini Babybel®2
+p2: 15€
+p2: Mug Coco gourmand à emporter
+p2: 2,3€
+p2: et boisson végétale froide riz-chocolat-noisette, Purée de pommes Bio
+p2: crème fouettée, brisures de cookie (sans sucres ajoutés)
+p2: and cold rice-chocolate-hazelnut plant-based drink,
+p2: Organic apple purée
+p2: (no added sugar)
+p2: vanilla whipped cream, cookie chunks
+p2: Mug Coco 10€
+p2: 15€
+p2: Gobelet / Tumbler 15€ Mug Paille Mickey ou Minnie / Straw 6€
+p2: et boisson fraîche avec boisson chaude 17€ et boisson fraîche 7€
+p2: with a hot drink and a cold drink
+p2: ou granité 17€
+p2: and a cold drink or a slush
+p2: Magnum® Twister® Churros
+p2: Super
+p2: Amande / Almond Parfums Orange, Fraise, Citron 4,3€
+p2: Orange, Strawberry, Lemon Flavours
+p2: 4€
+p2: 3,5€
+p2: UPER
+p2: S
+p2: Glace Mickey Inoubliable Accord1
+p2: Cornetto®
+p2: Saveur vanille Entremets génoise et mousse exotique
+p2: King Cône
+p2: Mickey Ice Cream Bar Exotic Melody1
+p2: Sauce cacao / Cocoa sauce
+p2: Vanilla flavour Sponge cake and exotic mousse entremet
+p2: gnidnib-non
+p2: 4,3€
+p2: 4,5€ 5€
+p2: era
+p2: sotohp
+p2: BOISSONS FRAÎCHES noitatneserP
+p2: / COLD DRINKS BOISSONS CHAUDES
+p2: / HOT DRINKS
+p2: /
+p2: selleutcartnoc
+p2: Espresso 100% Arabica 3,3€
+p2: 3,8€
+p2: Double Espresso 100% Arabica
+p2: 50 cl 23,5 cl 50 cl
+p2: 4,2€ 3,8€ 3,5€ 3,8€ Café 100% Arabica / Coffee 3,5€ non
+p2: sotohP
+p2: / Coffee with milk 4€
+p2: Café au lait
+p2: 2,5€
+p2: Lait demi-écrémé -
+p2: 20 cl Cappuccino 4€
+p2: 62/40
+p2: Semi-skimmed milk
+p2: / Hot chocolate 4,2€
+p2: Chocolat chaud -
+p2: yensiD©
+p2: Bière pression 1664® Premium 5€ 7,5€
+p2: 25 cl 50 cl
+p2: Draught beer
+p2: Thé, infusion / Tea, herbal tea 3,5€
+p2: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p2: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have
+p2: Prix nets / Tax included - Veggie = Végétarien
+p2: 1 produit décongelé / defrosted product - 2 2 pièces : 1 pièce pour le déjeuner, 1 pièce pour le goûter / 2 pieces: 1 piece for lunch, 1 piece for snacking
+p2: Eau potable à votre disposition / Drinking water available

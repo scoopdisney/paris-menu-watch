@@ -1,0 +1,124 @@
+p1: Nos Spécialités Maison
+p1: Our Home-Made Specialities
+p1: À partager
+p1: Biscuit financier à la pistache et framboise,
+p1: craquant pistache, insert parfum citron et framboise
+p1: Perfect for sharing
+p1: Pistachio raspberry financier, pistachio crunch,
+p1: lemon raspberry insert
+p1: 20€
+p1: Gâteau Palette
+p1: Entremets mousses parfum vanille
+p1: et fruits rouges, crème au beurre1
+p1: Palette cake
+p1: Vanilla flavour and red berry mousse entremets
+p1: with buttercream1
+p1: 5€
+p1: Véritables milkshakes américains à base de glace
+p1: préparés sur place et à la commande
+p1: Real american ice cream milkshakes
+p1: made on order
+p1: Milkshake Milkshake Minnie
+p1: Mickey Maxi Douceur
+p1: Gourmand
+p1: Glace parfum vanille,
+p1: Glace parfum vanille, purée de framboises,
+p1: cacao-noisettes, lait, lait, crème fouettée
+p1: crème fouettée et cupcake parfum
+p1: et brownie framboise
+p1: Mickey’s Minnie’s Marvellous
+p1: Marvellous milkshake
+p1: Milkshake Vanilla flavour ice
+p1: Vanilla flavour cream, raspberry purée,
+p1: ice cream, cocoa- milk, whipped cream
+p1: hazelnuts, milk, and raspberry
+p1: whipped cream flavour
+p1: and brownie
+p1: 14€
+p1: 14€
+p1: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible,
+p1: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p1: A list of the allergens present in our dishes is available upon request
+p1: with any of our Cast Members; please make a Cast Member aware
+p1: of any allergies you may have
+p1: Prix nets / Tax included
+p1: 1 produit décongelé / defrosted product
+p1: Eau potable à votre disposition
+p1: Drinking water available
+p1: ©Disney 04/26
+p2: Nos Spécialités Maison
+p2: Our Home-Made Specialities
+p2: Cold Brew Coffee à personnaliser 8€ Original Cold Brew Coffee 7€
+p2: Lait, concentré de cold brew parfum café, Lait, concentré de cold brew
+p2: crème fouettée, morceaux de brownie parfum café et sirop de sucre de canne
+p2: avec sirop et sauce au choix : Milk, coffee flavour cold brew concentrate
+p2: + Sirop saveurs : Caramel ou Pop-corn ou and cane syrup
+p2: Speculoos + Sauces : Chocolat noir ou Caramel
+p2: aromatisé
+p2: Milk, coffee flavour cold brew concentrate, Boissons chaudes
+p2: whipped cream, brownie pieces and a choice
+p2: Hot drinks
+p2: of syrup and sauce:
+p2: + Flavoured syrup: Caramel or Popcorn or
+p2: Speculoos + Sauces: Dark Chocolate or Flavoured Espresso 100% Arabica 3,5€
+p2: Caramel
+p2: Double espresso 100% Arabica 4,5€
+p2: Café 100% Arabica / Coffee 4€
+p2: Café au lait / Coffee with milk 4,8€
+p2: Boissons fraîches
+p2: Cappuccino 4,8€
+p2: Cold drinks Café Viennois / Vienna coffee 4,8€
+p2: 33 cl
+p2: Chocolat Viennois / Vienna hot chocolate 5,2€
+p2: Coca-Cola Original 5,5€
+p2: Chocolat chaud / Hot chocolate 5€
+p2: Coca-Cola Zéro Sucres 5,5€
+p2: Thé, infusion / Tea, herbal tea 4€
+p2: Coca-Cola Cherry 5,5€
+p2: 5,5€
+p2: Fanta Orange, Sprite 25 cl
+p2: Vins au verre
+p2: Perrier® 4,3€
+p2: Jus d’orange ou de pomme 25 cl 5€
+p2: Wine glass
+p2: Orange juice or apple juice
+p2: Eaux minérales Mineral water
+p2: 50 cl
+p2: Blanc White 15 cl 8,5€
+p2: Vittel® 4,5€
+p2: Cuvée Disneyland® Paris - AOP La Clape
+p2: S.Pellegrino® 4,8€ Château L’Hospitalet - Bio - Demeter
+p2: Rosé
+p2: 15 cl 8€
+p2: AOP Côtes de Provence - Minuty
+p2: Bières Beers
+p2: Prestige rosé
+p2: Bouteille Bottled 33 cl
+p2: Rouge Red
+p2: 15 cl 8,5€
+p2: Grimbergen d’Abbaye blanche 7,5€
+p2: Cuvée Disneyland® Paris - AOP La Clape
+p2: Château L’Hospitalet - Bio - Demeter
+p2: Pression Draught
+p2: 25 cl 50 cl
+p2: 1664® Premium 6€ 8,8€
+p2: Souvenirs
+p2: Grimbergen
+p2: d’Abbaye blonde 6,5€ 9€
+p2: Flûte Collector
+p2: avec champagne brut 20€
+p2: 15 cl
+p2: Collector flute with
+p2: champagne brut
+p2: Gourde Stitch 26€
+p2: Stitch sipper
+p2: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible,
+p2: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p2: A list of the allergens present in our dishes is available upon request
+p2: with any of our Cast Members; please make a Cast Member aware
+p2: of any allergies you may have
+p2: Prix nets / Tax included
+p2: 1 produit décongelé / defrosted product
+p2: Eau potable à votre disposition
+p2: Drinking water available
+p2: ©Disney 04/26

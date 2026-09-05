@@ -1,0 +1,147 @@
+p1: MENU SANS DESSERT 18€
+p1: MENUS et / and Frites / fries ou / or Salade fraîcheur / side salad
+p1: WITHOUT DESSERT
+p1: et / and Boisson fraîche / cold drink 50 cl
+p1: Burger du Chalet 22€
+p1: AVEC DESSERT L’ACCORDÉON DE GEPPETTO1
+p1: Bun gratiné emmental, sauce moutarde à l’ancienne, poulet pané,
+p1: cheddar fondu en tranche, coleslaw, sauce relish, salade roquette
+p1: Emmental-gratin bun, wholegrain mustard sauce, breaded chicken,
+p1: sliced melted cheddar, coleslaw, relish sauce, rocket salad
+p1: Hot-dog du Chalet 17€ Burger végétal 16€ Poulet rôti 16€
+p1: Pain bretzel, sauce currywurst, saucisse de dinde, 1/2 Poulet rôti
+p1: Galette végétale panée, tomate, salade,
+p1: salade roquette, oignons confits, oignons crispy,
+p1: pickles de carotte cornichons, ketchup de betterave 1/2 Roasted chicken
+p1: Breaded plant-based patty, tomato,
+p1: Pretzel bun, currywurst sauce, turkey sausage,
+p1: rocket salad, caramelised onions, crispy onions, lettuce, pickles, beetroot ketchup
+p1: pickled carrots
+p1: MENU SALADE
+p1: / Boisson fraîche / cold drink
+p1: et and 50 cl
+p1: Salade poulet 15€ Salade vegan 15€
+p1: Salade, poulet, œuf dur, Quinoa, boulgour, orge, lentilles, soja, boulettes pois
+p1: Grana Padano, tomates chiches-coco-curry, tomates, noix de cajou
+p1: Lettuce, chicken, hard-boiled egg, Quinoa, bulgur, barley, lentils, soybeans,
+p1: Grana Padano cheese, tomatoes chickpea-coco-curry balls, tomatoes, cashew nuts
+p1: MENU ENFANT MENU DISNEY CHECK
+p1: KIDS’ MENU 10€ DISNEY CHECK MENU 10€
+p1: Pour enfants âgés de 3 à 11 ans Pour enfants âgés de 3 à 11 ans
+p1: For children ages 3 to 11 For children ages 3 to 11
+p1: Le petit burger poulet The little chicken burger Le petit burger poulet The little chicken burger
+p1: Poulet, cheddar fondu, tomate, salade, Chicken, melted cheddar cheese, tomato, Poulet, cheddar fondu, Chicken, melted cheddar cheese,
+p1: sauce à La Vache qui rit® lettuce, La Vache qui rit® cheese sauce tomate, salade, sauce à tomato, lettuce, La Vache qui rit®
+p1: La Vache qui rit® cheese sauce
+p1: ou Hot-dog enfant or Kid’s hot-dog
+p1: Nuggets au poulet x4 Chicken nuggets x4 Tomates cerise Cherry tomatoes
+p1: ou or
+p1: Purée de pommes Bio Organic apple purée
+p1: Tomates cerise ou Frites Cherry tomatoes or Fries
+p1: (sans sucres ajoutés) (no added sugar)
+p1: Vittel® Vittel®
+p1: Purée de pommes Bio Organic apple purée 33 cl 33 cl
+p1: (sans sucres ajoutés) (no added sugar) Cette association de produits This menu (without substitution)
+p1: Mini Babybel® Bio2 Organic mini Babybel® cheese2 comprend au moins 2 portions contains at least 2 servings
+p1: ou or
+p1: de fruits et légumes et est of fruit and vegetables and is low
+p1: Yaourt à boire sucré aromatisé Flavoured sweet drinking yoghurt
+p1: ou or faible en graisses saturées in saturated fats
+p1: Magnum® Mini Amande Magnum® Mini Almond
+p1: ou or
+p1: Juicy Water (pomme-fraise) Juicy Water (pomme-fraise)
+p1: 20 cl 20 cl
+p1: Lait Vittel® Milk Vittel®
+p1: ou 20 cl ou 33 cl or 20 cl or 33 cl
+p1: Autre boisson fraîche (25 cl) sur demande Other cold drink (25 cl) may replace similar item
+p1: en remplacement du produit proposé on request
+p1: Prix nets / Tax included - 1 produit décongelé / defrosted product - 2 2 pièces : 1 pièce pour le déjeuner, 1 pièce pour le goûter / 2 pieces: 1 piece for lunch, 1 piece for snacking
+p1: Eau potable à votre disposition / Drinking water available
+p2: Double Mickey Cake Magnum® Mini Amande
+p2: PAUSE GOÛTER Amande-chocolat ou
+p2: boisson fraîche 50 cl chaude
+p2: et ou
+p2: SWEET BREAK
+p2: Double Mickey Cake Almond-chocolate Magnum® Mini Almond
+p2: or
+p2: 7€
+p2: a cold drink a hot drink
+p2: and 50 cl or
+p2: À LA CARTE BOISSONS FRAÎCHES COLD DRINKS
+p2: /
+p2: 50 cl
+p2: 1/2 Poulet rôti 12€ Burger du Chalet 15€
+p2: 1/2 Roasted chicken Chalet Burger
+p2: Nuggets au poulet 5,5€
+p2: Hot-dog du Chalet 11,5€ x4
+p2: Chalet Hot Dog Chicken nuggets x4
+p2: Sauce : moutarde /mustard,
+p2: Burger végétal 12€
+p2: mayonnaise, ketchup 4,2€
+p2: Plant-based burger
+p2: Salade / salad 12€
+p2: Salade poulet 12€
+p2: 23,5 cl
+p2: Chicken salad
+p2: Salade fraîcheur 3,3€
+p2: Side salad
+p2: Bretzel au fromage1 5€
+p2: Frites 4,5€
+p2: Cheese pretzel1
+p2: Fries 3,8€ 3,5€ 3,8€
+p2: Lait demi-écrémé 20 cl / Semi-skimmed milk 2,5€
+p2: DESSERTS
+p2: BIÈRE PRESSION / DRAUGHT BEER
+p2: Dessert Mickey1 5€ Magnum® 4€
+p2: Mousse chocolat et génoise Amande / Almond
+p2: Chocolate mousse and sponge cake1 1664® Premium 5€ 7,5€
+p2: 25 cl 50 cl
+p2: Double Mickey Cake 3,8€
+p2: Amande-chocolat
+p2: GRANITÉ / SLUSH
+p2: Almond-chocolate
+p2: Magnum® Vegan 4€ Parfum pomme ou fraise 3,5€ 6€
+p2: L’accordéon de Geppetto1 5€ 25 cl 50 cl
+p2: Amande / Almond
+p2: Geppetto’s accordeon
+p2: Entremets mousse vanille, insert
+p2: BOISSONS CHAUDES
+p2: biscuit speculoos et compotée myrtilles
+p2: Vanilla mousse entremets, speculoos HOT DRINKS
+p2: biscuit insert and blueberry compote
+p2: Espresso 100% Arabica 3,3€ Cappuccino 4€
+p2: Yaourt sur lit de fruit 3€ Push Up Haribo® 3,5€
+p2: Double Espresso 100% 3,8€ Chocolat chaud 4,2€
+p2: Yoghurt on a fruit layer Parfum Vanille,
+p2: Sauce Fraise Hot chocolate gnidnib-non
+p2: Arabica
+p2: Sachet de fruit 4€ Vanilla flavour,
+p2: Café 100% Arabica / Coffee 3,5€
+p2: Fruit bag Strawberry sauce
+p2: Café au lait 4€ Thé, infusion 3,5€
+p2: Coffee with milk Tea, herbal tea era
+p2: sotohp
+p2: Magnum® 4€ Solero® 3,5€
+p2: La Pistache Fraise & Citron vert,
+p2: SOUVENIRS noitatneserP
+p2: Glace vanille
+p2: Strawberry Twist,
+p2: Paille Mickey ou Minnie / Straw 6€
+p2: Vanilla ice cream
+p2: et boisson fraîche / and a cold drink 7 €
+p2: /
+p2: selleutcartnoc
+p2: Gobelet / Tumbler 15 €
+p2: with a cold drink or slush
+p2: avec boisson fraîche ou granité / 17€
+p2: Cornetto®King Cône 4,3€ Glace Mickey 4,5€
+p2: Sauce cacao Saveur vanille Mug 15 €
+p2: avec boisson chaude with a hot drink 17 € non
+p2: Cocoa sauce Vanilla flavour /
+p2: sotohP
+p2: -
+p2: 62/60
+p2: Un recueil d’information sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p2: -
+p2: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have yensiD©
+p2: Prix nets / Tax included - 1 produit décongelé / defrosted product - Eau potable à votre disposition / Drinking water available

@@ -1,0 +1,111 @@
+p1: Réservation fortement conseillée à la conciergerie ou sur l’application Disneyland® Paris
+p1: Reservation recommended at the concierge desk or on the Disneyland® Paris application
+p1: Dîner de 18h00 à 22h30 / Dinner 6:00 pm to 10:30 pm
+p1: B U F F E T À V O L O N T É
+p1: ALL-YOU-can-EAT BUFFET
+p1: Adulte
+p1: 40€
+p1: Adult
+p1: Avec
+p1: Boisson fraîche ou Eau minérale
+p1: 25 cl 50 cl
+p1: Excepté le 24 et 31 décembre.
+p1: With a Cold drink 25 cl or a Mineral water 50 cl
+p1: Except on December 24th and 31st.
+p1: Enfant
+p1: Kids’
+p1: Vittel® Jus d’orange ou de pomme Lait
+p1: 33 cl ou 25 cl ou 20 cl 22€
+p1: pour enfants âgés de 3 à 11 ans
+p1: for children ages 3 to 11
+p1: Autre boisson fraîche 25 cl sur demande et en remplacement du produit proposé
+p1: Excepté le 24 et 31 décembre.
+p1: Except on December 24th and 31st. Vittel® Orange or Apple juice Milk
+p1: 33 cl or 25 cl or 20 cl
+p1: A different cold drink 25 cl may replace similar item on request
+p1: BIÈRE PRESSION BOISSONS FRAÎCHES
+p1: Draught beer Cold drinks
+p1: 25 cl 50 cl 25 cl 33 cl
+p1: 1664® Premium ..................................................5,5€ ......................8,5€
+p1: Coca-Cola ORIGINAL ..................................................................5€
+p1: Coca-Cola ZÉRO SUCRES .........................................................5€
+p1: VINS
+p1: Coca-Cola Cherry ..........................................................................5€
+p1: Wine 75 cl Fanta Orange, Sprite .....................................................5€
+p1: Blanc / White FuzeTea Pêche Intense / Peach Black Tea ..............5€
+p1: IGP Pays d’Oc - Naturalys - Gérard Bertrand
+p1: JUS DE FRUITS
+p1: Chardonnay - Bio ............................................................................30€
+p1: Fruit juices
+p1: Rosé 25 cl
+p1: AOP Côtes de Provence - Minuty - Prestige ..........................33€
+p1: Jus d’orange ou de pomme / Orange or Apple juice ..........4,3€
+p1: Rouge / Red
+p1: IGP Pays d’Oc - Naturalys - Gérard Bertrand
+p1: EAUX MINÉRALES
+p1: 62/30
+p1: Merlot - Bio .......................................................................................30€
+p1: Mineral water
+p1: 50 cl
+p1: -
+p1: yensiD©
+p1: 1/4 DE BOUTEILLE 1/4 of Bottle Vittel® .................................................................................................3,8€
+p1: 18,7 cl
+p1: Blanc / White IGP Pays d’Oc - Gio blanc .............................8€ S.Pellegrino® ....................................................................................4€
+p1: Rosé IGP Pays d’Oc - Gris blanc ............................8€
+p1: Rouge / Red IGP Pays d’Oc - Gio rouge ............................8€
+p1: C é l é
+p1: b r e z
+p1: v o t r e
+p1: V I N S A U P I C H E T A N N
+p1: W i n e j u g e n n o IV E R
+p1: 50 cl t r e c S A I R
+p1: o m p a E
+p1: v g n i e
+p1: o t r e d e t c o m
+p1: B la n c / W h i t e I G P P a y s d ’ O c - S a u v i g n o n b l a n c . . . . . . . . . . . . . . . . 2 1 € e s s e m a n
+p1: r t d ’ a d ez
+p1: e n n n i v e
+p1: d é b u r s a ir e
+p1: R o s é I G P M é d i t e r ra n é e - B r i s e M a r i n e . . . . . . . . . . . . . . . 2 1 € t d e
+p1: r e p a s
+p1: !
+p1: C e l e
+p1: Rouge / Red IGP Pays d’Oc - Merlot ...................................21€ b r a t e
+p1: y o u r B
+p1: D o n I R T H D
+p1: ’ t f o r g A Y w
+p1: e t t o o i t h u s .
+p1: y o r d e r
+p1: u r b i r t
+p1: h d a y d
+p1: e s s e r
+p1: t b e f o
+p1: r e y o u
+p1: D e s s r m e al
+p1: e r t à !
+p1: p a r t i r
+p1: D e d e 2
+p1: s s e r t p e r s
+p1: t o s h a o n n e s
+p1: r e f o r
+p1: 2 o r m 2 5
+p1: o r e p e €
+p1: D e s s o p l e
+p1: e r t à
+p1: p a r t i
+p1: D r d e 6
+p1: e s s e r t p e r s
+p1: t o s h a o n n e
+p1: r e f o r s
+p1: 6 o r m 4 5
+p1: o r e p €
+p1: e o p l e
+p1: Consultez le menu Eau potable à disposition - Prix nets
+p1: Check out our menu Un recueil d’information sur la présence d’allergènes dans nos plats est disponible,
+p1: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members.
+p1: Le prix du buffet sera facturé à toute personne installée en salle.
+p1: Drinking water available - Tax included
+p1: A list of the allergens present in our dishes is available upon request with any of
+p1: our Cast Members; please make a Cast Member aware of any allergies you may have.
+p1: The price of the buffet will be charged to any person seated in the restaurant.

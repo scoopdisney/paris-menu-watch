@@ -1,0 +1,154 @@
+p1: MENUS
+p1: ACCOMPAGNEMENTS SIDES
+p1: Baguette à l’ail Salade fraîcheur Garlic butter bread Side salad
+p1: ou or
+p1: Boisson fraîche Cold drink
+p1: 50 cl 50 cl
+p1: PIZZA PIZZA SPAGHETTI LA BELLE PORTOROSSO
+p1: PEPPERONI 4 FROMAGES ET LE CLOCHARD PESTO PASTA
+p1: aux boulettes à la volaille Trenette au pesto
+p1: Pepperoni Mickey’s pizza 4-Cheese Mickey’s pizza
+p1: Portorosso pesto pasta
+p1: Lady & The Tramp spaghetti
+p1: 17€ 17€
+p1: Trenette al pesto
+p1: PÂTES RIGATONI with turkey meatballs LASAGNES
+p1: 18€ 18€
+p1: à la bolognaise
+p1: Sauce napolitaine
+p1: Bolognese lasagna
+p1: Rigatoni pasta Neapolitan sauce
+p1: MENUS SALADE / SALAD
+p1: 16€
+p1: 16€
+p1: ET / AND BOISSON FRAÎCHE / COLD DRINK
+p1: 50 CL 50 CL 15€
+p1: Salade poulet Chicken salad Salade Vegan Vegan salad
+p1: Salade, poulet, Lettuce, chicken, Quinoa, boulgour, orge, Quinoa, bulgur, barley,
+p1: œuf dur, hard-boiled egg, lentilles, soja, boulettes lentils, soybeans,
+p1: Grana Padano, pois chiches-coco-curry, chickpea-coco-curry balls,
+p1: Grana Padano
+p1: tomates cheese, tomatoes tomates, noix de cajou tomatoes, cashew nuts
+p1: À LA CARTE DESSERTS
+p1: MENU ENFANT / KIDS’ MENU 10€
+p1: Pour enfants âgés de 3 à 11 ans / For children ages 3 to 11
+p1: Spaghetti La Belle et le Clochard 13€ Tiramisù1 5€
+p1: PURÉE DE POMMES BIO ( sanssucresajoutés )
+p1: Lady & The Tramp spaghetti
+p1: Double Mickey Cake 3,8€
+p1: Organic apple purée (no added sugar)
+p1: Pâtes rigatoni sauce napolitaine 11€ Amande-chocolat / Almond-chocolate
+p1: / YAOURT À BOIRE SUCRÉ AROMATISÉ
+p1: ou or
+p1: Rigatoni pasta Neapolitan sauce
+p1: Yaourt sur lit de fruit 3€
+p1: Flavoured sweet drinking yoghurt
+p1: Yoghurt on a fruit layer
+p1: Portorosso pesto pasta 13€
+p1: ou / or MINI BABYBEL® BIO2 2
+p1: x
+p1: Sachet de fruit 4€
+p1: Trenette au pesto / trenette al pesto
+p1: Organic mini Babybel® cheese2 x2
+p1: PIZZA MICKEY ENFANT / Kids' Mickey's pizza Fruit bag
+p1: Lasagnes à la bolognaise 11€ / MAGNUM® MINI AMANDE / Almond
+p1: ou or
+p1: PORTOROSSO PESTO PASTA Dessert Mickey1 5€
+p1: Bolognese lasagna trenetteaupesto
+p1: Portorosso pesto pasta / JUICY WATER LAIT
+p1: trenette al pesto et and (POMME-FRAISE) ou 20 cl Mickey Dessert1
+p1: Pizza Mickey pepperoni 12€
+p1: Juicy Water Milk Mousse chocolat et génoise
+p1: ou / or PÂTES RIGATONI SAUCE NAPOLITAINE (apple-strawberry) or 20 cl
+p1: Pepperoni Mickey’s pizza Chocolate mousse and sponge cake
+p1: Rigatoni Pasta neapolitan sauce ou / or VITTEL 33 cl
+p1: Pizza Mickey 4 fromages 12€ Glace Mickey 4,5€
+p1: AUTRE BOISSON FRAÎCHE (25 cl) SUR DEMANDE ET REMPLACEMENT DU
+p1: 4-Cheese Mickey’s pizza et / and SALADE FRAÎCHEUR / Side salad Mickey Ice Cream Bar
+p1: PRODUIT PROPOSÉ / OTHER COLD DRINK (25 cl) / MAY REPLACE SIMILAR
+p1: ou / or TOMATES CERISE / Cherry tomatoes Saveur vanille
+p1: ITEM ON REQUEST
+p1: Salade poulet 12€
+p1: Vanilla flavour
+p1: Chicken salad
+p1: Magnum® La Pistache 4€
+p1: MENU DISNEY CHECK
+p1: Salade vegan 12€
+p1: La Pistache 1NBP
+p1: Vegan salad Pour enfants âgés de 3 à 11 ans / For children ages 3 to 11
+p1: Magnum® 4€ -
+p1: gnidnib-non
+p1: PÂTES RIGATONI SAUCE NAPOLITAINE / Rigatoni Pasta neapolitan sauce Amande / Almond
+p1: Salade fraîcheur 3,3€
+p1: / TOMATES CERISE / Cherry tomatoes
+p1: Side salad et and Magnum® 4€
+p1: era
+p1: / PURÉE DE POMMES BIO (sans sucres ajoutés) / Organic apple purée (no added sugar) Amande vegan / Almondvegan sotohp
+p1: Baguette à l’ail 4€ et and
+p1: / VITTEL 33 cl
+p1: Garlic butter bread et and Cornetto® Soft 4,3€ noitatneserP
+p1: Stracciatella & sauce caramel
+p1: Cette association de produits comprend au moins 2 portions de fruits et légumes
+p1: Tomates cerise 3,3€
+p1: et est faible en graisses saturées / This selection of products contains at least 2 servings of fruits and vegetables and is low in saturated fats
+p1: Stracciatella & caramel sauce
+p1: Cherry tomatoes /
+p1: selleutcartnoc
+p1: Push Up Haribo® 3,5€
+p1: PAUSE GOÛTER / SWEET BREAK 7€ Parfum vanille, sauce fraise
+p1: Vanilla flavour, strawberry sauce
+p1: non
+p1: Solero® 3,5€ sotohP
+p1: Double Mickey cake
+p1: Amande-chocolat
+p1: BIÈRE PRESSION
+p1: Fraise & Citron vert – Glace vanille
+p1: Magnum® Mini Amande -
+p1: ou 62/40
+p1: Strawberry Twist – Vanilla ice cream
+p1: DRAUGHT BEER boisson fraîche chaude
+p1: et ou
+p1: -
+p1: yensiD©
+p1: Double Mickey cake
+p1: Almond-chocolate
+p1: 1664® Premium 5€
+p1: 25 cl
+p1: Magnum® Mini Almond
+p1: or
+p1: 50 cl 7,5€
+p1: a cold a hot drink
+p1: and or
+p1: BOISSONS CHAUDES SOUVENIRS
+p1: BOISSONS FRAÎCHES
+p1: 50 cl
+p1: HOT DRINKS
+p1: COLD DRINKS Gobelet Tumbler 15€
+p1: /
+p1: avec boisson fraîche 17€
+p1: Espresso 100% Arabica 3,3€
+p1: with a cold drink
+p1: Double Espresso 100% Arabica 3,8€
+p1: Café 100% Arabica / Coffee 3,5€
+p1: Mug 15€
+p1: 4,2€
+p1: Café au lait Coffee with milk 4€
+p1: /
+p1: avec boisson chaude 17€
+p1: Cappuccino 4€
+p1: with a hot drink
+p1: Chocolat chaud / Hot chocolate 4,2€
+p1: Paille / Straw 6€
+p1: 23,5 cl
+p1: Thé, infusion / Tea, herbal tea 3,5€ avec boisson fraîche 7€
+p1: 3,8€ 3,5€ 3,8€
+p1: with a cold drink
+p1: Lait demi-écrémé Semi-skimmed milk 2,5€
+p1: 20 cl /
+p1: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible,
+p1: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p1: A list of the allergens present in our dishes is available upon request with any of our
+p1: Cast Members; please make a Cast Member aware of any allergies you may have
+p1: Prix nets / Tax included - 1 produit décongelé / defrosted product
+p1: 2 1 pièce pour le déjeuner, 1 pièce pour le goûter / 1 piece for lunch, 1 piece for snacking
+p1: Veggie = végétarien - Eau potable à votre disposition / Drinking water available

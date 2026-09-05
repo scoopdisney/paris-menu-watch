@@ -1,0 +1,520 @@
+p1: wesome Ap
+p1: etizer
+p1: A
+p1: Adventure
+p1: EENNTTRRÉÉEESS BBUURRGGEERRSS && SSAANNDDWWIICCHH
+p1: TOUS NOS BURGERS ET SANDWICH SONT SERVIS AVEC DES FRITES
+p1: GARLIC BREAD 6,5 €
+p1: Baguette grillée au beurre d’ail
+p1: Supplément fromage 1 € FRENCH BURGER VEGGIE 23,5 €
+p1: Galette de potiron, Comté AOP,
+p1: THE BEASTLY
+p1: SPINACH & ARTICHOKE DIP 10€ avocat, sauce ranch, crispy onions, roquette,
+p1: germes de betterave, burger
+p1: Gratin d'épinards et artichauts
+p1: au cream cheese et Parmesan AOP, pousses de moutarde
+p1: servi avec des chips de tortillas
+p1: CHICKEN LOUISIANA BURGER 24,5 €
+p1: BIG ‘O’ ONION RINGS 11 € Poulet pané aux épices cajun, beignet
+p1: d'oignon frit, fromage Monterey Jack,
+p1: Panier de beignets d’oignons frits
+p1: et sauce barbecue tomate, avocat, batavia,
+p1: AWESOME APPETIZER mayonnaise Louisiana
+p1: ADVENTURE 34 € OOZY CAMEMBERT 12 €
+p1: Un assortiment de Chicken Strips, Camembert croustillant, PULLED PORK BURGER 25 €
+p1: Camembert croustillant, Steak haché, porc effiloché et mariné
+p1: sauce boom boom
+p1: Chimi-Cha-Chas, à la sauce barbecue, coleslaw,
+p1: gratin d’épinards et artichauts, crispy onions et sauce barbecue
+p1: CHICKEN STRIPS 14 €
+p1: chips de tortillas, boom boom sauce, Poulet croustillant,
+p1: coco curry et ranch sauce coco curry RAINFOREST BURGER 25 €
+p1: Steak haché, Cheddar, bacon,
+p1: CHICKEN QUESADILLAS 16 € beignet d'oignon frit, tomate,
+p1: BEEF LAVA NACHOS 21 € batavia et sauce safari
+p1: Tortillas de blé garnies de poulet
+p1: Chips de tortillas, chili con carne, mariné aux épices cajun, Cheddar
+p1: Cheddar, pico de gallo, oignons et Mozzarella, pico de gallo, sauce THE BEASTLY BURGER 29,5 €
+p1: nouveaux, jalapeños, crème aigre Double steak haché, Cheddar, bacon, beignet d'oignon frit,
+p1: salsa et crème aigre
+p1: tomate, batavia et sauce safari
+p1: BLT FLATBREAD PIZZA 21 €
+p1: MOZZARELLA
+p1: BLUE MOUNTAIN CHICKEN SANDWICH 25 €
+p1: Pain pinsa garni de sauce tomate, FLATBREAD PIZZA 19,5 €
+p1: Mozzarella, crispy bacon, Filet de poulet mariné au citron, bacon, Comté AOP,
+p1: Pain pinsa garni de sauce tomate,
+p1: tomates cerises, roquette roquette, poivrons piquillos, boom boom sauce
+p1: Mozzarella, roquette
+p1: SSAALLAADDEESS && BBOOWWLL
+p1: BBŒŒUUFF,, PPOORRCC && PPOOUULLEETT
+p1: TACO SALAD 26 € MOJO BONES 29 € BOMBAY CHICKEN
+p1: Poulet mariné ou bœuf haché épicé, Taco salad Travers de porc caramélisés à la & SHRIMP 27 €
+p1: salade de jeunes pousses, Cheddar et sauce barbecue, coleslaw, frites Poulet mariné et crevettes sautées,
+p1: fromage Monterey Jack, guacamole, brocolis, carottes, poivrons, oignons
+p1: PRIMAL STEAK 32 €
+p1: tomates, oignons rouges, haricots nouveaux, coriandre, oignons frits,
+p1: noirs, crème aigre et vinaigrette Onglet de bœuf "Scotch Beef IGP" riz basmati, sauce butter chicken
+p1: balsamique, servi dans une chips grillé, pommes de terre au four
+p1: de tortilla XXL à la crème et Cheddar, poêlée de KOREAN FRIED CHICKEN
+p1: légumes et beurre aux épices cajun LETTUCE WRAPS 30 €
+p1: POWER BOWL VEGGIE 22 € Poulet frit mariné à la sauce
+p1: Boulgour aux herbes, falafels, AMAZON FAJITAS 29 € Gochujang, salade asiatique,
+p1: Poulet mariné, oignons, poivrons,
+p1: patate douce rôtie, mangue, salsa d’ananas, servi avec laitue
+p1: accompagné de crème aigre,
+p1: carottes râpées, avocat, edamame, et sauce sweet chili
+p1: chou kale frits, tomates cerises, Cheddar, guacamole, sauce salsa
+p1: et tortillas de blé
+p1: roquette, vinaigrette soja sésame Korean fried
+p1: J U N G L E S T E A K & S H R I M P 3 6 € chicken let uce wraps
+p1: BIG ISLANDER
+p1: O n gl et d e b œ u f gr ill é , b ro c h et t e
+p1: CAESAR SALAD 24 €
+p1: Salade romaine, poulet mariné, de gambas, crevettes sauce beurre
+p1: blanc, poêlée de légumes,
+p1: copeaux de Parmesan AOP,
+p1: sauce barbecue à la mangue
+p1: croûtons, sauce César
+p1: PPÂÂTTEESS
+p1: PPOOIISSSSOONNSS
+p1: LEMON BURRATA PASTA 27 €
+p1: Linguine aux crevettes et poulet mariné,
+p1: Burrata, tomates cerises,
+p1: pousses d'épinards, pesto au citron,
+p1: vin blanc, basilic FISH'N CHIPS 24,5 €
+p1: Beignets de filet d'églefin, frites,
+p1: Creole mac
+p1: RASTA PASTA 25 € coleslaw et sauce tartare
+p1: & che se
+p1: Pâtes cavatappi, poulet mariné,
+p1: pousses d’épinards, brocolis, RASPBERRY
+p1: poivrons rouges, copeaux de GLAZED SALMON 27,5 €
+p1: Parmesan AOP, crème à l’ail et pesto Pâtes orzo, pavé de saumon glacé aux framboises,
+p1: poivrons, asperges, tomates cerises, Feta AOP,
+p1: pousses d'épinards, oignons nouveaux,
+p1: ANACONDA PASTA 22 €
+p1: Penne sans gluten, courgettes, sauce vinaigrette aux agrumes
+p1: poivrons rouges, champignons,
+p1: pousses d'épinards, tomates,
+p1: sauce tomate au vin blanc, ail,
+p1: AACCCCOOMMPPAAGGNNEEMMEENNTTSS
+p1: copeaux de Parmesan AOP et basilic
+p1: CREOLE MAC & CHEESE 26 € FRITES MÉLANGE DE LÉGUMES
+p1: Pâtes cavatappi, saucisses cajun, crevettes, POMME DE TERRE SALADE CÉSAR
+p1: tomate, poivrons vert, oignons, AU FOUR SALADE COLESLAW
+p1: beure créole épicé, crumble de chili,
+p1: ACCOMPAGNEMENT SUPPLÉMENTAIRE POUR 5€
+p1: sauce Cheddar
+p1: DDEESSSSEERRTTSS
+p1: French toast
+p1: SPARKLING VOLCANO 26 € COOKIE DOUGH® SUNDAE 12 €
+p1: Un brownie au chocolat et un crémeux au chocolat, Glace cookie dough, sauce caramel et chocolat,
+p1: avec de la glace à la vanille, une crème mascarpone fouettée, crème fouettée et morceaux de cookies
+p1: des sauces au chocolat et au caramel, des éclats de caramel,
+p1: des morceaux de cookies, et des vermicelles CHOCOLATE FUDGE BROWNIE® SUNDAE 13 €
+p1: Parfait pour deux ou plus ! Glace chocolat brownie, sauce chocolat,
+p1: crème fouettée, morceaux de brownie
+p1: ETON MESS AUX FRUITS EXOTIQUES 9 €
+p1: Ananas, mangue, purée de fruits de la passion**, FRENCH TOAST AUX FRUITS 12 €
+p1: crème mascarpone et yaourt grec, meringue Brioche perdue, compotée de fruits,
+p1: fruits frais
+p1: BAMBA'S PANCAKES 12 €
+p1: Pancakes tièdes, glace vanille, bananes caramélisées, RAINFOREST COFFEE 11 €
+p1: sirop d’érable, sauce chocolat et crème fouettée Mini Eton Mess aux fruits exotiques, mini cheesecake,
+p1: mini brownie aux noix de pécan, boisson chaude
+p1: VÉGÉTARIEN DEMANDEZ À VOTRE SERVEUR LA CARTE SANS GLUTEN LES SPÉCIALITÉS ÉPICÉ
+p1: **Préparation concentrée à base de purée de fruits. Photos non contractuelles. Les informations portant sur les allergènes sont disponibles dans votre restaurant. IGP : Indication Géographique Protégée AOP
+p1: : Appellation d'Origine Protégée. Pour tout renseignement : un guide est disponible à l’accueil. Il est possible pour nos clients de demander de l’eau potable gratuitement. Pour limiter le gaspillage alimentaire,
+p1: des doggy bags sont à votre disposition (hors viande crue, poisson cru, oeufs crus). Prix nets, service inclus. Les cartes bancaires, American Express, Tickets Restaurants, Chèques Vacances, sont acceptés.
+p1: RAINFOREST CAFE FLO EVERGREEN SAS 421 263 500 RCS Nanterre - 08/2025. Rainforest Café Paris est une franchise. La marque Rainforest Café appartient entièrement à Landry's Inc.
+p1: POUR VOTRE SANTÉ, PRATIQUEZ UNE ACTIVITÉ PHYSIQUE RÉGULIÈRE. WWW.MANGERBOUGER.FR
+p2: BBOOIISSSSOONNSS
+p2: VVIINNSS && BBUULLLLEESS
+p2: CCOOCCKKTTAAIILLSS
+p2: les bulles
+p2: PICHET DE MARGARITA 90cl 32 € 15cl 75cl
+p2: Tequila Cazadores Blanco, Triple Sec, jus de citron vert frais JACQUART BRUT MOSAÏQUE AOP 12,5 € 65 €
+p2: CORONARITA 58cl 21 € PROSECCO RICCADONNA EXTRA DRY 9 € 42 €
+p2: Margarita frozen avec une bouteille de Corona Extra
+p2: blancs
+p2: MANGO MULE 13 € 20cl 75cl
+p2: 18cl
+p2: AOP CÔTES-DU-RHÔNE "SIGNATURE" 9 € 34 €
+p2: Rhum Planteray Original Dark, purée de mangue**, france
+p2: jus de citron vert*, premium ginger beer Fever-Tree Famille Perrin (vin biologique)
+p2: PETIT CHABLIS 9,5 € 38 €
+p2: PINK MONKEY 16cl 13 €
+p2: Domaine Christophe
+p2: Vodka 42 Below, liqueur de fraise des bois,
+p2: SAUVIGNON BLANC 8 € 32 €
+p2: sirop d'hibiscus, jus de citron vert*, nectar de cranberry nouvelle-zélande (marlborough)
+p2: Endless River
+p2: VOLCANIC ISLAND 17cl 13 €
+p2: Rhum Planteray Pineapple, crème de banane, CHARDONNAY usa (california) 9 € 34 €
+p2: Lenwood
+p2: jus de citron vert*, purée de fruit de la passion**, nectar de mangue
+p2: TROPICAL STORM 13 € rosés
+p2: 17cl
+p2: Rhum Bacardi Carta Oro, amaretto roasted Adriatico, 20cl 75cl
+p2: purée de fruit de la passion**, jus de citron vert*, jus d'ananas
+p2: AOP CÔTES DE PROVENCE "SOIF DE PAMPA" 8 € 32 €
+p2: france
+p2: ENCHANTED FOREST 17cl 13 € (vin biologique)
+p2: Gin Bombay Citron Pressé, limoncello Mamma Mia, sirop de jasmin,
+p2: AOP CÔTES DE PROVENCE "PRESTIGE" france 10 € 40 €
+p2: jus de citron vert*, jus d'Aloe Vera, menthe fraîche
+p2: Minuty
+p2: MOJITO 14cl 13 €
+p2: rouges
+p2: Rhum Bacardi Carta Oro, citron vert,
+p2: 20cl 75cl
+p2: menthe fraîche, sucre de canne, Perrier
+p2: AOP BOURGOGNE "GAMAY" france 10 € 40 €
+p2: FRUITY MOJITO 14cl 13 €
+p2: Jean Loron
+p2: Rhum Bacardi Carta Oro, citron vert, menthe fraîche,
+p2: AOP LUSSAC ST-EMILION 8,5 € 33 €
+p2: Perrier, purée de fraise** ou purée de framboise** france
+p2: ou purée de fruit de la passion** ou purée de mangue** Haut de Ségur
+p2: SHIRAZ australie 7,5 € 30 €
+p2: RAINBOW COLADA 18cl 13 €
+p2: Down Under
+p2: Rhum Bacardi Carta Oro, banane, jus d'ananas,
+p2: CABERNET SAUVIGNON 8 € 32 €
+p2: purée de noix de coco**, sirop de fraise chili
+p2: Atama
+p2: APEROL SPRITZ 14cl 13 €
+p2: Aperol, Prosecco Riccadonna, Perrier, orange fraîche
+p2: AAPPÉÉRRIITTIIFFSS
+p2: ST-GERMAIN SPRITZ 14cl 13 €
+p2: Liqueur de fleurs de sureau St-Germain, Prosecco Riccadonna,
+p2: Perrier, citron jaune frais
+p2: ITALICUS SPRITZ 14cl 13 €
+p2: Liqueur de bergamote Italicus, Prosecco Riccadonna, VERMOUTHS MARTINI BIANCO,
+p2: Perrier, citron jaune frais, romarin frais MARTINI ROSSO, NOILLY PRAT DRY 6cl 8 €
+p2: CAMPARI, MARTINI RISERVA BITTER 6cl 8 €
+p2: AMERICANO 8 €
+p2: 8cl
+p2: MMOOCCKKTTAAIILLSS Martini Rosso, Noilly Prat Dry, Martini Riserva Bitter, orange fraîche
+p2: PASTIS 4cl 8 €
+p2: KIR VIN BLANC 20cl 8 €
+p2: Cassis, mûre, pêche ou framboise
+p2: sans alcool KIR CHAMPAGNE 13 €
+p2: 15cl
+p2: Cassis, mûre, pêche ou framboise
+p2: VIRGIN MOJITO 9,5 €
+p2: 14cl
+p2: Citron vert, jus de pomme, menthe fraîche, sucre de canne, Perrier
+p2: FRUITY VIRGIN MOJITO 9,5 €
+p2: 14cl BBOOIISSSSOONNSS RRAAFFRRAAÎÎCCHHIISSSSAANNTTEESS
+p2: Purée de fraise** ou purée de framboise** ou purée de fruit de la passion**
+p2: ou purée de mangue**, citron vert, menthe fraîche, Perrier
+p2: FLOWER MULE 9,5 €
+p2: 17cl
+p2: 50cl 1l
+p2: Distillat botanique Nolow n°4, sirop de fleurs de sureau,
+p2: jus de citron vert*, premium ginger beer Fever-Tree VITTEL 5 € 7,5 €
+p2: SAN PELLEGRINO 5 € 7,5 €
+p2: VIRGIN COLADA 18cl 9,5 €
+p2: Nectar d’ananas** et purée de noix de coco**
+p2: 33cl 50cl
+p2: RED FROG 20cl 9,5 € 5 € 7,5 €
+p2: Fraise, framboise, eau de coco, fleur d'oranger, pomme, orange
+p2: GINGER RIVER 9,5 € 5 € 7,5 €
+p2: 20cl
+p2: Gingembre, ananas, fruit de la passion, pomme, citron, curcuma
+p2: 20cl
+p2: GREEN PANDA 9,5 €
+p2: 20cl CAFÉ FRAPPÉ 6 €
+p2: Pomme, concombre, citron, gingembre 33cl
+p2: JUS D'ORANGE ou JUS DE PAMPLEMOUSSE FRAIS 7 €
+p2: BBIIÈÈRREESS && CCIIDDRREE BBOOIISSSSOONNSS CCHHAAUUDDEESS
+p2: EXPRESSO MASSAYA BIO, DÉCAFÉINÉ 4 €
+p2: pression
+p2: 25cl 50cl CAFÉ ALLONGÉ 4 €
+p2: CAPPUCCINO 5,5 €
+p2: 6 € 10 €
+p2: LATTE MACCHIATO, CARAMEL MACCHIATO 5,5 €
+p2: BROOKLYN DEFENDER IPA 7 € 11 € THÉS & INFUSIONS BIO LA ROUTE DES COMPTOIRS 5 €
+p2: Sencha, Jasmin, Menthe, Earl-Grey, Darjeeling, Breakfast,
+p2: bouteilles
+p2: Ceylan, fruits rouges, rooibos aux épices
+p2: 33cl
+p2: CHOCOLAT CHAUD 5,5 €
+p2: ANOSTEKE 8,5 € CORONA EXTRA 9,5 €
+p2: RAINFOREST CAPPUCCINO 10 €
+p2: Cappuccino avec amaretto roasted Adriatico,
+p2: CARLSBERG 8,5 € 1664 0.0% 8 €
+p2: crème fouettée, amandes effilées
+p2: 1664 BLANCHE 8,5 € MAGNERS ORIGINAL, WHITE TIGER CAPPUCCINO 10 €
+p2: IRISH CIDER 8 € Cappuccino avec amaretto bianco Adriatico,
+p2: copeaux de chocolat, crème fouettée
+p2: *À base de concentré **Préparation concentré à base de purée de fruits. Les spécialités Prix nets, service inclus. IGP: Indication Géographique Protégée
+p2: AOP: Appellation d'Origine Protégée Nos jus de citron vert sont à base de concentré Monin Rantcho / Purées de fruits et sirops Monin. 08/25
+p2: L'ABUS D'ALCOOL EST DANGEREUX POUR LA SANTE, A CONSOMMER AVEC MODÉRATION.
+p3: wesome Ap
+p3: etizer
+p3: A
+p3: Adventure
+p3: BBUURRGGEERRSS && SSAANNDDWWIICCHH
+p3: ALL SERVED WITH SAFARI FRIES
+p3: GARLIC BREAD 6,5 €
+p3: Toasted baguette with garlic butter
+p3: FRENCH VEGGIE BURGER 23,5 €
+p3: Extra cheese + 1€ Pumpkin patty, PDO Comté cheese,
+p3: THE BEASTLY
+p3: avocado, ranch sauce, crispy onions,
+p3: SPINACH & ARTICHOKE DIP 10€ arugula, beet sprouts, mustard shoots burger
+p3: Spinach and artichoke gratin
+p3: with cream cheese and melted
+p3: CHICKEN LOUISIANA BURGER 24,5 €
+p3: PDO Parmesan cheese, tortilla chips
+p3: Cajun spiced chicken, onion ring,
+p3: Monterey Jack cheese, tomato, avocado,
+p3: BIG ‘O’ ONION RINGS 11 € batavia lettuce, Louisiana mayonnaise
+p3: Onion rings, BBQ sauce
+p3: AWESOME APPETIZER PULLED PORK BURGER 25 €
+p3: ADVENTURE 34 € OOZY CAMEMBERT 12 € Ground beef patty with BBQ pulled pork,
+p3: An assortment of Chicken Strips, Crispy Camembert, boom boom sauce
+p3: coleslaw, crispy onions, BBQ sauce
+p3: crispy Camembert, Chimi-Cha-Chas,
+p3: Spinach & Artichoke Dip, tortilla CHICKEN STRIPS 14 €
+p3: RAINFOREST BURGER 25 €
+p3: chips, boom boom sauce, Crispy chicken strips, Ground beef patty, cheddar cheese, bacon,
+p3: coconut curry & ranch dressing coconut curry sauce onion ring, tomato, batavia lettuce
+p3: and Safari sauce
+p3: BEEF LAVA NACHOS 21 € CHICKEN QUESADILLAS 16 €
+p3: Tortilla chips, chilli con carne, Wheat tortillas garnished with grilled THE BEASTLY BURGER 29,5 €
+p3: cheddar cheese, pico de gallo, spring Cajun chicken, melted cheddar and Two ground beef patties, cheddar cheese, bacon, onion ring, tomato, batavia
+p3: onions, jalapeños, sour cream mozzarella cheese, pico de gallo, lettuce,
+p3: salsa and sour cream
+p3: Safari sauce
+p3: BLT FLATBREAD PIZZA 21€
+p3: Pinsa-style flatbread topped MOZZARELLA BLUE MOUNTAIN CHICKEN SANDWICH 25 €
+p3: with tomato sauce, mozzarella FLATBREAD PIZZA 19,5 € Lemon-marinated chicken fillet, bacon, PDO Comté cheese,
+p3: cheese, crispy bacon, cherry Pinsa bread topped with tomato arugula, piquillo peppers, boom boom sauce
+p3: tomatoes and arugula sauce, mozzarella cheese and arugula
+p3: SSAALLAADDSS && BBOOWWLL
+p3: BBEEEEFF,, PPOORRKK && CCHHIICCKKEENN
+p3: MOJO BONES 29 € BOMBAY CHICKEN
+p3: TACO SALAD 26 €
+p3: Pork ribs caramelized with BBQ & SHRIMP 27 €
+p3: Marinated chicken or ground
+p3: Taco salad sauce, coleslaw and Safari fries Sautéed chicken and shrimp,
+p3: beef with spices, mixed greens,
+p3: broccoli, carrot, peppers, spring
+p3: cheddar and Monterey Jack cheese,
+p3: PRIMAL STEAK 32 € onions, cilantro, crispy onions,
+p3: guacamole, tomatoes, red onions,
+p3: Grilled "Scotch Beef PGI" hanger
+p3: butter chicken sauce served
+p3: black beans, sour cream and
+p3: steak, baked potato topped with basmati rice
+p3: balsamic dressing, served in a giant
+p3: with sour cream and cheddar
+p3: wheat tortilla shell
+p3: cheese, sautéed vegetables, KOREAN FRIED
+p3: Cajun spiced butter CHICKEN LETTUCE WRAPS 30 €
+p3: POWER BOWL VEGGIE 22 €
+p3: Fried chicken marinated
+p3: Bulgur with herbs, falafel, roasted AMAZON FAJITAS 29 €
+p3: in Gochujang sauce, Asian salad,
+p3: sweet potato, mango, grated carrot,
+p3: Marinated chicken, onions, pineapple salsa, served with lettuce
+p3: avocado, edamame, crispy kale, peppers, served with sour cream,
+p3: and sweet chili sauce
+p3: cherry tomatoes, arugula,
+p3: cheddar cheese, guacamole,
+p3: sesame soy dressing salsa, and wheat tortillas
+p3: Korean fried
+p3: B I G I S L A N D E R
+p3: J U N G L E S T E A K & S H R I M P 3 6 € chicken let uce wraps
+p3: C A E S A R S A L A D 24 € G ri lle d h a n ge r s te a k , gr ill e d sh r i m p
+p3: Grilled chicken, romaine lettuce, skewer, shrimp with beurre blanc
+p3: PDO Parmesan shavings, croutons, sauce, sautéed vegetables,
+p3: Caesar dressing and mango BBQ sauce
+p3: PPAASSTTAASS
+p3: SSEEAAFFOOOODD
+p3: LEMON BURRATA PASTA 27 €
+p3: Linguine pasta, marinated shrimp and
+p3: chicken, Burrata cheese, cherry tomatoes, FISH'N CHIPS 24,5 €
+p3: spinach, lemon pesto, white wine, basil Battered haddock fillet, Safari fries,
+p3: Creole mac
+p3: coleslaw, tartare sauce
+p3: RASTA PASTA 25 € & che se
+p3: Cavatappi pasta, sautéed chicken, spinach,
+p3: RASPBERRY
+p3: broccoli, red peppers, PDO Parmesan GLAZED SALMON 27,5 €
+p3: shavings, garlic Alfredo sauce and pesto
+p3: Orzo pasta, salmon pavé glazed with raspberries,
+p3: peppers, asparagus, cherry tomatoes, Feta PDO,
+p3: ANACONDA PASTA 22 € baby spinach, spring onions, citrus vinaigrette sauce
+p3: Gluten free penne, zucchinis,
+p3: red peppers, mushrooms, spinach shoots,
+p3: tomatoes, white wine tomato sauce, garlic,
+p3: PDO Parmesan shavings and basil
+p3: SSIIDDEESS
+p3: CREOLE MAC & CHEESE 26 €
+p3: Cavatappi pasta, Cajun sausages,
+p3: SAFARI FRIES SEASONAL
+p3: shrimp, tomato, green peppers,
+p3: VEGETABLES
+p3: BAKED POTATO
+p3: onions, spicy Creole butter,
+p3: CAESAR SALAD COLESLAW
+p3: chili crumble and cheddar cheese sauce
+p3: ADD AN ADDITIONAL SIDE FOR 5 €
+p3: DDEESSSSEERRTTSS
+p3: French toast
+p3: SPARKLING VOLCANO 26 € COOKIE DOUGH® SUNDAE 12 €
+p3: A rich chocolate brownie and chocolate cake stacked up Cookie dough ice cream, caramel and chocolate sauces,
+p3: high, with vanilla ice cream, whipped cream, chocolate whipped cream and pieces of cookie
+p3: and caramel sauces, caramel and cookies pieces, sprinkles
+p3: Enough for two or more! CHOCOLATE FUDGE BROWNIE® SUNDAE 13 €
+p3: Chocolate fudge brownie ice cream, chocolate sauce,
+p3: ETON MESS WITH EXOTIC FRUITS 9 € whipped cream and pieces of brownie
+p3: Mango, pineapple, passion fruit purée**,
+p3: mascarpone and greek yoghurt cream, meringue
+p3: FRENCH TOAST WITH FRUIT 12 €
+p3: Brioche French toast, fruit compote, fresh fruits
+p3: BAMBA'S PANCAKES 12 €
+p3: Warm pancakes, vanilla ice cream, caramelized bananas,
+p3: RAINFOREST COFFEE 11 €
+p3: maple syrup, chocolate sauce and whipped cream Mini Eton Mess with exotic fruits, mini cheesecake,
+p3: mini pecan brownie with a hot drink of your choice
+p3: VEGGIE FRIENDLY ASK YOUR WAITER FOR THE GLUTEN SENSITIVE MENU HOUSE FAVORITES SPICY
+p3: **Based on concentrated juice. Non contractual photos. Information on allergens is available in your restaurant. For further information: a guide is available at reception. PGI: Protected Geographical
+p3: Indication. PDO: Protection Designation of Origin. For any information: a guide is available at the reception. Customers can request drinking water free of charge. To help reduce food waste, doggy
+p3: bags are available (excluding raw meat, raw fish, and raw eggs). Net prices, service included. Credit Cards, American Express, Luncheon vouchers and Chèques Vacances, are accepted.
+p3: RAINFOREST CAFE FLO EVERGREEN SAS 421 263 500 RCS Nanterre - 08/2025 Rainforest Café Paris is a franchise location. The Rainforest Café brand is wholly owned by Landry's Inc.
+p3: FOR YOUR HEALTH, PRACTICE REGULAR PHYSICAL ACTIVITY. WWW.MANGERBOUGER.FR
+p4: DDRRIINNKKSS
+p4: CCOOCCKKTTAAIILLSS WWIINNEESS && SSPPAARRKKLLIINNGGSS
+p4: Sparklings
+p4: PITCHER OF MARGARITA 90cl 32 €
+p4: 15cl 75cl
+p4: Cazadores Blanco Tequila, Triple Sec, lime juice
+p4: CHAMPAGNE JACQUART BRUT MOSAÏQUE PDO 12,5 € 65 €
+p4: CORONARITA 58cl 21 €
+p4: PROSECCO RICCADONNA EXTRA DRY 9 € 42 €
+p4: Our frozen margarita topped with a thirst
+p4: quenching Corona Extra! WHITES
+p4: 20cl 75cl
+p4: MANGO MULE 18cl 13 €
+p4: PDO CÔTES-DU-RHÔNE "SIGNATURE" 9 € 34 €
+p4: france
+p4: Planteray Original Dark Rum, mango purée**,
+p4: Famille Perrin (organic wine)
+p4: lime juice*, Fever-Tree Ginger Beer
+p4: PETIT CHABLIS 9,5 € 38 €
+p4: PINK MONKEY 16cl 13 €
+p4: Domaine Christophe
+p4: 42 Below Vodka, wild strawberry liqueur, hibiscus syrup,
+p4: SAUVIGNON BLANC 8 € 32 €
+p4: lime juice*, cranberry nectar new-zealand (marlborough)
+p4: Endless River
+p4: VOLCANIC ISLAND 17cl 13 €
+p4: Planteray Stiggin's Fancy Pineapple Rum, banana liqueur, CHARDONNAY usa (california) 9 € 34 €
+p4: Lenwood
+p4: lime juice*, passion fruit purée**, mango nectar
+p4: TROPICAL STORM 17cl 13 €
+p4: rosés
+p4: Bacardi Carta Oro Rum, Walcher Amaretto Biologico,
+p4: 20cl 75cl
+p4: passion fruit purée**, lime juice*, pineapple juice
+p4: PDO CÔTES DE PROVENCE "SOIF DE PAMPA" france 8 € 32 €
+p4: ENCHANTED FOREST 17cl 13 €
+p4: (organic wine)
+p4: Bombay Citron Pressé Gin, Mamma Mia Limoncello,
+p4: PDO CÔTES DE PROVENCE "PRESTIGE" 10 € 40 €
+p4: jasmine syrup, lime juice*, Aloe Vera Juice, fresh mint france
+p4: Minuty
+p4: MOJITO 14cl 13 €
+p4: Bacardi Carta Oro Rum, fresh lime, fresh mint,
+p4: reds
+p4: cane sugar and Perrier sparkling water
+p4: 20cl 75cl
+p4: FRUITY MOJITO 14cl 13 €
+p4: PDO BOURGOGNE "GAMAY" 10 € 40 €
+p4: Bacardi Carta Oro Rum, fresh lime, fresh mint, france
+p4: Perrier sparkling water, strawberry purée** Jean Loron
+p4: or raspberry purée** or passion fruit purée** PDO LUSSAC ST-EMILION france 8,5 € 33 €
+p4: Haut de Ségur
+p4: RAINBOW COLADA 18cl 13 €
+p4: A chilling combination of Bacardi Carta Oro Rum, banana, SHIRAZ 7,5 € 30 €
+p4: pineapple juice, coconut purée** and strawberry syrup Autralia Down Under
+p4: APEROL SPRITZ 14cl 13 € CABERNET SAUVIGNON chile 8 € 32 €
+p4: Aperol, Riccadonna Prosecco, Perrier, orange slice Atama
+p4: ST-GERMAIN SPRITZ 13 €
+p4: 14cl
+p4: St-Germain Elderflower Liqueur, Riccadonna Prosecco, AAPPEERRIITTIIFFSS
+p4: Perrier sparkling water, fresh lemon
+p4: ITALICUS SPRITZ 13 €
+p4: 14cl
+p4: Italicus Rosolio di Bergamotto Liqueur, Riccadonna Prosecco,
+p4: Perrier Sparkling Water, fresh lemon, rosemary
+p4: VERMOUTHS MARTINI BIANCO, MARTINI ROSSO,
+p4: NOILLY PRAT DRY 8 €
+p4: 6cl
+p4: CAMPARI, MARTINI RISERVA BITTER 8 €
+p4: 6cl
+p4: AMERICANO 8 €
+p4: MMOOCCKKTTAAIILLSS 8cl
+p4: Martini Rosso, Noilly Prat Dry, Martini Riserva Bitter, fresh orange
+p4: PASTIS 4cl 8 €
+p4: KIR WHITE WINE 20cl 8 €
+p4: WITHOUT ALCOHOL Blackcurrant, Blackberry, Raspberry or Peach
+p4: KIR CHAMPAGNE 15cl 13 €
+p4: VIRGIN MOJITO 14cl 9,5 € Blackcurrant, Blackberry, Raspberry or Peach
+p4: Fresh lime, apple juice, fresh mint, cane sugar and Perrier Sparkling Water
+p4: FRUITY VIRGIN MOJITO 14cl 9,5 €
+p4: RREEFFRREESSHHIINNGG DDRRIINNKKSS
+p4: Strawberry purée** or raspberry purée**
+p4: or passion fruit purée**, fresh lime, fresh mint, Perrier Sparkling Water
+p4: FLOWER MULE 9,5 €
+p4: 17cl
+p4: Nolow n°4 Botanical Distillate, elderflower syrup,
+p4: 50cl 1l
+p4: lime juice, Fever-Tree Ginger Beer
+p4: VITTEL 5 € 7,5 €
+p4: VIRGIN COLADA 9,5 €
+p4: 18cl
+p4: SAN PELLEGRINO 5 € 7,5 €
+p4: A combination of pineapple nectar** and coconut purée**
+p4: RED FROG 20cl 9,5 €
+p4: 33cl 50cl
+p4: Strawberry, raspberry, coconut water, orange blossom, apple, orange
+p4: 5 € 7,5 €
+p4: GINGER RIVER 9,5 €
+p4: 20cl
+p4: 5 € 7,5 €
+p4: Ginger, pineapple, passion fruit, apple, lemon, turmeric
+p4: GREEN PANDA 20cl 9,5 € 20cl
+p4: Apple, cucumber, lemon, ginger
+p4: ICED COFFEE 6 €
+p4: 33cl
+p4: FRESH ORANGE or GRAPEFRUIT JUICE 7 €
+p4: BBEEEERRSS && CCIIDDEERR HHOOTT DDRRIINNKKSS
+p4: DRAFT ESPRESSO ORGANIC MASSAYA, DECAF 4 €
+p4: 25cl 50cl AMERICAN COFFEE 4 €
+p4: 6 € 10 €
+p4: CAPPUCCINO 5,5 €
+p4: LATTE MACCHIATO, CARAMEL MACCHIATO 5,5 €
+p4: BROOKLYN DEFENDER IPA 7 € 11 €
+p4: TEA, INFUSION 5 €
+p4: Sencha, Jasmin, Mint, Earl-Grey, Darjeeling, Breakfast,
+p4: BOTTLES
+p4: 33cl Ceylan, Red fruit, Rooibos with spices
+p4: HOT CHOCOLATE 5,5 €
+p4: CARLSBERG 8,5 € CORONA EXTRA 9,5 €
+p4: RAINFOREST CAPPUCCINO 10 €
+p4: Cappuccino with Roasted Adriatico Amaretto,
+p4: ANOSTEKE 8,5 € 1664 0.0 8 €
+p4: whipped cream and flaked almonds
+p4: 1664 BLANCHE 8,5 € MAGNERS ORIGINAL, WHITE TIGER CAPPUCCINO 10 €
+p4: IRISH CIDER 8 € Cappuccino with Adriatico Amaretto Bianco,
+p4: chocolate shavings and whipped cream
+p4: *Pure juice **Based on concentrated juice. "House Favorites". Our lime juices are based on Monin Rantcho concentrate Monin fruit purees and
+p4: syrups / Net prices, service included. 08/25 PGI: Protected Geographical Indication - PDO: Protection Designation of Origin
+p4: ALCOHOLIC BEVERAGES SHOULD BE CONSUMED WITH MODERATION.

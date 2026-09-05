@@ -1,0 +1,167 @@
+p1: TTTOOO SSSHHHAAARRREEE
+p1: ROSALIE BOARD 19 00
+p1: Bayonne ham, Lyon rosette, PDO Comté, roasted raw-milk Camembert from Normandy,
+p1: PDO Sainte-Maure de Touraine, farmhouse bread, pickles, semi-salted butter
+p1: Large plates
+p1: PETITE ROSALIE CROQUE-MONSIEUR� 14 50
+p1: � � � � � � � � � � � � � � � � � � �
+p1: French ham, emmental, young shoots salad
+p1: 990
+p1: PETITE ROSALIE CROQUE-MADAME� � � � � � � � � � � � � � � � � � � � � 15 50
+p1: French ham, free-range egg, emmental, young shoots salad
+p1: DISHES
+p1: MEDITERRANEAN TARTINE� � � � � � � � � � � � � � � � � � � � � � � � � 15 00
+p1: MINI CROQUE-MONSIEUR,
+p1: Grilled vegetables, pesto rosso cream cheese, arugula, parmesan, young shoots salad
+p1: baby potatoes
+p1: COQUILLETTES, CHICKEN CLUB SANDWICH� 16 00
+p1: � � � � � � � � � � � � � � � � � � � � � � � � � �
+p1: parmesan cream Marinated French chicken fillet, free-range egg, tomato, avocado, sliced bread,
+p1: young shoots salad
+p1: DESSERTS
+p1: FRENCH SHRIMP ROLL� � � � � � � � � � � � � � � � � � � � � � � � � � � � � 19 00
+p1: PUSH UP HARIBO
+p1: Shrimps, lime, pickled red onions, romaine, Espelette chili mayo, brioche bread,
+p1: CHOCOLATE FONDANT young shoots salad
+p1: DRINKS SMOKED SALMON AVOCADO TOAST � � � � � � � � � � � � � � � � � � � � 19 50
+p1: Creamy avocado, smoked salmon, free-rand poached egg, cherry tomatoes,
+p1: VITTEL 33cl
+p1: red onion pickles, country bread, young shoots salad
+p1: APPLE JUICE 20cl
+p1: SALMON TARTARE WITH LIME�� 20 00
+p1: SYRUP WITH WATER 27cl � � � � � � � � � � � � � � � � � � � � � � �
+p1: Creamy avocado, cucumber, citrus vinaigrette, young shoots salad
+p1: SSSaaalllaaadddsss
+p1: EXTRA SIDES 5 00
+p1: Young shoots salad MULTICOLOUR TOMATO SALAD & BURRATA DI PUGLIA � � � � � � � � 18 50
+p1: Baby potatoes Pesto, arugula
+p1: CEASAR SALAD� � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � � 19 50
+p1: Poultry supreme, free-range egg, parmesan, cherry tomatoes, romaine,
+p1: golden croutons, Caesar sauce
+p1: DDDEEESSSSSSEEERRRTTTSSS
+p1: RRRTTTIIISSSAAANNNAAALLL IIICCCEEE CCCRRREEEAAAMMMSSS
+p1: X X L P R O F I T E ROLE� � � � � � � � � � � � � � � � � � � � 9 50
+p1: AAA
+p1: C h o c o la t e s a u c e --- ---
+p1: & sorbets
+p1: GLUTEN-FREE CHOCOLATE FONDANT � � � � � � � 9 50
+p1: Bourbon vanilla ice cream
+p1: FRESH RASPBERRY� 11 50
+p1: � � � � � � � � � � � � � � � � � � �
+p1: Whipped cream
+p1: Ice creams: Vanilla, Chocolate, Coffee, Caramel, Pistachio
+p1: CREPES Sorbets: Strawberry, Raspberry, Lime, Mango
+p1: SUGAR� 6 00
+p1: � � � � � � � � � � � � � � � � � � � � � � � � � �
+p1: CHOCOLATE-HAZELNUT 6 50
+p1: � � � � � � � � � � � � � � � � 2 SCOOPS � � � � � 8 00 3 SCOOPS � � � � 10 00
+p1: SALTED BUTTER CARAMEL� 6 50
+p1: � � � � � � � � � � � � � �
+p1: RED FRUITS� 7 00
+p1: � � � � � � � � � � � � � � � � � � � � � � �
+p1: BROWNIE CHOCOLATE SUNDAE� � � � � � � � 12 00
+p1: WAFFLES Bourbon vanilla ice cream, chocolate ice cream,
+p1: brownie pieces, whole hazelnuts, hazelnut spread,
+p1: SUGAR� 7 00
+p1: � � � � � � � � � � � � � � � � � � � � � � � � � � whipped cream
+p1: WHIPPED CREAM 8 00
+p1: � � � � � � � � � � � � � � � � � � � �
+p1: STRAWBERRY MELBA SUNDAE � � � � � � � � � 12 00
+p1: CHOCOLATE-HAZELNUT 8 00
+p1: � � � � � � � � � � � � � � � � Bourbon vanilla ice cream, strawberry sorbet, fresh
+p1: SALTED BUTTER CARAMEL� 8 00
+p1: � � � � � � � � � � � � � � strawberries, red berries, flaked almonds, whipped cream
+p1: : Vegetarian.PDO : Protected Destination of Origin. Allergen information is available in the restaurant. For any further details, a guide is available at the front desk.
+p1: Credit cards, American Express, Luncheon vouchers are accepted. Net prices in euros, service included.
+p1: To limit food waste, doggy bags are at your disposal. (excluding raw meat, raw fish, raw eggs) 03/26
+p1: FOR YOUR HEALTH, EAT AT LEAST 5 FRUITS AND VEGETABLES BY DAY. WWW.MANGERBOUGER.FR
+p2: WWiinneess && CChhaammppaaggnneess
+p2: --5500%%
+p2: ON COCKTAILS, MOCKTAILS, 20cl
+p2: BRUT PDO CHAMPAGNES
+p2: AND DRAFT BEERS.
+p2: MOËT & CHANDON "BRUT IMPÉRIAL" MINI � � � � � 25 00
+p2: FROM 5PM TO 8PM
+p2: MOËT & CHANDON "BRUT IMPÉRIAL" MINI ROSÉ� 30 00
+p2: �
+p2: 25cl 75cl
+p2: WHITE WINE
+p2: PDO LANGUEDOC - OÉ (organic wine) � � � 9 5�0 � � 36 00
+p2: ROSÉ WINES
+p2: CCCOOOCCCKKKTTTAAAIIILLLSSS
+p2: PGI MÉDITERRANÉE - OÉ (organic wine) � � � 9 5�0 � � � �
+p2: 14cl /
+p2: PGI MÉDITERRANÉE "LE ROI SOLEIL"� � � � � � � � � 35 00
+p2: APEROL SPRITZ� 10 00 / 5 00
+p2: � � � � � � � � � � � �
+p2: Aperol, Prosecco Riccadonna, Perrier, fresh orange RED WINE
+p2: HUGO SPRITZ� � � � � � � � � � � � � � 12 00/ 6 00 PDO CÔTES-DU-RHÔNE - OÉ (organic wine) 9 0�0 � � 35 00
+p2: FAIR elderflower liqueur, Riccadonna Prosecco,
+p2: Perrier, lemon, fresh rosemary
+p2: ITALICUS SPRITZ� � � � � � � � � � � � 12 00/ 6 00
+p2: Italicus bergamot liqueur, Riccadonna Prosecco,
+p2: FFFrrreeessshhh dddrrriiinnnkkksss
+p2: Perrier, lemon, fresh rosemary
+p2: LIMONCELLO SPRITZ� 12 00/ 6 00
+p2: � � � � � � � �
+p2: Limoncello Mamma Mia, Riccadonna Prosecco, LEMONADE 25c�l � � � � � � � � � � � � � � � � � � � � � 5 50
+p2: Perrier, lemon, fresh rosemary Lemon, lime, apple, agave
+p2: RASPBERRY LEMONADE 25c�l � � � � � � � � � � � � � 6 00
+p2: Lemon, raspberry, agave, basil
+p2: MOCKTAILS
+p2: VITTEL 4 20
+p2: 33c�l � � � � � � � � � � � � � � � � � � � � � � � �
+p2: RED DESIRE 20cl � � � � � � � � � � � � � 8 50 / 4 25
+p2: PERRIER 33c�l � � � � � � � � � � � � � � � � � � � � � � � 4 90
+p2: Strawberry, raspberry, coconut water,
+p2: orange blossom, apple ICED COFFEE 5 50
+p2: 20cl � � � � � � � � � � � � � � � � � � � � �
+p2: GINGER BOOST 20cl � � � � � � � � � � � 8 50 / 4 25 FANTA ORANGE, SPRITE 33cl � � � � � � � � � � � � � 4 90
+p2: Pineapple, passion fruit, apple, ginger, turmeric
+p2: COCA-COLA, SUGAR-FREE COCA-COLA 33c�l � � � 4 90
+p2: VIRGIN SPRITZ 8 50 / 4 25
+p2: 20cl � � � � � � � � � � � OASIS 33cl� � � � � � � � � � � � � � � � � � � � � � � � � 4 90
+p2: Galvanina Spritz 0,0%, fresh orange
+p2: FUZE TEA PEACH 33cl � � � � � � � � � � � � � � � � � � 4 90
+p2: VIRGIN BELLINI 20c�l � � � � � � � � � � 8 50 / 4 25
+p2: ORGANIC RASPBERRY KOMBUCHA ARCHIPEL 6 50
+p2: Galvanina Bellini 0,0%, lemon, fresh rosemary 33cl
+p2: EXTRA SYRUP� � � � � � � � � � � � � � � � � � � � � � � 0 50
+p2: Mint, grenadine, peach, lemon, orgeat
+p2: JUS DE FRUITS ET NECTARS 100%
+p2: BIOLOGIQUES JUS DE RÊVE 6 50
+p2: 25cl � � � � � � � � � � �
+p2: Orange juice, apple juice, apricot nectar, tomato juice
+p2: B e e s
+p2: &&& CCCIIIDDDEEERRR
+p2: HHHOOOTTT DDDRRRIIINNNKKKSSS
+p2: DRAFT
+p2: 33cl / 50cl /
+p2: 1664 BLONDE 7 00 / 3 50� 10 00 / 5 00
+p2: � � � � � � � � � � � � �
+p2: EXPRESSO, AMERICANO, DECAF� 3 50
+p2: French lager with a delicate bitterness � � � � � � � � � �
+p2: MACCHIATO� � � � � � � � � � � � � � � � � � � � � � � � 3 80
+p2: 1664 BLANC � � � � � � � � � � � � 8 00 / 4 00� � � � 11 00 / 5 50
+p2: Refreshing wheat beer with citrus notes DOUBLE EXPRESSO� 5 50
+p2: � � � � � � � � � � � � � � � � � �
+p2: CAPPUCCINO� � � � � � � � � � � � � � � � � � � � � � � 6 00
+p2: LATTE / LATTE MACCHIATO � � � � � � � � � � � � � � 6 00
+p2: HOT CHOCOLATE � � � � � � � � � � � � � � � � � � � � 7 00
+p2: BOTTLED 33cl
+p2: CHAÏ LATTE� � � � � � � � � � � � � � � � � � � � � � � � 6 50
+p2: CORONA� � � � � � � � � � � � � � � � � � � � � � � � � � 8 00
+p2: MATCHA LATTE� 6 50
+p2: � � � � � � � � � � � � � � � � � � � � �
+p2: 1664 0,0% (without alcohol�) � � � � � � � � � � � � � � � 6 50
+p2: ANGELINA TEAS� � � � � � � � � � � � � � � � � � � � � 6 00
+p2: ORGANIC AND NATURAL RAW CIDER� � � � � � � � 7 00 Green teas: mint, jasmine
+p2: Black teas: breakfast, Earl Grey, Darjeeling
+p2: FILS DE POMME «LE SAUVAGE»
+p2: Herbals: verbena, lime-mint, rooibos red vanilla
+p2: ORGANIC AND NATURAL RAW CIDER 0,0%� � � � 7 00
+p2: FILS DE POMME «LE SAGE» (without alcohol)
+p2: All our hot drinks can be made with Oatly oat drink.
+p2: For more information, please ask your head waiter. PGI: Protected Geographical Indication. PDO: Protected Designation of Origin.
+p2: Tap water is available free of charge upon request. Prices are net, in euros. 03/26. Brasserie Rosalie 419 946 918 R.C.S.
+p2: ALCOHOL ABUSE IS DANGEROUS FOR HEALTH. TO CONSUME WITH MODERATION.

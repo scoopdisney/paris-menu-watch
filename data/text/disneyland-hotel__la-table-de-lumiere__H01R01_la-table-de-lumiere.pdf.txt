@@ -1,0 +1,175 @@
+p1: 1 8 h 0 0 2 2 h 3 0
+p1: H O R A I R E S D ’ O U V E R T U R E D E À
+p1: O P E N I N G H O U R S F R O M 6 . 0 0 P . M . U N T I L 1 0 . 3 0 P . M .
+p1: U n e f a b l e d e f e s t i n s e t d e m e t s r a f f i n é s
+p1: / A f i n e d i n i n g f a b l e f o r t h e a g e s
+p1: Prenez place aux côtés des personnages Disney royaux dans un décor somptueux inspiré de l’emblématique Galerie
+p1: des Glaces de Versailles et de l’univers de La Belle et la Bête
+p1: Be our Guest alongside royal Disney Characters in a magical setting inspired by the iconic Hall of Mirrors in the royal Palace
+p1: of Versailles and Disney classic Beauty and the Beast
+p1: M e n u V i e d e C h â t e a u M e n u P ’ t i t s I n v i t é s d e L u m i è r e
+p1: T h e R o y a l M e n u 120€ L u m i e r e ’ s L i t t l e G u e s t s m e n u 60€
+p1: PPPooouuurrr aaaccccccooommmpppaaagggnnneeerrr vvvoootttrrreee mmmeeennnuuu,,, nnnooouuusss vvvooouuusss sssuuuggggggééérrrooonnnsss Pour enfants âgés de 3 à 11 ans
+p1: uuuunnnn cccchhhhooooiiiixxxx ddddeeee 3333 cccchhhhaaaammmmppppaaaaggggnnnneeeessss ((((3333 xxxx 11110000 ccccllll)))) ppppaaaarrrrmmmmiiii nnnnoooottttrrrreeee sssséééélllleeeeccccttttiiiioooonnnn,,,, aaaauuuu pppprrrriiiixxxx ddddeeee 66660000€€€€ For children ages from 3 to 11
+p1: oouu uunn cchhooiixx ddee 33 vviinnss ((33 xx 1100 ccll)) ppaarrmmii nnoottrree sséélleeccttiioonn,, aauu pprriixx ddee 5500€€
+p1: Vittel® 33 cl ou ou jus d’orange ou de pomme 25 cl ou Verre de lait 20 cl
+p1: To accompany your meal, we suggest
+p1: Vittel® 33 cl or or orange juice or apple juice 25 cl or Milk 20 cl
+p1: a flight of 3 champagnes (3 x 10 cl)from our selection, priced at €60
+p1: or a flight of 3 wines (3 x 10 cl) from our selection, priced at €50
+p1: AAAuuutttrrreee bbboooiiissssssooonnn fffrrraaaîîîccchhheee 222555 ccclll sssuuurrr dddeeemmmaaannndddeee eeennn rrreeemmmppplllaaaccceeemmmeeennnttt ddduuu ppprrroooddduuuiiittt ppprrrooopppooosssééé
+p1: OOtthheerr ccoolldd ddrriinnkk 2255 ccll mmaayy rreeppllaaccee ssiimmiillaarr iitteemm oonn rreeqquueesstt
+p1: PPPOOOUUURRR CCCOOOMMMMMMEEENNNCCCEEERRR // TTOO SSTTAARRTT
+p1: PPPOOOUUURRR CCCOOOMMMMMMEEENNNCCCEEERRR // TTOO SSTTAARRTT
+p1: La tartelette fi ne, fl an de courgettes aux olives, coulis de courgettes
+p1: Courgette and olive quiche with filo crust and courgette coulis
+p1: Dips de légumes croquants du moment, sauce cocktail
+p1: ooouuu /// oorr
+p1: Cocktail sauce with seasonal crudités
+p1: La tomate rouge à la stracciatella et mozzarella, sorbet tomate jaune ananas
+p1: ou / or
+p1: Red tomato, stracciatella and mozzarella salad with yellow tomato and pineapple sorbet
+p1: Tatin de tomates jaunes et rouges à l’huile d’olive et mozzarella
+p1: ooouuu /// oorr
+p1: Red and yellow tomato tatin with olive oil and mozzarella
+p1: La terrine de canard en croûte tiède à l’abricot et à la pistache, condiment abricot acidulé
+p1: ooouuu /// oorr
+p1: Warm duck, apricot and pistachio terrine en croûte with apricot chutney
+p1: EEEsssqqquuuiiimmmaaauuu dddeee sssaaauuummmooonnn eeettt ccciiitttrrrooonnn jjjaaauuunnneee cccooonnnfififi ttt,,, cccrrrééémmmeeeuuuxxx aaauuuxxx fififi nnneeesss hhheeerrrbbbeeesss
+p1: ooouuu /// oorr
+p1: SSaallmmoonn aanndd pprreesseerrvveedd lleemmoonn iiccee ppoopp,, fifi nnee hheerrbb ccrreeaamm
+p1: Le tartare de bar, condiments d’aubergine grillée et mangue épicée, glace au wasabi
+p1: ooouuu /// oorr
+p1: Sea bass tartare with aubergine caviar, spicy mango chutney and wasabi ice cream
+p1: ŒŒŒuuufff dddeee LLLooouuuééé LLLaaabbbeeelll RRRooouuugggeee cccuuuiiittt eeennn cccooocccoootttttteee,,, eeessspppuuummmaaa dddeee cccooommmtttééé AAAOOOPPP,,, cccrrroooûûûtttooonnnsss dddooorrrééésss ààà lll’’’hhhuuuiiillleee ddd’’’ooollliiivvveee
+p1: ooouuu /// oorr LLoouuéé LLaabbeell RRoouuggee cchhiicckkeenn’’ss eegggg ““eenn ccooccoottttee””,, ccoommttéé PPDDOO ffooaamm,, ccrriissppyy ccrroouuttoonnss iinn oolliivvee ooiill
+p1: L’œuf de Loué Label Rouge cuit “parfait”, crémeux aux petits pois, amandes torréfiées et émulsion à l’amande
+p1: Loué Label Rouge “64-degree” chicken’s egg, cream of petits pois, toasted almonds and almond emulsion
+p1: MAIS ENCORE / TO CONTINUE
+p1: 10 cl Pâtes Bio issues d’Ile-de-France :
+p1: CHAMPAGNE
+p1: Taittinger - Prestige rosé ou À la crème d’Isigny AOP, ou À la sauce tomate , ou Au beurre d’Isigny AOP
+p1: ooouuu /// oorr Louis Roederer - Collection 246 OOOOOrrrrrgggggaaaaannnnniiiiiccccc,,,,, lllllooooocccccaaaaallllllllllyyyyy sssssooooouuuuurrrrrccccceeeeeddddd pppppaaaaassssstttttaaaaa fffffrrrrrooooommmmm ttttthhhhheeeee PPPPPaaaaarrrrriiiiisssss rrrrreeeeegggggiiiiiooooonnnnn ssssseeeeerrrrrvvvvveeeeeddddd wwwwwiiiiittttthhhhh ccccchhhhhoooooiiiiiccccceeeee ooooofffff:::::
+p1: IIssiiggnnyy PPDDOO ccrrèèmmee ffrraaîîcchhee ssaauuccee , or Tomato sauce , or IIssiiggnnyy PPDDOO bbuutttteerr
+p1: ooouuu /// oorr 10 cl
+p1: VIN / WINE
+p1: AOC Saint-Romain - Le Clos du Château - Domaine Coste-Caumartin ooouuu /// oorr
+p1: ooouuu /// oorr AOP Sancerre - Cuvée du Connétable - Château de Sancerre - Sauvignon blanc Pavé de saumon poêlé, pommes de terre écrasées à l’huile d’olive, beurre blanc citronné
+p1: Pan-fried salmon fi llet, crushed potatoes with olive oil, lemon beurre blanc sauce
+p1: ooouuu /// oorr
+p1: MAIS ENCORE / TO CONTINUE
+p1: Pièce de bœuf poêlée origine France, jus de viande, pommes de terre et légumes
+p1: Pan-fried steak (beef of French origin) with its juices, potatoes and vegetables
+p1: Le médaillon aux protéines de blé et soja, crumble amande et cacao, bavarois aux tomates confites
+p1: Soy and wheat medallion with almond and cacao crumble, tomato confit bavarois ooouuu /// oorr
+p1: ooouuu /// oorr Le croque de bœuf : Steak haché, comté, chiff onnade de salade liée à la sauce cocktail accompagné de pommes paille
+p1: Croque de bœuf sandwich: Hamburger, comté cheese and shredded lettuce mixed with cocktail sauce served with fried straw potatoes
+p1: La sole dorée sur l’arête au beurre d’Isigny AOP et poêlée de jeunes légumes
+p1: Sole dorée on the bone with Isigny PDO butter and pan-fried spring vegetables ooouuu /// oorr
+p1: ooouuu /// oorr Poulet jaune fermier, légumes fondants et pommes de terre confi tes
+p1: Le saumon Label Rouge, fenouil grillé, croûtons de polenta frits et beurre d’agrumes Corn-fed chicken, tender vegetables and confi t potato
+p1: Label Rouge salmon, roasted fennel, fried polenta croutons and citrus butter
+p1: ooouuu /// oorr
+p1: PPPOOOUUURRR LLLEEE PPPLLLAAAIIISSSIIIRRR // FFOORR YYOOUURR PPLLEEAASSUURREE
+p1: La pièce de bœuf rôtie origine France, gel de betterave et framboise,
+p1: pommes de terre en millefeuille et légumes du moment
+p1: La tartelette Big Ben : Tartelette de fruits de saison, mousse aérienne à la vanille
+p1: Roast beef of French origin, beetroot and raspberry jelly, potato mille-feuille and seasonal vegetables
+p1: Cogsworth tartlet: Seasonal fruit tartlet, whipped vanilla mousse
+p1: ou / or
+p1: ooouuu /// oorr
+p1: Le filet mignon de porc fermier, asperges poêlées, pommes noisette et condiment à l’ail noir
+p1: Finger moelleux chocolat, caramel, glace vanille et noisettes torréfi ées
+p1: Farmhouse pork fillet, pan-fried asparagus, noisette potatoes and black garlic sauce
+p1: Lava chocolate fi nger, caramel, vanilla ice cream and toasted hazelnuts
+p1: ou / or
+p1: ou / or
+p1: Le poulet jaune fermier Label Rouge cuit à la rôtissoire, pommes de terre confites et jus corsé
+p1: Fruits du moment arrosés de coulis et barbe à papa
+p1: Rotisserie Label Rouge corn-fed chicken, confit potatoes and gravy
+p1: Fruits du moment arrosés de coulis et barbe à papa
+p1: ooouuu /// oorr
+p1: 10 cl
+p1: LLLaaa RRRooossseee EEEnnnccchhhaaannntttéééeee ::: bbbaaavvvaaarrroooiiissseee vvvaaannniiilllllleee,,, mmmooouuusssssseee fffrrruuuiiitttsss rrrooouuugggeeesss eeettt bbbiiissscccuuuiiittt aaammmaaannndddeee 1
+p1: CHAMPAGNE
+p1: Taittinger - Folies de la Marquetterie - brut TTTThhhheeee EEEEnnnncccchhhhaaaannnntttteeeedddd RRRRoooosssseeee:::: VVVVaaaannnniiiillllllllaaaa bbbbaaaavvvvaaaarrrrooooiiiissss,,,, rrrreeeedddd bbbbeeeerrrrrrrryyyy mmmmoooouuuusssssssseeee aaaannnndddd aaaallllmmmmoooonnnndddd bbbbiiiissssccccuuuuiiiitttt 11
+p1: ooouuu /// oorr Moët & Chandon - Grand Vintage - extra brut
+p1: ooouuu /// oorr Pierre Mignon - Blanc de noirs - brut
+p1: ooouuu /// oorr 10 cl
+p1: VIN / WINE
+p1: AOC Saint Emilion Grand Cru - Château Capet-Guillier
+p1: ooouuu /// oorr AOC Châteauneuf-du-Pape - L’oratoire des Papes S é l e c t i o n d e b o i s s o n s
+p1: D r i n k S e l e c t i o n
+p1: POUR LE PLAISIR / FOR YOUR PLEASURE
+p1: 75 cl
+p1: French White Wine
+p1: Vins blancs français /
+p1: La pavlova végétale revisitée aux fruits rouges et sorbet à l’huile d’olive
+p1: AOC Montagny --- CCChhhâââttteeeaaauuu dddeee CCChhhaaammmiiillllllyyy --- LLLeeesss RRReeecccuuullleeerrrooonnnsss --- CCChhhaaarrrdddooonnnnnnaaayyy
+p1: 45€
+p1: Plant-based Pavlova with red berries and olive oil sorbet
+p1: AOC Saint-Romain - Le Clos du Château - Domaine Coste-Caumartin
+p1: ooouuu /// oorr 67€
+p1: La rose en vitrail, entremets chocolat, insert crémeux dulcey et streusel cacao AOC Pernand-Vergelesses - Maison Champy
+p1: 67€
+p1: Rose window tuile, chocolate mousse cake, creamy Dulcey chocolate fi lling and cocoa nib streusel
+p1: 37,5 cl 75 cl
+p1: ooouuu /// oorr Vins rouges français / French Red Wine
+p1: Le crémeux thym-citron, biscuit miel amandes, tuile nid d’abeille, AOC Bourgogne Hautes-Côtes de Nuits - Pierre Maizière
+p1: 25€ 45€
+p1: perles au miel, gels citron et thym citron, sorbet thym-citron
+p1: AOC Haut-Médoc - Château Cantemerle - Grand Cru Classé
+p1: 42€ 77€
+p1: Lemon thyme curd, honey almond biscuit, honeycomb tuile, honey pearls, lemon and lemon thyme jellies, lemon thyme sorbet
+p1: AOC Haut-Médoc - Héritage de Chasse-Spleen
+p1: 68€
+p1: ooouuu /// oorr
+p1: Les sorbets et déclinaison de fruits
+p1: Boissons fraîches / Cold Drink
+p1: Sorbets and fruit variations
+p1: Coca-Cola ORIGINAL, Coca-Cola ZÉRO SUCRES 33 cl
+p1: ooouuu /// oorr 9€
+p1: Sprite, Fanta Orange, FuzeTea Pêche Intense / 25 cl
+p1: Fruits frais du moment en salade et crème fouettée vanillée Peach black tea 9€
+p1: Seasonal fresh fruit salad and whipped vanilla cream Notre sélection de Tonic / 20 cl
+p1: Our selection of tonic 9€
+p1: 10 cl 50 cl 100 cl
+p1: CHAMPAGNE Eaux Minérales / Mineral Water
+p1: Moët & Chandon - Ice Impérial Rosé - demi Sec
+p1: Vittel
+p1: 8€ 12€
+p1: ooouuu /// oorr Pierre Mignon - Ratafia de champagne
+p1: S.Pellegrino®
+p1: 9€ 13€
+p1: ooouuu /// oorr 10 cl
+p1: VIN / WINE
+p1: Perrier® Fines Bulles /
+p1: AOC Sauternes - Château Coutet - Premier Grand Cru Classé Fine bubbles 9€ 13€
+p1: D e s s e r t d ’ A n n i v e r s a i r e 1
+p1: Consultez
+p1: 1
+p1: B i r t h d a y D e s s e r t Prix nets /
+p1: Tax included
+p1: le menu
+p1: Veggie = végétarien
+p1: Check out
+p1: 1 produit décongelé /
+p1: Célébrez votre Anniversaire en notre compagnie et commandez votre dessert d’anniversaire en début de repas ! defrosted product
+p1: our menu
+p1: Eau potable à votre disposition /
+p1: Drinking water available
+p1: Celebrate your Birthday with us. Don’t forget to order your birthday dessert before your meal!
+p1: Ce menu (sans modifi cation) comprend au moins 2 portions de fruits et légumes et est faible en graisses saturées
+p1: À partir de 2 personnes / Dessert to share for 2 or more people
+p1: 25€ This menu (without substitution) contains at least 2 portions of fruits and vegetables and is low in saturated fats
+p1: À partir de 6 personnes / Dessert to share for 6 or more people
+p1: 45€
+p1: un recueil d’informations sur la présence d’allergènes dans nos plats
+p1: 62/60
+p1: est disponible, n’hésitez pas à vous signaler et à le demander
+p1: à l’un de nos Cast Members
+p1: -
+p1: yensiD©
+p1: A list of the allergens present in our dishes is available upon request with any
+p1: of our Cast Members; please make a Cast Member aware of any allergies you may have
+p1: 22660066__LLAA__TTAABBLLEE__DDEE__LLUUMMIIEERREE__BBOOAARRDD__EEXXTTEERRIIEEUURR__668800xx887700..iinndddd 11 1166//0066//22002266 1166::4400

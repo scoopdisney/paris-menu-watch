@@ -1,0 +1,179 @@
+p1: /
+p1: Réservation recommandée sur l’application Disney Reservation recommended on the Disney application
+p1: Menu Rémy Rémy Menu
+p1: 45€ €45
+p1: Little Chef Menu
+p1: €30
+p1: Menu Petit Chef
+p1: 30€
+p1: Entrée et Plat Starter and Main Course
+p1: For children ages from 3 to 11
+p1: Pour enfants de 3 à 11 ans
+p1: Menu Émile Starter, Main Course, Dessert and Drink
+p1: 55€ Émile Menu
+p1: Entrée, Plat, Dessert et Boisson €55
+p1: Vittel® 33 cl or Orange or apple juice 25 cl
+p1: Vittel® ou Jus d’orange ou de pomme
+p1: 33 cl 25 cl
+p1: Entrée, Plat et Dessert or Milk
+p1: Starter, Main Course and Dessert 20 cl
+p1: ou Lait
+p1: 20 cl
+p1: menu, meal, An alternative cold drink (25 cl) may replace
+p1: Pour accompagner votre To accompany your
+p1: Autre boisson fraîche (25 cl) sur demande
+p1: 20€ a similar item on request
+p1: nous vous suggérons au prix de we suggest a flight of 3 wines
+p1: et en remplacement du produit proposé (3 x 8 cl)
+p1: selection, €20
+p1: un choix de 3 vins (3 x 8 cl) parmi notre sélection from our for
+p1: Entrées Entrées Starters Starters
+p1: Salade mélangée, cantal jeune, olives noires, Soupe de carotte Mixed salad, young Cantal cheese, black olives, Carrot soup
+p1: chiffonade de jambon à la truffe et vinaigrette truffle ham chiffonade and garden-herb vinaigrette
+p1: or Charcuterie plate, vegetable crisps
+p1: ou Assiette de charcuterie, Chips Légumes
+p1: aux saveurs du potager
+p1: and The Laughing Cow® cheese
+p1: et Vache qui Rit® or Seasonal soup with The Laughing Cow®
+p1: ou Soupe de saison à La Vache qui rit® and mixed herbs
+p1: Main courses
+p1: Plats
+p1: et fines herbes
+p1: or Pear, chestnut and duck pâté en croûte,
+p1: Filet de poulet, frites, sauce crème au fromage Chicken fillet, fries, cheese cream sauce
+p1: ou Pâté en croûte de canard, poire et châtaigne, fig marmalade
+p1: confit de figues
+p1: or Linguine Bolognese or Linguine
+p1: ou Linguine à la Bolognaise ou Linguine or Green lentil salad with carrot julienne,
+p1: with tomato sauce(1)
+p1: ou Salade aux lentilles vertes, julienne à la sauce tomate(1) cherry tomatoes and Greek-style plant-based cubes,
+p1: de carottes, tomates cerises et dés végétaux garden-herb vinaigrette or Roast cod, crushed potatoes,
+p1: ou Cabillaud rôti, écrasée de pommes de terre,
+p1: à la grecque, vinaigrette du potager
+p1: sauce tomate(1) tomato sauce(1)
+p1: AOP Côtes de Provence - Minuty - Prestige rosé
+p1: 8 cl
+p1: AOP Côtes de Provence - Minuty - Prestige rosé 8 cl
+p1: Desserts Desserts
+p1: Main courses
+p1: Plats
+p1: Rémy’s eclair(2)
+p1: L’éclair de Rémy(2)
+p1: Grilled steak, french fries(1)
+p1: Pièce de bœuf grillée, frites(1) Choice of sauce: Café de Paris sauce, green peppercorns, brie or béarnaise or Fromage blanc with fruit
+p1: ou Fromage blanc aux fruits
+p1: Sauce au choix : Café de Paris, poivre vert, brie ou béarnaise (No Added Sugar)
+p1: (sans sucres ajoutés) or Roast cod, crushed potatoes
+p1: ou Cabillaud rôti, with beurre blanc sauce
+p1: or Chocolate mousse
+p1: ou Mousse au chocolat
+p1: écrasé de pommes de terre
+p1: or Vegetable blanquette with sliced soy or Fruit salad
+p1: ou Salade de fruits
+p1: et sauce au beurre blanc
+p1: and pea protein
+p1: ou Blanquette de petits légumes
+p1: ou or Roasted chicken supreme, baby potatoes, or
+p1: et émincé aux protéines de soja et de pois
+p1: mushrooms and mushroom-flavoured sauce
+p1: Menu Disney Check Disney Check Menu
+p1: ou Suprême de volaille rôti,
+p1: AOP Sancerre - Château de Sancerre - Sauvignon blanc
+p1: 8 cl
+p1: pommes de terre grenaille, champignons Soupe de carotte Carrot soup
+p1: or Edition Bistrot Chez Rémy - AOC Saint-Emilion -
+p1: et sauce saveur champignons
+p1: Fleur de Roc 8 cl
+p1: Linguine à la Bolognaise Linguine Bolognese
+p1: ou Linguine à la sauce tomate(1) or Linguine with tomato sauce(1)
+p1: AOP Sancerre - Château de Sancerre - Sauvignon blanc
+p1: 8 cl Desserts
+p1: ou Edition Bistrot Chez Rémy - AOC Saint-Emilion -
+p1: Fromage blanc aux fruits Fromage blanc with fresh fruit
+p1: (sans sucres ajoutés) (No Added Sugar)
+p1: Fleur de Roc
+p1: 8 cl Brie de Meaux Cheese, raisins, soft apricots
+p1: Vittel® 33 cl Vittel® 33 cl
+p1: Desserts or Chocolate mousse
+p1: Ce menu (sans modification) comprend au moins 2 portions This menu (whithout substitution) contains at least 2 servings
+p1: de fruits et légumes et est faible en graisses saturées of fruits and vegetables and is low in saturated fats
+p1: or Fruit salad
+p1: Brie de Meaux, raisin, abricot moelleux
+p1: or Lemon meringue tart(2)
+p1: ou Mousse au chocolat
+p1: or Fromage blanc-raspberry entremet(2)
+p1: ou Salade de fruits
+p1: or Gusteau’s dessert(2)
+p1: ou Tarte au citron meringuée(2)
+p1: Édition Spéciale Disneyland® Paris
+p1: ou Entremet fromage blanc-framboise(2) Anniversaire Birthday
+p1: Célébrez votre Celebrate your with us
+p1: Champagne Pierre Mignon Grande Réserve - Brut
+p1: 10 cl
+p1: ou Dessert de Gusteau(2) en notre compagnie et commandez or AOC Sainte-Croix-du-Mont - Château des Arroucats Don’t forget to order your birthday dessert
+p1: 8 cl
+p1: votre dessert d’anniversaire en début de repas ! (sweet wine) before your meal!
+p1: Édition Spéciale Disneyland® Paris -
+p1: Champagne Pierre Mignon Grande Réserve - Brut
+p1: 10 cl Dessert à partir de Dessert to share for
+p1: ou AOC Sainte-Croix-du-Mont - Château des Arroucats
+p1: 8 cl
+p1: 25€ 45€ €25 €45
+p1: (vin liquoreux) 2 personnes 6 personnes 2 or more people 6 or more people
+p1: Sélection de boissons Sélection de vins
+p1: 75 cl
+p1: Selection of drinks Selection of wine
+p1: 25 cl 33 cl 50 cl 100 cl
+p1: /
+p1: Vins blancs White wine
+p1: Coca-Cola ORIGINAL 6€
+p1: .....................................................................
+p1: AOC Chablis - La Pierrelée - La Chablisienne 43€
+p1: ......................................
+p1: Coca-Cola ZÉRO SUCRES 6€
+p1: ..........................................................
+p1: 34€
+p1: IGP Cité de Carcassonne - Gérard Bertrand - Chardonnay
+p1: ......
+p1: Coca-Cola Cherry 6€
+p1: .............................................................................
+p1: AOC Sainte-Croix-du-Mont
+p1: Fanta Orange 6€
+p1: .........................................................................
+p1: Château des Arroucats - vin liquoreux 34€
+p1: Sprite 6€ ................................................................
+p1: ............................................................................................
+p1: Jus d’orange, jus de pomme 6€
+p1: ..................................
+p1: rosé/
+p1: Vin Rosé wine
+p1: Orange or apple juice
+p1: AOP Languedoc - Art de vivre - Gérard Bertrand 34€
+p1: FuzeTea Pêche Intense / Peach Black Tea 6€ ...............................
+p1: ...
+p1: Kombucha parfum
+p1: /
+p1: Vins rouges Red wine
+p1: framboise-hibiscus - Bio 7€
+p1: ............................................
+p1: Edition Bistrot Chez Rémy - AOC Saint-Emilion - Fleur de Roc 38€
+p1: . Consultez le menu
+p1: Organic Kombucha Raspberry-Hibiscus Flavoured
+p1: Produit par Cheval Quancard
+p1: Vittel® 5€ 6€
+p1: Check out our menu
+p1: ........................................................................................................................ .........
+p1: AOC Bourgogne - Hautes-Côtes de Nuits - Pierre Maizière 43€
+p1: ..........
+p1: S.Pellegrino® 5,5€ 6,5€
+p1: ...................................................................................................... ....
+p1: Perrier® 5€
+p1: .....................................................................................................
+p1: 52/21
+p1: -
+p1: raxiP/yensiD©
+p1: veggie = végétarien
+p1: 1 Sur demande, ces plats peuvent être également accompagnés de ratatouille / On demand, these dishes can be serverd also with ratatouille - 2 produit décongelé / defrosted product
+p1: Un recueil d’information sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p1: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have
+p1: Prix nets / Tax included

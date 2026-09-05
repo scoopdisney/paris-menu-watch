@@ -1,0 +1,167 @@
+p1: MENU BURGER ET /ANDFrites/Fries
+p1: Salade fraîcheur /Side salad
+p1: OU /OR
+p1: Boisson fraîche50 cl/Cold drink
+p1: ET /AND 50 cl
+p1: Burger Grogu /Grogu burger Macaron bleu de Grogu 2200€€
+p1: Grogu’s Blue Macaron
+p1: Steak haché de bœuf, gouda
+p1: au pesto vert, pickles de chou, Macaron passion1
+p1: pastrami, roquette et sauce thaï Passion fruit macaron1
+p1: Beef burger, green pesto gouda
+p1: cheese, pickled cabbage, MENU DISPONIBLE SANS DESSERT 1188€€
+p1: pastrami, rocket and Thai sauce MENU AVAILABLE WITHOUT DESSERT
+p1: Premium cheeseburger 17€
+p1: BBBuuurrrgggeeerrr vvvééégggééétttaaalll 111777€€€
+p1: Plant-based burger
+p1: SStteeaakk hhaacchhéé ddee bbœœuuff,, cchheeddddaarr ffoonndduu,,
+p1: salade, tomate et sauce Galette végétale, tomate,salade,
+p1: cornichons et sauce vegan
+p1: Beef burger, melted
+p1: cheddar cheese, lettuce, Plant-based patty, tomato,
+p1: tomato and sauce
+p1: lettuce, pickles and vegan sauce
+p1: Chicken burger 16€ Fish burger 16€
+p1: FFiilleett ddee ppoouulleett ppaannéé,, cchheeddddaarr ffoonndduu,, FFiilleett ddee ppooiissssoonn ppaannéé,, cchheeddddaarr ffoonndduu,, ssaallaaddee,,
+p1: ssaallaaddee,, ttoommaattee eett ssaauuccee MMiillllee--îîlleess ééccllaattss dd’’ooiiggnnoonnss ffrriittss eett ssaauuccee ttaarrttaarree
+p1: Breaded chicken breast, FFrriieedd ffiisshh ffiilleett,, mmeelltteedd cchheeddddaarr
+p1: melted cheddar, lettuce, cchheeeessee,, lleettttuuccee,, ccrriissppyy oonniioonnss
+p1: tomato and Thousand and tartar sauce
+p1: Island sauce
+p1: MENU SALADE / SALAD
+p1: ET /AND Boisson fraîche50 cl/Cold drink
+p1: SSSaaalllaaadddeee pppooouuullleeettt 111555€€€ SSSaaalllaaadddeee vvveeegggaaannn 111555€€€
+p1: CChhiicckkeenn ssaallaadd Vegan salad
+p1: QQQuuuiiinnnoooaaa,,, bbbooouuulllgggooouuurrr,,, ooorrrgggeee,,, llleeennntttiiilllllleeesss,,, sssooojjjaaa,,,
+p1: SSSaaalllaaadddeee,,, pppooouuullleeettt,,, œœœuuufff ddduuurrr,,,
+p1: GGGrrraaannnaaa PPPaaadddaaannnooo eeettt tttooommmaaattteeesss bbbooouuullleeetttttteeesss pppoooiiisss ccchhhiiiccchhheeesss---cccooocccooo---cccuuurrrrrryyy,,,
+p1: tomates et noix de cajou gnidnib-non
+p1: Lettuce, chicken,
+p1: hard-boiled egg, Quinoa, bulgur, barley, lentils,
+p1: era
+p1: GGrraannaa PPaaddaannoo cchheeeessee soybeans, chickpea-coco-curry
+p1: sotohp
+p1: and tomatoes bbaallllss,, ttoommaattooeess aanndd ccaasshheeww nnuuttss
+p1: noitatneserP
+p1: /
+p1: selleutcartnoc
+p1: non
+p1: sotohP
+p1: PAUSE GOÛTER 7€ Cookie Mickey aux pépites de chocolat au lait
+p1: -
+p1: OUBrownie au chocolat et noix de pécan1OU Magnum® Mini amande 62/40
+p1: SWEET BREAK
+p1: -
+p1: Boisson chaudeOU fraîche dtL
+p1: 50 cl
+p1: mlifsacuL
+p1: Mickey cookie with milk chocolate chunks
+p1: Chocolate and pecan nuts brownie1OR Magnum® Mini almond 6202
+p1: OR
+p1: MT
+p1: a Hot a cold drink
+p1: OR 50 cl &
+p1: ©
+p1: yensiD©
+p1: Prix nets / Tax included -1produit décongelé / defrosted product
+p2: MENU ENFANT / KID’S MENU 111000€€€ 10€ MENU DISNEY CHECK 10€
+p2: PPOOUURR EENNFFAANNTTSS ÂÂGGÉÉSS DDEE 33 ÀÀ 1111 AANNSS //FOR CHILDREN AGES 3 TO 11 PPOOUURR EENNFFAANNTTSS ÂÂGGÉÉSS DDEE 33 ÀÀ 1111 AANNSS
+p2: FOR CHILDREN AGES 3 TO 11
+p2: Kid’s cheeseburger,
+p2: Steak haché de bœuf, cheddar fondu, sauce ketchup
+p2: Beef burger, melted cheddar cheese, ketchup sauce
+p2: OU /OR Le petit burger poulet/The little chicken burger
+p2: Poulet, cheddar fondu, salade, sauce à La Vache qui rit®
+p2: Chicken, melted cheddar cheese, lettuce, La Vache qui rit® cheesesauce
+p2: OU /OR Nuggets au poulet x4/Chicken nuggets x4
+p2: Le petit burger poulet
+p2: Frites/Fries
+p2: The little chicken burger
+p2: OU /OR Tomates cerise /Cherry tomatoes Juicy Water (pomme-fraise)/
+p2: (apple-strawberry)20 cl
+p2: ET /AND Tomates cerise/Cherry tomatoes
+p2: OU /OR Lait/ Milk20 cl
+p2: Purée de pommes bio (sans sucres ajoutés) OU /OR Vittel®33 cl ET /AND Purée de pommes Bio
+p2: Organic apple purée (no added sugar) (sans sucres ajoutés)
+p2: OU /OR Mini Babybel® bio2 /Organic Mini Babybel® cheese2 Organic apple purée (no added sugar)
+p2: OU /OR Yaourt à boire sucré aromatisé /Flavoured sweet drinking yoghurt
+p2: ET /AND Vittel 33 cl
+p2: OU /OR Magnum® Mini amande /Magnum® Mini almond
+p2: Cette association de produits comprend au moins
+p2: 2 portions de fruits et légumes et est faible
+p2: en graisses saturées
+p2: Autre boisson fraîche sur demande et remplacement du produit proposé
+p2: (25 cl) This selection of products contains at least 2 servings
+p2: Other cold drink (25 cl) may replace similar item on request of fruits and vegetables and is low in saturated fats
+p2: A LA CARTE BOISSONS FRAÎCHES COLD DRINKS
+p2: /
+p2: Coca-Cola ORIGINAL 50 cl 4,2€
+p2: Burger Grogu /Grogu burger 13€
+p2: Premium cheeseburger 12€ Coca-Cola Zéro Sucres 50 cl 4,2€
+p2: Fish burger 11€ Coca-Cola Zéro Sucres Cherry - Saveur cerise 50 cl 4,2€
+p2: Chicken burger 11€ Fanta Orange Sans Sucres 50 cl 4,2€
+p2: Sprite Sans Sucres 50 cl 4,2€
+p2: Salade poulet /Chicken salad 12€
+p2: Salade vegan /Vegan salad 12€ FuzeTea Saveur pêche /FuzeTea Peach Black Tea50 cl 4,2€
+p2: Burger végétal /Plant-based burger 12€ TROPICO Tropical 50 cl 4,2€
+p2: Nuggets au poulet x4/Chicken nuggets x4 5,5€ Jus d’orange ou de pomme /Orange or apple juice 23,5 cl 3,8€
+p2: Vittel®50 cl 3,5€
+p2: Nuggets au poulet x6/Chicken nuggets x6 7,5€
+p2: Nuggets au poulet x9/Chicken nuggets x9 10,5€ S.Pellegrino®50 cl 3,8€
+p2: Sauce : Moutarde/Mustard, mayonnaise ou/or ketchup Lait demi-écrémé /Semi-skimmed milk20 cl 2,5€
+p2: Le petit burger poulet /The little chicken burger 7€
+p2: KKiiddss’’ CChheeeesseebbuurrggeerr 77€€ BIÈRE PRESSION / DRAUGHT BEER
+p2: Salade fraîcheur /Side salad 3,3€
+p2: 1664® Premium 25 cl 5€ 50 cl 7,5€
+p2: Frites /Fries 4,5€
+p2: GLACES / ICE CREAM
+p2: BOISSONS CHAUDES / HOT DRINKS
+p2: Glace Mickey Saveur vanille /Mickey Ice Cream Bar Vanilla flavour 4,5€
+p2: EEsspprreessssoo 110000%% AArraabbiiccaa 33,,33€€
+p2: Magnum® La Pistache 4€
+p2: Double Espresso 100% Arabica 3,8€
+p2: Magnum® Amande/Almond 4€
+p2: Café 100% Arabica/Coffee 3,5€
+p2: Magnum® Amande Vegan /Almond 4€
+p2: Café au lait /Coffee with milk 4€
+p2: Cornetto® Soft Stracciatella & Sauce Caramel 4,3€
+p2: Cappuccino 4€
+p2: Stracciatella & Caramel Sauce gnidnib-non
+p2: Chocolat chaud /Hot chocolate 4,2€
+p2: Solero Fraise & Citron vert – Glace vanille 3,5€
+p2: Solero Strawberry Twist – Vanilla ice cream Thé, infusion /Tea, herbal tea 3,5€
+p2: era
+p2: Super Twister® Parfums Orange, Fraise, Citron 3,5€ sotohp
+p2: Orange, Strawberry, Lemon Flavours SOUVENIRS
+p2: noitatneserP
+p2: DESSERTS
+p2: Paille Mickey ou Minnie / Straw 6€
+p2: /
+p2: et boisson fraîche / and a cold drink 7€ selleutcartnoc
+p2: Macaron bleu de Grogu1 5€
+p2: Mug 15€
+p2: Grogu’s Blue Macaron1
+p2: avec boisson chaude / with a hot drink 17€
+p2: Dessert Mickey1 5€
+p2: non
+p2: Gobelet Tumbler 15€
+p2: Mousse chocolat et génoise /Chocolate mousse and sponge cake / sotohP
+p2: Cookie Mickey 4,3€ avec boisson fraîche / with a cold drink 17€
+p2: -
+p2: 62/40
+p2: Pépites de chocolat au lait /Milk chocolate chunks
+p2: Gourde Stitch / Stitch sipper 20€
+p2: -
+p2: Yaourt sur lit de fruit /Yoghurt with a fruit layer 3€ avec boisson fraîche with a cold drink 22€ dtL
+p2: /
+p2: mlifsacuL
+p2: Sachet de fruit /Fruit bag 4€
+p2: Brownie au chocolat et noix de pécan1 3,8€
+p2: 6202
+p2: Chocolate and pecan nuts brownie1
+p2: MT
+p2: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members &
+p2: ©
+p2: yensiD©
+p2: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have
+p2: Prix nets / Tax included - Veggie = végétarien - 1produit décongelé / defrosted product - 2 2 pièces : 1 pièce pour le déjeuner, 1 pièce pour le goûter / 2 pieces: 1 piece for lunch, 1 piece for snacking

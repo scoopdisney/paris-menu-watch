@@ -1,0 +1,575 @@
+p2: À PARTAGER
+p2: TO SHARE
+p2: LES GÉANTS / THE GIANTS
+p2: XXL XXL XXL
+p2: HOT-DOG _______________ 27€ SANDWICH _______________________ 33€ SOFT BREAD LOBSTER & FISH _ 37€
+p2: Saucisse de volaille, moutarde américaine, Pâte à pain croustillante avec jambon sec italien, Préparation au homard et poisson, salade,
+p2: ketchup et oignons frits salade roquette, pesto, tomates confites, olives sauce homardine, concombre et Pico de Gallo
+p2: Chicken sausage, american mustard, et Stracciatella dans un pain moelleux
+p2: ketchup and fried onions Crusty bread filled with prosciutto, rocket leaves, Lobster and fish mix, lettuce, sauce homardine,
+p2: pesto, sun-dried tomatoes, olives and Stracciatella cucumber and Pico de Gallo in a soft bread
+p2: POUR + DE GOURMANDISE
+p2: Avec sauce Accompagné de bouchées
+p2: +2€ +6,5€
+p2: au cheddar fumé ______________ de pommes de terre frites ____
+p2: With smoked flavoured cheddar sauce Served with fried potato tots
+p2: NOS PLANCHES / OUR PLATTERS
+p2: STANDARD VERSION XXL
+p2: PLANCHE DE CHARCUTERIES
+p2: ITALIENNES __________________________________________ 16€ ____________ 26€
+p2: ITALIAN DELI BOARD
+p2: Jambon italien, saucisson, coppa, pancetta, mortadelle aux pistaches et olives marinées
+p2: Prosciutto, salami, coppa, pancetta, mortadella with pistachio and marinated olives
+p2: PLANCHE DE FROMAGES
+p2: DES RÉGIONS FRANÇAISES ___________________ 16€ ____________ 26€
+p2: FRENCH CHEESE BOARD
+p2: Comté AOP, Saint-Nectaire AOP, Fourme d’Ambert AOP, Cantal Entre Deux AOP,
+p2: chèvre frais. Accompagnés d’une préparation à la cerise au chocolat
+p2: et piment d’Espelette
+p2: Comté PDO, Saint-Nectaire PDO, Fourme d’Ambert PDO, Cantal Entre Deux PDO,
+p2: soft goat’s cheese. Served with a cherry and chocolate condiment
+p2: with Espelette pepper
+p2: PLANCHE À L’ESPAGNOLE 18€ 28€
+p2: ____________________ ____________
+p2: SPANISH TAPAS BOARD
+p2: Jambon Serrano, lomo, chorizo, fromage Manchego AOP et amandes grillées,
+p2: patates sauce brava et sauce à l’ail
+p2: Serrano ham, lomo, chorizo, Manchego PDO cheese, roasted almonds,
+p2: fried potatoes with brava sauce and aioli
+p3: À GRIGNOTER
+p3: TO NIBBLE
+p3: LÉGUMES À CROQUER, SAUCE VÉGÉTALE PAIN À L’AIL EN PERSILLADE __________________________________ 9,5€
+p3: AUX CORNICHONS ET HERBES ________________________ 7,5€ GARLIC BREAD WITH PARSLEY
+p3: CRUNCHY VEGGIES WITH VEGAN PICKLE AND HERB SAUCE
+p3: Sucrine, radis, tomates cerise, concombre, carottes et chou-fleur
+p3: POULPE À LA GALICIENNE ____________________________________ 10,5€
+p3: Gem lettuce, radish, cherry tomatoes, cucumber, carrots and cauliflower
+p3: GALICIAN-STYLE OCTOPUS
+p3: BRETZEL BALLS 7,5€
+p3: ____________________________________________________
+p3: PRETZEL BALLS AIGUILLETTES DE POULET
+p3: PANÉES, SAUCE POIS-CAMOLE ______________________________ 11,5€
+p3: Servies tièdes avec sauce à la crème, tomate et paprika
+p3: BREADED CHICKEN STRIPS WITH GREEN PEA GUAC
+p3: Served with with creamy, tomato and paprika sauce
+p3: CROQUETAS AU JAMBON (6 PIÈCES) _________________________ 8,5€ CHIPS PIPER’S / CRISPS __________________________________ 4€
+p3: HAM CROQUETAS (6 PIECES)
+p3: CAMEMBERT CHAUD
+p3: ET QUARTIERS DE POMMES
+p3: DE TERRE FRITS _____________ 12,5€
+p3: BAKED CAMEMBERT
+p3: WITH FRIED
+p3: POTATO WEDGES
+p4: NOS
+p4: NOS PLATS /
+p4: OUR DISHES ACCOMPAGNEMENTS
+p4: OUR SIDE DISHES
+p4: CHOISISSEZ VOTRE PLAT
+p4: QUARTIERS DE POMMES
+p4: ET VOTRE ACCOMPAGNEMENT
+p4: DE TERRE FRITS 6,5€
+p4: ________________
+p4: FRIED POTATO WEDGES
+p4: CHOOSE YOUR MAIN DISH AND YOUR SIDE
+p4: BOUCHÉES DE POMMES
+p4: DE TERRE FRITES 6,5€
+p4: ______________
+p4: FRIED POTATO TOTS
+p4: BABY BACK RIBS 14€ TORTILLA DE BLÉ 17€
+p4: ______________________ ____________________
+p4: WHEAT TORTILLA
+p4: Travers de porc au sirop d’érable et sauce soja SALADE MÉLANGÉE,
+p4: Effiloché d’agneau, salade, pico de gallo, CROÛTONS ET VINAIGRETTE
+p4: Pork ribs with maple syrup and soy sauce
+p4: sauces pois-camole et au poivre noir
+p4: AGRUMES ________________________ 6,5€
+p4: Pulled lamb, lettuce, pico de gallo, green pea guac
+p4: MIXED SALAD WITH CROUTONS
+p4: VEGAN SANDWICH 15€ and black peppercorn sauce
+p4: __________
+p4: AND CITRUS DRESSING
+p4: Pain hot-dog, laitue, nuggets aux protéines de pois
+p4: , pico de gallo et sauce végétale
+p4: SOFT BREAD LOBSTER & FISH __ 19€ CHILI AUX PROTÉINES
+p4: façon tartare
+p4: DE SOJA ___________________ 8,5€
+p4: Hot dog roll, lettuce, pea protein nuggets, Préparation au homard et poisson, salade,
+p4: SOYA PROTEIN CHILLI
+p4: pico de gallo and tartare sauce sauce homardine, concombre et Pico de Gallo
+p4: dans un pain moelleux
+p4: Lobster and fish mix, lettuce, sauce homardine, POUR + DE GOURMANDISE
+p4: SANDWICH CHAUD BRETZEL ___ 16€
+p4: cucumber and Pico de Gallo in a soft bread
+p4: HOT PRETZEL SANDWICH
+p4: + Sauce au cheddar arôme fumé _____ +2€
+p4: Effiloché de poulet barbecue, oignons caramélisés,
+p4: pickles de chou rouge, sauce au poivre noir Smoked flavoured cheddar sauce
+p4: Pulled BBQ chicken, caramelised onions, pickled red
+p4: + Sauce au cheddar arôme fumé,
+p4: cabbage, black peppercorn sauce
+p4: +3,5€
+p4: bacon et oignons frits ________________
+p4: Smoked flavoured cheddar sauce,
+p4: bacon and fried onions
+p4: NOS PLATS
+p4: FISH & CHIPS ___________________________ 21,5€
+p4: COMPLETS
+p4: sauce tartare et citron
+p4: tartare sauce and lemon
+p4: OUR COMPLETE DISHES
+p4: AIGUILLETTES DE POULET PANÉES, MAC & CHEESE CHICKEN 19,5€ PATES SERPENTINI
+p4: _________
+p4: SAUCE POIS-CAMOLE AUX LÉGUMES __________________20,5€
+p4: Pâtes serpentini, sauce au cheddar arôme fumé,
+p4: ET QUARTIERS DE POMMES SERPENTINI PASTA WITH VEGETABLES
+p4: poulet, chili aux protéines de soja et pickles de maïs
+p4: DE TERRE FRITS _________________________ 15€
+p4: Serpentini pasta, smoked cheddar sauce, chicken, soy Carottes, tomates, courgettes, cive, huile de courge
+p4: BREADED CHICKEN STRIPS
+p4: protein chilli and pickled corn et rapé végétal saveur mozzarella
+p4: WITH GREEN PEA GUAC
+p4: Carrots, tomatoes, courgettes, spring onions, pumpkin
+p4: AND FRIED POTATO WEDGES
+p4: oil and grated plant-based mozzarella
+p4: MAC & CHEESE BEEF _________________20,5€
+p4: SANDWICH CHAUD BRETZEL Pâtes serpentini, sauce au cheddar fumé, effiloché de
+p4: ET QUARTIERS DE POMMES bœuf, oignons caramélisés et bacon de bœuf
+p4: DE TERRE FRITS 19€
+p4: ______________________ Serpentini pasta, smoked flavoured cheddar sauce,
+p4: HOT PRETZEL SANDWICH pulled beef, caramelised onions and beef bacon
+p4: AND FRIED POTATO WEDGES
+p5: NOS SALADES
+p5: OUR SALADS
+p5: SALADE BIEN-ÊTRE __________________________________________ 19€
+p5: WELLNESS BOWL
+p5: Salade, chou chinois, radis, concombre, oignons rouges, tomate, olives, baies de
+p5: goji, graines de courge, dés végétaux à la grecque, fèves de soja,
+p5: sauce végétale aux cornichons et herbes fraîches
+p5: Lettuce, chinese cabbage, radish, cucumber, red onion, tomato, olives, goji berries,
+p5: squash seeds, greek-style plant-based cubes, soya beans, vegan pickle and fresh
+p5: herb sauce
+p5: SALADE AU POULET ________________________________________________ 19€
+p5: CHICKEN SALAD
+p5: Chou chinois, haricots rouges, tomates cerise, aiguillettes de poulet panées, maïs
+p5: doré au four et sauce Ranch
+p5: Chinese cabbage, kidney beans, cherry tomatoes, breaded chicken strips,
+p5: roasted corn and Ranch dressing
+p5: SALADE AU SAUMON CUIT À LA FLAMME,
+p5: HUILE AUX ÉPICES CAJUN 22€
+p5: _______________________________________
+p5: FLAME-GRILLED SALMON SALAD, CAJUN-SPICED OIL
+p5: Salade romaine, œufs de caille, croûtons, parmesan, câpres
+p5: et sauce aux anchois
+p5: Cos lettuce, quail’s eggs, croutons, parmesan, capers and anchovy dressing
+p6: NOS DESSERTS
+p6: OUR DESSERTS
+p6: Gaufre BUBBLE AU SUCRE _____________________ 9€
+p6: SUGAR BUBBLE WAFFLE
+p6: POUR + DE GOURMANDISE
+p6: ____+1,5€
+p6: Avec au choix : sauce au chocolat, topping arôme citron ou caramel beurre salé
+p6: With to choose: chocolate sauce or lemon-flavoured topping or salted butter caramel
+p6: +2€
+p6: Avec crème fouettée ____________
+p6: With whipped cream
+p6: Sundae PARFUM VANILLE ____________________ 11,5€
+p6: VANILLA SUNDAE
+p6: Sauce au chocolat et brisures de cookie ou Sauce caramel
+p6: beurre salé et brisures de spéculoos ou Sauce fruits rouges
+p6: et fraises crispy
+p6: Chocolate sauce and crushed cookie or Salted butter caramel
+p6: sauce and crushed Biscoff or Red berry sauce
+p6: and crispy strawberries
+p6: POUR + DE GOURMANDISE
+p6: Avec crème fouettée ____________ +2€
+p6: With whipped cream
+p6: Gaufre PANIER À 3 POINTS _____________________ 13,5€
+p6: THREE-POINTER TREAT
+p6: Gaufre bubble, glace parfum vanille, topping arôme citron,
+p6: crème fouettée et meringue
+p6: Bubble waffle, vanilla ice cream, lemon-flavoured topping,
+p6: whipped cream and meringue
+p6: 1 - produit décongelé / defrosted product
+p7: Entremet BALLE DE BREAK1 10,5€
+p7: __________________________
+p7: GAME, SET & SNACK1
+p7: Entremet mousse citron, gâteau amandes
+p7: Lemon mousse entremet, almond cake
+p7: Coupe de glace XXL
+p7: SPORT CO’ GLACÉ
+p7: ICED TEAM SPIRIT
+p7: EXQUIS1
+p7: Entremet CORNER __________________________ 10,5€
+p7: Glace parfum vanille, coulis de fraise,
+p7: SWEET STRIKE1
+p7: sauce au chocolat, sauce caramel
+p7: Entremet mousse au chocolat et aux framboises, beurre salé, brisures de spéculoos,
+p7: gâteau aux amandes fruits, crème fouettée et biscuits
+p7: Chocolate and raspberry mousse entremet, Vanilla ice cream, strawberry coulis,
+p7: almond cake chocolate sauce, salted butter
+p7: caramel sauce, crushed Biscoff,
+p7: fruits, whipped cream and biscuits
+p7: Entremet NATIONAL
+p7: FRIANDISE LEAGUE1 __________________________________ 11,5€
+p7: NATIONAL TREAT LEAGUE1 Coupe jusqu'à 4 personnes 37€
+p7: Serves 4
+p7: Entremet au chocolat au lait et noisette, éclats de noisettes
+p7: et feuilletine croustillante
+p7: Coupe jusqu'à 8 personnes 49€
+p7: Milk chocolate and hazelnut entremet, crushed hazelnuts
+p7: Serves 8
+p7: and crispy wafer
+p7: Entremet GOBELET DU SUPPORTER1 __________ 11,5€
+p7: AFTER-MATCH TREAT1
+p7: Célébrez votre Anniversaire en notre compagnie
+p7: Entremet crémeux vanille, cœur fondant au cola, et commandez votre dessert en début de repas !
+p7: éclats de cerise griotte et biscuit moelleux à la vanille Celebrate your Birthday with us and order your
+p7: Vanilla cream entremet, melting cola centre, dessert at the beginning of your meal!
+p7: chopped morello cherries and vanilla sponge
+p7: Dessert jusqu'à 4 personnes 25€
+p7: MOELLEUX1
+p7: Entremet TIER TEMPS _____________ 13,5€ Serves 4
+p7: POWER PUCK1
+p7: Dessert jusqu'à 8 personnes 45€
+p7: Entremet mousse chocolat noir, insert brownie,
+p7: Serves 8
+p7: crémeux caramel et sa crosse en sablé
+p7: Dark chocolate mousse entremet, brownie insert,
+p7: caramel custard, shortbread hockey stick
+p7: ENERGY AUX FRUITS 11€
+p7: _________________________________
+p7: ENERGY FRUIT
+p7: Fromage blanc et graines de chia, purée d’açaï, muesli aux fruits,
+p7: amandes, noisettes, baies de goji, bananes, kiwi et myrtilles
+p7: Chia seeds in fromage blanc, acai purée, fruit muesli, almonds,
+p7: hazelnuts, goji berries, banana, kiwi and blueberries
+p7: "VEGANERGY" AUX FRUITS _______________ 11€
+p7: "VEGANERGY" FRUIT
+p7: Lait de coco aux graines de chia, purée d’açaï, muesli aux fruits,
+p7: amandes, noisettes, baies de goji, banane, kiwi et myrtilles
+p7: Chia seeds in coconut milk, acai purée, fruit muesli, almonds,
+p7: hazelnuts, goji berries, banana, kiwi and blueberries
+p8: NOS COCKTAILS
+p8: OUR COCKTAILS
+p8: CRÉATIONS
+p8: _________________________________________________________________________ 12,5€
+p8: O’REIPIÑA 3-0 CHAMPION
+p8: (18 cl) (18 cl)
+p8: Cachaça Magnífica de Faria - Tradicional Ipê, Vodka Smirnoff N°21 Red, liqueur de curaçao bleu,
+p8: (nectar2 d’ananas2,
+p8: fruit de la passion et pulpe), jus préparation au citron vert, pur jus de pomme, purée
+p8: concentré saveur citron vert, sirop bleu de fruit de noix de coco et spiruline
+p8: de la passion et piment d’Espelette Smirnoff N°21 Red vodka, blue curaçao liqueur, lime
+p8: Magnifica de Faria - Tradicional Ipê cachaça, passion preparation, pure apple juice, coconut purée and
+p8: (nectar2 juice2,
+p8: fruit and pulp), pineapple lime flavour spirulina
+p8: concentrate, blue passion fruit syrup
+p8: and Espelette pepper
+p8: ALLEY-OOP
+p8: (18 cl)
+p8: SWISS ACE
+p8: (18 cl) by
+p8: Gin Gordon’s London dry, concombre frais, Rhum blanc Trois Rivières, boisson concentrée
+p8: basilic frais, concentré saveur citron vert, au gingembre, concentré saveur citron vert,
+p8: préparation au kiwi et sirop saveur thé matcha préparation à la cerise, Coca-Cola Zéro Sucres
+p8: Gordon’s London dry gin, fresh cucumber, fresh Cherry - saveur cerise et pop-corn sucré
+p8: basil, lime flavour concentrate, kiwi preparation Trois Rivières white rum, ginger preparation, lime
+p8: and matcha tea flavour syrup flavour concentrate, cherry preparation, Coca-Cola
+p8: Zéro Sucres Cherry and sweet popcorn
+p8: IRON MIKE SOUR (18 cl)
+p8: Bourbon Buffalo Trace, cordial arôme poivre blanc QUEEN OF THE COURT (18 cl)
+p8: de Penja, blanc d’œuf, concentré mangue-passion,
+p8: by
+p8: sirop saveur chamallow grillé, Angostura aromatic
+p8: bitters et poivre de Timut Gin Gordon’s London dry, sirops saveurs hibiscus et
+p8: Buffalo Trace Bourbon, Penja pepper flavour cordial, curaçao bleu, concentré saveur citron vert, cordial
+p8: egg white, mango-passion fruit concentrate, toasted arôme Labdanum, nectar de cranberry2, menthe
+p8: marshmallow flavour syrup, Angostura aromatic fraîche, purée de myrtilles et Sprite
+p8: bitters and Timut pepper Gordon’s London dry gin, hibiscus
+p8: and blue curacao flavour syrups, lime flavour
+p8: concentrate, Labdanum flavour cordial, cranberry
+p8: nectar2, fresh mint, blueberry purée and Sprite
+p8: CLASSIQUES / CLASSIC COCKTAILS
+p8: ___________________________ 10€
+p8: LES MOJITOS (18 cl) LES SPRITZ (18 cl)
+p8: Sur une base de Mojito, feuilles de menthe fraîche DOC Prosecco Extra Dry, Perrier®
+p8: et morceaux de citron vert
+p8: ET AU CHOIX : Aperol, liqueur fleur de
+p8: On a Mojito base, fresh mint leaves and lime wedges
+p8: sureau-Fiorente, Campari bitter ou Limoncello
+p8: ET AU CHOIX : version originale,
+p8: AND A CHOICE OF: Aperol, Fiorente - elderflower
+p8: fruit de la passion, cerise, fraise ou kiwi
+p8: liqueur, Campari bitter or Limoncello
+p8: AND A CHOICE OF: original version,
+p8: passion fruit, cherry, strawberry or kiwi
+p8: 2 - jus à base de concentré de fruit / made from concentrated fruit juice
+p9: FROZEN TRILOGIE
+p9: Aux couleurs de la France DE SHOOTERS
+p9: In the colours of France
+p9: Dégustation
+p9: LA CEINTURE BLEUE (25 cl) _________ 12,5€ de 3 shooters
+p9: ____________ 12,5€
+p9: Rhum blanc Trois Rivières, purée de noix de coco,
+p9: Tasting of 3 shooters
+p9: jus d’ananas2, sirop bleu de fruit de la passion,
+p9: ananas frais, coco rapée et spiruline
+p9: Trois Rivières white rum, coconut purée, pineapple
+p9: LE BALLON D’OR (8 cl)
+p9: juice2, blue passion fruit syrup, fresh pineapple,
+p9: grated coconut and spirulina Cointreau, jus d’ananas2, cordial arôme poivre de Penja
+p9: Cointreau, pineapple juice2, Penja pepper
+p9: LA CEINTURE BLANCHE 12,5€
+p9: (25 cl) ____ flavour cordial
+p9: Rhum blanc Trois Rivières, concentré saveur citron
+p9: CRAZY DUNK (8 cl)
+p9: vert, sirop de vanille et citron vert frais
+p9: Cachaça Magnífica de Faria - Tradicional Ipê, miel
+p9: Trois Rivières white rum, lime flavour concentrate,
+p9: et boisson concentrée au gingembre
+p9: lime drink, vanilla syrup and fresh lime
+p9: Magnifica de Faria - Tradicional Ipê Cachaça, honey
+p9: and ginger concentrate drink
+p9: LA CEINTURE ROUGE (25 cl) ________ 12,5€
+p9: Téquila José Cuervo Silver, Cointreau, concentré MENTHOL SHOT (8 cl)
+p9: saveur citron vert, coulis de fraises, sirop de grenade,
+p9: Vodka Smirnoff N°21 Red, Get 27
+p9: fraise fraîche et fleur de sel de Guérande
+p9: et purée de pommes vertes
+p9: José Cuervo Silver Tequila, Cointreau, lime flavour Smirnoff N°21 Red vodka, Get 27 and green apple purée
+p9: concentrate, strawberry coulis, pomegranate syrup,
+p9: fresh strawberry and Guérande fleur de sel
+p9: NOS COCKTAILS SANS ALCOOL
+p9: Our alcohol free cocktails
+p9: CRÉATIONS
+p9: ___________________________________________________________________________________________________________________________________________ 9,5€
+p9: RUGBY’S MASTERMIND SCHUMI’THICAL DRIVER PISTOL PETE SMASH
+p9: (18 cl) (18 cl) (18 cl)
+p9: Nectar de poire, purée de pommes vertes, sirop Nectar de cranberry2, purée de grenades Concombre frais, boisson au kiwi, concentré saveur
+p9: citron vert et purée de pommes vertes
+p9: saveur curaçao bleu, purée de noix de coco, menthe et préparation à la cerise
+p9: fraîche et coco râpée Cranberry nectar2, pomegranate purée Fresh cucumber, kiwi drink, lime flavour concentrate and
+p9: Pear nectar, green apple purée, blue curaçao flavour and cherry preparation green apple purée
+p9: syrup, coconut purée, fresh mint and grated coconut
+p9: HÉROS DU TRIPLÉ (18 cl) by LA REINE DES AGRÈS (18 cl) by
+p9: FuzeTea saveur pêche, infusion de bissap, sirop saveur hibiscus Coca-Cola Original, préparation au pamplemousse, boisson concentrée au
+p9: et chamallow grillé gingembre, concentré saveur citron vert et barbe à papa
+p9: FuzeTea Peach black tea, bissap infusion, hibiscus flavour syrup Coca-Cola Original, grapefruit preparation, ginger concentrate drink, lime
+p9: and toasted marshmallow flavour concentrate and cotton candy
+p10: BIÈRES & CIDRES / VINS,
+p10: BEERS & CIDERS
+p10: CHAMPAGNE &
+p10: PRESSION / DRAUGHT (25 cl) (50 cl) BOUTEILLE / BOTTLED (33 cl)
+p10: 1664 PREMIUM ____________________ 5,5€ __ 8,5€ LA MORDUE ORIGINAL (27,5 cl)
+p10: EFFERVESCENT
+p10: CIDRE AROMATISÉ _________________________ 7€
+p10: CARLSBERG ________________________ 5,5€ __ 8,5€
+p10: FLAVOURED CIDER
+p10: 6€ 9€
+p10: GRIMBERGEN D’ABBAYE BLONDE _____ WINE, CHAMPAGNE
+p10: CORONA EXTRA ___________________________ 7,5€
+p10: 6€ 9€
+p10: BROOKLYN IPA ____________________ _____ & SPARKLING
+p10: DESPERADOS _______________________________ 7,5€
+p10: 6€ 9€
+p10: 1664 BLANCHE ____________________ _____
+p10: BRIARDE BLANCHE DE SEINE-ET-MARNE 8,5€
+p10: BIÈRE DE SAISON __________________ 6€ _____ 9€ 8,5€
+p10: BRIARDE IPA DE SEINE-ET-MARNE _______
+p10: VINS BLANCS / WHITE WINE
+p10: (15 cl) (75 cl)
+p10: MAGNERS IRISH CIDER
+p10: 6€ 9€
+p10: ORIGINAL - CIDRE ________________ _____ 1664 PREMIUM (50 cl) IGP Pays d’Oc - Naturalys
+p10: Gérard Bertrand - Chardonnay - Bio 7€ 30€
+p10: AVEC CHIPS __________________________10,5€ __ ____
+p10: GUINNESS STOUT _________________ 6,5€ __ 9,5€
+p10: Disneyland®
+p10: Cuvée Paris
+p10: BRIARDE BLONDE
+p10: AOP La Clape - Château L’Hospitalet
+p10: 6,5€ 9,5€ PICHET 1664 PREMIUM
+p10: DE SEINE-ET-MARNE _____________ ___
+p10: Bio - Demeter _________________________ 8,5€ _ 38€
+p10: PITCHER (1,5 l) __________________________ 20€
+p10: PICON - APÉRITIF À L'ORANGE
+p10: AOC Bourgogne Aligoté
+p10: 6,5€ 9,5€
+p10: & 1664 PREMIUM __________________ __
+p10: La Chablisienne _______________________ 8,5€ _ 38€
+p10: VINS ROSÉS / ROSÉ WINE
+p10: IGP Pays d’Oc - Gris Blanc ____________ 6,5€ _ 30€
+p10: BOISSONS FRAÎCHES
+p10: AOP Côtes de Provence - Minuty
+p10: Prestige Rosé _________________________ 7,5€ _ 33€
+p10: COLD DRINKS
+p10: (33 cl)
+p10: VINS ROUGES / RED WINE
+p10: PERRIER® _____________________________________ 3,8€ FUZETEA SAVEUR PÊCHE ___________________ 5€
+p10: PEACH BLACK TEA AOC Côtes du Rhône
+p10: INDIAN TONIC (20 cl) ________________________ 4€
+p10: 6,5€ 30€
+p10: Esprit - Brotte _________________________ _
+p10: TROPICO TROPICAL ________________________ 5€
+p10: COCA-COLA ORIGINAL ____________________ 5€
+p10: AOC Saint Emilion
+p10: GINGER BEER,
+p10: 5€ Fortin Plaisance 7€ 33€
+p10: COCA-COLA ZÉRO SUCRES ________________ _______________________ ____
+p10: TRADITIONAL LEMONADE (37,5 cl) _________ 5€
+p10: 5€ Disneyland®
+p10: COCA-COLA ZÉRO SUCRES CHERRY ______ Sélection de Bundaberg Cuvée Paris
+p10: AOP La Clape - Château L’Hospitalet
+p10: SAVEUR CERISE
+p10: Bio - Demeter _________________________ 8,5€ _ 38€
+p10: SPRITE SANS SUCRES _______________________ 5€
+p10: FANTA ORANGE SANS SUCRES ____________ 5€ CHAMPAGNE
+p10: Edition Spéciale Disneyland® Paris
+p10: Pierre Mignon - Grande Réserve - brut _17€ __ 77€
+p10: JUS DE FRUIT EAUX MINÉRALES
+p10: EFFERVESCENT / SPARKLING
+p10: FRUIT JUICE (25 cl) MINERAL WATERS (50 cl) (1 l)
+p10: Italie DOC Prosecco Extra Dry ___________30€
+p10: JUS D’ORANGE OU DE POMME ___________ 4,3€ VITTEL ___________________________ 3,8€ ____4,8€
+p10: ORANGE OR APPLE JUICE
+p10: S.PELLEGRINO ______________________________ 5€
+p11: LIQUEURS
+p11: (4 cl) _________________________________________________________ 7,5€
+p11: AMARETTO DISARONNO NOISETTE - FRANGELICO
+p11: BAILEY'S THE ORIGINAL IRISH CREAM GET 27
+p11: COINTREAU JÄGERMEISTER
+p11: CAFÉ - FAIR LIMONCELLO MAMMA MIA
+p11: FLEUR DE SUREAU - FIORENTE
+p11: SPIRITUEUX
+p11: SPIRITS
+p11: (4 cl)
+p11: APÉRITIFS
+p11: (6 cl) _____ 6,5€ VODKAS WHISKIES
+p11: DOLIN - VERMOUTH DE CHAMBERY BLANC SMIRNOFF N°.21 RED ________________ 6,5€ AMÉRICAINS/ AMERICANS
+p11: DOLIN - VERMOUTH DE CHAMBERY ROUGE BELVEDERE ORGANIC - BIO ________ 7,5€ BUFFALO TRACE BOURBON ________ 6,5€
+p11: 8,5€
+p11: CAMPARI BITTER BULLEIT RYE FRONTIER WHISKEY _
+p11: GINS
+p11: 9€
+p11: APEROL JACK DANIEL'S OLD N°7 _____________
+p11: GORDON’S LONDON DRY __________ 8,5€
+p11: RICARD - PASTIS DE MARSEILLE (4 cl) ÉCOSSAIS / SCOTTISH
+p11: 8,5€
+p11: TANQUERAY N°TEN _________________
+p11: SCOTCH BLENDED
+p11: 8,5€
+p11: BOMBAY SAPPHIRE __________________
+p11: MONKEY SHOULDER ________________ 8,5€
+p11: JOHNNIE WALKER
+p11: RHUMS - CACHAÇA
+p11: BLACK LABEL - 12 ANS ______________ 9,5€
+p11: BOISSONS __________ 7,5€
+p11: TROIS RIVIÈRES BLANC
+p11: SCOTCH MALTS
+p11: _8,5€
+p11: FLOR DE CAÑA EXTRA SECO 4 ANS
+p11: GLENFIDDICH 12
+p11: SANS ALCOOL
+p11: ANGOSTURA 5 ANS TRIPLE OAK TWELVE ________________ 8,5€
+p11: 8,5€
+p11: SUPERIOR GOLD _____________________
+p11: IRLANDAIS / IRISH
+p11: ALCOHOL FREE BEVERAGES
+p11: MAGNIFICA DE FARIA -
+p11: BUSHMILLS THE ORIGINAL _________ 8,5€
+p11: 8,5€
+p11: TRADICIONAL IPÊ ____________________
+p11: BIÈRE
+p11: BEER
+p11: (33 cl)
+p11: EAUX-DE-VIE
+p11: TEQUILAS
+p11: 6€
+p11: 1664 0.0%
+p11: COGNAC COURVOISIER VSOP _____ 7,5€
+p11: 7,5€
+p11: JOSÉ CUERVO SILVER ________________
+p11: EFFERVESCENT
+p11: SAMBUCA ____________________________ 7,5€
+p11: SPARKLING 8,5€
+p11: (75 cl) EL ESPOLÓN REPOSADO ____________
+p11: 45€
+p11: NOOH BY LA COSTE - ROSÉ - 0% ALCOOL
+p12: Une saveur café intense, une douceur
+p12: irrésistiblement rafraîchissante.
+p12: Bold coffee flavour, irresistibly smooth
+p12: and refreshing.
+p12: BOISSONS CHAUDES
+p12: HOT DRINKS
+p12: CAPPUCCINO FC 10,5€ 3,3€
+p12: ____________________________________ DÉCAFÉINÉ / DECAFFEINATED ____________________________
+p12: Liqueur de noisette - Frangelico, liqueur de café - Fair, cappuccino, ESPRESSO 100% ARABICA ________________________________ 3,5€
+p12: crème fouettée, sauce caramel
+p12: CAFÉ 100% ARABICA / COFFEE ___________________________ 3,8€
+p12: et éclats de pistaches
+p12: Frangelico - hazelnut liqueur, Fair - coffee liqueur, cappuccino, DOUBLE ESPRESSO 100% ARABICA _____________________ 4€
+p12: whipped cream, caramel sauce and pistachio flakes
+p12: CAFÉ AU LAIT / COFFEE WITH MILK ______________________ 4,2€
+p12: CAPPUCCINO _______________________________________________ 4,2€
+p12: DOUBLÉ GAGNANT 10,5€
+p12: ________________________________
+p12: Liqueur Amaretto Disaronno, cordial arôme Palo Santo, double
+p12: LAIT DEMI-ÉCRÉMÉ / SEMI-SKIMMED MILK (20 cl) _______ 3,5€
+p12: espresso Lavazza, crème fouettée, sauce caramel
+p12: et cannelle moulue THÉ, INFUSION / TEA, HERBAL TEA _______________________ 3,8€
+p12: Amaretto Disaronno liqueur, Palo Santo flavoured cordial, Lavazza
+p12: HOT CHOCOLATE 4,4€
+p12: CHOCOLAT CHAUD / _________________
+p12: double espresso, whipped cream, caramel sauce
+p12: 4€
+p12: et ground cinnamon BOISSON VÉGÉTALE COCO OU SOJA (20 cl) _____________
+p12: PLANT-BASED DRINK COCONUT OR SOYA
+p13: COLD BREW
+p13: SPORT’S BAR COLD BREW 7,5€ COLD BREW CINNAMON ROLL 7,5€
+p13: __________________________ ___________________
+p13: Lait de coco, concentré de cold brew parfum café, sirops saveur piña Lait (ou boisson végétale : coco ou soja), concentré de cold brew
+p13: colada et thé matcha, crème fouettée, poudre de matcha parfum café, sirop saveur roulé à la cannelle, crème fouettée
+p13: et noix de coco râpée et poudre de cannelle moulue
+p13: Coconut milk, coffee flavour cold brew concentrate, piña colada and Milk (or plant-based drink: coconut or soya), coffee flavour cold brew
+p13: matcha tea flavour syrups, whipped cream, matcha powder concentrate, cinnamon roll flavour syrup, whipped cream
+p13: and grated coconut and ground cinnamon powder
+p13: COLD BREW CARAMEL BEURRE SALÉ _________ 7,5€ COLD BREW MARSHMALLOW GRILLÉ _________ 7,5€
+p13: Lait (ou boisson végétale : coco ou soja), concentré de cold brew Lait (ou boisson végétale : coco ou soja), concentré de cold brew
+p13: parfum café, sirop saveur caramel salé, crème fouettée parfum café, sirop saveur chamallow grillé, crème fouettée
+p13: et sauce caramel et chamallow grillé
+p13: Milk (or plant-based drink: coconut or soya), coffee flavour cold brew Milk (or plant-based drink: coconut or soya), coffee flavour cold brew
+p13: concentrate, salted caramel flavour syrup, whipped cream concentrate, toasted marshmallow flavour syrup, whipped cream and
+p13: and caramel sauce toasted marshmallow
+p13: COLD BREW VANILLE _________________________________ 7,5€ COLD BREW BROWNIES _____________________________ 7,5€
+p13: Lait (ou boisson végétale : coco ou soja), concentré de cold brew Lait (ou boisson végétale : coco ou soja), concentré de cold brew
+p13: parfum café, sirop de vanille, crème fouettée et sauce caramel parfum café, sirop saveur brownie, crème fouettée et sauce cacao
+p13: Milk (or plant-based drink: coconut or soya), coffee flavour cold brew Milk (or plant-based drink: coconut or soya), coffee flavour cold brew
+p13: concentrate, vanilla syrup, whipped cream and caramel sauce concentrate, brownie flavour syrup, whipped cream
+p13: and cacao sauce
+p13: SMOOTHIES
+p13: SMOOTHIE MANGUE, SMOOTHIE POMME, POIRE,
+p13: ABRICOT, GOYAVE 6,5€ ANANAS, BANANE 6,5€
+p13: ____________________ ___________________
+p13: Mango, apricot, guava smoothie Apple, pear, pineapple, banana smoothie
+p13: SURF’UP SMOOTHIE _________________ 9,5€ BOBSLEIGH SMOOTHIE ____________ 9,5€
+p13: Fruit de la passion frais, smoothie mangue-abricot- Concombre frais, menthe et basilic frais,
+p13: goyave, lait de coco et frappé saveur yaourt spiruline, smoothie pomme-poire-ananas-banane,
+p13: Fresh passion fruit, mango-apricot-guava smoothie, boisson au soja, frappé saveur yaourt
+p13: coconut milk and yogurt flavour frappé Fresh cucumber, mint and basil, spirulina,
+p13: apple-pear-pineapple-banana smoothie,
+p13: soya drink, yogurt flavour frappé
+p14: gnidnib-non
+p14: era
+p14: sotohp
+p14: noitatneserP
+p14: /
+p14: selleutcartnoc-non
+p14: sotohP
+p14: -
+p14: 62/80
+p14: Prix nets / Tax included
+p14: -
+p14: yensiD©
+p14: Eau potable à votre disposition / Drinking water available
+p14: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p14: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have
