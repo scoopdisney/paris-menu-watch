@@ -1,0 +1,75 @@
+name: Daily Disneyland Paris menu scan
+
+on:
+  schedule:
+    - cron: '0 6,9,12,15,18,21,0,3 * * *'
+  workflow_dispatch:
+  push:
+    paths-ignore:
+      - 'data/**'
+      - 'README.md'
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: paris-menu-scan
+  cancel-in-progress: false
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install poppler (PDF page renders) and pdfplumber
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq poppler-utils poppler-data
+          pip install -q -r requirements.txt
+
+      - name: Sweep Disneyland Paris menus and diff
+        run: python3 scan.py
+
+      - name: Commit snapshot
+        run: |
+          git config user.name "paris-menu-watch"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data
+          if git diff --staged --quiet; then
+            echo "Nothing changed in data/"
+          else
+            git commit -m "Paris menu snapshot $(date -u +%Y-%m-%d)"
+            git pull --rebase --autostash
+            git push
+          fi
+
+      - name: Post summary
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ ! -f POST_COMMENT ]; then
+            echo "Quiet run and daily summary already posted today — skipping comment."
+            exit 0
+          fi
+          ISSUE=$(gh issue list --label daily-log --state open --limit 1 --json number --jq '.[0].number // empty')
+          if [ -z "$ISSUE" ]; then
+            gh label create daily-log --color 0e8a16 --description "Disneyland Paris menu alerts" || true
+            URL=$(gh issue create \
+              --title "Disneyland Paris menu watch - daily log" \
+              --label daily-log \
+              --body "One summary every day, plus an immediate comment whenever a restaurant's menu PDF changes (new file, new prices, added or removed items) or a venue appears or disappears. Changed menus are rendered as page images and linked from the comment.")
+            ISSUE=$(basename "$URL")
+          fi
+          {
+            echo "@scoopdisney"
+            echo ""
+            cat summary.md
+          } > comment-body.md
+          gh issue comment "$ISSUE" --body-file comment-body.md
