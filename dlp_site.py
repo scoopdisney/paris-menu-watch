@@ -1,5 +1,7 @@
 """Site + PDF gathering for paris-menu-watch: sitemap discovery, venue pages, conditional PDF download/parse."""
 import hashlib, os, re, sys
+from datetime import datetime
+from zoneinfo import ZoneInfo
 from concurrent.futures import ThreadPoolExecutor
 
 from menu_pdf import parse_pdf
@@ -18,7 +20,7 @@ def gather(NOW):
     def abort(reason):
         os.makedirs('data', exist_ok=True)
         with open('summary.md', 'w', encoding='utf-8') as f:
-            f.write(f'## Paris menu scan {NOW} UTC — ABORTED\n\n{reason}\n\nSnapshot left untouched.\n')
+            f.write(f'## Paris menu scan {datetime.now(ZoneInfo('America/Los_Angeles')).strftime('%a, %b %-d, %Y, %-I:%M %p %Z')} — ABORTED\n\n{reason}\n\nSnapshot left untouched.\n')
         open('POST_COMMENT', 'w').write('1')
         print('ABORTED:', reason)
         sys.exit(0)
