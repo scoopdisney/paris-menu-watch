@@ -1,40 +1,93 @@
-p1: GLACES /ICE CREAMS
-p1: Glace Labyrinthe des Merveilles ..................77€€
-p1: Glace parfum vanille
-p1: Curious Labyrinth ice cream
-p1: Vanilla fl avour ice cream
-p1: A’ Door’ able glace ........................................................................................................77€€
-p1: GGllaaccee ppaarrffuumm vvaanniillllee,, bbrroowwnniieess eett ééccllaattss dd’’aammaannddeess
-p1: et de noisettes caramélisées
-p1: Won’ Door’ Land ice cream
-p1: Vanilla fl avour ice cream, brownies and caramelized almonds
-p1: and hazelnuts slivers
-p1: Glace Joyeux non-anniversaire .........................7€
-p1: Glace parfum vanille, sauce caramel beurre salé et pop-corn
+p1: Glace Joyeux
+p1: non-anniversaire
+p1: Glace parfum vanille,
+p1: sauce caramel beurre
+p1: salé et pop-corn
 p1: The Unbirthday ice cream
-p1: Vanilla fl avour ice cream, salted butter caramel sauce and popcorn
-p1: COLD DRINKS
-p1: BOISSONS FRAÎCHES /
+p1: Vanilla fl avour ice cream,
+p1: salted butter caramel sauce
+p1: and popcorn
+p1: 7€
+p1: Glace Labyrinthe
+p1: des merveilles
+p1: Glace parfum vanille
+p1: Curious Labyrinth
+p1: ice cream
+p1: Vanilla fl avour ice cream
+p1: 7€
+p1: A’ Door’ able glace
+p1: Glace Reine de Coeur Glace parfum vanille,
+p1: brownies,
+p1: Cornet gauffré noir, glace parfum vanille,
+p1: éclats d’amandes
+p1: coulis mangue-passion
+p1: eett ddee nnooiisseetttteess ccaarraamméélliissééeess
+p1: et cœurs au beurre de cacao
+p1: Won’ Door’ Land
+p1: Her Majesty’s Meltdown
+p1: ice cream
+p1: Black crimped cone, vanilla fl avour ice cream,
+p1: VVaanniillllaa flfl aavvoouurr iiccee ccrreeaamm,,
+p1: mango and passion fruit coulis,
+p1: brownies,
+p1: and cocoa butter hearts caramelized almonds
+p1: 7€
+p1: and hazelnuts slivers
+p1: 7€
+p1: BOISSONS CHAUDES BOISSONS FRAÎCHES
 p1: eraH
 p1: hcraM
-p1: /
-p1: gnidnib-non
-p1: era
+p1: HOT DRINKS COLD DRINKS
+p1: / gnidnib-non
+p1: Espresso 100% Arabica................................ 3,3€
+p1: Double Espresso 100% Arabica ............3,8€ era
 p1: sotohp
-p1: noitatneserP
-p1: /
-p1: selleutcartnoc
-p1: 50 cl 50 cl 50 cl 50 cl 40 cl 40 cl 5500 ccll 50 cl
+p1: 3,5€
+p1: Café 100% Arabica/ Coff ee .......................
+p1: 50 cl 50 cl 50 cl noitatneserP
+p1: Café au lait / Coff ee with milk ......................4€
 p1: 4,2€ 3,5€ 3,8€
+p1: Cappuccino............................................................. 4€
+p1: / selleutcartnoc
+p1: 4,2€
+p1: Chocolat chaud / Hot chocolate ..............
+p1: Thé, infusion / Tea, herbal tea .................... 3,5€
 p1: non
-p1: sotohP
-p1: 3,8€
-p1: Jus d’orange ou de pomme /Orange or apple juice .................................................
-p1: 23,5 cl
-p1: -
-p1: 62/40
+p1: Jus d’orange ou de pomme 23,5 cl 3,8€ sotohP
+p1: Orange or apple juice
+p1: - 62/90
 p1: -
 p1: yensiD©
 p1: Prix nets - Nous n’acceptons pas les coupures au-delà de 50€
 p1: Tax included - We do not accept notes over €50
-p1: 00000044__MMaarrcchh--hhaarree__ddrrooiittee__336655xx442288..iinndddd 11 1155//0044//22002266 1188::2255
+p1: 00000055__MMaarrcchh--hhaarree__118800xx228800..iinndddd 11 1177//0099//22002266 0077::5500
+p2: Pause Gourmande
+p2: 10€
+p2: SWEET BREAK
+p2: Glace Reine de coeur
+p2: et boisson chaude ou fraîche
+p2: Her majesty’s Meltdown
+p2: and a hot or a cold drink
+p2: Glace Reine de Coeur
+p2: Cornet gauffré noir,
+p2: glace parfum vanille,
+p2: coulis mangue-passion
+p2: et cœurs au beurre de cacao
+p2: Her Majesty’s Meltdown
+p2: Black crimped cone, vanilla fl avour ice cream,
+p2: mango and passion fruit coulis,
+p2: eraH
+p2: and cocoa butter hearts hcraM
+p2: 7€ / gnidnib-non
+p2: era
+p2: sotohp
+p2: noitatneserP
+p2: /
+p2: selleutcartnoc
+p2: non
+p2: sotohP
+p2: - 62/90
+p2: Prix nets - Nous n’acceptons pas les coupures au-delà de 50€ -
+p2: yensiD©
+p2: Tax included - We do not accept notes over €50
+p2: 00000055__MMaarrcchh--hhaarree__118800xx228800..iinndddd 22 1177//0099//22002266 0077::5500

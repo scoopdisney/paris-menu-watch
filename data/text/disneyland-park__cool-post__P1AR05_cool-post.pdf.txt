@@ -1,65 +1,96 @@
-p1: Pause goûter
-p1: Sweet break
-p1: 3 mini gaufres Mickey1
+p1: Pause Gourmande
+p1: L’Étrange Biscuit1
+p1: 8€
+p1: Fourré parfum chocolat-noisette
+p1: SWEET BREAK
+p1: Jack’s Fright Bite1
+p1: Chocolate-hazelnut fi lled
+p1: Gaufres Mickey Farceur1
+p1: 6€
+p1: et boisson chaude ou fraîche
+p1: mischievous mickey waffles1
+p1: mini Gaufres
+p1: and a hot or a cold drink
+p1: Mickey Farceur1
 p1: et crème fouettée
-p1: eett bbooiissssoonn cchhaauuddee ou fraîche
-p1: 33 mmiinnii MMiicckkeeyy wwaafflffl eess1
-p1: aanndd wwhhiippppeedd ccrreeaamm
-p1: aanndd aa hhoott oorr aa ccoolldd ddrriinnkk
-p1: 88€€
-p1: 33333 mmmmmiiiiinnnnniiiii gggggaaaaauuuuufffffrrrrreeeeesssss MMMMMiiiiiccccckkkkkeeeeeyyyyy111 eeeeettttt cccccrrrrrèèèèèmmmmmeeeee fffffooooouuuuueeeeettttttttttéééééeeeee
-p1: Chips Lay’s®
-p1: 333 mmmiiinnniii MMMiiiccckkkeeeyyy wwwaaafflfflffl eeesss11 aaannnddd wwwhhhiiippppppeeeddd cccrrreeeaaammm
-p1: Crisps
+p1: Mischievous mini
+p1: Mickey Waffles1
+p1: and whipped cream
 p1: 5,5€
-p1: 3,8€
-p1: Magnum® Cornetto® Solero® Fraise & Citron vert
-p1: Amande Soft Glace Mickey
-p1: Stracciatella & Sauce Caramel Saveur vanille
-p1: Magnum® Almond Glace vanille
-p1: Stracciatella & Caramel Sauce
-p1: Mickey Ice Cream Bar
-p1: Solero® Strawberry Twist
+p1: Seau Mickey
+p1: Halloween
+p1: avec pop-corn sucré
+p1: Bucket
+p1: LLLeee BBBrrrooowwwnnniiieee dddeee MMMiiinnnuuuiiittt11
+p1: with sweet popcorn
+p1: 26€
+p1: BBrroowwnniiee eett ggaannaacchhee aauu cchhooccoollaatt
+p1: dont éco-participation
+p1: PPhhaannttoomm CClloocckk BBrroowwnniiee11
+p1: Chocolate ganache fi lled
+p1: 5,5€
+p1: Magnum® Cornetto® Solero® Fraise
+p1: Soft Glace Mickey
+p1: Amande Stracciatella & Citron vert Saveur vanille
+p1: & Sauce Caramel
+p1: Mickey
+p1: Glace vanille
+p1: Magnum®
+p1: Stracciatella
+p1: Ice Cream Bar
+p1: Solero®
+p1: Almond && CCaarraammeell SSaauucce
+p1: Vanilla fl avour
+p1: Strawberry Twist
+p1: 44,,33€€
 p1: 4€
-p1: 4,3€ Vanilla fl avour
+p1: 4,5€
 p1: Vanilla ice cream
-p1: 3,5€ 4,5€
-p1: Boissons chaudes /
+p1: 3,5€
+p1: Boissons chaudes
 p1: Hot drinks
-p1: Espresso 100% Arabica .................................. 3,3€ Chocolat chaud / Hot chocolate ...................... 4,2€
-p1: Double Espresso 100% Arabica ...................... 3,8€ Cappuccino ................................................... 4€
-p1: Café 100% Arabica / Coff ee ........................... 3,5€
-p1: Thé, infusion / Tea, herbal tea ......................... 3,5€
-p1: Café au lait / Coff ee with milk ......................... 4€
-p1: 5500 ccll 40 cl 50 cl 5500 ccll
-p1: 50 cl 5500 ccll 5500 ccll 5500 ccll 4400 ccll
-p1: 4,2€ tsoP
-p1: 3,8€ 3,5€
-p1: looC
+p1: Espresso 100% Arabica ................... 3,3€
+p1: Double Espresso 100% Arabica ....... 3,8€
+p1: Café 100% Arabica / Coff ee ........... 3,5€
+p1: 50 cl 50 cl 50 cl
+p1: Café au lait / Coff ee with milk ......... 4€
+p1: 4,2€ 3,5€ 3,8€
+p1: Chocolat chaud / Hot chocolate ...... 4,2€
+p1: Cappuccino .................................... 4€
 p1: Jus d’orange ou de pomme / Orange or apple juice 3,8€
-p1: 23,5 cl
-p1: -
-p1: gnidnib-non
+p1: l 23,5 cl
+p1: Thé, infusion / Tea, herbal tea .......... 3,5€
+p1: MMuugg Roi Lion PPaaiillllee MMiicckkeeyy GGoouurrddee Simba
+p1: oouu MMiinnnniiee
+p1: SSiippppeerr
+p1: 1177€€ avec une
+p1: boisson chaude SSttrraaww tsoP
+p1: avec une
+p1: 1177€€
+p1: with a hot drink
+p1: looC
+p1: boisson fraîche
+p1: 77€€ avec une
+p1: with a cold drink -
+p1: boisson fraîche gnidnib-non
+p1: with a cold drink
 p1: era
 p1: sotohp
-p1: Souvenirs
 p1: noitatneserP
-p1: Mug Simba / Simba Mug ...................................... 15€ Seau Mickey ou Minnie avec pop-corn sucré ........ 15€
-p1: -selleutcartnoc
-p1: avec boisson chaude / and a hot drink .................. 17€ Bucket with sweet popcorn
-p1: Gobelet / Tumbler ............................................... 15€
-p1: Paille Mickey ou Minnie / Straw ........................... 6€
-p1: avec boisson fraîche / with a cold drink ................ 17€
-p1: avec boisson fraîche / and a cold drink ................. 7€
+p1: SSeeaauu MMiicckkeeyy ou Minnie -selleutcartnoc
+p1: CChhiippss LLaayy’’ss®
+p1: BBuucckkeett
+p1: CCrriissppss
+p1: 1155€€ avec pop-corn sucré
+p1: 3,8€
+p1: 4455gg
+p1: with sweet popcorn
 p1: non
-p1: Mug .................................................................... 15€
 p1: sotohP
-p1: Gourde Simba / Sipper 15€
-p1: avec boisson chaude / with a hot drink ................. 17€
-p1: avec boisson fraîche / and a cold drink ................. 17€
 p1: -
-p1: 62/40
+p1: 62/90
 p1: -
 p1: yensiD©
-p1: Prix nets - 1 produit décongelé - Nous n’acceptons pas les coupures au-delà de 50€ / Tax included - 1 defrosted product - We do not accept notes over €50
-p1: 00000044__CCooooll--PPoosstt__SSuucceettttee__551100xx884400..iinndddd 11 1155//0044//22002266 1133::4466
+p1: Prix nets - 1 produit produit décongelé décongelé - - Nous Nous n’acceptons n’acceptons pas pas les les coupures coupures au-delà au-delà de de 50€ 50€
+p1: Tax included - 1 defrosted product - We do not accept notes over €50
+p1: 00000055__CCooooll--PPoosstt__SSuucceettttee__551100xx884400..iinndddd 11 1177//0099//22002266 1188::2222

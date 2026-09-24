@@ -1,99 +1,124 @@
-p1: 11
-p1: CCLLAASSSSIIQQUUEE BBAACCOONN CCHHEEDDDDAARR NNAACCHHOOSS VVÉÉGGÉÉTTAALL
-p1: CCLLAASSSSIICC 11 PPLLAANNTT--BBAASSEEDD
-p1: Saucisse de volaille Saucisse de volaille avec Doritos®
-p1: Saucisse de volaille Chili aux protéines
-p1: avec sauce au cheddar, bacon, Sweet chili pepper - piment doux,
-p1: avec ketchup de soja et saucisse
-p1: oignons frits, ketchup oignons caramélisés
-p1: et moutarde américaine végétale
-p1: et moutarde américaine et sauce barbecue
-p1: Turkey sausage with ketchup Turkey sausage with cheddar sauce, bacon, Chilli with soya proteins
-p1: Turkey sausage
-p1: and American mustard crispy onions, ketchup and veggie sausage
-p1: with Sweet chili pepper Doritos®,
+p1: CCLLAASSSSIIQQUUEE 11 BBBAAACCCOOONNN CCCHHHEEEDDDDDDAAARRR
+p1: CCLLAASSSSIICC 11 Saucisse de volaille avec sauce au cheddar,
+p1: bacon, oignons frits,
+p1: Saucisse de volaille
+p1: ketchup et moutarde américaine
+p1: avec ketchup et moutarde américaine
+p1: Turkey sausage with cheddar sauce,
+p1: Turkey sausage with ketchup
+p1: bacon, crispy onions, ketchup
 p1: and American mustard
-p1: 10,5€ caramelised onions and barbecue sauce
+p1: and American mustard
+p1: 1100,,55€€
+p1: 1111,,55€€
+p1: NNNAAACCCHHHOOOSSS VVVÉÉÉGGGÉÉÉTTTAAALLL
+p1: Saucisse de volaille avec Doritos® PPLLAANNTT--BBAASSEEDD
+p1: Sweet chili pepper - piment doux,
+p1: Chili aux protéines de soja
+p1: oignons caramélisés et sauce barbecue
+p1: et saucisse végétale
+p1: Turkey sausage with Sweet chilli pepper Doritos®,
+p1: Chilli with soya proteins
+p1: caramelised onions and barbecue sauce
+p1: and veggie sausage
 p1: 11,5€
-p1: 11,5€ 11,5€
-p1: Nuggets au poulet x8 Frites
-p1: Salade Tomates cerise
-p1: Chicken nuggets x8
-p1: Fries
-p1: Vegan salad Cherry tomatoes
-p1: Sauce : Mayonnaise ou/or ketchup
-p1: 4,5€
-p1: 12€ 3,3€
-p1: 9,5€
-p1: PPaauussee GGooûûtteerr 7€
-p1: DDeesssseerrtt MMiicckkeeyy22 5€
-p1: SSwweeeett BBrreeaakk
-p1: Mousse chocolat et génoise
-p1: Brownie au chocolat et noix de pécan2
-p1: Chocolate mousse
-p1: et boisson chaude ou fraîche
-p1: and sponge cake
-p1: Chocolate and pecan nuts brownie2
-p1: and a hot or a cold drink
-p1: Sachet de fruit _________________________________________________________________________________________4€
-p1: Fruit bag
-p1: Yaourt sur lit de fruit _________________________________________________________________________________________3€
-p1: Yoghurt with a fruit layer
-p1: ___________________________________________________________3,8€
-p1: Brownie au chocolat et noix de pécan2
-p1: Chocolate and pecan nuts brownie2
-p1: BBooiissssoonnss cchhaauuddeess //
-p1: HHoott ddrriinnkkss
-p1: Magnum® Magnum®
-p1: Espresso 100% Arabica __________________________________________________________________________________3,3€
-p1: Amande Vegan Amande
-p1: Double Espresso 100% Arabica ____________________________________________________________________3,8€
-p1: Almond Almond vegan
-p1: 4€ 4€ Café 100% Arabica / Coffee __________________________________________________________________________3,5€
-p1: Café au lait / Coffee with milk ________________________________________________________________________4€
-p1: Cappuccino _______________________________________________________________________________________________________4€
-p1: Chocolat chaud / Hot chocolate ____________________________________________________________________4,2€
-p1: Thé, infusion / Tea, herbal tea _________________________________________________________________________3,5€
-p1: BBooiissssoonnss ffrraaîîcchheess // CCoolldd ddrriinnkkss
-p1: 50 cl
-p1: JJUUSS JJUUSS
-p1: DD''OORRAANNGGEE DDEE PPOOMMMMEE
-p1: gnidnib-non
-p1: ORANGE APPLE
-p1: Magnum® La Pistache Cornetto® King Cône JUICE JUICE
-p1: La Pistache Sauce cacao 23,5 cl
-p1: Cocoa sauce 4,2€ 3,8€ 3,5€ 3,8€
-p1: 4€ era
-p1: 4,3€ sotohp
-p1: _____________________________________________________2,5€
-p1: Lait demi-écrémé 20 cl / Semi-skimmed milk
-p1: noitatneserP
-p1: BBiièèrree // BBeeeerr ________________________________________________________________________6,3€
-p1: Bud®
-p1: 33 cl
-p1: /
-p1: selleutcartnoc
-p1: SSoouuvveenniirrss
-p1: Paille Mickey ou Minnie / Straw _____________________________________________________________________6€
-p1: non
-p1: ________________________________________________________7€
-p1: avec boisson fraîche / with a cold drink
-p1: sotohP
-p1: Push Up Haribo® Twister® Frrreeze
-p1: Mug ______________________________________________________________________________________________________________________15€
-p1: Parfum vanille, sauce fraise Parfums framboise, _________________________________________________________17€
-p1: avec boisson chaude / with a hot drink -
-p1: orange et pêche 62/40-
-p1: Vanilla flavour, strawberry sauce
-p1: Raspberry, orange ___________________________________________________________________________________________15€
-p1: Gobelet / Tumbler
-p1: 3,5€ yensiD©
-p1: and peach flavours
-p1: avec boisson fraîche / with a cold drink ________________________________________________________17€
-p1: 3,5€
-p1: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
-p1: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have
-p1: Prix nets / Tax included - 1 Ce hot-dog peut être servi sans pain notamment pour les personnes souffrant d’allergie ou d’intolérance au gluten. Toutefois, malgré notre vigilance lors
-p1: de la confection de nos plats, le risque d’éventuelles contaminations croisées ne peut être totalement écarté / This hot dog can be served without the bread bun, in particular in the
-p1: case of allergies or gluten intolerance. However, despite our vigilance when preparing dishes, we cannot guarantee they are completely free of allergens
+p1: 11,5€
+p1: Nuggets au poulet x8 Salade
+p1: Chicken nuggets x8 Quinoa, boulgour, orge, lentilles,
+p1: Tomates cerise FFrriitteess
+p1: Sauce : Mayonnaise soja, boulettes pois chiches-coco-curry,
+p1: tomates séchées marinées, noix de cajou
+p1: Cherry tomatoes Fries
+p1: ou / or ketchup
+p1: Vegan salad
+p1: 3,3€ 4,5€ 9,8€
+p1: Quinoa, bulgur, barley, lentils,
+p1: soybeans, chickpea-coco-curry balls,
+p1: marinated sun-dried tomatoes, cashew nuts
+p1: 12€
+p1: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible,
+p1: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p1: A list of the allergens present in our dishes is available upon request with any of our Cast Members;
+p1: please make a Cast Member aware of any allergies you may have
+p1: Prix nets / Tax included - 1 Ce hot-dog peut être servi sans pain notamment pour les personnes souff rant d’allergie ou d’intolérance au gluten.
+p1: Toutefois, malgré notre vigilance lors de la confection de nos plats, le risque d’éventuelles contaminations croisées ne peut être totalement écarté
+p1: This hot dog can be served without the bread bun, in particular in the case of allergies or gluten intolerance. However, despite our vigilance when
+p1: preparing dishes, we cannot guarantee they are completely free of allergens
 p1: 2 produit décongelé / defrosted product - Eau potable à votre disposition / Drinking water available
+p1: 0000440099__CCAASSEEYYSS__MMIINNII--MMEENNUU__AA44__HHAALLLLOOWWEEEENN 0099--2266..iinndddd 11 1177//0099//22002266 1111::0022
+p2: PPaauussee GGooûûtteerr 7€
+p2: SSwweeeett BBrreeaakk Dessert Mickey2
+p2: Brownie au chocolat Mousse chocolat et génoise
+p2: et noix de pécan2
+p2: Chocolate mousse
+p2: et boisson chaude
+p2: and sponge cake
+p2: ou fraîche
+p2: Chocolate and pecan
+p2: 5€
+p2: nuts brownie2
+p2: and a hot or a cold drink
+p2: DDeesssseerrttss
+p2: Yaourt à boire sucré aromatisé _____________________3€
+p2: Flavoured sweet drinking yoghurt
+p2: Pom’Potes® Bio Pomme (sans sucres ajoutés)3,8€
+p2: Pom’Potes® organic apple puree (no added sugar)
+p2: Yaourt sur lit de fruit _____________________________________3€
+p2: Yoghurt with a fruit layer
+p2: Brownie au chocolat et noix de pécan2 ________3,8€
+p2: Chocolate and pecan nuts brownie2
+p2: Magnum® Magnum® Sachet de fruit / Fruit bag ___________________________4€
+p2: Amande Amande vegan
+p2: Almond Vegan almond
+p2: BBooiissssoonnss cchhaauuddeess // HHoott ddrriinnkkss
+p2: 4€ 4€
+p2: Espresso 100% Arabica ________________________________3,3€
+p2: Café 100% Arabica __________________________3,5€
+p2: / Coffee
+p2: Double Espresso 100% Arabica ___________________3,8€
+p2: Café au lait / Coffee with milk __________________________4€
+p2: Cappuccino ___________________________________________________4€
+p2: Chocolat chaud / Hot chocolate ______________________4,2€
+p2: Thé, infusion / Tea, herbal tea __________________________3,5€
+p2: BBooiissssoonnss ffrraaîîcchheess //
+p2: CCoolldd ddrriinnkkss
+p2: Magnum® La Pistache CCoorrnneettttoo®® KKiinngg CCôônnee
+p2: La Pistache JJ UU SS
+p2: Sauce cacao /Cocoa sauce DD''OO RR AA NN GGEE
+p2: ORANGE
+p2: JUICE
+p2: 4€
+p2: 4,3€
+p2: 50 cl JJUUSS 23,5 cl 5500 ccll 5500 ccll
+p2: DDEE PPOOMMMMEE
+p2: 4,2€ APPLE 4,2€ 33,,55€€ 33,,88€€
+p2: JUICE gnidnib-non
+p2: Lait demi-écrémé /Semi-skimmed milk ___________2,5€
+p2: 20 cl
+p2: era
+p2: sotohp
+p2: BBiièèrree //
+p2: BBeeeerr noitatneserP/
+p2: Bud® __________________________________________________________6,3€
+p2: 33 cl
+p2: selleutcartnoc
+p2: SSoouuvveenniirrss
+p2: Push Up Haribo® Twister® Frrreeze
+p2: Paille Mickey ou Minnie / Straw _____________________6€
+p2: Parfums framboise,
+p2: Parfum vanille, sauce fraise avec boisson fraîche ___________7€
+p2: orange et pêche / with a cold drink
+p2: Vanilla flavour, non
+p2: Raspberry, orange
+p2: strawberry sauce Mug _________________________________________________________________15€ sotohP
+p2: and peach flavours
+p2: 3,5€ avec boisson chaude ____________17€
+p2: / with a hot drink
+p2: 3,5€ -
+p2: 62/90
+p2: Gobelet / Tumbler ___________________________________________15€
+p2: avec boisson fraîche ___________17€ -
+p2: / with a cold drink yensiD©
+p2: Prix nets /Tax included
+p2: 2 produit décongelé /defrosted product
+p2: 0000440099__CCAASSEEYYSS__MMIINNII--MMEENNUU__AA44__HHAALLLLOOWWEEEENN 0099--2266..iinndddd 22 1177//0099//22002266 1111::0022

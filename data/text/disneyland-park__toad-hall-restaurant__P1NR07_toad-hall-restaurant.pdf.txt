@@ -1,161 +1,124 @@
-p1: D©0PPbdpooooooooeeeennhennunnnnnhne5aaca2ycg/sssss7rr/trttttt--- lliiii
-p1: Croustillants
-p1: Enfant /
-p1: Kids’ meal
-p1: Fish
-p1: pour enfants âgés de 3 à 11 ans
-p1: végétaux panés
-p1: for children ages 3 to 11
-p1: & chips
-p1: 1
+p1: FFiisshh & chips1
 p1: 12€
-p1: chips
-p1: & Petit fish
-p1: 1
+p1: SSaauuccee ttaarrttaarree oouu kkeettcchhuupp
+p1: TTaarrttaarr oorr kkeettcchhuupp ssaauuccee
+p1: NNuuggggeettss vvééggééttaauuxx
+p1: & chips1
 p1: 12€
-p1: Sauce tartare
-p1: & chips
-p1: Crispy plant based bites
-p1: ou ketchup 1
-p1: 8€
-p1: & chips
-p1: Tartare
-p1: Sauce tartare
-p1: (9 pieces) or ketchup sauce
-p1: ou ketchup
+p1: Plant based nuggets
+p1: & chips x9
 p1: Sauce vegan façon tartare
-p1: Tartare
-p1: Tartare-style vegan sauce
-p1: or ketchup sauce
-p1: Salade vegan 12€ Salade poulet 12€
-p1: Vegan salad Chicken salad
-p1: Quinoa, boulgour, orge, lentilles, Salade, poulet, œuf dur,
-p1: soja, boulettes pois chiches-coco-curry, Grana Padano, tomates
-p1: tomates, noix de cajou Lettuce, chicken, hard-boiled egg,
-p1: Quinoa, bulgur, barley, lentils, soybeans, Grana Padano cheese, tomatoes
-p1: chickpea-coco-curry balls, tomatoes,
-p1: cashew nuts
-p1: Beignets de calamar Frites / Fries 4,5€
+p1: Tartar-style vegan sauce
+p1: EEnnffaanntt /
+p1: Kids’ meal
+p1: Chips
+p1: pour enfants âgés de 3 à 11 ans
+p1: saveur Sel & Vinaigre 45 g 3,8€
+p1: for children ages 3 to 11
+p1: Lay’s® Crisps - Salt & Vinegar
+p1: Petit fi sh & chips1
+p1: 8€
+p1: Frites / Fries 4,5€€
+p1: Sauce tartare
+p1: ou ketchup
+p1: Tartare or ketchup sauce
+p1: Pom’Potes® Bio Pomme 2,3€
+p1: (sans sucres ajoutés)
+p1: Pom’Potes® organic apple puree
+p1: (no added sugar)
+p1: Yaourt à boire sucré aromatisé 2,3€
+p1: BBeeiiggnneettss ddee ccaallaammaarr
+p1: FFllaavvoouurreedd sswweeeett ddrriinnkkiinngg yyoogghhuurrtt
 p1: à la romaine 6€
 p1: x4
-p1: Chips au vinaigre de cidre 4€
-p1: Roman-style
-p1: Pipers® cider vinegar potato crisps
-p1: squid fritters
-p1: x4
-p1: Le Cupcake
-p1: Boissons fraîches /
-p1: Cold drinks
-p1: 50 cl
-p1: 2
-p1: de Mr Toad
-p1: JJUUSS JJUUSS
-p1: 4€ DD''OORRAANNGGEE DDEE PPOOMMMMEE
-p1: ORANGE APPLE
-p1: JUICE JUICE
-p1: Cupcake crémeux citron et meringue
-p1: 23,5 cl
-p1: 4,2€ 3,8€ 3,5€ 3,8€
-p1: Lemon cream and meringue cupcake
-p1: Lait demi-écrémé / Semi-skimmed milk 2,5€
-p1: 20 cl
-p1: Bière pression /
-p1: Draught beer
-p1: Tarte pomme cannelle 4€
-p1: 1664® Premium 5€ 7,5€
-p1: Apple pie 25 cl 50 cl
-p1: Vins en bouteille /
-p1: Bottled wine
-p1: gn
-p1: id
-p1: n
-p1: Yaourt sur lit de fruit / Yoghurt with a fruit layer 3€ Vin blanc / ib
-p1: White wine -n
-p1: o
-p1: n
-p1: e
-p1: Brownie au chocolat et noix de pécan2 3,8€ r
-p1: IGP Pays d’Oc - Gio blanc 8€ a
-p1: 18,7 cl
-p1: s
-p1: o
-p1: Chocolate and pecan nuts brownie2 t
-p1: o
-p1: Vin rosé / h
-p1: Rosé wine p
-p1: n
-p1: o
-p1: Sachet de fruit / Fruit bag 4€
-p1: it
-p1: IGP Pays d’Oc - Gris blanc 8€ a
-p1: 18,7 cl
-p1: t n
-p1: Purée de pommes Bio 2,3€ e
-p1: (sans sucres ajoutés) s
-p1: e
-p1: r
-p1: Boissons chaudes / P
-p1: Organic apple purée
-p1: (no added sugar) Hot drinks
-p1: /
-p1: s
-p1: e
-p1: Yaourt à boire sucré aromatisé lle
-p1: 2,3€
-p1: Espresso 100% Arabica 3,3€ u
-p1: c t
-p1: Flavoured sweet drinking yoghurt
-p1: a
-p1: r
-p1: Double espresso 100% Arabica t
-p1: 3,8€ n
-p1: o
-p1: c
 p1: Mini Babybel® Bio3 2,3€
-p1: n
-p1: o
-p1: Café 100% Arabica / Coffee 3,5€
-p1: n
-p1: Organic mini Babybel® cheese3 s
-p1: o
-p1: t
-p1: Café au lait / Coffee with milk 4€ o
-p1: h
-p1: Magnum® 4€ P
-p1: Amande / Almond
-p1: -
-p1: 6
-p1: Cappuccino 4€
-p1: / 2
-p1: 4
-p1: Magnum® / Almond 4€
-p1: Vegan Amande 0
-p1: Chocolat chaud / Hot chocolate 4,2€ -
-p1: y
-p1: e
-p1: Solero 3,5€ n
-p1: s
-p1: Di
-p1: ©
-p1: Fraise & Citron vert – Glace vanille / Strawberry Twist – Vanilla ice cream Thé, infusion / Tea, herbal tea 3,5€
-p1: Cornetto® Soft 4,3€
-p1: Souvenirs
-p1: Stracciatella & Sauce Caramel / Stracciatella & Caramel Sauce
-p1: Super Twister® 3,5€
-p1: Gobelet / Tumbler 15€
-p1: Parfums Orange, Fraise, Citron / Orange, Strawberry, Lemon flavours
-p1: avec boisson fraîche / with a cold drink 17€
-p1: Glace Mickey 4,5€
-p1: Mug 15€
-p1: Saveur vanille / Vanilla flavour
-p1: avec boisson chaude / with a hot drink 17€
-p1: Paille Mickey ou Minnie / Straw 6€
-p1: et boisson fraîche / and a cold drink 7€
-p1: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible,
-p1: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
-p1: A list of the allergens present in our dishes is available upon request with any of our
-p1: Cast Members; please make a Cast Member aware of any allergies you may have
+p1: Roman-style squid fritters OOOrrrgggaaannniiiccc mmmiiinnniii BBBaaabbbyyybbbeeelll®®® ccchhheeeeeessseee3
+p1: x4
+p1: SSSSaaaallllaaaaddddeeee vvvveeeeggggaaaannnn 12€ Salade poulet 12€
+p1: VVVeeegggaaannn sssaaalllaaaddd Chicken salad
+p1: QQuuiinnooaa,, bboouullggoouurr,, oorrggee,, lleennttiilllleess,, soja, Salade, poulet, œuf dur,
+p1: bboouulleetttteess pois chiches-coco-curry, Grana Padano et tomates
+p1: ttoommaatteess sséécchhééeess mmaarriinnééeess séchées marinées
+p1: eett nnooiixx ddee ccaajjoouu Lettuce, chicken,
+p1: QQuuiinnooaa,, bbuullgguurr,, bbaarrlleeyy,, lleennttiillss,, ssooyybbeeaannss,, hard-boiled egg,
+p1: cchhiicckkppeeaa--ccooccoo--ccuurrrryy bbaallllss,, mmaarriinnaatteedd Grana Padano cheese and
+p1: sun-dried tomatoes and cashew nuts marinated sun-dried tomatoes
 p1: 1 possibilité de remplacer les frites par une salade / possibility to replace the fries by a salad
-p1: 2 produit décongelé / defrosted product - 3 1 pièce pour le déjeuner, 1 pièce pour le goûter / 1 piece
-p1: for lunch, 1 piece for snacking - Eau potable à votre disposition / Drinking water available
-p1: Prix nets / Tax included
+p1: 3 1 pièce pour le déjeuner, 1 pièce pour le goûter / 1 piece for lunch, 1 piece for snacking
+p1: 0000440099__TTOOAADD--HHAALLLL__MMIINNII--MMEENNUU__AA44__HHAALLLLOOWWEEEENN 0099--2266..iinndddd 11 1166//0099//22002266 1100::0033
+p2: 5,5€
+p2: Le Cupcake
+p2: LLLEEE SSSOOORRRTTTIIILLLÈÈÈGGGEEE CCCRRROOOQQQUUUAAANNNTTT1
+p2: CCCRRRUUUNNNCCCHHHYYY SSSPPPEEELLLLLL1
+p2: de Mr Toad2 4€
+p2: EEnnttrreemmeettss ccrréémmeeuuxx àà llaa
+p2: vvaanniillllee,, ggaannaacchhee mmoonnttééee Cupcake crémeux
+p2: aauu ccaaccaaoo eett ccœœuurr nnooiisseettttee
+p2: citron et meringue
+p2: CCrreeaammyy vvaanniillllaa eennttrreemmeett,,
+p2: ccooccooaa ggaannaacchhee Lemon cream
+p2: aanndd hhaazzeellnnuutt cceennttrree
+p2: and meringue cupcake
+p2: Yaourt sur lit de fruit 3€ Solero 3,5€ Magnum® 4€
+p2: Yoghurt with a fruit layer Fraise & Citron vert – Glace vanille Amande Vegan / Almond
+p2: Strawberry Twist – Vanilla ice cream
+p2: Brownieau chocolat Cornetto® Soft 4,3€
+p2: et noix de pécan2 3,8€ Super Twister® 3,5€ Stracciatella & Sauce Caramel
+p2: Parfums Orange, Fraise, Citron Stracciatella & Caramel Sauce
+p2: Chocolate and pecan nutsbrownie2
+p2: Orange, Strawberry, Lemon fl avours
+p2: Glace Mickey 4,5€
+p2: Sachet de fruit 4€
+p2: Magnum® 4€ Saveur vanille / Vanilla fl avour
+p2: Fruit bag
+p2: Amande / Almond
+p2: Tarte pomme cannelle 4€
+p2: Apple pie
+p2: Boissons fraîches / Vins /
+p2: Cold drinks Wine
+p2: Vin blanc /White wine
+p2: 18,7 cl
+p2: IGP Pays d’Oc - Gio blanc 8€
+p2: Vin rosé /
+p2: Rosé wine
+p2: 18,7 cl
+p2: 5500 ccll
+p2: IGP Pays d’Oc - Gris blanc 8€
+p2: 44,,22€€
+p2: Boissons chaudes /
+p2: JJUUSS Hot drinks
+p2: DD''OORRAANNGGEE
+p2: ORANGE
+p2: JUICE
+p2: Espresso 100% Arabica 3,3€
+p2: JJUUSS
+p2: 23,5 cl 5500 ccll 5500 ccll
+p2: DDEE PPOOMMMMEE Arabica/ Coff ee
+p2: Café 100% 3,5€
+p2: APPLE 4,2€ 33,,55€€ 33,,88€€
+p2: JUICE
+p2: Double espresso 100% Arabica 3,8€
+p2: Lait demi-écrémé/ Semi-skimmed milk20 2,5€ Café au lait/ Coff ee with milk 4€
+p2: cl
+p2: Cappuccino 4€
+p2: Bière pression /
+p2: Draught beer
+p2: Chocolat chaud/ Hot chocolate 4,2€
+p2: gnidnib-non
+p2: 25 cl 50 cl
+p2: 1664® Premium 5€ 7,5€ Thé, infusion/Tea, herbal tea 3,5€
+p2: era
+p2: sotohp
+p2: noitatneserP
+p2: Souvenirs
+p2: /
+p2: selleutcartnoc
+p2: Paille Mickey ou Minnie /Straw 6€ Gobelet /Tumbler 15€ Mug 15€
+p2: et boisson fraîche 7€ et boisson fraîche 17€ avec boisson chaude 17€ non
+p2: and a cold drink and a cold drink with a hot drink sotohP
+p2: -
+p2: 62/90
+p2: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members - yensiD©
+p2: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have
+p2: Prix nets / Tax included - 3 produit décongelé / defrosted product - Eau potable à votre disposition / Drinking water available
+p2: 0000440099__TTOOAADD--HHAALLLL__MMIINNII--MMEENNUU__AA44__HHAALLLLOOWWEEEENN 0099--2266..iinndddd 22 1166//0099//22002266 1100::0044
