@@ -21,17 +21,264 @@ Pulled,Venue,Location,PdfFile,Page,PriceEUR,ItemGuess,Slug
 2026-09-05,La Forêt Secrète par Jean Imbert,Disneyland Hotel,La_foret_secrete_Menu_Degustation.pdf,4,120,The harmony of red and white A celebration in bubbles,disneyland-hotel/la-foret-secrete-par-jean-imbert
 2026-09-05,La Forêt Secrète par Jean Imbert,Disneyland Hotel,La_foret_secrete_Menu_Enfant.pdf,1,70,MENU POUR ENFANTS,disneyland-hotel/la-foret-secrete-par-jean-imbert
 2026-09-05,La Forêt Secrète par Jean Imbert,Disneyland Hotel,La_foret_secrete_Menu_Enfant.pdf,2,70,CHILDREN’S FOR CHILDREN,disneyland-hotel/la-foret-secrete-par-jean-imbert
-2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,1,7,,disneyland-park/march-hare-refreshments
-2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,1,7,,disneyland-park/march-hare-refreshments
-2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,1,7,,disneyland-park/march-hare-refreshments
-2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,1,7,"mango and passion fruit coulis, and cocoa butter hearts",disneyland-park/march-hare-refreshments
-2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,1,4,Café au lait Coff ee with milk Cappuccino.............................................................,disneyland-park/march-hare-refreshments
-2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,1,50,Orange or apple juice Prix nets Nous n’acceptons pas les coupures au-delà de,disneyland-park/march-hare-refreshments
-2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,1,50,Prix nets Nous n’acceptons pas les coupures au-delà Tax included We do not accept notes over,disneyland-park/march-hare-refreshments
-2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,2,50,Prix nets Nous n’acceptons pas les coupures au-delà de,disneyland-park/march-hare-refreshments
-2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,2,50,Prix nets Nous n’acceptons pas les coupures au-delà Tax included We do not accept notes over,disneyland-park/march-hare-refreshments
-2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,2,10,Pause Gourmande,disneyland-park/march-hare-refreshments
-2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,2,7,,disneyland-park/march-hare-refreshments
+2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,1,14,,disney-adventure-world/stark-factory
+2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,1,13,,disney-adventure-world/stark-factory
+2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,1,13,,disney-adventure-world/stark-factory
+2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,1,13,,disney-adventure-world/stark-factory
+2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,1,7,KIDS’ DEMI PIZZA,disney-adventure-world/stark-factory
+2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,2,3,DESSERTS,disney-adventure-world/stark-factory
+2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,2,4,SUR LIT DE FRUIT YOGHURT WITH A FRUIT LAYER,disney-adventure-world/stark-factory
+2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,2,5,DE FRUIT FRUIT BAG,disney-adventure-world/stark-factory
+2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,2,5,,disney-adventure-world/stark-factory
+2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,2,5,"CHOCOLATE MOUSSE AND SEA SALT, SPECULOOSALMONDSUNFLOWER HEART",disney-adventure-world/stark-factory
+2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,2,4,AMANDE VEGAN ALMOND,disney-adventure-world/stark-factory
+2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,2,4,AMANDE VEGAN LA PISTACHE ALMOND,disney-adventure-world/stark-factory
+2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,11,SUPERPOWERS!,disney-adventure-world/web-food-truck
+2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,4,,disney-adventure-world/web-food-truck
+2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,8,,disney-adventure-world/web-food-truck
+2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,4,DRINKS CAPPUCCINO,disney-adventure-world/web-food-truck
+2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,4,ARABICA COFFEE AU LAIT COFFEE WITH MILK,disney-adventure-world/web-food-truck
+2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,50,"MILK THÉ, INFUSION NETS NOUS N’ACCEPTONS PAS LES COUPURES AUDELÀ DE",disney-adventure-world/web-food-truck
+2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,50,PRIX NETS NOUS N’ACCEPTONS PAS LES COUPURES AUDELÀ TAX INCLUDED WE DO NOT ACCEPT NOTES OVER,disney-adventure-world/web-food-truck
+2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,7,PAUSE GOÛTER,disney-adventure-world/web-food-truck
+2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,5,FRAISE,disney-adventure-world/web-food-truck
+2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,6,cl cl,disney-adventure-world/web-food-truck
+2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,5,,disney-adventure-world/web-food-truck
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,3,25,specially inspired by the worlds of our fairy tales Le Gardien The Guardian,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,3,25,"juices, soy and sriracha sauces, smoked Au Bout du Rêve Almost There",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,3,25,"vanilla syrup, whipped cream Pétales Envoutés Sent Petals",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,3,25,"foam, wild blueberry nectar, elderflower L’air du Vent",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,4,25,Tour Isolée,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,4,25,rhubarb-raspberry flavour L’explorateur The Explorer,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,4,25,flavour syrup Histoire éternelle,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,4,15,Non-Alcoholic Signature Cocktails Cœur Pur Princess in the Forest,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,4,15,crispy strawberry pieces Diamant d’Innocence,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,5,25,OF THE FLEUR DE LYS Cité des Sacres Fleurie,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,5,25,from Reims Jardin d’Eté de sa Majesté,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,5,15,mint leaves Royau-Thé Florale,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,5,15,served with its pink biscuit from Reims Queen Tonic SANS ALCOOL ALCOHOL-FREE,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,6,22,Experience Champagne Bellini,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,6,22,"Grand Réserve brut, peach nectar Champagne Cocktail",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,6,22,"cognac Courvoisier VSOP, Angostura aromatic bitters, brown sugar French",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,6,22,"G’Vine-Floraison gin, cane sugar syrup, fresh lemon juice Old Cuban",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,6,20,Short Drinks Espresso Martini,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,6,20,"Fair coffee liqueur, Lavazza espresso, cane sugar syrup Caïpirinha",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,6,20,"fresh lime, brown sugar Dry Martini",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,6,20,green olive Manhattan,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,Margarita,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,"El Espolón blanco tequila, Cointreau, lime drink1 Bourbon Old Fashioned",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,"Maker’s Mark Bourbon, Angostura aromatic bitters, Perrier®, sugar Cosmopolitan",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,"Organic Belvedere vodka, Cointreau, cranberry nectar1, lime drink1 Negroni",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,G’Vine Floraison gin Mocha Martini,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,long Drinks Moscow Mule,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,"Organic Belvedere vodka, Ginger Beer, lime drink1 Bloody Mary",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,"Worcestershire sauce, celery salt Planter’s Punch",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,"Angostura aromatic bitters, pineapple1 and orange juices, grenadine syrup Hugo Spritz",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,"fresh lime, mint leaves Paloma",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,28,coupe cl Louis Roederer Collection,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,20,Louis Roederer Collection Taittinger brut Réserve,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,28,Taittinger brut Réserve Moët Chandon Grand Vintage extra brut,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,24,Moët Chandon Grand Vintage extra brut Taittinger Prestige rosé,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,24,Taittinger Prestige rosé Moët Chandon Ice Impérial Rosé demi sec,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,92,Brut Taittinger brut Réserve,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,110,Taittinger brut Réserve Veuve Clicquot Brut Carte Jaune,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,129,Veuve Clicquot Brut Carte Jaune Louis Roederer Collection,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,102,Louis Roederer Collection Moët Chandon Impérial brut,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,129,Moët Chandon Impérial brut Bollinger Spéciale Cuvée brut,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,92,Bollinger Spéciale Cuvée brut Pierre Mignon Blanc de noirs brut,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,129,Pierre Mignon Blanc de noirs brut Moët Chandon Grand Vintage extra brut,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,150,Moët Chandon Grand Vintage extra brut Billecart-Salmon Brut “sous-bois”,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,110,Brut Rosé cl Taittinger Prestige rosé,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,110,Taittinger Prestige rosé Moët Chandon Ice Impérial Rosé demi sec,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,150,Moët Chandon Ice Impérial Rosé demi sec Billecart-Salmon Brut Rosé,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,160,Cuvées Prestige Cuvée Disneyland® Hotel,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,400,for Disneyland Hotel by Maison Pierre Mignon Dom Pérignon Vintage Brut,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,450,Dom Pérignon Vintage Brut Krug Grande Cuvée Brut,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,300,Taittinger Comtes de Champagne Blanc de blancs,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,500,Blanc de blancs Louis Roederer Cristal,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,360,Louis Roederer Cristal Perrier-Jouët Belle Epoque Brut,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,250,Perrier-Jouët Belle Epoque Brut Amour de Deutz Brut,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,340,Amour de Deutz Brut Veuve Clicquot La Grande Dame Brut,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,200,Veuve Clicquot La Grande Dame Brut Ruinart Blanc de blancs,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,9,Bières pression Draught Beers Premium,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,14,Bières pression Draught Beers Premium,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,10,Premium Grimbergen d’Abbaye blonde,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,14,Premium Grimbergen d’Abbaye blonde,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,12,Bières bouteille Heineken,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,12,Heineken Desperados,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,12,Desperados Corona Extra,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,13,Corona Extra Briarde Blanche,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,15,Briarde Blanche Guinness Draught cl,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,13,Guinness Draught cl Grimbergen d’Abbaye rouge,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,9,Cidre Cider La Mordue Original Cidre aromatisé,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,18,Vermouth cl La Quintinye Vermouth Royal Rouge Red,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,18,La Quintinye Vermouth Royal Rouge Red La Quintinye Vermouth Royal Blanc White,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,18,La Quintinye Vermouth Royal Blanc White La Quintinye Vermouth Royal Extra dry,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,21,La Quintinye Vermouth Royal Extra dry Carpano Antica Formula,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,18,Bitter Campari Cask Tales,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,16,Campari Cask Tales Aperol,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,16,Anisé cl Ricard Pastis de Marseille,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,21,Ricard Pastis de Marseille Absinthe Pernod,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,16,Gentiane cl Suze,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,16,Porto cl Graham’s Six Grapes Reserve Ruby Port,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,18,Xérès cl DO Xérès Jerez Sherry Tio Pepe Palomino Fino,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,France G’Vine Floraison,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,G’Vine Floraison Madlord,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,20,Angleterre England Bombay Sapphire 1er Cru Murcian Lemon,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,Ecosse Scotland Tanqueray N°Ten,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,Tanqueray N°Ten Tobermory Isle of Mull Hebridean Gin,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,Tobermory Isle of Mull Hebridean Gin Hendrick’s,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,21,Japon Japan Ki No Bi Kyoto Dry Gin,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,Ki No Bi Kyoto Dry Gin Roku Gin,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,France Grey Goose,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,Pologne Poland Belvedere Organic bio,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,20,Montenegro Beluga Noble,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,Tequilas El Espolón Blanco,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,21,El Espolón Blanco Reposado Calle,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,30,Reposado Calle Patrón El Cielo,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,Mezcal Madre Desde Siempre Espadin,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,Cachaça “Magnifica” de Faria Tradicional Ipê,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,Pisco cl Pisco del Perú Puro Quebranta,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,caraïbes Angostura ans,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,21,République Dominicaine Barceló Imperial,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,Martinique AOC Saint James Rhum Blanc Agricole Bio,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,21,Guatemala Ron Zacapa Solera Gran reserva,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,30,Ron Zacapa Solera Gran reserva Ron Zacapa Royal Solera Gran reserva especial,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,21,Venezuela Santa Teresa,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,Nicaragua Flor de Caña ans,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,30,Flor de Caña ans Flor de Caña ans,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,30,France Alfred Giraud Harmonie,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,30,Alfred Giraud Harmonie Alfred Giraud Exploratory Range Voyage,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,Écosse Scotland Auchentoshan ans Lowlands,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,Auchentoshan ans Lowlands Highland Park ans Viking Honour Orcades,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,Highland Park ans Viking Honour Orcades Bowmore ans Islay single malt Scotch Whisky,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,21,Bowmore ans Islay single malt Scotch Whisky Lagavulin ans Islay single malt Scotch Whisky,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,36,Lagavulin ans Islay single malt Scotch Whisky Bunnahabhain ans Islay single malt Scotch Whisky,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,21,Bunnahabhain ans Islay single malt Scotch Whisky Oban ans Highlands,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,21,Oban ans Highlands The Macallan Double Cask ans Speyside,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,The Macallan Double Cask ans Speyside Chivas Regal ans Speyside,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,30,Chivas Regal ans Speyside Royal Salute The Signature Blend ans Speyside,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,Irlande Ireland The Sexton Single malt Irish Whiskey,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,The Sexton Single malt Irish Whiskey Connemara Distillers Edition,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,24,Japon Japan The Hakushu ans,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,24,The Hakushu ans Nikka Coffey Malt Whisky,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,Nikka Coffey Malt Whisky Hatozaki ans Umeshu Cask Finish,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,U.S.A Jack Daniel’s Single Barrel Select,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,Jack Daniel’s Single Barrel Select Maker’s Mark Bourbon,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,21,Maker’s Mark Bourbon Woodford Reserve Double Oaked,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,Woodford Reserve Double Oaked Bulleit Rye Frontier Whiskey,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,18,Cognacs Courvoisier VSOP,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,30,Courvoisier VSOP Courvoisier XO,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,30,Courvoisier XO Rémy Martin XO Cognac Fine Champagne,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,55,Rémy Martin XO Cognac Fine Champagne AOC Cognac Borderies Royal Banquet Camus,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,300,AOC Cognac Borderies Royal Banquet Camus Rémy Martin Louis XIII Cognac Grande Champagne,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,18,Armagnacs Château de Laubade Bas Armagnac VSOP,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,18,Calvados Le Domfrontais Christian Drouin,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Liqueurs Amaretto Adriatico,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Amaretto Adriatico Bailey’s The Original Irish Cream,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Bailey’s The Original Irish Cream Drambuie,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Drambuie Southern Comfort,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Southern Comfort Génépi Dolin,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Génépi Dolin Cointreau,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Cointreau Grand Marnier Cuvée Louis-Alexandre,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,220,Grand Marnier Cuvée Louis-Alexandre Grand Marnier Quintessence,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Grand Marnier Quintessence Liqueur de café Fair,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Liqueur de café Fair Liqueur de Noisette Frangelico,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Liqueur de Noisette Frangelico Get,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Get Get,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Get Limoncello Mamma Mia,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Limoncello Mamma Mia Pomme Verte,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Pomme Verte Maraschino Luxardo,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Maraschino Luxardo Sambuca,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,13,Vins Blancs White Wine AOP Sancerre Cuvée du Connétable,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,59,Vins Blancs White Wine AOP Sancerre Cuvée du Connétable,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,15,Château de Sancerre Sauvignon blanc Vin de France Romorantin Cuvée du Roy,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,68,Château de Sancerre Sauvignon blanc Vin de France Romorantin Cuvée du Roy,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,10,Domaine national de Chambord Bio Cuvée Disneyland® Paris AOP La Clape,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,45,Domaine national de Chambord Bio Cuvée Disneyland® Paris AOP La Clape,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,19,Château L’Hospitalet Bio Demeter AOC Alsace Gewurztraminer Vendange,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,86,Château L’Hospitalet Bio Demeter AOC Alsace Gewurztraminer Vendange,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,15,Tardive Famille Hugel AOC Chablis 1er Cru Côte de Léchet,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,68,Tardive Famille Hugel AOC Chablis 1er Cru Côte de Léchet,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,15,Vins Rouges Red Wine AOC Givry 1er Cru La Grande Berge,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,68,Vins Rouges Red Wine AOC Givry 1er Cru La Grande Berge,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,17,Domaine Goubard AOC Saint-Emilion Grand Cru,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,77,Domaine Goubard AOC Saint-Emilion Grand Cru,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,11,Château Capet-Guillier AOC Cheverny Château de Chambord,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,48,Château Capet-Guillier AOC Cheverny Château de Chambord,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,17,Pinot Noir Bio AOC Châteauneuf-du-Pape,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,77,Pinot Noir Bio AOC Châteauneuf-du-Pape,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,10,L’Oratoire des Papes Cuvée Disneyland® Paris AOP La Clape,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,45,L’Oratoire des Papes Cuvée Disneyland® Paris AOP La Clape,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,13,Vin Rosé Rosé Wine AOC Côtes de Provence Rose et Or,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,59,Vin Rosé Rosé Wine AOC Côtes de Provence Rose et Or,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,14,13,BARISTA SPECIALS Latte Cold Brew glacé Cold Brew latte,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,14,14,"Milk, Coffee flavoured cold brew concentrate Café Cardamome glacé Iced cardamom coffee",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,14,14,"orange blossom flavour, Perrier® Café au lait, sirop de vanille, mousse de lait,",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,14,14,"crumbled speculoos, served hot or cold Café macchiato, sirop caramel, mousse de lait,",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,14,14,"crumbled biscuit, served hot or cold Chocolat, sirop saveur noisette, crème fouettée,",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,14,10,SPARKLING NON-ALCOHOLIC Thé pétillant Blå Bio Blå sparkling Tea Organic,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,14,49,cl Thé pétillant Blå Bio Blå sparkling Tea Organic,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,14,13,Thé pétillant Blå Bio Blå sparkling Tea Organic Nooh by La Coste Effervescent rosé,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,14,60,Thé pétillant Blå Bio Blå sparkling Tea Organic Nooh by La Coste Effervescent rosé,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,11,cl Jus d’orange,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,11,Orange juice Jus de pomme,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,11,Apple juice Nectar de fraise,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,11,Strawberry flavour nectar Nectar de poire,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,11,Pear flavour nectar Nectar de fruit de la passion,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,11,Passion fruit flavour nectar Nectar de mangue,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,11,Mango flavour nectar Nectar de myrtille,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,9,Blueberry flavour nectar Coca-Cola ORIGINAL,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,9,Coca-Cola ORIGINAL Coca-Cola ZÉRO SUCRES Sugar Free,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,9,Coca-Cola ZÉRO SUCRES Sugar Free Sprite,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,9,Sprite Fanta Orange,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,9,Fanta Orange FuzeTea Pêche Intense,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,9,FuzeTea Peach Black Tea Kombucha Bio Original,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,9,Kombucha Bio Original Kombucha Bio Original saveur framboise-hibiscus,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,12,Organic Kombucha raspberry-hibiscus flavoured Bundaberg Ginger Beer cl,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,7,Bundaberg Ginger Beer cl Perrier®,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,9,Perrier® Notre sélection de Tonic Our selection of Tonic cl,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,8,MINERAL WATER Vittel® cl,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,9,Vittel® cl S.Pellegrino® cl,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,7,HOT DRINKS Espresso Arabica,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,8,Espresso Arabica Double Espresso Arabica,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,7,Double Espresso Arabica Café long Arabica Coffee,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,8,Café long Arabica Coffee Espresso mono-origine Ethiopie Kafa,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,9,Single-origin Ethiopia Kafa Double Espresso mono-origine Ethiopie Kafa,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,8,Single-origin Ethiopia Kafa Café long mono-origine Ethiopie Kafa,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,11,Single-origin Ethiopia Kafa Large coffee Café au lait Coffee with milk,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,11,Café au lait Coffee with milk Macchiato,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,11,Macchiato Cappuccino,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,12,Cappuccino Mocaccino,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,11,Mocaccino Collection Chocolat Chaud Mix Enjoy,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,11,"caramel shards, or “surprise” milk chocolate Chocolat Viennois Viennese chocolate",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,7,Chocolat Viennois Viennese chocolate Espresso décaféiné Decaffeinated espresso,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,8,Espresso décaféiné Decaffeinated espresso Double espresso décaféiné Double espresso decaffeinated,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,7,Double espresso décaféiné Double espresso decaffeinated Café long décaféiné Decaffeinated coffee,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,8,Café long décaféiné Decaffeinated coffee Café décaféiné au lait Decaffeinated coffee with milk,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,8,Café décaféiné au lait Decaffeinated coffee with milk Notre sélection de thés et infusions Betjeman Barton,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,6,"Our selection of Betjeman Barton teas Verre de lait, chaud ou froid Glass of hot or cold milk",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,100,"From am to am Caviar Osciètre français g, blinis",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,23,blinis and Isigny PDO cream Charcuteries ibériques et pain au levain toasté,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,28,"Jambon, lomo, chorizo et saucisson Ham, lomo, chorizo and sausage Fromages affinés et pain au levain toasté",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,30,"Brie de Meaux, Coulommiers, comté and Goat’s Cheese Charcuteries ibériques, fromages affinés et pain au levain toasté",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,21,"Served with mango chutney and onion confit Légumes croquants à partager, sauce à la ciboulette",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,21,"Crisp raw vegetables with a chive sauce Houmous, purée d’avocat et concombre à la menthe,",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,26,"Salés Savory Stracciatella di bufala à la truffe noire, huile d’olive",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,35,"with black truffle, extra virgin olive oil and toasted sourdough Rolls de homard, mayonnaise à la vanille,",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,26,Made from croissant dough and “eatable with your fingers” Les “Croq” toastés au comté AOP et à la dinde,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,25,"Toasted turkey and Comté PDO croqs Gâteau de crabe croustillant, mayonnaise au paprika",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,26,doux fumé Crispy crab cake with smoked spiced mayonnaise Manchons de poulet caramelisés façon barbecue,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,8,Barbecued caramelised chicken drumsticks Chips “Pipers®” g,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,18,15,"Sucrés Sweet Fondant au chocolat, crème fouettée à la vanille bourbon,",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,18,15,"cream, caramel sauce Trio de crèmes brûlées (vanille, pistache, chocolat)",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,18,13,"Trio of creme brûlée (vanilla, pistachio, chocolate) Noble Cour de Mignardises The Court’s Sweet Favours",disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,18,14,biscuit from Reims and fruit Missive Royale A Regal Invitation,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,18,13,Bourbon sugar Le cookie chocolat-pistaches et amandes caramélisées,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,18,14,Chocolate-pistachio and caramelised almond cookie Le cookie chocolat-pistaches et amandes caramélisées,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,18,13,and a glass of milk Le cookie tout chocolat Chocolate cookie,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,18,14,Le cookie tout chocolat Chocolate cookie Le cookie tout chocolat et son verre de lait,disneyland-hotel/fleur-de-lys-bar
+2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,18,18,Chocolate cookie and a glass of milk Macaron de Haut-Rang Majestic Macaron,disneyland-hotel/fleur-de-lys-bar
 2026-09-26,Bistrot Chez Rémy,Disney Adventure World,P2TR02_bistrot-chez-remy.pdf,1,43,Vins blancs White wine AOC Chablis La Pierrelée La Chablisienne,disney-adventure-world/bistrot-chez-remy
 2026-09-26,Bistrot Chez Rémy,Disney Adventure World,P2TR02_bistrot-chez-remy.pdf,1,34,AOC Chablis La Pierrelée La Chablisienne Cité de Carcassonne Gérard Bertrand Chardonnay,disney-adventure-world/bistrot-chez-remy
 2026-09-26,Bistrot Chez Rémy,Disney Adventure World,P2TR02_bistrot-chez-remy.pdf,1,34,AOC Sainte-Croix-du-Mont Château des Arroucats vin liquoreux,disney-adventure-world/bistrot-chez-remy
@@ -143,18 +390,6 @@ Pulled,Venue,Location,PdfFile,Page,PriceEUR,ItemGuess,Slug
 2026-09-26,Searchlight,Disney Adventure World,P2FR02_searchlight.pdf,1,8,SWEET,disney-adventure-world/searchlight
 2026-09-26,Searchlight,Disney Adventure World,P2FR02_searchlight.pdf,1,4,Arabica Coffee Coffee with milk,disney-adventure-world/searchlight
 2026-09-26,Searchlight,Disney Adventure World,P2FR02_searchlight.pdf,1,4,Arabica Coffee Coffee with milk,disney-adventure-world/searchlight
-2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,1,14,,disney-adventure-world/stark-factory
-2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,1,13,,disney-adventure-world/stark-factory
-2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,1,13,,disney-adventure-world/stark-factory
-2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,1,13,,disney-adventure-world/stark-factory
-2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,1,7,KIDS’ DEMI PIZZA,disney-adventure-world/stark-factory
-2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,2,3,DESSERTS,disney-adventure-world/stark-factory
-2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,2,4,SUR LIT DE FRUIT YOGHURT WITH A FRUIT LAYER,disney-adventure-world/stark-factory
-2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,2,5,DE FRUIT FRUIT BAG,disney-adventure-world/stark-factory
-2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,2,5,,disney-adventure-world/stark-factory
-2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,2,5,"CHOCOLATE MOUSSE AND SEA SALT, SPECULOOSALMONDSUNFLOWER HEART",disney-adventure-world/stark-factory
-2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,2,4,AMANDE VEGAN ALMOND,disney-adventure-world/stark-factory
-2026-09-26,Stark Factory,Disney Adventure World,P2AR01_stark-factory.pdf,2,4,AMANDE VEGAN LA PISTACHE ALMOND,disney-adventure-world/stark-factory
 2026-09-26,Super Diner,Disney Adventure World,P2AR03_super-diner.pdf,1,11,"croûtons, sauce César parmesan cheese,",disney-adventure-world/super-diner
 2026-09-26,Super Diner,Disney Adventure World,P2AR03_super-diner.pdf,1,11,"volaille-veau, salade, oignons rouges, tomates, lettuce, red onions, tomatoes,",disney-adventure-world/super-diner
 2026-09-26,Super Diner,Disney Adventure World,P2AR03_super-diner.pdf,1,5,Lay’s® Crisps BBQ Sachet Le Choco-Blast1,disney-adventure-world/super-diner
@@ -191,17 +426,6 @@ Pulled,Venue,Location,PdfFile,Page,PriceEUR,ItemGuess,Slug
 2026-09-26,The Regal View Restaurant & Lounge,Disney Adventure World,P2DR00_the-regal-view-restaurant-and-lounge.pdf,11,45,Dessert to share for or more people Dessert to share for or more people,disney-adventure-world/the-regal-view-restaurant-and-lounge
 2026-09-26,The Regal View Restaurant & Lounge,Disney Adventure World,P2DR00_the-regal-view-restaurant-and-lounge.pdf,12,5,rettirf arko htiw SRETRATS,disney-adventure-world/the-regal-view-restaurant-and-lounge
 2026-09-26,The Regal View Restaurant & Lounge,Disney Adventure World,P2DR00_the-regal-view-restaurant-and-lounge.pdf,13,50,"Pour enfants Entrée, Plat, Dessert",disney-adventure-world/the-regal-view-restaurant-and-lounge
-2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,11,SUPERPOWERS!,disney-adventure-world/web-food-truck
-2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,4,,disney-adventure-world/web-food-truck
-2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,8,,disney-adventure-world/web-food-truck
-2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,4,DRINKS CAPPUCCINO,disney-adventure-world/web-food-truck
-2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,4,ARABICA COFFEE AU LAIT COFFEE WITH MILK,disney-adventure-world/web-food-truck
-2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,50,"MILK THÉ, INFUSION NETS NOUS N’ACCEPTONS PAS LES COUPURES AUDELÀ DE",disney-adventure-world/web-food-truck
-2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,50,PRIX NETS NOUS N’ACCEPTONS PAS LES COUPURES AUDELÀ TAX INCLUDED WE DO NOT ACCEPT NOTES OVER,disney-adventure-world/web-food-truck
-2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,7,PAUSE GOÛTER,disney-adventure-world/web-food-truck
-2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,5,FRAISE,disney-adventure-world/web-food-truck
-2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,6,cl cl,disney-adventure-world/web-food-truck
-2026-09-26,WEB Food Truck,Disney Adventure World,P2BR02_web-truck.pdf,1,5,,disney-adventure-world/web-food-truck
 2026-09-26,Billy Bob’s Buffet,Disney Village,D01R19_billy-bobs-buffet.pdf,1,40,,disney-village/billy-bobs-buffet
 2026-09-26,Billy Bob’s Buffet,Disney Village,D01R19_billy-bobs-buffet.pdf,1,22,ou Lait cl Milk cl,disney-village/billy-bobs-buffet
 2026-09-26,Billy Bob's Country Western Saloon,Disney Village,D01R01_billy-bobs-country-western-saloon.pdf,3,10,"Extra Dry, tranche d'orange et Perrier® Espresso Martini",disney-village/billy-bobs-country-western-saloon
@@ -680,241 +904,6 @@ Pulled,Venue,Location,PdfFile,Page,PriceEUR,ItemGuess,Slug
 2026-09-26,The Steakhouse,Disney Village,D01R08_steakhouse.pdf,2,12,Pineapple carpaccio1 seasonal fruit,disney-village/steakhouse
 2026-09-26,The Steakhouse,Disney Village,D01R08_steakhouse.pdf,2,15,"spicy syrup profiterole,",disney-village/steakhouse
 2026-09-26,The Steakhouse,Disney Village,D01R08_steakhouse.pdf,2,15,cream Cheesecake1,disney-village/steakhouse
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,3,25,specially inspired by the worlds of our fairy tales Le Gardien The Guardian,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,3,25,"juices, soy and sriracha sauces, smoked Au Bout du Rêve Almost There",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,3,25,"vanilla syrup, whipped cream Pétales Envoutés Sent Petals",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,3,25,"foam, wild blueberry nectar, elderflower L’air du Vent",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,4,25,Tour Isolée,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,4,25,rhubarb-raspberry flavour L’explorateur The Explorer,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,4,25,flavour syrup Histoire éternelle,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,4,15,Non-Alcoholic Signature Cocktails Cœur Pur Princess in the Forest,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,4,15,crispy strawberry pieces Diamant d’Innocence,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,5,25,OF THE FLEUR DE LYS Cité des Sacres Fleurie,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,5,25,from Reims Jardin d’Eté de sa Majesté,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,5,15,mint leaves Royau-Thé Florale,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,5,15,served with its pink biscuit from Reims Queen Tonic SANS ALCOOL ALCOHOL-FREE,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,6,22,Experience Champagne Bellini,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,6,22,"Grand Réserve brut, peach nectar Champagne Cocktail",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,6,22,"cognac Courvoisier VSOP, Angostura aromatic bitters, brown sugar French",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,6,22,"G’Vine-Floraison gin, cane sugar syrup, fresh lemon juice Old Cuban",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,6,20,Short Drinks Espresso Martini,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,6,20,"Fair coffee liqueur, Lavazza espresso, cane sugar syrup Caïpirinha",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,6,20,"fresh lime, brown sugar Dry Martini",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,6,20,green olive Manhattan,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,Margarita,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,"El Espolón blanco tequila, Cointreau, lime drink1 Bourbon Old Fashioned",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,"Maker’s Mark Bourbon, Angostura aromatic bitters, Perrier®, sugar Cosmopolitan",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,"Organic Belvedere vodka, Cointreau, cranberry nectar1, lime drink1 Negroni",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,G’Vine Floraison gin Mocha Martini,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,long Drinks Moscow Mule,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,"Organic Belvedere vodka, Ginger Beer, lime drink1 Bloody Mary",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,"Worcestershire sauce, celery salt Planter’s Punch",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,"Angostura aromatic bitters, pineapple1 and orange juices, grenadine syrup Hugo Spritz",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,7,20,"fresh lime, mint leaves Paloma",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,28,coupe cl Louis Roederer Collection,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,20,Louis Roederer Collection Taittinger brut Réserve,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,28,Taittinger brut Réserve Moët Chandon Grand Vintage extra brut,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,24,Moët Chandon Grand Vintage extra brut Taittinger Prestige rosé,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,24,Taittinger Prestige rosé Moët Chandon Ice Impérial Rosé demi sec,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,92,Brut Taittinger brut Réserve,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,110,Taittinger brut Réserve Veuve Clicquot Brut Carte Jaune,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,129,Veuve Clicquot Brut Carte Jaune Louis Roederer Collection,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,102,Louis Roederer Collection Moët Chandon Impérial brut,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,129,Moët Chandon Impérial brut Bollinger Spéciale Cuvée brut,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,92,Bollinger Spéciale Cuvée brut Pierre Mignon Blanc de noirs brut,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,129,Pierre Mignon Blanc de noirs brut Moët Chandon Grand Vintage extra brut,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,150,Moët Chandon Grand Vintage extra brut Billecart-Salmon Brut “sous-bois”,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,110,Brut Rosé cl Taittinger Prestige rosé,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,110,Taittinger Prestige rosé Moët Chandon Ice Impérial Rosé demi sec,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,150,Moët Chandon Ice Impérial Rosé demi sec Billecart-Salmon Brut Rosé,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,160,Cuvées Prestige Cuvée Disneyland® Hotel,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,400,for Disneyland Hotel by Maison Pierre Mignon Dom Pérignon Vintage Brut,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,450,Dom Pérignon Vintage Brut Krug Grande Cuvée Brut,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,300,Taittinger Comtes de Champagne Blanc de blancs,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,500,Blanc de blancs Louis Roederer Cristal,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,360,Louis Roederer Cristal Perrier-Jouët Belle Epoque Brut,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,250,Perrier-Jouët Belle Epoque Brut Amour de Deutz Brut,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,340,Amour de Deutz Brut Veuve Clicquot La Grande Dame Brut,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,8,200,Veuve Clicquot La Grande Dame Brut Ruinart Blanc de blancs,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,9,Bières pression Draught Beers Premium,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,14,Bières pression Draught Beers Premium,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,10,Premium Grimbergen d’Abbaye blonde,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,14,Premium Grimbergen d’Abbaye blonde,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,12,Bières bouteille Heineken,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,12,Heineken Desperados,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,12,Desperados Corona Extra,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,13,Corona Extra Briarde Blanche,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,15,Briarde Blanche Guinness Draught cl,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,13,Guinness Draught cl Grimbergen d’Abbaye rouge,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,9,Cidre Cider La Mordue Original Cidre aromatisé,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,18,Vermouth cl La Quintinye Vermouth Royal Rouge Red,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,18,La Quintinye Vermouth Royal Rouge Red La Quintinye Vermouth Royal Blanc White,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,18,La Quintinye Vermouth Royal Blanc White La Quintinye Vermouth Royal Extra dry,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,21,La Quintinye Vermouth Royal Extra dry Carpano Antica Formula,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,18,Bitter Campari Cask Tales,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,16,Campari Cask Tales Aperol,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,16,Anisé cl Ricard Pastis de Marseille,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,21,Ricard Pastis de Marseille Absinthe Pernod,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,16,Gentiane cl Suze,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,16,Porto cl Graham’s Six Grapes Reserve Ruby Port,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,9,18,Xérès cl DO Xérès Jerez Sherry Tio Pepe Palomino Fino,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,France G’Vine Floraison,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,G’Vine Floraison Madlord,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,20,Angleterre England Bombay Sapphire 1er Cru Murcian Lemon,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,Ecosse Scotland Tanqueray N°Ten,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,Tanqueray N°Ten Tobermory Isle of Mull Hebridean Gin,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,Tobermory Isle of Mull Hebridean Gin Hendrick’s,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,21,Japon Japan Ki No Bi Kyoto Dry Gin,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,Ki No Bi Kyoto Dry Gin Roku Gin,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,France Grey Goose,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,Pologne Poland Belvedere Organic bio,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,20,Montenegro Beluga Noble,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,Tequilas El Espolón Blanco,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,21,El Espolón Blanco Reposado Calle,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,30,Reposado Calle Patrón El Cielo,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,Mezcal Madre Desde Siempre Espadin,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,Cachaça “Magnifica” de Faria Tradicional Ipê,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,Pisco cl Pisco del Perú Puro Quebranta,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,18,caraïbes Angostura ans,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,10,21,République Dominicaine Barceló Imperial,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,Martinique AOC Saint James Rhum Blanc Agricole Bio,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,21,Guatemala Ron Zacapa Solera Gran reserva,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,30,Ron Zacapa Solera Gran reserva Ron Zacapa Royal Solera Gran reserva especial,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,21,Venezuela Santa Teresa,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,Nicaragua Flor de Caña ans,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,30,Flor de Caña ans Flor de Caña ans,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,30,France Alfred Giraud Harmonie,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,30,Alfred Giraud Harmonie Alfred Giraud Exploratory Range Voyage,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,Écosse Scotland Auchentoshan ans Lowlands,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,Auchentoshan ans Lowlands Highland Park ans Viking Honour Orcades,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,Highland Park ans Viking Honour Orcades Bowmore ans Islay single malt Scotch Whisky,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,21,Bowmore ans Islay single malt Scotch Whisky Lagavulin ans Islay single malt Scotch Whisky,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,36,Lagavulin ans Islay single malt Scotch Whisky Bunnahabhain ans Islay single malt Scotch Whisky,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,21,Bunnahabhain ans Islay single malt Scotch Whisky Oban ans Highlands,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,21,Oban ans Highlands The Macallan Double Cask ans Speyside,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,The Macallan Double Cask ans Speyside Chivas Regal ans Speyside,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,30,Chivas Regal ans Speyside Royal Salute The Signature Blend ans Speyside,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,Irlande Ireland The Sexton Single malt Irish Whiskey,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,The Sexton Single malt Irish Whiskey Connemara Distillers Edition,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,24,Japon Japan The Hakushu ans,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,24,The Hakushu ans Nikka Coffey Malt Whisky,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,Nikka Coffey Malt Whisky Hatozaki ans Umeshu Cask Finish,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,U.S.A Jack Daniel’s Single Barrel Select,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,Jack Daniel’s Single Barrel Select Maker’s Mark Bourbon,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,21,Maker’s Mark Bourbon Woodford Reserve Double Oaked,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,11,18,Woodford Reserve Double Oaked Bulleit Rye Frontier Whiskey,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,18,Cognacs Courvoisier VSOP,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,30,Courvoisier VSOP Courvoisier XO,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,30,Courvoisier XO Rémy Martin XO Cognac Fine Champagne,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,55,Rémy Martin XO Cognac Fine Champagne AOC Cognac Borderies Royal Banquet Camus,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,300,AOC Cognac Borderies Royal Banquet Camus Rémy Martin Louis XIII Cognac Grande Champagne,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,18,Armagnacs Château de Laubade Bas Armagnac VSOP,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,18,Calvados Le Domfrontais Christian Drouin,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Liqueurs Amaretto Adriatico,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Amaretto Adriatico Bailey’s The Original Irish Cream,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Bailey’s The Original Irish Cream Drambuie,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Drambuie Southern Comfort,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Southern Comfort Génépi Dolin,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Génépi Dolin Cointreau,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Cointreau Grand Marnier Cuvée Louis-Alexandre,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,220,Grand Marnier Cuvée Louis-Alexandre Grand Marnier Quintessence,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Grand Marnier Quintessence Liqueur de café Fair,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Liqueur de café Fair Liqueur de Noisette Frangelico,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Liqueur de Noisette Frangelico Get,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Get Get,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Get Limoncello Mamma Mia,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Limoncello Mamma Mia Pomme Verte,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Pomme Verte Maraschino Luxardo,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,12,16,Maraschino Luxardo Sambuca,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,13,Vins Blancs White Wine AOP Sancerre Cuvée du Connétable,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,59,Vins Blancs White Wine AOP Sancerre Cuvée du Connétable,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,15,Château de Sancerre Sauvignon blanc Vin de France Romorantin Cuvée du Roy,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,68,Château de Sancerre Sauvignon blanc Vin de France Romorantin Cuvée du Roy,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,10,Domaine national de Chambord Bio Cuvée Disneyland® Paris AOP La Clape,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,45,Domaine national de Chambord Bio Cuvée Disneyland® Paris AOP La Clape,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,19,Château L’Hospitalet Bio Demeter AOC Alsace Gewurztraminer Vendange,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,86,Château L’Hospitalet Bio Demeter AOC Alsace Gewurztraminer Vendange,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,15,Tardive Famille Hugel AOC Chablis 1er Cru Côte de Léchet,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,68,Tardive Famille Hugel AOC Chablis 1er Cru Côte de Léchet,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,15,Vins Rouges Red Wine AOC Givry 1er Cru La Grande Berge,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,68,Vins Rouges Red Wine AOC Givry 1er Cru La Grande Berge,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,17,Domaine Goubard AOC Saint-Emilion Grand Cru,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,77,Domaine Goubard AOC Saint-Emilion Grand Cru,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,11,Château Capet-Guillier AOC Cheverny Château de Chambord,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,48,Château Capet-Guillier AOC Cheverny Château de Chambord,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,17,Pinot Noir Bio AOC Châteauneuf-du-Pape,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,77,Pinot Noir Bio AOC Châteauneuf-du-Pape,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,10,L’Oratoire des Papes Cuvée Disneyland® Paris AOP La Clape,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,45,L’Oratoire des Papes Cuvée Disneyland® Paris AOP La Clape,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,13,Vin Rosé Rosé Wine AOC Côtes de Provence Rose et Or,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,13,59,Vin Rosé Rosé Wine AOC Côtes de Provence Rose et Or,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,14,13,BARISTA SPECIALS Latte Cold Brew glacé Cold Brew latte,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,14,14,"Milk, Coffee flavoured cold brew concentrate Café Cardamome glacé Iced cardamom coffee",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,14,14,"orange blossom flavour, Perrier® Café au lait, sirop de vanille, mousse de lait,",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,14,14,"crumbled speculoos, served hot or cold Café macchiato, sirop caramel, mousse de lait,",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,14,14,"crumbled biscuit, served hot or cold Chocolat, sirop saveur noisette, crème fouettée,",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,14,10,SPARKLING NON-ALCOHOLIC Thé pétillant Blå Bio Blå sparkling Tea Organic,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,14,49,cl Thé pétillant Blå Bio Blå sparkling Tea Organic,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,14,13,Thé pétillant Blå Bio Blå sparkling Tea Organic Nooh by La Coste Effervescent rosé,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,14,60,Thé pétillant Blå Bio Blå sparkling Tea Organic Nooh by La Coste Effervescent rosé,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,11,cl Jus d’orange,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,11,Orange juice Jus de pomme,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,11,Apple juice Nectar de fraise,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,11,Strawberry flavour nectar Nectar de poire,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,11,Pear flavour nectar Nectar de fruit de la passion,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,11,Passion fruit flavour nectar Nectar de mangue,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,11,Mango flavour nectar Nectar de myrtille,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,9,Blueberry flavour nectar Coca-Cola ORIGINAL,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,9,Coca-Cola ORIGINAL Coca-Cola ZÉRO SUCRES Sugar Free,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,9,Coca-Cola ZÉRO SUCRES Sugar Free Sprite,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,9,Sprite Fanta Orange,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,9,Fanta Orange FuzeTea Pêche Intense,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,9,FuzeTea Peach Black Tea Kombucha Bio Original,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,9,Kombucha Bio Original Kombucha Bio Original saveur framboise-hibiscus,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,12,Organic Kombucha raspberry-hibiscus flavoured Bundaberg Ginger Beer cl,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,7,Bundaberg Ginger Beer cl Perrier®,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,9,Perrier® Notre sélection de Tonic Our selection of Tonic cl,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,8,MINERAL WATER Vittel® cl,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,15,9,Vittel® cl S.Pellegrino® cl,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,7,HOT DRINKS Espresso Arabica,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,8,Espresso Arabica Double Espresso Arabica,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,7,Double Espresso Arabica Café long Arabica Coffee,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,8,Café long Arabica Coffee Espresso mono-origine Ethiopie Kafa,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,9,Single-origin Ethiopia Kafa Double Espresso mono-origine Ethiopie Kafa,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,8,Single-origin Ethiopia Kafa Café long mono-origine Ethiopie Kafa,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,11,Single-origin Ethiopia Kafa Large coffee Café au lait Coffee with milk,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,11,Café au lait Coffee with milk Macchiato,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,11,Macchiato Cappuccino,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,12,Cappuccino Mocaccino,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,11,Mocaccino Collection Chocolat Chaud Mix Enjoy,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,11,"caramel shards, or “surprise” milk chocolate Chocolat Viennois Viennese chocolate",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,7,Chocolat Viennois Viennese chocolate Espresso décaféiné Decaffeinated espresso,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,8,Espresso décaféiné Decaffeinated espresso Double espresso décaféiné Double espresso decaffeinated,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,7,Double espresso décaféiné Double espresso decaffeinated Café long décaféiné Decaffeinated coffee,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,8,Café long décaféiné Decaffeinated coffee Café décaféiné au lait Decaffeinated coffee with milk,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,8,Café décaféiné au lait Decaffeinated coffee with milk Notre sélection de thés et infusions Betjeman Barton,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,16,6,"Our selection of Betjeman Barton teas Verre de lait, chaud ou froid Glass of hot or cold milk",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,100,"From am to am Caviar Osciètre français g, blinis",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,23,blinis and Isigny PDO cream Charcuteries ibériques et pain au levain toasté,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,28,"Jambon, lomo, chorizo et saucisson Ham, lomo, chorizo and sausage Fromages affinés et pain au levain toasté",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,30,"Brie de Meaux, Coulommiers, comté and Goat’s Cheese Charcuteries ibériques, fromages affinés et pain au levain toasté",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,21,"Served with mango chutney and onion confit Légumes croquants à partager, sauce à la ciboulette",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,21,"Crisp raw vegetables with a chive sauce Houmous, purée d’avocat et concombre à la menthe,",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,26,"Salés Savory Stracciatella di bufala à la truffe noire, huile d’olive",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,35,"with black truffle, extra virgin olive oil and toasted sourdough Rolls de homard, mayonnaise à la vanille,",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,26,Made from croissant dough and “eatable with your fingers” Les “Croq” toastés au comté AOP et à la dinde,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,25,"Toasted turkey and Comté PDO croqs Gâteau de crabe croustillant, mayonnaise au paprika",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,26,doux fumé Crispy crab cake with smoked spiced mayonnaise Manchons de poulet caramelisés façon barbecue,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,17,8,Barbecued caramelised chicken drumsticks Chips “Pipers®” g,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,18,15,"Sucrés Sweet Fondant au chocolat, crème fouettée à la vanille bourbon,",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,18,15,"cream, caramel sauce Trio de crèmes brûlées (vanille, pistache, chocolat)",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,18,13,"Trio of creme brûlée (vanilla, pistachio, chocolate) Noble Cour de Mignardises The Court’s Sweet Favours",disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,18,14,biscuit from Reims and fruit Missive Royale A Regal Invitation,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,18,13,Bourbon sugar Le cookie chocolat-pistaches et amandes caramélisées,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,18,14,Chocolate-pistachio and caramelised almond cookie Le cookie chocolat-pistaches et amandes caramélisées,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,18,13,and a glass of milk Le cookie tout chocolat Chocolate cookie,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,18,14,Le cookie tout chocolat Chocolate cookie Le cookie tout chocolat et son verre de lait,disneyland-hotel/fleur-de-lys-bar
-2026-09-26,Fleur de Lys Bar,Disneyland Hotel,H01R00_fleur-de-lys-bar.pdf,18,18,Chocolate cookie and a glass of milk Macaron de Haut-Rang Majestic Macaron,disneyland-hotel/fleur-de-lys-bar
 2026-09-26,La Table de Lumière,Disneyland Hotel,H01R01_la-table-de-lumiere.pdf,1,120,,disneyland-hotel/la-table-de-lumiere
 2026-09-26,La Table de Lumière,Disneyland Hotel,H01R01_la-table-de-lumiere.pdf,1,60,d e L u m i è r e s m e n u,disneyland-hotel/la-table-de-lumiere
 2026-09-26,La Table de Lumière,Disneyland Hotel,H01R01_la-table-de-lumiere.pdf,1,60,"we suggest x cl)from our selection, priced at",disneyland-hotel/la-table-de-lumiere
@@ -1303,6 +1292,17 @@ Pulled,Venue,Location,PdfFile,Page,PriceEUR,ItemGuess,Slug
 2026-09-26,The Lucky Nugget Saloon,Disneyland Park,P1RR03_lucky-nugget-saloon.pdf,2,16,Menu Enfant Kids’ Menu,disneyland-park/lucky-nugget-saloon
 2026-09-26,The Lucky Nugget Saloon,Disneyland Park,P1RR03_lucky-nugget-saloon.pdf,2,12,The Macabre Wedding cl,disneyland-park/lucky-nugget-saloon
 2026-09-26,The Lucky Nugget Saloon,Disneyland Park,P1RR03_lucky-nugget-saloon.pdf,2,5,,disneyland-park/lucky-nugget-saloon
+2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,1,7,,disneyland-park/march-hare-refreshments
+2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,1,7,,disneyland-park/march-hare-refreshments
+2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,1,7,,disneyland-park/march-hare-refreshments
+2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,1,7,"mango and passion fruit coulis, and cocoa butter hearts",disneyland-park/march-hare-refreshments
+2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,1,4,Café au lait Coff ee with milk Cappuccino.............................................................,disneyland-park/march-hare-refreshments
+2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,1,50,Orange or apple juice Prix nets Nous n’acceptons pas les coupures au-delà de,disneyland-park/march-hare-refreshments
+2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,1,50,Prix nets Nous n’acceptons pas les coupures au-delà Tax included We do not accept notes over,disneyland-park/march-hare-refreshments
+2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,2,50,Prix nets Nous n’acceptons pas les coupures au-delà de,disneyland-park/march-hare-refreshments
+2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,2,50,Prix nets Nous n’acceptons pas les coupures au-delà Tax included We do not accept notes over,disneyland-park/march-hare-refreshments
+2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,2,10,Pause Gourmande,disneyland-park/march-hare-refreshments
+2026-09-26,March Hare Refreshments,Disneyland Park,P1NR04_march-hare-refreshments.pdf,2,7,,disneyland-park/march-hare-refreshments
 2026-09-26,Market House Deli,Disneyland Park,P1MR06_market-house-deli.pdf,2,6,,disneyland-park/market-house-deli
 2026-09-26,Market House Deli,Disneyland Park,P1MR06_market-house-deli.pdf,2,6,,disneyland-park/market-house-deli
 2026-09-26,Market House Deli,Disneyland Park,P1MR06_market-house-deli.pdf,3,7,Petit déjeuner,disneyland-park/market-house-deli
