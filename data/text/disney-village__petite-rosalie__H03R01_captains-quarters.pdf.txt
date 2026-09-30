@@ -1,0 +1,454 @@
+p1: CAPTAIN’S
+p1: QUARTERS
+p1: Après avoir vogué
+p1: dans les eaux du monde entier,
+p1: le capitaine a jeté l'ancre au Captain's Quarter
+p1: et vous invite à découvrir ses recettes maritimes :
+p1: des notes iodées, salines, océaniques
+p1: qui vous ferons voyager.
+p1: After sailing
+p1: around the world, the captain returned
+p1: to Captain's Quarters with it's own maritime mixes.
+p1: Awash with ocean notes, they'll send your taste buds
+p1: on the most delicious of voyages.
+p3: COCKTAILS
+p3: S I G N A T U R E
+p3: Loa.................................................................................................................................18€
+p3: Mauna
+p3: Rhum Plantation Ananas, liqueur Amaretto Disaronno,
+p3: Angostura aromatic bitters, boisson au citron vert1,
+p3: jus d'ananas1, nectar de fruit de la passion1
+p3: et sirop saveur falernum
+p3: Pineapple Plantation rum, Amaretto Disaronno liqueur,
+p3: Angostura aromatic bitters, lime drink1, pineapple juice1,
+p3: passion fruit nectar1 and falernum flavour syrup
+p3: America
+p3: ..................................................................................................18€
+p3: Bulleit Rye Frontier whiskey, sirop
+p3: d'érable, Laphroaig Islay single malt
+p3: 10 ans, cheddar rouge, romarin
+p3: Bulleit Rye Frontier whiskey, maple
+p3: syrup, Laphroaig Islay single malt 10
+p3: years old, red cheddar and rosemary
+p3: 1 - jus à base de concentré de fruit / made from concentrated fruit juice
+p3: Prix nets / Tax included
+p4: Spirit of the sea
+p4: ...................................................................................................18€
+p4: Gin Hendrick's, liqueur The Original
+p4: Pisang Ambon, jus de pomme1,
+p4: boisson au citron vert1 et blanc d'œuf
+p4: Hendrick's gin, The Original Pisang
+p4: Ambon liqueur, apple juice1, lime drink1
+p4: and egg white
+p4: Le courageux
+p4: ..................................................................................................18€
+p4: Gin Madlord, morceaux de citron vert,
+p4: tranche d'orange et tonic :
+p4: Tonic fleur de sureau
+p4: ou saveur méditerranéenne
+p4: ou saveur rhubarbe-framboise
+p4: ou ginger ale
+p4: Madlord gin, lime, orange slice, tonic :
+p4: elderflower tonic or Mediterranean
+p4: flavour tonic or rhubarb-raspberry
+p4: flavour tonic or ginger ale
+p4: 1 - jus à base de concentré de fruit / made from concentrated fruit juice
+p4: Prix nets / Tax included
+p5: Around the World
+p5: ...................................................................................................18€
+p5: Whisky Monkey Shoulder, griottines,
+p5: sirop saveur gingembre, boisson au
+p5: citron vert1 et sirop de sucre de canne
+p5: Monkey Shoulder whisky, cherry,
+p5: ginger flavour syrup, lime drink1 and
+p5: cane sugar syrup
+p5: L'intrépide
+p5: ..................................................................................................18€
+p5: Bière 1664® premium,
+p5: Saké Sayori Nakadori Junmaï,
+p5: morceaux de citron vert,
+p5: sucre cassonade, menthe fraîche
+p5: et sirop saveur gingembre
+p5: 1664® Premium beer, Sayori Nakadori
+p5: Junmaï sake, fresh lime, brown sugar,
+p5: fresh mint and ginger flavour syrup
+p5: A La Française
+p5: ......................................................................................................................................................................................18€
+p5: Cognac Ile de Ré Fine Island Camus, crème de framboises,
+p5: blanc d'œuf, jus de citron et champagne brut
+p5: Ile de Ré Fine Island Camus cognac, raspberry liqueur, egg white,
+p5: lemon juice and champagne brut
+p5: 1 - jus à base de concentré de fruit / made from concentrated fruit juice
+p5: Prix nets / Tax included
+p6: COCKTAILS
+p6: S I G N A T U R E
+p6: S A N S A L C O O L
+p6: N O N - A L C O H O L I C
+p6: Little Sailor
+p6: Lemonade.................................................................14€
+p6: Jus de citron frais, boisson au citron vert1,
+p6: jus d'orange1, sirop saveur curaçao bleu
+p6: et Vittel®
+p6: Fresh lemon juice, lime drink1, orange juice1,
+p6: blue curacao flavour syrup and Vittel®
+p6: ...........................................................................................................................14€
+p6: pink Pacific
+p6: Nectar de cranberry1, cordial arôme baie
+p6: de Rue, sirop de fruits rouges parfumé aux épices et ginger beer
+p6: Cranberry nectar1, Rue Berry flavour cordial, spiced red berry
+p6: syrup and ginger beer
+p6: Summer Regatta .......................................................................................................1 4€
+p6: Nectar de mangue1, sirop de grenadine, Sprite et menthe fraîche
+p6: Mango nectar1, grenadine syrup, Sprite and fresh mint
+p6: Virgin Mauna Loa ..............................................................................................14€
+p6: Jus d'ananas1 et d'orange, nectar de fruit de la passion1,
+p6: boisson au citron vert1 et sirop saveur falernum
+p6: Pineapple1 and orange juices, passion fruit nectar1,
+p6: lime drink1 and falernum flavour syrup
+p6: 1 - jus à base de concentré de fruit / made from concentrated fruit juice
+p6: Prix nets / Tax included
+p7: C O C K T A I L S C L A S S I Q U E S
+p7: C L A S S I C C O C K T A I L S
+p7: 16€
+p7: Old Fashioned ........................................................................................................
+p7: Maker's Mark Bourbon, Angostura aromatic bitters,
+p7: Perrier® et sucre
+p7: Maker's Mark Bourbon, Angostura aromatic bitters,
+p7: Perrier® and sugar
+p7: Espresso Martini .......................................................................................... 16€
+p7: Vodka Smirnoff N°21 Red, liqueur de café - Fair,
+p7: sirop de sucre de canne et espresso Lavazza
+p7: Smirnoff N°21 Red vodka, Fair - coffee liqueur,
+p7: cane sugar syrup and Lavazza espresso
+p7: 16€
+p7: Mojito ................................................................................................................................................
+p7: Rhum Trois Rivières blanc, Angostura aromatic bitters,
+p7: feuilles de menthe fraîche, sirop de sucre de canne,
+p7: morceaux de citron vert et Perrier®
+p7: Trois Rivières white rum, Angostura aromatic bitters,
+p7: fresh mint, cane sugar syrup, lime and Perrier®
+p7: 1 - jus à base de concentré de fruit / made from concentrated fruit juice
+p7: Prix nets / Tax included
+p8: 16€
+p8: Piña Colada .......................................................................................................................
+p8: Rhum Saint James Impérial blanc, jus d'ananas1 et purée de noix de coco
+p8: Saint James Imperial white rum, pineapple juice1 and coconut purée
+p8: 16€
+p8: Aperol Spritz................................................................................................................
+p8: Aperol, DOC Prosecco Extra Dry, tranche d'orange et Perrier®
+p8: Aperol, DOC Prosecco Extra Dry, orange slice and Perrier®
+p8: C O C K T A I L C H A U D
+p8: H O T C O C K T A I L
+p8: Irish Coffee ...................................................................................................................... 14€
+p8: Whiskey The Sexton single malt Irish, espresso Lavazza,
+p8: sirop de sucre de canne et crème fouettée
+p8: The Sexton single malt Irish whiskey, Lavazza espresso,
+p8: cane sugar syrup and whipped cream
+p8: 1 - jus à base de concentré de fruit / made from concentrated fruit juice
+p8: Prix nets / Tax included
+p9: 15 cl 75 cl
+p9: Champagnes
+p9: Edition Spéciale Disneyland® Paris
+p9: Champagne Pierre Mignon Grande Réserve - brut .................19€ .........87€
+p9: Pierre Mignon - Prestige - Rosé de saignée - brut ..................21€ .........92€
+p9: Moët & Chandon - Impérial - Brut .................................................................................97€
+p9: Taittinger - Réserve - brut .........................................................................................................97€
+p9: Taittinger - Prestige - Rosé .......................................................................................................105€
+p9: Veuve Cliquot Brut Carte Jaune .......................................................................................105€
+p9: Vin effervescent / Sparkling wine
+p9: Italie : DOC Prosecco Extra Dry ........................................................................7,5€ ...34€
+p9: B I È R E S E T C I D R E
+p9: B E E R S A N D C I D E R
+p9: pression
+p9: Draught 25 cl 50 cl
+p9: 1664® Premium ..........................................................................................................6,5€ ..........9,8€
+p9: Brooklyn IPA ..................................................................................................................7,5€ ...........10,5€
+p9: Grimbergen blonde .............................................................................................6,5€ ............9,8€
+p9: 1664® Premium 50 cl avec / with Chips Pipers 45 g ........12,5€
+p9: 27,5 cl
+p9: bouteille Cidre / Cider
+p9: Bottled 33 cl La Mordue Original
+p9: Cidre aromatisé 8€
+p9: Grimbergen d’Abbaye ............................
+p9: blanche ..................................................... 8,5€ Flavoured cider
+p9: Grimbergen d’Abbaye
+p9: rouge 9€
+p9: ...........................................................
+p9: Heineken 8,5€
+p9: ................................................
+p9: Desperados 8,5€
+p9: ........................................
+p9: Corona Extra 8,5€
+p9: ....................................
+p9: Guinness Draught 50 cl ......... 9€
+p9: 1 - jus à base de concentré de fruit / made from concentrated fruit juice
+p10: A P É R I T I F S /
+p10: A P E R I T I V E S
+p10: Dolin - Vermouth de Chambéry Aperol 6 cl ...............................................8,5€
+p10: Blanc 6 cl ...........................................................8,5€ Campari bitter 6 cl ........................8,5€
+p10: White vermouth
+p10: Porto Graham's Tawny 6 cl ...8,5€
+p10: Dolin - Vermouth de Chambéry
+p10: Ricard -
+p10: Rouge .........................................................8,5€
+p10: 6 cl Pastis de Marseille .............8,5€
+p10: 4 cl
+p10: Red vermouth
+p10: S P I R I T U E U X /
+p10: S P I R I T S
+p10: Gins 4 cl Rhums - cachaças
+p10: Tanqueray N°Ten ............................12€ Rums - Cachacas 4 cl
+p10: Angostura 5 ans ................................12€
+p10: Hendrick's ...............................................12€
+p10: Flor de Caña -
+p10: Bombay Sapphire .........................12€
+p10: Gran Reserva N°7 ..........................12€
+p10: Madlord ....................................................14€
+p10: Trois Rivières blanc......................11€
+p10: Saint James Imperial
+p10: Rhum blanc agricole
+p10: AOC Martinique .............................10€
+p10: Vodkas 4 cl
+p10: Belvedere Organic - Bio ........11€ Plantation Pineapple ...............12€
+p10: Grey Goose ...........................................12€ Ron Zacapa 23
+p10: Solera Gran reserva ..................14€
+p10: Cachaça - Magnifica de Faria
+p10: 4 cl Tradicional Ipê ...................................12€
+p10: Tequila
+p10: Calle 23 - Reposado ....................12€
+p10: Prix nets / Tax included
+p11: Whiskies 4 cl
+p11: AMÉRICAIN / AMERICAN
+p11: Maker's Mark ..............................................12€
+p11: Bourbon Whisky
+p11: Jack Daniel's -
+p11: Single Barrel Select.........................13€
+p11: ÉCOSSAIS / SCOTTISH
+p11: Scotch Blended
+p11: Johnnie Walker Red Label ....12€
+p11: Monkey Shoulder ..............................12€
+p11: Scotch Malts
+p11: Laphroaig 10 ans
+p11: Islay Single Malt Scotch ...............12€
+p11: IRLANDAIS / IRISH
+p11: The Sexton Single Malt
+p11: Digestifs
+p11: Irish Whiskey .........................................12€
+p11: & Liqueurs
+p11: JAPONAIS / JAPANESE
+p11: Digestives
+p11: 4 cl
+p11: Nikka Coffey Malt ............................14€ & liqueurs
+p11: Cognac Courvoisier VSOP ...11€
+p11: AOC Cognac Bois à Terroirs
+p11: Ile de Ré Fine Island - Camus...14€
+p11: Calvados le Domfrontais
+p11: de Christian Drouin ........................12€
+p11: Château de Laubade
+p11: Bas Armagnac VSOP ..................13€
+p11: Amaretto Disaronno ......................11€
+p11: Malibu ............................................................11€
+p11: Get 27 ............................................................11€
+p11: Bailey's The Original
+p11: Irish Cream .............................................12€
+p11: The Original Pisang Ambon 10€
+p11: Prix nets / Tax included
+p12: V I N S
+p12: W I N E
+p12: blancs
+p12: 15 cl 75 cl
+p12: White
+p12: AOP Sancerre - Château de Sancerre - Sauvignon blanc ..12€ .....54€
+p12: Cuvée Disneyland® Paris - AOP La Clape
+p12: Château L'Hospitalet - Bio - Demeter .........................................................8,5€ ..38€
+p12: AOC Muscadet Sèvre et Maine sur lie - Ancre Bleue
+p12: Gilbert Chon ...............................................................................................................................7,5€ ...34€
+p12: rouges
+p12: RED 15 cl 75 cl
+p12: IGP Cité de Carcassonne - Gérard Bertrand - Merlot ...........8€ .......34€
+p12: AOC Bourgogne Hautes-Côtes de Nuits
+p12: Pierre Maizière .........................................................................................................................9,5€ ..43€
+p12: Cuvée Disneyland® Paris - AOP La Clape
+p12: Château L'Hospitalet - Bio - Demeter .........................................................8,5€ ..38€
+p12: Rosés
+p12: 15 cl 75 cl
+p12: Rosé
+p12: AOP Languedoc - Source of Joy - Gérard Bertrand
+p12: Bio - Vegan......................................................................................................................................8,5€ ..38€
+p12: AOP Côtes de Provence - Minuty - Prestige Rosé .......................8,5€ ..38€
+p12: Prix nets / Tax included
+p13: COCKTAILS CLASSIQUES
+p13: SANS ALCOOL
+p13: NON-ALCOHOLIC
+p13: CLASSIC COCKTAILS
+p13: Virgin Lada.................. 13€
+p13: Jus d'ananas1
+p13: et purée de noix de coco
+p13: Pineapple juice1
+p13: and coconut purée
+p13: 13€
+p13: Virgin Mojito ......
+p13: Sirops saveur menthe mojito
+p13: et saveur rhum,
+p13: feuilles de menthe fraîche,
+p13: morceaux de citron vert
+p13: et Perrier®
+p13: Rum flavour syrup
+p13: and mojito mint flavour syrup,
+p13: fresh mint leaves,
+p13: fresh lime and Perrier®
+p13: Vin effervescent sans alcool /
+p13: non-alcoholic Sparkling wine
+p13: Nooh by La Coste - Effervescent Rosé - 0% alcool ....................12€ .....55€
+p13: Sparkling rosé - 0% alcohol
+p13: Bière sans alcool
+p13: 33 cl
+p13: non-alcoholic beer
+p13: 1664® 0,0% .....................................................................................................................................................7€
+p13: 1 - jus à base de concentré de fruit / made from concentrated fruit juice
+p13: Prix nets / Tax included
+p14: B O I S S O N S F R A Î C H E S
+p14: C O L D D R I N K S
+p14: Coca-Cola ORIGINAL, Coca-Cola ZÉRO SUCRES 33 cl ..............................6€
+p14: Fanta Orange, Sprite 25 cl ........................................................................................................6€
+p14: TROPICO Original ..............................................................................................................6€
+p14: 25 cl
+p14: FuzeTea Pêche Intense / Peach Black Tea .............................................6€
+p14: 25 cl
+p14: Tonic .....................................................................................................................................................5€
+p14: 20 cl
+p14: Tonic Indian, Tonic Elderflower, Tonic Mediterranean,
+p14: Tonic Rhubarbe-Framboise
+p14: Bundagerg Ginger Beer 37,5 cl .............................................................................................7€
+p14: Perrier® 33 cl .............................................................................................................................................5€
+p14: Jus de fruit Eaux Minérales
+p14: Fruit Juice 25 cl Mineral Waters 50 cl
+p14: Jus d'orange, Vittel® ..........................................................5€
+p14: jus de pomme .....................................6€
+p14: S.Pellegrino® .......................................5,5€
+p14: Orange juice, apple juice
+p14: Prix nets / Tax included
+p15: B O I S S O N S C H A U D E S
+p15: H O T D R I N K S
+p15: Espresso 100% Arabica ...............................................................................3,8€
+p15: Double espresso 100% Arabica .........................................................5,5€
+p15: Café 100% Arabica ...........................................................................................5€
+p15: Coffee
+p15: Décafféiné ....................................................................................................................3,8€
+p15: Decaffeinated
+p15: Café au lait ...................................................................................................................5,5€
+p15: Coffee with milk
+p15: Cappuccino .................................................................................................................5,5€
+p15: Café Viennois ...........................................................................................................5,5€
+p15: Vienna coffee
+p15: Chocolat Chaud ....................................................................................................5,5€
+p15: Hot chocolate
+p15: Chocolat Viennois ..............................................................................................5,8€
+p15: Vienna chocolate
+p15: Thé, infusion...............................................................................................................5,5€
+p15: Tea, herbal tea
+p15: Lait demi-écrémé 20 cl ..................................................................................3,8€
+p15: Semi-skimmed milk
+p15: Prix nets / Tax included
+p16: Souvenirs
+p16: Offrez-vous
+p16: un souvenir
+p16: magique avec notre
+p16: cuillère collector
+p16: Collect our magical
+p16: souvenir spoon
+p16: 34€
+p16: Prix net / Tax included
+p17: SNACKS
+p17: À L ' H E U R E D E L ' A P É R I T I F !
+p17: I T ' S C O C K T A I L T I M E !
+p17: PLANCHE DE LA MER,
+p17: IDÉALE À PARTAGER ................................................................................ 17€
+p17: Saumon fumé, crème acidulée à l'aneth, rillettes de crabe et
+p17: crevettes marinées aigre-doux
+p17: Smoked salmon, sour dill cream, crab rillettes and sour marinated
+p17: shrimps
+p17: Chips Pipers .................................................................................................. 6€
+p17: Pipers© Potato Crisps
+p17: Prix nets / Tax included
+p17: Un recueil d’information sur la présence d’allergènes dans nos plats est disponible,
+p17: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p17: A list of the allergens present in our dishes is available upon request with any
+p17: of our Cast Members; please make a Cast Member aware of any allergies you may have
+p18: S A N D W I C H S F R O I D S
+p18: C O L D S A N D W I C H S
+p18: Servis jusqu'à 22h30 / Served until 10:30 pm
+p18: Sandwich au saumon fumé
+p18: façon wrap 14€
+p18: .........................................................................................................................
+p18: Smoked Salmon sandwich, wrap way
+p18: Saumon fumé, , aneth et concombre
+p18: Smoked salmon, Kiri®, dill and cucumber
+p18: Sandwich végétal .................................................................... 14€
+p18: Vegetal Sandwich
+p18: Pain aux flocons de pomme de terre, avocat, salade,
+p18: concombre, radis et pesto vegan
+p18: Bread with potato flakes, avocado, lettuce,
+p18: cucumber, radish, and vegan pesto
+p18: Sandwich Poulet .................................................................................................... 14€
+p18: Chicken sandwich
+p18: Poulet, cheddar, tomate et roquette
+p18: Chicken, cheddar cheese, tomato and rocket salad
+p18: S A L A D E E T S N A C K
+p18: S A L A D A N D S N A C K
+p18: Veggie Bowl ................................................................................................ 12€
+p18: Quinoa, boulgour, tomate, radis, avocat, chou blanc,
+p18: mangue et vinaigrette aux agrumes
+p18: Quinoa, bulgur, tomato, radish, avocado, white cabage,
+p18: mango and citrus vinaigrette
+p18: pain à l'ail / garlic bread .............................................. 5€
+p18: Croque Jambon Emmental & Salade
+p18: Grilled cheese sandwich
+p18: 15€
+p18: with ham & salad ...........................................................................................
+p18: Un recueil d’information sur la présence d’allergènes dans nos plats est disponible,
+p18: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p18: A list of the allergens present in our dishes is available upon request with any
+p18: of our Cast Members; please make a Cast Member aware of any allergies you may have
+p18: Prix nets / Tax included - Eau potable à votre disposition / Drinking water available.
+p19: F O R M U L E D U C A P I TA I N E
+p19: 19€
+p19: C A P TA I N ' S M E N U
+p19: Disponible jusqu'à 22h30 / Available until 10.30 p.m.
+p19: Sandwich au saumon
+p19: fumé façon wrap
+p19: Saumon fumé, , aneth et concombre
+p19: OU Sandwich végétal
+p19: Pain aux flocons de pomme de terre, avocat, salade,
+p19: concombre, radis et pesto vegan
+p19: OU Sandwich Poulet
+p19: Poulet, cheddar, tomate et roquette
+p19: 33 cl
+p19: ET Boisson Fraîche
+p19: OU Eau Minérale 50 cl
+p19: Smoked Salmon sandwich, wrap way
+p19: Smoked salmon, Kiri®, dill and cucumber
+p19: OR Vegetal Sandwich
+p19: Bread with potato flakes, avocado, lettuce, cucumber, radish,
+p19: and vegan pesto
+p19: OR Chicken sandwich
+p19: Chicken, cheddar cheese, tomato and rocket salad
+p19: AND Cold Drink 33 cl
+p19: OR Mineral Water 50 cl
+p19: D E S S E R T S
+p19: crème glacée / Ice Cream
+p19: Chocolat ou vanille / Chocolate or vanilla flavour 8€
+p19: .........................................
+p19: Glace / Ice Cream 8€
+p19: ..................................................................
+p19: Pistache / Pistachio flavour
+p19: Sorbet/ Sherbet 8€
+p19: ...........................................................................
+p19: Mangue ou fraise / Mango or strawberry flavour
+p19: Muffin aux myrtilles2 ...................................................................... 6€
+p19: Pâtisserie du moment 8€
+p19: ........................................................................
+p19: Pastry of the moment (by the unit)
+p19: 2 - produit décongelé / defrosted product
+p19: Prix nets / Tax included
+p20: ©Disney - 10/2025

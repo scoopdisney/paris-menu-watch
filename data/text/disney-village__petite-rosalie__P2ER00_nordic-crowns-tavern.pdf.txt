@@ -1,0 +1,132 @@
+p1: MENU
+p1: PLAT + DESSERT + BOISSON FRAÎCHE
+p1: 50 cl
+p1: MAIN COURSE + DESSERT + COLD DRINK
+p1: 50 cl
+p1: Magie de Glace, glace parfum vanille ou tutti frutti,
+p1: Pavé de saumon, sauce moutarde et aneth
+p1: 24 €
+p1: toppings et gaufrette tulipe
+p1: Salmon steak, mustard and dill sauce
+p1: Arendelle Swirl, vanilla or tutti frutti flavour ice cream,
+p1: Écrasé de pommes de terre
+p1: toppings and tulip wafer
+p1: et mélange de légumes
+p1: ou Boulettes de volaille,
+p1: 22
+p1: €
+p1: Crushed potatoes and vegetable mix
+p1: sauce aux cranberries séchées
+p1: Palais1,
+p1: ou Flocon du sablé,
+p1: or Turkey meatballs, dried cranberry sauce
+p1: crème au chocolat blanc, insert fruits rouges
+p1: ou Quinoa et mélange de légumes
+p1: Snowflake1,
+p1: or Everlasting shortbread,
+p1: or Quinoa and vegetable mix
+p1: ou Boulettes végétales,
+p1: white chocolate cream, red fruit centre
+p1: 22
+p1: €
+p1: sauce oignons et champignons
+p1: or Plant-based meatballs,
+p1: ou / or Magnum® Vegan Amande / Almond
+p1: onions and mushrooms sauce
+p1: LE MENU DES MINI TROLLS / THE MINI TROLLS MENU
+p1: Pour enfants âgés de 3 à 11 ans / For children ages 3 to 11
+p1: 14 €
+p1: PAUSE GOÛTER
+p1: Pavé de saumon, sauce moutarde et aneth Salmon steak, mustard and dill sauce
+p1: SWEET BREAK
+p1: ou Boulettes de volaille, sauce aux cranberries séchées or Turkey meatballs, dried cranberry sauce
+p1: ou Boulettes végétales, sauce oignons et champignons or Plant-based meatballs, onions and mushrooms sauce
+p1: Muffin de l'hiver1
+p1: ou Magnum® Mini Amande
+p1: avec Écrasé de pommes de terre et mélange de légumes with Crushed potatoes and vegetable mix
+p1: et Boisson chaude ou fraîche
+p1: ou Quinoa et mélange de légumes or Quinoa and vegetable mix
+p1: enneigés1 Beignets1 Winter Muffin1
+p1: et Beignets avec nappage blanc and Snowy - doughnut bites with white coating
+p1: o r M a g n u m ® M in i Almond
+p1: MENU SALADE ou Glace Câlin enneigé d'Olaf - parfum vanille ou tutti frutti or Olaf's cold ice cream- vanilla or tutti frutti flavour
+p1: 15 €
+p1: a n d Ho t o r c o l d dr in k
+p1: ou Purée de pommes Bio (sans sucres ajoutés) or Organic apple purée (no added sugar)
+p1: ou Yaourt à boire sucré aromatisé or Sweetened flavoured drinking yoghurt
+p1: SALADE + BOISSON FRAÎCHE
+p1: 50 cl Bio2 Babybel®2
+p1: ou Mini Babybel® or Organic Mini
+p1: SALAD + COLD DRINK
+p1: 50 cl ou Magnum® Mini Amande or Magnum® Mini Almond
+p1: S alade de pommes de terre, poisson fumé, moutarde à l'ancienne, et Vittel® 33 cl , Jus d'orange 23.5 cl ou de pomme 23.5 cl ou Lait 20 cl and Vittel® 33 cl , Orange juice 23.5 cl or apple juice 23.5 cl or Milk 20 cl
+p1: oignons blancs, vinaigrette basilic-miel, salade frisée et pickles d'oignons rouges
+p1: 7
+p1: Potato salad, smoked fish, wholegrain mustard, white onions, Autre boisson fraîche 25 cl sur demande et remplacement du produit proposé Other cold drink 25 cl may replace similar item on request €
+p1: basil-honey dressing, frisée lettuce and pickled red onions
+p1: Ce menu (sans modification) comprend au moins 2 portions de fruits et légumes et est faible en graisses saturées This menu (without substitution) contains at least 2 portions of fruits and vegetables and is low in saturated fats.
+p1: ou Salade de céréales, émincé végétal, salade frisée, carottes et betteraves râpées
+p1: et vinaigrette aux agrumes
+p1: or G rain salad, sliced wheat protein with broad beans, frisée lettuce,
+p1: grated carrots and beetroot with citrus dressing
+p1: PETIT DÉJEUNER / BREAKFAST
+p1: de 9h30 à 11h / from 9:30 am to 11:00 am
+p1: PLATS DESSERTS VIN EN BOUTEILLE EAUX MINÉRALES / MINERAL WATERS
+p1: 50 cl
+p1: ...............................................................................................................20 € Palais1 ..................................................5 € BOTTLED WINE
+p1: Pavé de saumon, sauce moutarde et aneth Flocon du : Sablé, crème au chocolat blanc, insert fruits rouges
+p1: Vittel® ....................................................................................................................................................................................3,5 €
+p1: avec mélange de légumes et écrasé de pommes de terre ou quinoa Everlasting Snowflake(1): Shortbread, white chocolate cream, red fruit centre
+p1: ............................................................................................................................8 €
+p1: Salmon steak, mustard and dill sauce with vegetable mix and crushed potatoes or quinoa IGP Pays d'Oc - Gio blanc 18,7 cl S.Pellegrino® .....................................................................................................................................................................3,8 €
+p1: Muffin de l'hiver1 - Myrtilles........................................................................................................................................4,3 €
+p1: ...........................................................................................18 Winter Muffin1 - Blueberry
+p1: Boulettes de volaille, sauce aux cranberries séchées €
+p1: BOISSONS CHAUDES / HOT DRINKS
+p1: avec mélange de légumes et écrasé de pommes de terre ou quinoa Yaourt sur lit de fruit / Yoghurt on a fruit layer ..................................................................................................3 € BOISSONS FRAÎCHES
+p1: Turkey meatballs, dried cranberry sauce with vegetable mix and crushed potatoes or quinoa
+p1: Sachet de fruit / Fruit bag ............................................................................................................................4 € ..............................................................................................................................................3,3 €
+p1: COLD DRINKS Espresso 100% Arabica
+p1: Boulettes végétales, sauce oignons et champignons ...........................................18 €
+p1: .............................................................................................................................3,8
+p1: 50 cl Double Espresso 100% Arabica €
+p1: avec mélange de légumes et écrasé de pommes de terre ou quinoa
+p1: GLACES Coca-Cola Original .........................................................................................................................................................4,2 € ...................................................................................................................................3,5
+p1: Pea and rice protein balls, onions and mushrooms sauce Café 100% Arabica / Coffee €
+p1: gnidnib-non
+p1: with vegetable mix and crushed potatoes or quinoa Coca-Cola Zéro Sucres ................................................................................................................................................4,2 € .................................................................................................................................4
+p1: ICE CREAM Café au lait / Coffee with milk €
+p1: Salade de pommes de terre, poisson fumé, moutarde à l'ancienne, oignons blancs, Coca-Cola Zéro Sucres Cherry - Saveur cerise...............................................................................................4,2 € ...........................................................................................................................................................................4
+p1: Cappuccino €
+p1: M a g i e d e G l ac e : G la c e p a r f u m v a n i ll e o u tu t t i f ru t t i, t o p p in g s e t g a u f re t t e tu li p e .. ................................5 € era
+p1: vinaigrette basilic-miel, salade frisée et pickles d'oignons rouges ....................................................................12 €
+p1: Sprite Sans Sucres .........................................................................................................................................................4,2 € ................................................................................................................................4,2 sotohp
+p1: Ar e n d e ll e S w ir l : V a n il l a o r t u tt i fr u t t i fl a v o u r ic e c r e a m , t op p i n g s a n d t u l i p w a f e r Chocolat chaud / Hot chocolate €
+p1: Potato salad, smoked fish, wholegrain mustard, white onions, basil-honey dressing,
+p1: Fanta Orange Sans Sucres .........................................................................................................................................4,2 €
+p1: frisée lettuce and pickled red onions Magnum® Vegan Amande / Almond ........................................................................................................4 € noitatneserP
+p1: .................................................................................................................................3,5 €
+p1: Thé, infusion / Tea, herbal tea
+p1: FuzeTea Pêche Intense ..................................................................................................................................................4,2 €
+p1: Salade de céréales, émincé végétal, salade frisée,
+p1: ..................................................................................12 € TROPICO Tropical ....................................................................................................................................................4,2 €
+p1: carottes et betteraves râpées et vinaigrette aux agrumes BIÈRES PRESSION SOUVENIRS
+p1: /
+p1: selleutcartnoc
+p1: Grain salad, sliced wheat protein with broad beans, frisée lettuce,
+p1: grated carrots and beetroot with citrus dressing DRAUGHT BEERS
+p1: Jus d'orange ou de pomme / Orange or apple juice ................................................................................3,8 € Gobelet / Tumbler ...........................................................................................................................................................18 €
+p1: 23,5 cl
+p1: ......................6 avec boisson fraîche / with a cold drink ...................................................................................................................20 €
+p1: Beignets de poisson (x4), sauce tartare curry / Fish fritters (x4), curried tartare sauce € Carlsberg .................................................................................................................................................5 € .....................8 € Lait demi-écrémé / Semi-skimmed milk ......................................................................................................2,5 €
+p1: 20 cl
+p1: non
+p1: Mug ........................................................................................................................................................................................19 €
+p1: Beignets de calamars (x4), sauce tartare curry / Calamari fritters (x4), curried tartare sauce ........6 € Grimbergen blonde ..............................................................................................................................5,5 € .................8,5 €
+p1: sotohP
+p1: avec boisson chaude / with a hot drink ...................................................................................................................21 €
+p1: - 62/20
+p1: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members / A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have
+p1: –
+p1: 1 produit décongelé / defrosted product - 2 1 pièce pour le déjeuner, 1 pièce pour le gouter / 1 piece for lunch, 1 piece for snacking yensiD©
+p1: Prix nets / Tax included - Eau potable à votre disposition / Drinking water available

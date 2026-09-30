@@ -1,0 +1,42 @@
+p1: BUFFET
+p1: TTHHEE GGRRAANNGGEE
+p1: 2ème 2nd
+p1: étage - f loor
+p1: at Billy Bob’s Country western saloon
+p1: ALL-YOU-CAN-EAT TEX MEX BUFFET
+p1: Excepté le 24 et 31 décembre / Except on December 24th and 31st.
+p1: Adulte
+p1: Avec Boisson fraîche ou Eau minérale 40€
+p1: 33 cl 50 cl
+p1: With a Cold drink or a Mineral water
+p1: 33 cl 50 cl
+p1: Adult
+p1: EnfanT ®
+p1: Vittel 33 cl ou Jus d’orange ou pomme ou Lait 22€
+p1: 25 cl 20 cl
+p1: ®
+p1: Vittel or Orange or Apple juice or Milk
+p1: 33 cl 25 cl 20 cl
+p1: KIDS’
+p1: Autre boisson fraîche 25 cl sur demande et en remplacement du produit proposé
+p1: Other cold drink 25 cl may replace similar item on request
+p1: Pour enfants âgés de 3 à 11 ans
+p1: For children ages 3 to 11
+p1: BUFFET ADULTE : Boisson au choix
+p1: ADULT BUFFET: Drink of your choice
+p1: gnidnib-ton
+p1: era
+p1: 33 cl
+p1: sotohp
+p1: noitatneserP
+p1: /
+p1: selleutcartnoc-non
+p1: sotohP
+p1: 25 cl 50 cl –
+p1: 52/01
+p1: –
+p1: yensiD©
+p1: Eau potable à disposition - Prix nets - Un recueil d’information sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members.
+p1: Drinking water available - Tax included - A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have.
+p1: Consultez le menu
+p1: Check out our menu

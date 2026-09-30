@@ -1,0 +1,50 @@
+p1: Menu
+p1: 12€
+p1: Corn-dog1
+p1: avec chips Lay’s®
+p1: et boisson fraîche
+p1: Corn-dog
+p1: with Lay’s crisps
+p1: and a cold drink
+p1: Corn-dog1
+p1: Pâte à beignet au maïs,
+p1: saucisse de bœuf avec sauce ketchup
+p1: ou moutarde américaine ou barbecue
+p1: Cornmeal batter, beef sausage
+p1: wwiitthh kkeettcchhuupp oorr AAmmeerriiccaann mmuussttaarrdd
+p1: oorr BBBBQQ ssaauuccee
+p1: 88,,55€€
+p1: ®
+p1: CChhiippss LLaayy’’ss
+p1: CCrriissppss
+p1: 3,8€
+p1: 45g
+p1: PPaauussee GGoouurrmmaannddee
+p1: 8€
+p1: SWEET BREAK
+p1: étnahcnE étnahcnE
+p1: Le Brownie de Minuit1
+p1: erbrA erbrA
+p1: et boisson chaude ou fraîche
+p1: - -
+p1: gnidnib-non gnidnib-non
+p1: Phantom Clock Brownie1
+p1: era era
+p1: sotohp sotohp
+p1: and a hot or a cold drink
+p1: noitatneserP noitatneserP
+p1: -selleutcartnoc -selleutcartnoc
+p1: Le Brownie de Minuit1
+p1: Brownie et ganache au chocolat
+p1: non non
+p1: Phantom Clock Brownie1
+p1: sotohP sotohP
+p1: Chocolate ganache fi lled - -
+p1: 62/90 62/90
+p1: 5,5€
+p1: - -
+p1: yensiD© yensiD©
+p1: 1
+p1: Prix nets - produit décongelé - Nous n’acceptons pas les coupures au-delà de 50€
+p1: Tax included - 1 defrosted product - We do not accept notes over €50
+p1: 00000055__AArrbbrree EEnncchhaannttee__VVoolleett__ddrrooiittee__330000xx550000..iinndddd 33 1177//0099//22002266 0077::1199

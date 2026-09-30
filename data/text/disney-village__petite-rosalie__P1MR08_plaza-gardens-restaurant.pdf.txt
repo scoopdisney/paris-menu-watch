@@ -1,0 +1,180 @@
+p1: Buffet à volonté
+p1: avec personnages Disney®
+p1: All-you-can-eat Buffet
+p1: with Disney® Characters
+p1: A partir de 18h / As from 6pm
+p1: Excepté le 24 et 31 décembre
+p1: Except on December 24th and 31st
+p1: Adulte / Enfant /
+p1: Adult 80€ Kids’ 40€
+p1: Boisson fraîche pour enfants âgés de 3 à 11 ans
+p1: 33 cl
+p1: for children ages 3 to 11
+p1: ou Eau minérale
+p1: 50 cl
+p1: A Cold Drink Vittel® ou Jus d’orange, de pomme
+p1: 33 cl 33 cl 25 cl
+p1: or a Mineral Water ou Lait
+p1: 50 cl 20 cl
+p1: Vittel® or Orange or apple juice
+p1: 33 cl 25 cl
+p1: or Milk
+p1: 20 cl
+p1: Autre boisson fraîche 25 cl sur demande et en remplacement du produit proposé
+p1: Other cold drink 25 cl may replace similar item on request
+p1: Anniversaire
+p1: Célébrez votre
+p1: en notre compagnie et commandez Dessert à partir de / Dessert to share for
+p1: votre dessert d’anniversaire en début de repas !
+p1: 2 personnes 25€ 6 personnes 45€
+p1: Birthday
+p1: Celebrate your with us.
+p1: 2 or more people 6 or more people
+p1: Don’t forget to order your birthday dessert
+p1: before your meal!
+p1: BOISSONS FRAÎCHES / COLD DRINKS
+p1: BIÈRES ET CIDRE / BEERS AND CIDER
+p1: 33 cl
+p1: 25 cl 50 cl
+p1: BIÈRES PRESSION Coca-Cola ORIGINAL, Coca-Cola ZÉRO SUCRES ........................ 5,5€
+p1: 1664® Premium ..............................................6€ ......... 8,8€ Fanta Orange SANS SUCRES, Sprite SANS SUCRES ..................... 5,5€
+p1: FuzeTea Pêche Intense / Peach Black Tea. .................................. 5,5€
+p1: Grimbergen blonde. ........................................6€ ......... 8,8€
+p1: Perrier® .............................................................................. 4,3€
+p1: BIÈRES BOUTEILLE 33 cl 50 cl
+p1: FuzeTea Pêche Intense / Peach Black Tea. .................................. 5,5€
+p1: Carlsberg......................................................7,5€
+p1: Jus d’orange, de pomme /Orange, apple juice ....................... 25cl 5€
+p1: Grimbergen d’Abbaye blanche.......................... 7,5€
+p1: Brooklyn East IPA........................................... 8€
+p1: EAUX MINÉRALES / MINERAL WATER
+p1: Guinness Draught.........................................................8,5€
+p1: 50 cl 100 cl
+p1: CIDRE
+p1: Vittel®. .................................................................4,5€. ........ 5,5€
+p1: La Mordue Original - Cidre aromatisé .................... 27,5 cl 7,5€
+p1: S.Pellegrino® .........................................................4,8€. ........ 5,8€
+p1: VINS EN BOUTEILLE / BOTTLED WINE
+p1: BOISSONS CHAUDES / HOT DRINKS
+p1: 75 cl
+p1: Espresso 100% Arabica .......................................................... 3,5€
+p1: BOUTEILLE DE VIN DU MOMENT ................................. 28€
+p1: BLANCS / WHITE Double Espresso 100% Arabica ................................................ 4,5€
+p1: IGP Cité de Carcassonne - Gérard Bertrand - Chardonnay ... 32€ Café 100% Arabica / Coffee .................................................... 4€
+p1: Décaféiné / Decaffeinated. ...................................................... 3,3€
+p1: AOC Chablis - La Pierrelée - La Chablisienne ................... 43€
+p1: Café au lait / Coffee with Milk .................................................. 4,8€
+p1: Cuvée Disneyland® Paris - AOP La Clape
+p1: Château L’Hospitalet - Bio - Demeter .............................. 38€ Cappuccino. ......................................................................... 4,8€
+p1: U.S.A. : Diamond Collection - Francis Coppola
+p1: Chocolat chaud / Hot Chocolate. .............................................. 5€
+p1: Sauvignon blanc .......................................................... 49€
+p1: ROUGES / RED Thé, Infusion / Tea, Herbal Tea. ................................................ 4€
+p1: IGP Cité de Carcassonne - Gérard Bertrand - Merlot .............. 32€
+p1: Lait demi-écrémé / Semi-skimmed milk ................................ 20cl 3,5€
+p1: AOC Bordeaux - Mouton Cadet
+p1: Baron Philippe de Rothschild.......................................... 38€
+p1: Cuvée Disneyland® Paris - AOP La Clape
+p1: Château L’Hospitalet - Bio - Demeter .............................. 35€
+p1: IGP Méditerranée - La Réserve - Estoublon - Bio ............... 34€
+p1: U.S.A. : Diamond Collection - Francis Coppola - Zinfandel .... 46€ Consultez le menu
+p1: Check out our menu
+p1: ROSÉS
+p1: IGP Pays d’Oc - Gris Blanc. ............................................ 32€
+p1: 52/01
+p1: AOP Côtes de Provence - Minuty - Prestige rosé ............... 36€
+p1: –
+p1: yensiD©
+p1: Un recueil d’information sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler
+p1: et à le demander à l’un de nos Cast Members / Eau potable à votre disposition / Prix nets.
+p1: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make
+p1: a Cast Member aware of any allergies you may have / Drinking water available / Tax included.
+p2: Buffet à volonté
+p2: All-you-can-eat Buffet
+p2: A partir de 12h / As from 12pm
+p2: Excepté le 24 et 31 décembre
+p2: Except on December 24th and 31st
+p2: Adulte / Enfant /
+p2: Adult Kids’
+p2: 45€ 25€
+p2: Boisson fraîche pour enfants âgés de 3 à 11 ans
+p2: 33 cl
+p2: ou Eau minérale for children ages 3 to 11
+p2: 50 cl
+p2: A Cold Drink Vittel® ou Jus d’orange, de pomme
+p2: 33 cl 33 cl 25 cl
+p2: or a Mineral Water ou Lait
+p2: 50 cl 20 cl
+p2: Vittel® or Orange, apple juice
+p2: 33 cl 25 cl
+p2: or Milk
+p2: 20 cl
+p2: Autre boisson fraîche 25 cl sur demande et en remplacement du produit proposé
+p2: Other cold drink 25 cl may replace similar item on request
+p2: Anniversaire
+p2: Célébrez votre
+p2: en notre compagnie et commandez Dessert à partir de / Dessert to share for
+p2: votre dessert d’anniversaire en début de repas !
+p2: 2 personnes
+p2: Birthday 25€ 6 personnes 45€
+p2: Celebrate your with us.
+p2: 2 or more people 6 or more people
+p2: Don’t forget to order your birthday dessert
+p2: before your meal!
+p2: BOISSONS FRAÎCHES / COLD DRINKS
+p2: BIÈRES ET CIDRE / BEERS AND CIDER
+p2: 33 cl
+p2: 25 cl 50 cl
+p2: BIÈRES PRESSION Coca-Cola ORIGINAL, Coca-Cola ZÉRO SUCRES ........................ 5,5€
+p2: 1664® Premium ..............................................6€ ......... 8,8€ Fanta Orange SANS SUCRES, Sprite SANS SUCRES ..................... 5,5€
+p2: FuzeTea Pêche Intense / Peach Black Tea. .................................. 5,5€
+p2: Grimbergen blonde. ........................................6€ ......... 8,8€
+p2: Perrier® .............................................................................. 4,3€
+p2: BIÈRES BOUTEILLE 33 cl 50 cl
+p2: FuzeTea Pêche Intense / Peach Black Tea. .................................. 5,5€
+p2: Carlsberg......................................................7,5€
+p2: Jus d’orange, de pomme /Orange, apple juice ....................... 25cl 5€
+p2: Grimbergen d’Abbaye blanche.......................... 7,5€
+p2: Brooklyn East IPA........................................... 8€
+p2: EAUX MINÉRALES / MINERAL WATER
+p2: Guinness Draught.........................................................8,5€
+p2: 50 cl 100 cl
+p2: CIDRE
+p2: Vittel®. .................................................................4,5€. ........ 5,5€
+p2: La Mordue Original - Cidre aromatisé .................... 27,5 cl 7,5€
+p2: S.Pellegrino® .........................................................4,8€. ........ 5,8€
+p2: VINS EN BOUTEILLE / BOTTLED WINE
+p2: BOISSONS CHAUDES / HOT DRINKS
+p2: 75 cl
+p2: Espresso 100% Arabica .......................................................... 3,5€
+p2: BOUTEILLE DE VIN DU MOMENT ................................. 28€
+p2: BLANCS / WHITE Double Espresso 100% Arabica ................................................ 4,5€
+p2: IGP Cité de Carcassonne - Gérard Bertrand - Chardonnay ... 32€ Café 100% Arabica / Coffee .................................................... 4€
+p2: Décaféiné / Decaffeinated. ...................................................... 3,3€
+p2: AOC Chablis - La Pierrelée - La Chablisienne ................... 43€
+p2: Café au lait / Coffee with Milk .................................................. 4,8€
+p2: Cuvée Disneyland® Paris - AOP La Clape
+p2: Château L’Hospitalet - Bio - Demeter .............................. 38€ Cappuccino. ......................................................................... 4,8€
+p2: U.S.A. : Diamond Collection - Francis Coppola
+p2: Chocolat chaud / Hot Chocolate. .............................................. 5€
+p2: Sauvignon blanc .......................................................... 49€
+p2: ROUGES / RED Thé, Infusion / Tea, Herbal Tea. ................................................ 4€
+p2: IGP Cité de Carcassonne - Gérard Bertrand - Merlot .............. 32€
+p2: Lait demi-écrémé / Semi-skimmed milk ................................ 20cl 3,5€
+p2: AOC Bordeaux - Mouton Cadet
+p2: Baron Philippe de Rothschild.......................................... 38€
+p2: Cuvée Disneyland® Paris - AOP La Clape
+p2: Château L’Hospitalet - Bio - Demeter .............................. 35€
+p2: IGP Méditerranée - La Réserve - Estoublon - Bio ............... 34€
+p2: U.S.A. : Diamond Collection - Francis Coppola - Zinfandel .... 46€ Consultez le menu
+p2: Check out our menu
+p2: ROSÉS
+p2: IGP Pays d’Oc - Gris Blanc. ............................................ 32€
+p2: 52/01
+p2: AOP Côtes de Provence - Minuty - Prestige rosé ............... 36€
+p2: –
+p2: yensiD©
+p2: Un recueil d’information sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler
+p2: et à le demander à l’un de nos Cast Members / Eau potable à votre disposition / Prix nets.
+p2: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make
+p2: a Cast Member aware of any allergies you may have / Drinking water available / Tax included.

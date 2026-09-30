@@ -1,0 +1,83 @@
+p1: Buffet à Volonté
+p1: COMPOSEZ VOTRE DÎNER À VOTRE GOÛT !
+p1: Notre buffet à volonté vous propose un large choix de plats.
+p1: Our all-you-can-eat Bufé libre
+p1: Buffet nach
+p1: COMPONGA SU PLATO A SU GUSTO !
+p1: Buffet
+p1: Nuestro bufé libre le propone una amplia
+p1: Belieben
+p1: seleccioñ de platos.
+p1: HIER HABEN SIE DIE QUAL DER WAHL !
+p1: CHOOSE YOUR DINNER FROM OUR LAVISH BUFFET !
+p1: Unser Buffet bietet eine große Auswahl an Gerichten.
+p1: Our all you can eat buffet features a large choice of dishes.
+p1: 45€
+p1: Boisson fraîche (33 cl) ou Eau minérale (50 cl)
+p1: Adulte
+p1: A Cold Drink (33 cl) or a Mineral Water (50 cl)
+p1: Adult
+p1: Refresco (33 cl) o agua mineral (50 cl)
+p1: Adulto
+p1: Kaltgetränk (33 cl) oder Mineralwasser (50 cl)
+p1: Erwachsene
+p1: Excepté le 24 et 31 décembre.
+p1: Except on December 24th and 31st.
+p1: Excepto los días 24 y 31 de diciembre.
+p1: Außer am 24. und 31. Dezember.
+p1: 25€
+p1: Pour enfants âgés de 3 à 11 ans
+p1: Enfant
+p1: Vittel® (33 cl) ou Jus d'orange ou de pomme (25 cl) ou Lait (20 cl)
+p1: Kids’
+p1: Autre boisson fraîche (25 cl) sur demande en remplacement du produit proposé
+p1: Niño
+p1: For children ages 3 to 11
+p1: Kinder
+p1: Vittel® (33 cl) or Orange or apple juice (25 cl) or Milk (20 cl)
+p1: Excepté le 24 et 31 décembre.
+p1: Other cold drink (25 cl) may replace similar item on request
+p1: Except on December 24th and 31st.
+p1: Excepto los días 24 y 31 de diciembre.
+p1: Para niño de 3 a 11 años
+p1: Außer am 24. und 31. Dezember.
+p1: Vittel® (33 cl) o Zumo de naranja o de manzana (25 cl) o Leche (20 cl)
+p1: Puede solicitar cambiarlo por otro refresco de 25 cl
+p1: Für Kinder von 3 bis 11 Jahren
+p1: Vittel® (33 cl) oder Orangen - oder apfelsaft (25 cl) oder Milch (20 cl)
+p1: Aus Wunsch kann ein entsjrechendes anderes Erfrischungsgetränke (25 cl) gewählt werden
+p1: Petit Déjeuner
+p1: Breakfast Desayuno Frühstück
+p1: Célébrez votre Anniversaire en notre compagnie
+p1: et commandez votre dessert d’anniversaire en début de repas !
+p1: Birthday
+p1: Celebrate your with us - don’t forget to order
+p1: 30€ 24€
+p1: your birthday dessert before your meal!
+p1: Adulte Enfant
+p1: Cumpleaños
+p1: Celebre su con nosotros y pida su postre
+p1: de cumpleaños antes de empezar la comida !
+p1: Adult Kids’
+p1: Feiern Sie bei uns Ihren Geburtstag und bestellen Sie zu Beginn
+p1: Adulto Niño Ihrer Mahlzeit eine köstliche Nachspeise!
+p1: Erwachsene Kinder Dessert à partir de 2 personnes Dessert à partir de 6 personnes
+p1: Dessert to share for 2 or more people Dessert to share for 6 or more people
+p1: Pour enfants âgés de 3 à 11 ans Postre a partir de 2 personas Postre a partir de 6 personas
+p1: Dessert für mindestens 2 Personen Dessert für mindestens 6 Personen
+p1: For children ages 3 to 11
+p1: 25€ 45€
+p1: Para niño de 3 a 11 años.
+p1: Für Kinder von 3 bis 11 Jahren
+p1: Prix nets - Un recueil d’information sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un
+p1: de nos Cast Members. Le prix du buffet sera facturé à toute personne installée en salle. Tax Included - A list of the allergens present in our dishes is
+p1: 62/30
+p1: available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have. The price of the buffet will be
+p1: charged to any person seated in the restaurant. / Precios netos - Disponemos de una lista con información sobre la presencia de alérgenos en nuestros
+p1: Consultez le menu
+p1: platos, no dude en solicitarla a nuestros Cast Members. El precio del bufé se facturará a todas las personas que se sienten en el comedor. / –
+p1: Check out our menu
+p1: yensiD©
+p1: Inklusive stevern - Halten eine Aufstellung aller in unseren Gerichten vorhandener Allergene auf Anfrage für Sie bereit.
+p1: Consulte los menú
+p1: Der Preis für das Buffet wird jeder Person in Rechnung gestellt, die im Saal Platz genommen hat. Menü ansehen

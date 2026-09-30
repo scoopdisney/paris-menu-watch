@@ -1,0 +1,270 @@
+p1: Entrées
+p1: Salade de haricots cornille, sauce aux saveurs de poivre
+p1: de la Jamaïque, fruit de la passion et oignons verts 17€
+p1:  . . . . . . . . . . . . . . . . . . .
+p1: Chiquetaille de volaille boucanée à la papaye verte 18€
+p1:  . . . . . . . . . . . . . . . . .
+p1: Menu Trésor des Pirates
+p1: Créole de crevettes et écrasé d’avocats à l’antillaise,
+p1: vinaigrette à la passion 19€
+p1:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p1: 55€
+p1: Acras de morue sauce au tamarin et achards de légumes à la créole .  .  .18€
+p1: Entrée, Plat et Dessert
+p1: Ceviche de thon blanc coriandre et huile de sésame grillé, mangue,
+p1: citron vert et taco frit 19€
+p1:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p1: (boisson non comprise)
+p1: Soupe des îles au poisson 18€
+p1:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p1: Boudin épicé et saucisse boucanée achards de légumes à la créole 18€
+p1:  . . .
+p1: Entrées Beignets de légumes sauce aigre-douce tomatée 17€
+p1:  . . . . . . . . . . . . . . . . . . . .
+p1: Chiquetaille de volaille boucanée à la papaye verte
+p1: Plats
+p1: ou Soupe des îles au poisson
+p1: Curry de légumes aux épices colombo et noix de coco,
+p1: ou Salade de haricots cornille, sauce aux saveurs
+p1: filet aux protéines de soja et pois 30€
+p1:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p1: de poivre de la Jamaïque, fruit de la passion et oignons verts
+p1: Filet de wahoo grillé sauce chien, écrasée de bananes plantain
+p1: ou Boudin épicé et saucisse boucanée achards de légumes à la créole
+p1: et haricots noirs, salade de carottes acidulées 38€
+p1:  . . . . . . . . . . . . . . . . . . . . . . .
+p1: Pavé de mahi-mahi cuit au four, compotée exotique
+p1: Plats de poivrons et papaye verte, sauce au curry et riz du capitaine 38€
+p1:  . . . . . . .
+p1: Pavé de mahi-mahi cuit au four Colombo de poulet crevette et riz du capitaine 36€
+p1:  . . . . . . . . . . . . . . . . . . . . . .
+p1: compotée exotique de poivrons et papaye verte, Porc grillé à la jerk marinade au poivre de la Jamaïque,
+p1: sauce au curry et riz du capitaine purée de patates douces et pickles de légumes croquants  . . . . . . . . . . . . 34€
+p1: ou Colombo de poulet crevette et riz du capitaine Tentacule de poulpe grillé purée de manioc et pommes de terre,
+p1: courge et haricots noirs, aïoli à l’encre de seiche 42€
+p1:  . . . . . . . . . . . . . . . . . . . .
+p1: ou Curry de légumes aux épices colombo et noix de coco,
+p1: Gambas géantes rôties salade de papaye verte, carotte et coriandre,
+p1: filet aux protéines de soja et pois
+p1: condiment exotique (mangue, gingembre, ananas, piment),
+p1: ou Porc grillé à la jerk marinade au poivre de la Jamaïque, frites de patates douces, sauce tamarin et oignons 47€
+p1:  . . . . . . . . . . . . . . . . . .
+p1: purée de patates douces et pickles de légumes croquants
+p1: Desserts
+p1: Desserts Riz au lait des îles : riz au lait, compotée de mangues  . . . . . . . . . . . . . . . 15€
+p1: Soupe de fruits exotiques sucre muscovado et émulsion de coco-cajou  . . 15€
+p1: Riz au lait des îles : riz au lait, compotée de mangues
+p1: Tarte au chocolat parfum de fève Tonka
+p1: ou Soupe de fruits exotiques
+p1: gel au gingembre et glace vanille 16€
+p1:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p1: sucre muscovado et émulsion de coco-cajou
+p1: Moelleux de patates douces aux noix de pécan caramélisées 16€
+p1:  . . . . . . .
+p1: ou Sablé ananas au rhum, crème fouettée au mascarpone
+p1: Sablé ananas au rhum, crème fouettée au mascarpone
+p1: et vanille Bourbon
+p1: et vanille Bourbon  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 16€
+p1: Banane rôtie à la vanille Bourbon crème fouettée au mascarpone,
+p1: éclats de fruits secs, noix de coco et sorbet passion 16€
+p1:  . . . . . . . . . . . . . . . . .
+p1: Suggestions de la Piraterie
+p1: The Kraken Black Spiced 4 cl  . . . . . . . . .12€ - Découvrez ce spiritueux à base de rhum
+p1: noir épicé et qui offre des notes de cannelle, de girofle et de vanille .
+p1: Pour enfants
+p1: âgés de 3 à 11 ans
+p1: Célébrez votre Dessert à partir de
+p1: Anniversaire 2 personnes 25€
+p1: Menu du Moussaillon
+p1: en notre compagnie et commandez 6 personnes 45€
+p1: votre dessert en début de repas !
+p1: 30€
+p1: Entrée, Plat, Dessert et Boisson
+p1: Boissons fraîches
+p1: Vittel® ou Jus d’orange ou de pomme ou verre de lait Coca-Cola , Coca-Cola 6€
+p1: 33 cl 25 cl 20 cl original zéro sucres 33 cl  . . . . . . . . . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+p1: Autre boisson fraîche sur demande et en remplacement du produit proposé
+p1: 25 cl
+p1: Fanta Orange , Sprite 6€
+p1: sans sucres sans sucres 33 cl . . . . . . . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+p1: FuzeTea saveur pêche 6€
+p1: 33 cl  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+p1: Entrées
+p1: Jus d‘orange ou de pomme 6€
+p1: Rillettes de thon et chips de galette de blé 25 cl  . . . . . . . . . . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+p1: Perrier® 5€
+p1: 33 cl  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+p1: Salade de pois chiches, maïs, comcombre et tomates
+p1: ou
+p1: Salade de tomates au quinoa
+p1: ou
+p1: Eaux minérales
+p1: 50 cl 100 cl
+p1: Vittel® 5€ 6€
+p1:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . .  .  .  .  .  .  .  .  .  .  .
+p1: Plats
+p1: S .Pellegrino® 5,5€ 6,5€
+p1: Aiguillette de volaille panée à la noix de coco ou Filet de mahi-mahi  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  . . . . . . . . . .
+p1: sauce au lait de coco et fruit de la passion
+p1: Sélection de vins
+p1: 75 cl
+p1: Garniture : Riz ou purée de patates douces ou légumes verts
+p1: Blanc : AOC Entre-Deux-Mers - Cuvée Clémence 34€
+p1:  . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .
+p1: ou Pâtes1, sauce tomate aux légumes
+p1: Rouge : AOC Bourgogne - Pinot Noir - Hudelot-Bajard - Bio 41€
+p1:  . .  .  .  .  .  .  .  .  .  .
+p1: Rouge : AOC Côtes du Rhône - Esprit - Brotte 34€
+p1: Desserts  . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .  .  .  .  .
+p1: Rouge : AOC Saint Emilion - Fortin Plaisance 38€
+p1: Riz au lait, coco et vanille, sauce caramel salé  . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .  .  .  .  .
+p1: Rosé : IGP Pays d’Oc - Gris Blanc 34€
+p1:  . . . . . . . . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .  .  .  .  .
+p1: ou Smoothie aux fruits
+p1: ou Minestrone de fruits
+p1: ou Le Gouvernail des pirates1 Prix nets - Veggie = végétarien - Eau potable à votre disposition - 1 produit décongelé
+p1: 62/60
+p1: Entremets au chocolat du jour Ce menu (sans modification) comprend au moins 2 portions de fruits et légumes et est faible en graisses saturées
+p1: -
+p1: yensiD©
+p1: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler
+p1: et à le demander à l’un de nos Cast Members
+p2: Starters
+p2: Black-eyed peas salad, salad with a sauce flavoured
+p2: with Jamaican pepper, passion fruit and spring onions 17€
+p2:  . . . . . . . . . . . . . . . .
+p2: Smoked chicken chiquetaille with green papaya €18
+p2:  . . . . . . . . . . . . . . . . . . . .
+p2: Pirate’s Treasure Menu
+p2: Shrimp creole and Caribbean smashed avocado,
+p2: with passion fruit dressing €19
+p2:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p2: 55€
+p2: Salt cod fritters tamarind sauce and Creole-style pickled vegetables €18
+p2:  . . . . .
+p2: Starter, Main Course and Dessert
+p2: Albacore tuna ceviche with coriander, toasted sesame oil, mango,
+p2: lime and tostados €19
+p2:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p2: (drink not included)
+p2: Caribbean fish soup €18
+p2:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p2: Spiced black pudding and smoked sausage
+p2: Starters
+p2: with Creole-style pickled vegetables €18
+p2:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p2: Smoked chicken chiquetaille with green papaya
+p2: Vegetable fritters with sweet and sour tomato sauce €17
+p2:  . . . . . . . . . . . . . . . . .
+p2: or Caribbean fish soup
+p2: Main Courses
+p2: or Black-eyed peas salad with a sauce flavoured
+p2: with Jamaican pepper, passion fruit and spring onions Vegetable Colombo curry with coconut, soy and peas protein fillet €30
+p2:  .  .
+p2: or Spiced black pudding and smoked sausage Grilled wahoo fillet spicy Creole sauce,
+p2: plantain and black bean mash and carrot slaw €38
+p2: with Creole-style pickled vegetables  . . . . . . . . . . . . . . . . . . . . . . .
+p2: Baked mahi-mahi fillet stewed peppers, coconut sauce
+p2: and captain’s rice €38
+p2:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p2: Main Courses
+p2: Chicken and prawn Colombo captain’s rice €36
+p2:  . . . . . . . . . . . . . . . . . . . . . . . . .
+p2: Roasted mahi-mahi fillet, pepper and green papaya compote,
+p2: Grilled jerk pork Jamaica pepper marinade, sweet potato mash
+p2: curry sauce and Captain Jack’s rice
+p2: and crunchy pickled vegetables €34
+p2:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p2: or Chicken and prawn Colombo captain’s rice
+p2: Grilled octopus cassava and potato mash,
+p2: or Vegetable Colombo curry with coconut, pumpkin and black beans and squid ink aioli €42
+p2:  . . . . . . . . . . . . . . . . . . . . . . . . .
+p2: soy and peas protein fillet
+p2: Roasted king prawns green papaya, carrot and coriander salad,
+p2: tropical salsa (mango, ginger, pineapple, chilli), sweet potato fries,
+p2: or Grilled jerk pork Jamaica pepper marinade, sweet potato mash
+p2: tamarind and spring onion sauce €47
+p2:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p2: and crunchy pickled vegetables
+p2: Desserts
+p2: Desserts
+p2: Caribbean rice pudding : rice pudding with mango compote €15
+p2:  . . . . . . . . .
+p2: Caribbean rice pudding: rice pudding with mango compote
+p2: Tropical fruit soup muscovado sugar and coconut
+p2: €15
+p2: or Tropical fruit soup and cashew emulsion  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p2: muscovado sugar and coconut and cashew emulsion Tonka bean and pecan nut-flavoured chocolate tart
+p2: spiced caramel and vanilla ice cream €16
+p2: or Rum and pineapple shortbread, mascarpone whipped cream  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p2: Sweet potato and caramelised pecan lava cake €16
+p2: and Bourbon vanilla  . . . . . . . . . . . . . . . . . . . . . .
+p2: Rum and pineapple shortbread, mascarpone whipped cream
+p2: and Bourbon vanilla €16
+p2:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p2: Roasted banana with Bourbon vanilla whipped mascarpone cream,
+p2: chopped nuts, coconut and passion fruit sorbet €16
+p2:  . . . . . . . . . . . . . . . . . . . . . . . .
+p2: Pirate’s choice
+p2: The Kraken Black Spiced 4 cl  . . . . . . . . .12€ - Discover this spirit based on spicy
+p2: black rum and which offers notes of cinnamon, clove, and vanilla .
+p2: For children
+p2: Celebrate your
+p2: ages 3 to 11 Dessert to share for
+p2: Birthday
+p2: with us! 2 or more people €25
+p2: Moussaillon Menu
+p2: €30 Don’t forget to order your birthday
+p2: 6 or more people €45
+p2: dessert before your meal!
+p2: Starter, Main Course, Dessert and Drink
+p2: Cold drinks
+p2: Vittel® or Orange or apple juice or glass of milk
+p2: 33 cl 25 cl 20 cl Coca-Cola , Coca-Cola €6
+p2: original zéro sucres 33 cl  . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+p2: A different solft drink 25 cl may replace a similar item on request .
+p2: Fanta Orange , Sprite €6
+p2: sans sucres sans sucres 33 cl .  .  .  .  .  .  .  .  .  .  .  . . . . . . . . .
+p2: FuzeTea Peach Black Tea €6
+p2: Starters 33 cl  . . . . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+p2: Potted tuna and whole wheat tortilla chips Orange or apple juice €6
+p2: 25 cl  . . . . . . . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+p2: Perrier ® €5
+p2: or Chickpea, sweetcorn, cucumber and tomato salad 33 cl  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+p2: or Quinoa and tomato salad
+p2: Mineral waters
+p2: 50 cl 100 cl
+p2: Main Courses
+p2: Vittel ® €5 €6
+p2:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .  .  .  . . . . . .
+p2: Coconut-crusted chicken fillet
+p2: S .Pellegrino ® €5,5 €6,5
+p2:  . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .  .  .  . . . .
+p2: or Mahi-mahi fillet with coconut and passion fruit sauce
+p2: Choice of side: rice, sweet potato mash, mixed green vegetables
+p2: W ine selection
+p2: 75 cl
+p2: or Pasta1 with a tomato and vegetable sauce
+p2: White : AOC Entre-Deux-Mers - Cuvée Clémence €34
+p2:  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+p2: Red : AOC Bourgogne - Pinot Noir - Hudelot-Bajard - Bio €41
+p2:  . . . . . . . . . . . .
+p2: Desserts
+p2: Red : AOC Côtes du Rhône - Esprit - Brotte €34
+p2:  . . . . . . . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+p2: Coconut and vanilla rice pudding with salted caramel sauce
+p2: Red : AOC Saint Emilion - Fortin Plaisance €38
+p2:  . . . . . . . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+p2: or Fruit smoothie
+p2: Rosé : IGP Pays d’Oc - Gris Blanc €34
+p2:  . . . . . . . . . . . . . . .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .  .
+p2: or Fruit salad
+p2: or Mousse ahoy!1
+p2: Tax included - Drinking water available - 1 defrosted product
+p2: Chocolate dessert
+p2: 62/60
+p2: This menu (without substitution) contains at least 2 servings of fruits and vegetables and is low in saturated fats
+p2: -
+p2: yensiD©
+p2: A list of the allergens present in our dishes is available upon request with any of our Cast Members;
+p2: please make a Cast Member aware of any allergies you may have

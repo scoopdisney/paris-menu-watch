@@ -1,0 +1,180 @@
+p1: +4€ avec Boisson fraîche 33 cl ou Eau minérale 50 cl
+p1: Menu 30€
+p1: Le steack with a Cold drink or Mineral water
+p1: 33 cl 50 cl
+p1: ssee ddoouubbllee
+p1: ccoommmmee ppaarr mmaaggiiee
+p1: TThhee sstteeaacckk ddoouubblleess
+p1: aass iiff bbyy mmaaggiicc
+p1: BBuurrggeerr SSppeeccttrraall Spécialité Funeste Roulé Hanté
+p1: ou ou
+p1: Effi loché de porc aux oignons confi ts,
+p1: Steak haché de bœuf, tranche Aiguillettes de poulet croustillantes,
+p1: de brie, sauce au brie, pickles de chou sauce noire au cheddar sauce noire au cheddar, pico de gallo,
+p1: et concombre, roquette et bun noir. et sauce sweet chilli. pickles de maïs et ketchup fumé.
+p1: Servi avec frites ondulées Servi avec frites ondulées Servi avec frites ondulées
+p1: ou salade fraîcheur ou salade fraîcheur ou salade fraîcheur
+p1: Spectral Burger orGrim Delight or Haunted Hog Roll
+p1: Beef, a slice of Brie cheese, Crispy chicken strips, black cheddar Pulled pork with caramelised onions,
+p1: Brie cheese sauce, pickled cabbage sauce and sweet chilli sauce. black cheddar sauce, pico de gallo,
+p1: and cucumber, rocket and a black bun. Served with crinkle-cut fries pickled sweetcorn and smoky ketchup.
+p1: Served with crinkle-cut fries or a side salad Served with crinkle-cut fries
+p1: or a side salad or a side salad
+p1: avec /
+p1: wwiitthh
+p1: ou Le Chant Craquant de la Crypte
+p1: C h o u c r a q u e li n n o ir,
+p1: Gâteau des Tristes Noces 1 ou L’Apparition Glacée ouDouceur
+p1: ganac h e m o n t é e a u s é sa m e noir
+p1: Génoise, mousses à la fraise Glace parfum cassis, des Noces Sombres et confi t de passion
+p1: et à la vanille, glaçage
+p1: brisures de biscuit cacaotés Fruits rouges, grenade
+p1: au fromage frais or
+p1: et nappage aux myrtilles et raisin, coulis, écume Singing Cream
+p1: et au beurre
+p1: citron vert-menthe Black craquelin choux,
+p1: whipped black sesame ganache
+p1: Happily Never After Cake1 or Cold Soul Sundae or Scary Berry Bowl
+p1: and passion fruit confi t
+p1: Sponge cake, strawberry Blackcurrant-fl avoured Mixed berries,
+p1: ice cream, cocoa biscuit pomegranate and grape, ++22€€
+p1: and vanilla mousses,
+p1: cream cheese and butter icing pieces and blueberry coulis, lime
+p1: topping and mint foam
+p1: Offre valable de 15h à 17h30
+p1: Available from 3pm to 5:30pm
+p1: Pause gourmande12€
+p1: Sweat Break
+p1: gnidnib-non
+p1: Dessert avec boisson fraîche 33 cl ou chaude
+p1: Dessert with a cold drink 33 cl or a hot drink
+p1: era
+p1: sotohp
+p1: Remplacez
+p1: Menu
+p1: votre boisson
+p1: +3€
+p1: par un cocktail noitatneserP
+p1: Swap your drink
+p1: Jardin Nuptial
+p1: for a cocktail
+p1: Falafels, haricots, pois cassés, lentilles, riz noir vénéré,
+p1: sauce au tofu soyeux et pico de gallo
+p1: /
+p1: selleutcartnoc
+p1: avec Compote du Jardin Hanté
+p1: Compotée de myrtilles, crémeux de patates douces violettes
+p1: et coco, riz souffl é au beurre de cacao et amandes,
+p1: graines de courges caramélisées
+p1: non
+p1: Love at First Fright sotohP
+p1: Falafels, beans, split peas, lentils, Venere black rice,
+p1: silken tofu sauce and pico de gallo
+p1: - 62/90
+p1: with Haunted Garden Compote
+p1: -
+p1: Blueberry compote, purple sweet potato and coconut yensiD©
+p1: cream, puffed rice with cocoa butter and almonds,
+p1: and caramelised pumpkin seeds
+p1: Prix nets - Tax included (1) produit décongelé / defrosted product
+p1: 0000442222__LLUUCCKKYY--NNUUGGGGEETTSS__TTeeaasseerr MMIINNII--MMEENNUU__AA44__0099--22002266..iinndddd 11 2255//0099//22002266 1155::4455
+p2: 16€
+p2: Menu Enfant Kids’ Menu
+p2: Pour enfants âgés de 3 à 11 ans For children ages 3 to 11
+p2: Burger le Facétieux The Playful Spoon Burger
+p2: Steak haché de bœuf , Doritos®, emmental, Beef, Doritos®, Emmental,
+p2: ketchup fumé et bun violet smoky ketchup and a purple bun
+p2: or
+p2: ou Repas des Petits Esprits Lil’ Spoons’ Supper
+p2: Aiguillettes de poulet croustillantes, Crispy chicken strips, black cheddar sauce,
+p2: sauce noire au cheddar et ketchup fumé
+p2: and smoked ketchup
+p2: Frites ondulées ou Tomates cerise Crinkle-cut fries or Cherry tomatoes
+p2: Petite Âme Givrée Cold Feet Sundae
+p2: Glace parfum cassis, brisures de biscuit cacaoté
+p2: Blackcurrant-fl avoured ice cream, cocoa biscuit pieces
+p2: et nappage aux myrtilles and blueberry topping
+p2: ou L’Heure du Délice1 or Time for a Treat1
+p2: Éclair fourrage goût cacao
+p2: Cocoa-fl avoured fi lled éclair
+p2: ou Yaourt à boire sucré aromatisé or Flavoured sweet drinking yoghurt
+p2: ou Pom’Potes® Bio Pomme (sans sucres ajoutés) or Pom’Potes® organic apple puree (no added sugar)
+p2: Juicy Water (pomme-fraise) 20 cl Juicy Water (apple-strawberry)
+p2: 20 cl
+p2: ou lait 20 cl ou Vittel®33 cl or milk 20 cl or Vittel®33 cl
+p2: Autre boisson fraîche 25 cl sur demande et en remplacement du produit proposé Other cold drink 25 cl may replace similar item on request
+p2: Le Souffl e du Fantôme
+p2: Bières /Beers
+p2: The Ghost’s Breath ............................................................21 cl 9,5€
+p2: Pression / Draught
+p2: Sur une base saveur mojito, Perrier®, guimauve 25 cl 50 cl
+p2: et opaline noire 1664® ........................5,5€ ......8,5€
+p2: Premium
+p2: Mojito-fl avoured base, Perrier®, marshmallow
+p2: and black sugar opaline
+p2: Bouteille / Bottled 33 cl
+p2: Le Frisson Mélancolique
+p2: Gallia nouveau Western
+p2: West coast IPA .............................................7€
+p2: The Melancholic Mojito ......................................................21 cl 12,5€
+p2: Perrier®, Bud® .....................................................................7,5€
+p2: Sur une base saveur mojito, rhum
+p2: blanc Trois Rivières, espuma sirop saveur
+p2: fl eur de cerisier et fi laments de poivrons rouges
+p2: Mojito-fl avoured base, Perrier®, Trois Rivières
+p2: white rum, cherry blossom-fl avoured syrup
+p2: espuma and red pepper strands
+p2: .......8€
+p2: Bière à la myrtille
+p2: Blueberry beer
+p2: EEsspprriitt TTéénnéébbrreeuuxx // Groom of Gloom ..........................21 cl 9,5€
+p2: Sur une base hibiscus-fraise-rose, Perrier®,
+p2: guimauve et opaline noire
+p2: Hibiscus, strawberry and rose-fl avoured base,
+p2: Perrier®, marshmallow and black sugar opaline
+p2: LLeess NNoocceess MMaaccaabbrreess
+p2: Café Hurlant 9,5€
+p2: ................................................21 cl
+p2: The Macabre Wedding 12€
+p2: ..............................................................................21 cl
+p2: Screaming Coffee
+p2: Sur une base hibiscus-fraise-rose, Perrier®,
+p2: gin Gordon’s London Dry, espuma sirop saveur Espresso Lavazza, lait, sirop
+p2: fl eur de cerisier et fi laments de poivrons rouges saveur ube, crème fouettée, gnidnib-non
+p2: Hibiscus, strawberry and rose-fl avoured base, sauce chocolat,
+p2: Perrier®, Gordon’s London Dry Gin, crispy framboise et biscuit
+p2: cherry blossom-fl avoured Lavazza espresso, milk, ube-
+p2: fl avoured syrup, whipped cream,
+p2: era
+p2: crispy raspberry pieces, biscuit
+p2: sotohp
+p2: Vins au verre/ and chocolate sauce
+p2: Glass of wine 15 cl
+p2: Blanc/ White noitatneserP
+p2: Boissons chaudes
+p2: IGP Pays d’Oc - Naturalys - Gérard Bertrand - Chardonnay - Bio .7€
+p2: Hot drinks
+p2: Rosé
+p2: / selleutcartnoc
+p2: IGP Pays d’Oc - Gris Blanc ......................................................................................6,5€ Espresso 100% Arabica ........................3,5€
+p2: Café 100% Arabica / Coffee .................3,8€
+p2: Rouge/ Red
+p2: IGP Pays d’Oc - Naturalys - Gérard Bertrand - Merlot - Bio..............6,5€ Double Espresso 100% Arabica .......4€
+p2: non
+p2: Café au lait / Coffee with milk ............4,2€
+p2: sotohP
+p2: Cappuccino ....................................................4,2€
+p2: - 62/90
+p2: Chocolat chaud / Hot chocolate .........4,4€
+p2: -
+p2: yensiD©
+p2: Lait demi-écrémé20 cl ..............................3,5€
+p2: 33 cl 25 cl 50 cl 5500 ccll
+p2: Semi-skimmed milk
+p2: 5€ 4,3€ 33,,88€€ 44€€
+p2: Thé, infusion / Tea, herbal tea ............3,8€
+p2: Prix nets Tax included
+p2: (1) produit décongelé / defrosted product
+p2: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p2: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have
+p2: 0000442222__LLUUCCKKYY--NNUUGGGGEETTSS__TTeeaasseerr MMIINNII--MMEENNUU__AA44__0099--22002266..iinndddd 22 2255//0099//22002266 1155::4477

@@ -1,0 +1,427 @@
+p1: Consultez
+p1: le menu
+p1: Entrées
+p1: Potage parmentier Crab cake, sauce vierge
+p1: 15€ 18€
+p1: aux poireaux ....................................... et salicorne .........................................
+p1: mousse de pommes de terre à l’huile saveur fumée Mayonnaise relevée aux épices cajun
+p1: 42€
+p1: Tourte de canard aux baies roses Os à moelle en gouttière Entrée et Plat ... Entrée, Plat et
+p1: (boisson non comprise) 50€
+p1: 18€ 18€ Dessert ......................
+p1: et chipotle fumé, ............................... rôti au four ........................................
+p1: vinaigrette à la moutarde de Meaux et cœur de frisée
+p1: (boisson non comprise)
+p1: Sel de Guérande et poivre fumé, pain au levain toasté
+p1: 17€
+p1: Steakhouse Caesar Salad ............... .................... 18€
+p1: Angus1
+p1: Carpaccio de bœuf
+p1: Salade romaine, sauce Caesar,
+p1: au pesto, copeaux de Parmigiano Reggiano, roquette,
+p1: EEnnttrrééeess
+p1: aiguillette de poulet croustillant, croûtons à l’ail
+p1: gressin et crème de balsamique
+p1: et copeaux de Parmigiano Reggiano
+p1: Angus1
+p1: Carpaccio de bœuf
+p1: 16€ au pesto et huile arôme fumée, copeaux de Parmigiano Reggiano et roquette
+p1: Champignon Portobello ..............
+p1: Légumes confits à l’ail, dés végétaux
+p1: Steakhouse Caesar Salad
+p1: à l’huile d’olive et basilic
+p1: Salade romaine, sauce Caesar, aiguillette de poulet croustillant, croûtons à l’ail
+p1: et copeaux de Parmigiano Reggiano
+p1: Pl ats
+p1: Potage parmentier aux poireaux
+p1: 34€ 28€
+p1: Burger de bœuf Charolais ........... Steakhouse XL Caesar Salad ........
+p1: mousse de pommes de terre à l’huile saveur fumée
+p1: Bacon, pickles d’oignons rouges, cheddar épicé,
+p1: Grillade aux protéines
+p1: coleslaw, beignets d’oignons et sauce cocktail et frites
+p1: 28€
+p1: de soja et de pois ..............................
+p1: PPll aattss
+p1: 30€ pommes fondantes, sauce miso à l’ail noir
+p1: Burger poulet croustillant ......
+p1: Brie de Meaux, pickles d’oignons, mayonnaise au sweet et tian de légumes
+p1: Chuck Flap Angus (190 g env.)
+p1: chili, salade iceberg et frites
+p1: sauce au poivre fumé et frites
+p1: 28€
+p1: Penne aux légumes ..........................
+p1: Coquelet mariné et rôti et sauce tomateet basilic
+p1: Coquellet mariné et rôti
+p1: 32€
+p1: au citron confit et miel ...............
+p1: 28€
+p1: Penne au saumon ...............................
+p1: au citron confit et miel
+p1: Sauce chimichurri et accompagné d’une garniture
+p1: Crème Parmigiano Reggiano
+p1: de votre choix Sauce chimichurri et accompagné d’une garniture de votre choix
+p1: 38€
+p1: Gambas grillées ................................
+p1: Tartare de bœuf Charolais
+p1: Penne au saumon
+p1: Sauce vierge et riz basmati
+p1: 30€
+p1: « au couteau » ....................................
+p1: et crème Parmigiano Reggiano
+p1: assaisonné par nos soins
+p1: 32€
+p1: Steak de thon grillé ......................
+p1: et accompagné d’une garniture de votre choix
+p1: Sauce aigre douce aux baies roses et riz basmati Travers de porc fumé
+p1: Sauce barbecue fumée et frites
+p1: 32€
+p1: Travers de porc fumé .....................
+p1: Sauce barbecue fumée et frites
+p1: DDeesssseerrttss
+p1: Crémeux à la vanille
+p1: Cœur pralin et croustillant aux éclats d’amandes et de noisettes
+p1: d’ananas1
+p1: Carpaccio aux fruits de saison
+p1: sirop aux épices douces
+p1: Chocolate Fudge Cake1
+p1: 38€
+p1: Filet de bœuf .... Entrecôte de bœuf Chuck Flap
+p1: Gâteau cacao et crème anglaise
+p1: (250 g env.), 44€ 33€
+p1: Angus ............... Angus ..............
+p1: sauce au poivre fumé (400 g env.), sauce chimichurri (190 g env.),
+p1: sauce au poivre fumé
+p1: 25€
+p1: Accompagnés d’une garniture de votre choix Entrée, Plat, Dessert et Boisson ....
+p1: enfant
+p1: Les poids indiqués sont avant cuisson et peuvent varier de plus ou moins 5% Pour enfants âgés de 3 à 11 ans
+p1: Menu
+p1: Sucette de Tartare de tomate et pop-corn
+p1: A partager feuilleté tiède au jambon et emmental
+p1: Potage parmentier
+p1: porterhouse Bavette Côte de bœuf Chicago
+p1: 72€ 100€ 69€
+p1: de bœuf d’aloyau .... Angus ......... Mix Grill .. Cheeseburger SteakhouseSteak haché, fromage fondu et sauce cocktail, accompagné de frites
+p1: hereford (700 g env.), (1,1 kg env.), 2 gambas,
+p1: Saumon rôti Concassé de tomates et riz basmati
+p1: 115€
+p1: prime .......... confit d’échalotes, sauce au brie, 2 côtes de travers
+p1: Aiguillettes de pouletpanées aux flocons de maïs,
+p1: (800 g env.) sauce au brie sauce au poivre fumé de porc fumé,
+p1: ,
+p1: sauce cocktail, accompagné de frites
+p1: sauces chimichurri, et sauce au poivre fumé et sauce chimichurri 1/2 coquelet
+p1: au brie de Meaux, et 1 pièce de bœuf
+p1: os à moelle en Penne au coulis de tomate et basilic
+p1: au beurre whisky sélection du chef avec
+p1: gouttière rôti au
+p1: et poivre fumé 12€ sauces chimichurri,
+p1: four, ......................+
+p1: Salade de fruits exotiques
+p1: sel de Guérande barbecue et poivre fumé
+p1: os à moelle en
+p1: 2 boules de glace et crumble spéculoos
+p1: et poivre fumé
+p1: gouttière rôti au
+p1: ............. 12€ vanille, fraise ou chocolat
+p1: four, +
+p1: sel de Guérande
+p1: chocolat1
+p1: Brownie au sauce caramel et crème fouettée
+p1: Accompagnés de deux garnitures de votre choix
+p1: et poivre fumé
+p1: Les poids indiqués sont avant cuisson et peuvent varier de plus ou moins 5%
+p1: ®33 cl 25 cl 20 cl
+p1: Vittel ou JUS D’ORANGE ou DE POMME ou Lait
+p1: Autre boisson fraîche 25 cl sur demande et en remplacement du produit proposé
+p1: Frites ou Poêlée de champignons à l’ail et au persil
+p1: GARNITURE AU CHOIX :
+p1: ou Poêlée de légumes ou Riz basmati
+p1: ................. 8 €
+p1: Pommes de terre frites, sauce au cheddar arôme fumé, bacon et oignons frits
+p1: D C
+p1: isney heCk
+p1: 8 €
+p1: ................................................................
+p1: Pomme de terre écrasée parfumée à la truffe Menu
+p1: Potage Penne au coulis Salade
+p1: ®33cl
+p1: parmentier de tomates de fruits
+p1: Viande juste saisie sur le grill Viande bien saisie, rouge à l’intérieur Viande rosée à l’intérieur, juteuse à l’extérieur Viande cuite jusqu’à l’intérieur Vittel
+p1: et basilic exotiques
+p1: Desserts
+p1: Sélection de boissons
+p1: 12€ 14€
+p1: Crémeux à la vanille ........................ Feuilleté croustillant ...................
+p1: Cœur pralin et croustillant crème fouettée au mascarpone pralinée,
+p1: Coca-Cola ORIGINAL,
+p1: 50cl 100cl
+p1: aux éclats d’amandes et de noisettes noix de pécan caramélisées
+p1: Coca-Cola ZÉRO SUCRES,
+p1: 4,5€..........................
+p1: ............................. 15€ 13€ ...................................5,5€ Vittel® ................................
+p1: Cake1 Coca-Cola Cherry 33 cl 5,5€
+p1: Chocolate Fudge Café gourmand ..................................
+p1: Gâteau cacao et crème anglaise Boisson chaude, chou glace vanille, moelleux chocolat1
+p1: S.Pellegrino® ................... 4,8€..........................
+p1: Fanta Orange, Sprite .............................5,5€ 5,8€
+p1: 25 cl
+p1: et tartelette crèmeux praliné
+p1: 15€ FuzeTea Pêche Intense .........................5,5€
+p1: Le Rainbow Coupe Original .......... 25 cl
+p1: Un classique de Chicago depuis 1926,
+p1: Perrier® .......................................................4,3€
+p1: Carpaccio d’ananas 33 cl
+p1: boules placées les unes sur les autres, fraise, chocolat,
+p1: ....................................... 12€
+p1: aux fruits de saison1
+p1: vanille, pistache et orange recouvertes de sauce chocolat
+p1: Vins Blancs
+p1: 37,5cl 75cl
+p1: et son sirop aux épices douces
+p1: et de crème fouettée
+p1: AOP Sancerre - Château de Sancerre - Sauvignon blanc ....................................27€ .......................... 49€
+p1: 15€
+p1: Profiterole géante ..........................
+p1: Cheesecake1 ................................................................... 15€
+p1: .......................................................23€ 43€
+p1: AOC Chablis - La Pierrelée - La Chablisienne ..........................
+p1: Glace vanille, crème fouettée, sauce chocolat tiède
+p1: Sauce caramel salé et coulis de fruits rouges
+p1: 50cl 75cl
+p1: Vin Rosé
+p1: Célébrez votre
+p1: AOP Côtes de Provence - Minuty - Prestige rosé ...............................................25€ .......................... 36€
+p1: Dessert à partir de
+p1: anniversaire en notre
+p1: ... 25€
+p1: personnes
+p1: 2 Vins Rouges
+p1: compagnie et commandez
+p1: 37,5cl 75cl
+p1: ... 45€
+p1: personnes 32€
+p1: votre dessert 6 AOC Bordeaux - Agneau Rouge - Baron Philippe de Rothschild ..............................................................
+p1: AOC Côtes du Rhône - Esprit - Brotte .....................................................................23€ .......................... 32€ 52/11-
+p1: d’anniversaire en début
+p1: de repas !
+p1: 1 produit décongelé - veggie = végétarien - Prix nets - Eau potable à votre disposition yensiD©
+p1: Ce menu (sans modification) comprend au moins 2 portions de fruits et légumes et est faible en graisses saturées.
+p1: Un recueil d’information sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p2: Check
+p2: the menu
+p2: Starters
+p2: €15
+p2: Parmentier leek soup ...................... Crab cake, with sauce
+p2: smoked-flavoured potato mousse with aromatic oil
+p2: €18
+p2: vierge and samphire .........................
+p2: Cajun-spiced mayonnaise
+p2: Starter
+p2: Entrée, Plat
+p2: Duck pie with pink peppercorns
+p2: €42
+p2: and main course ...... €50
+p2: €18 €18 et Dessert .................
+p2: and smoked chipotle,...................... Roast marrowbone ..........................
+p2: (drink not included)
+p2: Meaux mustard vinaigrette, and frisée heart Fleur de sel and smoked pepper, toasted sourdough (drink not included)
+p2: €17 €18
+p2: carpaccio1......................
+p2: Steakhouse Caesar Salad ............... Angus beef
+p2: SSttaarrtteerr ss
+p2: Romaine lettuce, Caesar dressing, crispy chicken fillets,
+p2: with pesto, Parmigiano Reggiano shavings, rocket
+p2: garlic croutons and Parmigiano Reggiano shavings
+p2: leaves, breadstick and balsamic cream Angus beef carpaccio1
+p2: €16 with pesto, parmiagiano reggiano shavings,
+p2: Portobello mushroom ..................
+p2: Vegetable confit with garlic, plant-based cheese cubes rocket leaves, breadstick and balsamic cream
+p2: with basil and olive oil
+p2: Steakhouse Caesar Salad
+p2: Romaine lettuce, Caesar dressing, crispy chicken fillets,
+p2: Main Courses
+p2: garlic croutons and parmiggiano reggiano shavings
+p2: Parmentier leek soup
+p2: €34 €28
+p2: Charolais beef burger ................... Steakhouse XL Caesar Salad ........
+p2: smoked-flavoured potato mousse with aromatic oil
+p2: bacon, pickled red onions, spicy cheddar, coleslaw
+p2: and fried onion rings and fries Grilled soy and pea
+p2: €28
+p2: protein steak .....................................
+p2: €30
+p2: Crispy chicken burger ...................
+p2: MMaaiinn ccoouurr sseess
+p2: fondant potatoes, black garlic miso sauce,
+p2: Brie de Meaux, pickled onions, sweet chili mayonnaise,
+p2: and vegetable tian
+p2: (approx.190g),
+p2: iceberg lettuce and fries Angus chick flap
+p2: €28
+p2: Penne with vegetables .................. smoked pepper sauce and fries
+p2: Preserved lemon and honey
+p2: in a tomato and basil sauce
+p2: €32 Preserved lemon and honey
+p2: roasted spring chicken ................
+p2: €28
+p2: chimichurri sauce served with one choice of side roasted spring chicken,
+p2: Salmon penne .....................................
+p2: in a creamy Parmigiano Reggiano sauce chimichurri sauce served with one choice of side
+p2: Hand-cut Charolais
+p2: €38
+p2: Salmon penne in a creamy parmigiano reggiano sauce
+p2: €30 Grilled king prawns .......................
+p2: beef tartare ........................................
+p2: sauce vierge and basmati rice
+p2: seasoned by our chef served with a choice of side
+p2: Smoked pork ribs,
+p2: €32 smoked barbecue sauce and fries
+p2: €32 Grilled tuna steak ..........................
+p2: Smoked pork ribs..............................
+p2: sweet and sour sauce with pink peppercorns
+p2: smoked barbecue sauce and fries
+p2: and basmati rice
+p2: DDeesssseerrttss
+p2: Vanilla cream dessert,
+p2: praline centre and almond-hazelnut wafer
+p2: carpaccio1
+p2: Pineapple with seasonal fruit,
+p2: and sweet spicy syrup
+p2: €38 €44 Cake1
+p2: Filet mignon .... Angus ribeye ..... Angus Chocolate Fudge
+p2: (approx. 250g), (approx. 400g), €33 chocolate cake with crème anglaise
+p2: chuck flap ...........
+p2: smoked pepper sauce chimichurri sauce
+p2: (approx. 190g),
+p2: smoked pepper sauce
+p2: Starter, main course, dessert
+p2: kkiiDDss
+p2: €25
+p2: Accompanied by two side of your choice and drink ...........................................
+p2: MMeennuu
+p2: Weights shown are approximate before cooking and may vary by 5% For children ages 3 to 11
+p2: lollipop tomato tartare and popcorn
+p2: Warm puff pastry with ham and Emmental cheese
+p2: To share
+p2: 2 P
+p2: Parmentier leek and potato soup
+p2: eoPle
+p2: prime Flank Angus rib Chicago
+p2: Cheeseburger Steakhouse Hamburger, melted cheese and cocktail sauce and fries
+p2: , €72 , €100 €69
+p2: hereford beef steak ........... of beef ....... Mix Grill ...
+p2: (approx.700g) (approx.1,1 kg) 2 kings pawns, 2 Baked salmon, crushed tomatoes and basmati rice
+p2: porterhouse
+p2: shallot confit, Brie de Meaux sauce smoked pork ribs, half
+p2: €115
+p2: steak, .......... Crispy chicken strips coated in cornflakes cocktail sauce and fries
+p2: Brie de Meaux sauce smoked pepper sauce spring chicken and
+p2: (approx. 800 g)
+p2: Penne in a tomato and basil sauce
+p2: and smoked pepper and chimichurri sauce 1 chef’s choice of cut
+p2: chimichurri sauce, Brie
+p2: of beef
+p2: sauce Roast
+p2: de Meaux sauce, and
+p2: €12 chimichurri, barbecue
+p2: marrowbone, ....+
+p2: whisky butter with
+p2: fleur de sel and smoked and smoked pepper Exotic fruit salad
+p2: smoked pepper
+p2: sauces
+p2: pepper
+p2: 2 scoops of ice cream with speculoos crumble
+p2: Roast
+p2: €12
+p2: marrowbone, ....+ vanilla, strawberry or chocolate
+p2: fleur de sel and smoked rves 2
+p2: e
+p2: Accompanied by two side of your choice s brownie1, caramel sauce and whipped cream
+p2: Chocolate
+p2: pepper
+p2: Weights shown are approximate before cooking and may vary by 5% share
+p2: To
+p2: ®33 cl 25 cl 20 cl
+p2: Vittel or ORANGE or APPLE JUICE or MILK
+p2: 2
+p2: serves other cold drink 25cl on request and replacing the product offered
+p2: Fries or Pan-fried mushrooms
+p2: SIDE OF YOUR CHOICE:
+p2: in parsley and garlic or Pan-fried mixed vegetables or Basmati rice
+p2: €8
+p2: Fries, smoked cheddar sauce with bacon and crispy fried onions .......................
+p2: D C
+p2: isney heCk
+p2: €8
+p2: Crushed potatoes, Flavoured with truffle ....................................
+p2: Menu
+p2: Penne in a
+p2: Exotic
+p2: Parmentier leek
+p2: ®33cl
+p2: tomato and
+p2: Just flashed on the grill Well-seared, red inside Meat pink inside, juicy on the outside Completely cooked all the way through Vittel
+p2: fruit salad
+p2: and potato soup
+p2: basil sauce
+p2: Desserts
+p2: €12 €14
+p2: Vanilla cream dessert, .................... Crispy puff pastry .............................
+p2: Drinks
+p2: praline centre and almond-hazelnut wafer Praline mascarpone whipped cream,
+p2: caramelised pecan nuts
+p2: Coca-Cola ORIGINAL,
+p2: €15 50cl 100cl
+p2: Chocolate Fudge Cake1 ..................
+p2: Coca-Cola NO SUGAR,
+p2: €13
+p2: Chocolate cake with crème anglaise Coffee and mini desserts ................
+p2: €4,5..........................€5,5
+p2: ...................................€5,5 Vittel® ................................
+p2: Hot drink, vanilla ice cream choux, Coca-Cola Cherry 33 cl
+p2: The Rainbow S.Pellegrino® ................... €4,8..........................€5,8
+p2: chocolate fondant, and praline cream tartlet Fanta Orange, Sprite .............................€5,5
+p2: 25 cl
+p2: €15
+p2: Coupe Original ..................................
+p2: FuzeTea Peach Black Tea ......................€5,5
+p2: 25 cl
+p2: Is a Chicago classic dating back to 1926, a medley of Pineapple carpaccio1
+p2: scoops of strawberry, chocolate, vanilla, pistachio and €12 .......................................................€4,3
+p2: Perrier® 33 cl
+p2: with seasonal fruit .........................
+p2: orange sherbet ice cream smothered in chocolate sauce
+p2: and sweet spicy syrup
+p2: White Wines
+p2: and whipped cream 37,5cl 75cl
+p2: €15
+p2: Jumbo profiterole, ........................... AOP Sancerre - Château de Sancerre - Sauvignon blanc ....................................€27 .......................... €49
+p2: , €15
+p2: Cheesecake1
+p2: ..........................................
+p2: vanilla ice cream, whipped cream, hot chocolate sauce
+p2: .......................................................€23 €43
+p2: salted caramel sauce and red berry coulis AOC Chablis - La Pierrelée - La Chablisienne ..........................
+p2: 50cl 75cl
+p2: Rosé Wine
+p2: AOP Côtes de Provence - Minuty - Prestige rosé ...............................................€25 .......................... €36
+p2: Dessert for up
+p2: Celebrate your Birthday
+p2: to
+p2: with us Red Wines
+p2: 37,5cl 75cl
+p2: .......€25
+p2: people
+p2: 2
+p2: don’t forget to order your €32
+p2: AOC Bordeaux - Agneau Rouge - Baron Philippe de Rothschild ..............................................................
+p2: ......€45
+p2: birthday dessert before people AOC Côtes du Rhône - Esprit - Brotte .....................................................................€23 .......................... €32 52/11-
+p2: 6
+p2: your meal!
+p2: yensiD©
+p2: 1defrosted product - Tax included - Drinking water available
+p2: This menu (without substitution) contains at least 2 portions of fruits and vegetables and is low in saturated fats.
+p2: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have

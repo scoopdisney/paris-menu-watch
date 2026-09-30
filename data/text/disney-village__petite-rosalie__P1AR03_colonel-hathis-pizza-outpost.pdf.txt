@@ -1,0 +1,163 @@
+p1: MENU PIZZA
+p1: 17€
+p1: PAUSE GOÛTER
+p1: 7€
+p1: TOMATES CERISE / Cherry tomatoes
+p1: ET / AND
+p1: SALADE FRAÎCHEUR / Side salad
+p1: OU / OR DOUBLE MICKEY CAKE
+p1: BOISSON FRAÎCHE 50 cl / Cold drink 50 cl
+p1: ET / AND AMANDE-CHOCOLAT / ALMOND-CHOCOLATE
+p1: MAGNUM® MINI AMANDE /
+p1: OU OR MAGNUM® MINI ALMOND
+p1: PIZZA MICKEY 4 FROMAGES PIZZA MICKEY PEPPERONI
+p1: BOISSON CHAUDE /
+p1: ET AND A HOT DRINK
+p1: 4-Cheese Mickey's pizza Pepperoni Mickey's pizza BOISSON FRAÎCHE /
+p1: OU OR A COLD DRINK
+p1: À LA CARTE
+p1: PIZZA MICKEY 4 FROMAGES / 12€
+p1: 4-CHEESE MICKEY'S PIZZA
+p1: PIZZA MICKEY PEPPERONI / 12€
+p1: PEPPERONI MICKEY'S PIZZA
+p1: 15€
+p1: BUTTERCHICKEN /
+p1: RIZ BASMATI ET NAAN
+p1: BAZMATI RICE AND NAAN
+p1: 15€
+p1: DAHL DE LENTILLES
+p1: RIZ BASMATI ET NAAN
+p1: MENU
+p1: 18€ LENTIL DAHL BAZMATI RICE AND NAAN
+p1: BEIGNETS DE LÉGUMES PAKORA1 6,5€
+p1: (8 PIÈCES)
+p1: PLAT / MAIN
+p1: PAKORA VEGETABLE FRITTERS1
+p1: (8 PIECES)
+p1: RIZ BASMATI ET NAAN / Basmati rice and naan
+p1: ET / AND
+p1: BEIGNETS AUX OIGNONS BAHJI1 6,5€
+p1: (6 PIÈCES)
+p1: BOISSON FRAÎCHE 50 cl / Cold drink 50 cl
+p1: ET / AND
+p1: BAHJI ONIONS FRITTERS1
+p1: (6 PIECES)
+p1: BUTTERCHICKEN DAHL DE LENTILLES 6€
+p1: PÂTES RIGATONI
+p1: SAUCE NAPOLITAINE
+p1: RIGATONI PASTA NEAPOLITAN SAUCE
+p1: Lentil dahl
+p1: PIZZA MICKEY ENFANT / 6€
+p1: KIDS' MICKEY'S PIZZA
+p1: TOMATES CERISE / 3,3€
+p1: CHERRY TOMATOES
+p1: SALADE FRAÎCHEUR / 3,3€
+p1: SIDE SALAD
+p1: MANGUE GLACÉE / 4,8€
+p1: ICED MANGO
+p1: YAOURT SUR LIT DE FRUIT 3€
+p1: YOGHURT WITH A FRUIT LAYER
+p1: SACHET DE FRUIT / 4€
+p1: FRUIT BAG
+p1: 3,8€
+p1: DOUBLE MICKEY CAKE
+p1: AMANDE-CHOCOLAT /
+p1: ALMOND-CHOCOLATE
+p1: MENU ENFANT / KIDS’ MENU
+p1: 10€
+p1: TWISTER® FRRREEZE
+p1: PARFUMS FRAMBOISE, ORANGE ET PÊCHE
+p1: 3,5€
+p1: RASPBERRY, ORANGE AND PEACH FLAVOURS
+p1: POUR ENFANTS ÂGÉS DE 3 À 11 ANS / FOR CHILDREN AGES 3 TO 11
+p1: MAGNUM® LA PISTACHE 4€
+p1: PÂTES RIGATONI SAUCE NAPOLITAINE MAGNUM® AMANDE / 4€
+p1: ALMOND
+p1: Rigatoni Pasta neapolitan sauce
+p1: CORNETTO® KING CÔNE / 4,3€
+p1: SAUCE CACAO COCOA SAUCE
+p1: PIZZA MICKEY ENFANT / Kids' Mickey's pizza
+p1: OU OR
+p1: BOISSONS FRAÎCHES /
+p1: + SALADE FRAÎCHEUR OU TOMATES CERISE COLD DRINKS
+p1: 50 cl
+p1: + Side salad or Cherry tomatoes
+p1: + PURÉE DE POMMES BIO
+p1: ( )
+p1: sans sucres ajoutés
+p1: JJUUSS JJUUSS
+p1: + Organic apple purée (no added sugar) DD''OORRAANNGGEE DDEE PPOOMMMMEE
+p1: ORANGE APPLE
+p1: JUICE JUICE
+p1: MINI BABYBEL® BIO2 2
+p1: OU x
+p1: OR Organic mini Babybel® cheese2 x2 23,5 cl
+p1: 4,2€ 3,8€ 3,5€ 3,8€
+p1: YAOURT À BOIRE SUCRÉ AROMATISÉ
+p1: OU
+p1: Flavoured sweet drinking yoghurt
+p1: OR
+p1: BIÈRE PRESSION /
+p1: DRAUGHT BEER
+p1: OU MAGNUM® MINI AMANDE / OR Almond
+p1: + JUICY WATER (POMME-FRAISE) LAIT 20 cl
+p1: OU
+p1: 1664® PREMIUM 5€ 7,5€
+p1: cl cl
+p1: 25 50
+p1: + Juicy Water (apple-strawberry) or Milk 20 cl
+p1: BOISSONS CHAUDES /
+p1: / VITTEL® 33 cl
+p1: OU OR HOT DRINKS
+p1: AUTRE BOISSON FRAÎCHE (25 cl) SUR DEMANDE ET REMPLACEMENT
+p1: DU PRODUIT PROPOSÉ / OTHER COLD DRINK (25 cl) ESPRESSO 3,3€
+p1: 100% ARABICA
+p1: MAY REPLACE SIMILAR ITEM ON REQUEST
+p1: DOUBLE ESPRESSO 3,8€
+p1: 100% ARABICA
+p1: CAFÉ / 3,5€
+p1: 100% ARABICA COFFEE
+p1: MENU DISNEY CHECK
+p1: CAFÉ AU LAIT / 4€
+p1: COFFEE WITH MILK
+p1: CAPPUCCINO 4€
+p1: PÂTES RIGATONI SAUCE NAPOLITAINE
+p1: CHOCOLAT CHAUD / 4,2€
+p1: HOT CHOCOLATE
+p1: Rigatoni Pasta neapolitan sauce
+p1: THÉ, INFUSION / 3,5€
+p1: + TOMATES CERISE TEA, HERBAL TEA
+p1: LAIT DEMI-ÉCRÉMÉ / 2,5€
+p1: SEMI-SKIMMED MILK 20 cl
+p1: + Cherry tomatoes
+p1: gnidnib-non
+p1: + PURÉE DE POMMES BIO
+p1: ( )
+p1: sans sucres ajoutés
+p1: SRINEVUOS
+p1: + Organic apple purée (no added sugar) PAILLE MICKEY OU MINNIE 6€
+p1: / MICKEY OR MINNIE STRAW
+p1: era
+p1: ET BOISSON FRAÎCHE 7€ sotohp
+p1: VITTEL® 33 cl / AND A TCOLD DRINK
+p1: noitatneserP
+p1: 15€
+p1: MUG
+p1: AVEC BOISSON CHAUDE 17€
+p1: / WITH A HOT DRINK
+p1: /
+p1: selleutcartnoc
+p1: GOBELET 15€
+p1: / TUMBLER
+p1: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible,
+p1: 17€
+p1: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members AVEC BOISSON FRAÎCHE / WITH A COLD DRINK
+p1: A list of the allergens present in our dishes is available upon request with any of our Cast Members; non
+p1: please make a Cast Member aware of any allergies you may have
+p1: sotohP
+p1: Cette association de produits comprend au moins 2 portions de fruits et légumes et est faible en graisses saturées
+p1: This selection of products contains at least 2 servings of fruits and vegetables and is low in saturated fats -
+p1: 62/40-
+p1: Prix nets / Tax included - Veggie = végétarien / 2 1 pièce pour le déjeuner, 1 pièce pour le goûter / 1 piece for lunch,
+p1: yensiD©
+p1: 1 piece for snacking / Eau potable à votre disposition / Drinking water available

@@ -1,0 +1,94 @@
+p1: pause goûter à l a carte boissons
+p1: chaudes
+p1: S W E E T B R E A K
+p1: Crêpe1 au 4,5€
+p1: . . . . . . . . . . . . . . . . . . . . . . . . H O T D R I N K S
+p1: Crêpe1 au
+p1: 7€
+p1: Crepe1 with Nutella®
+p1: ou au sucre
+p1: Crêpe1 au sucre 4€
+p1: . . . . . . . . . . . . . . . . . . . . . . . . noitatS
+p1: Espresso 100% Arabica
+p1: 3,3€
+p1: et boisson fraîche . . . . . . . . . .
+p1: Crepe1 with sugar
+p1: gnilooC
+p1: Double Espresso 100% Arabica 3,8€
+p1: ou chaude
+p1: TC
+p1: Supplément crème fouettée 1€
+p1: . . . . . /
+p1: Café 100% Arabica 3,5€ gnidnib-non
+p1: . . . . . . . . . . . . . . . . .
+p1: Add whipped cream
+p1: Crepe1 with sugar or Nutella®
+p1: Coff ee
+p1: and a cold or a hot drink era
+p1: Biscuit Grogu 6€
+p1: Café au lait 4€ sotohp
+p1: . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p1: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p1: Biscuit pistache fourré
+p1: Coff ee with milk
+p1: noitatneserP
+p1: parfum chocolat-noisette
+p1: Chocolate-hazelnut Cappuccino 4€
+p1: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p1: /
+p1: fi lled pistachio biscuit
+p1: selleutcartnoc
+p1: Biscuit Grogu
+p1: 8€ Chocolat chaud 4,2€
+p1: . . . . . . . . . . . . . . . . . . . . . . . .
+p1: Hot chocolate
+p1: Cookie vegan1 3,5€
+p1: et boisson fraîche . . . . . . . . . . . . . . . . . . . . . . . . .
+p1: non
+p1: PPééppiitteess ddee cchhooccoollaatt
+p1: sotohP
+p1: Thé, infusion 3,5€
+p1: ou chaude
+p1: et noisette . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p1: Tea, herbal tea -
+p1: 62/40
+p1: Chocolate and
+p1: and a cold or a hot drink
+p1: -
+p1: hazelnut chunks
+p1: ©
+p1: yensiD©
+p1: Prix nets - 1 produit décongelé / Tax included - 1 defrosted product
+p1: 00000044__CCTT CCoooolliinngg SSttaattiioonn__IInntteerriieeuurr__995500xx335500..iinndddd 11 1155//0044//22002266 1188::2288
+p2: ssoouuvveenniirrss
+p2: boissons fraîches
+p2: C O L D D R I N K S
+p2: noitatS
+p2: gnilooC
+p2: TC
+p2: /
+p2: gnidnib-non
+p2: era
+p2: sotohp
+p2: noitatneserP
+p2: Gobelet Stitch Gourde Stitch Mug
+p2: /
+p2: selleutcartnoc
+p2: Stitch tumbler Stitch sipper
+p2: 15€
+p2: 16€ 20€ non
+p2: avec boisson chaude
+p2: sotohP
+p2: 555000 ccclll 50 cl 50 cl 555000 ccclll 4400 ccll 444000 ccclll 5500 ccll
+p2: avec boisson fraîche avec boisson fraîche with a hot drink
+p2: -
+p2: 62/40
+p2: with a cold drink with a cold drink 17€
+p2: 4,2€ 3,5€ -
+p2: ©
+p2: yensiD©
+p2: 18€ 22€
+p2: / instead of 20€
+p2: au lieu de
+p2: Prix nets - Nous n’acceptons pas les coupures au-delà de 50€ / Tax included - We do not accept notes over €50
+p2: 00000044__CCTT CCoooolliinngg SSttaattiioonn__IInntteerriieeuurr__995500xx335500..iinndddd 22 1155//0044//22002266 1188::2288

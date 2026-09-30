@@ -1,0 +1,126 @@
+p1: MENU GREENWI CH VI LLA GE MENU LIT TLE ITALY
+p1: 30€
+p1: Antipasto, piatto principale e dolce / Entrée, plat et dessert 55€ Per bambini da 3 a 11 anni compiuti / Pour enfants âgés de 3 à 11 ans inclus
+p1: Starter, main course and dessert For children aged from 3 to 11
+p1: Vino incluso / Vin compris / Wine included 75€ Antipasto, piatto principale, dolce e bibita / Entrée, plat, dessert et boisson
+p1: Starter, main course, dessert and drink
+p1: Proposta culinaria da scoprire all’interno del ristorante con Vittel® o Succo d’arancia o di mela o Latte
+p1: 33 cl 25 cl 20 cl
+p1: Dalle 18:00 alle 22:30 / de 18h à 22h30 / From 6 to 10.30 pm
+p1: Offre à découvrir au restaurant avec Vittel® 33 cl ou Jus d’orange ou de pomme 25 cl ou Lait 20 cl
+p1: Offer to be discovered in the restaurant with Vittel® or Orange or apple juice or Milk
+p1: 33 cl 25 cl 20 cl
+p1: ANTIPASTI / ENTRÉES / STARTERS RISOTTI
+p1: Risotto ai funghi, nocciole e olio alle erbe 29€
+p1: Vitello tonnato: fette sottili di vitello, salsa tonnata e verdure sott’aceto 19€
+p1: Risotto aux champignons, noisettes et huile aux herbes FORMAGGI / FROMAGES / CHEESES BEVANDE / BOISSONS / DRINKS
+p1: Vitello tonnato : fines tranches de veau, sauce au thon et pickles de légumes
+p1: Mushroom and herbs oil risotto with hazelnut
+p1: Vitello tonnato: thinly sliced veal, tuna sauce and pickled vegetables
+p1: Selezione di formaggi italiani, miele in favo e uva 13€
+p1: Risotto al cacciucco con filetto di triglia, vongole, mazzancolle, 35€ VINI BIANCHI / VINS BLANCS ITALIENS / ITALIAN WHITE WINE
+p1: Burrata con « pappa al pomodoro »: pomodoro, pane, basilico 20€
+p1: polpo e salicornia Sélection de fromages italiens, miel en alvéoles et raisins frais
+p1: e olio extra vergine d’oliva 75 CL
+p1: Selection of Italian cheeses, honeycomb and fresh grapes
+p1: Risotto façon cacciucco avec filet de rouget, palourdes, gambas,
+p1: Burrata avec « pappa al pomodoro » : tomate, pain, basilic
+p1: poulpe et salicorne
+p1: et huile d’olive extra vierge OMBRIE Orvieto DOC - Classico - Cantina Cardeto 36€
+p1: Cacciucco style risotto with red mullet fillet, clams, prawns,
+p1: Burrata with Pappa al Pomodoro: tomato, bread, basil
+p1: octopus and samphire
+p1: and extra virgin olive oil
+p1: SARDAIGNE Vermentino di Sardegna DOC - Dolia - Cantina di Dolianova 29€
+p1: DOLCI / DESSERTS / DESSERTS
+p1: Insalata di orzo con pesto di rucola e pomodori confit, bresaola, 17€
+p1: SECONDI / PLATS / MAIN DISHES
+p1: VINI ROSÉ / VIN ROSÉ ITALIEN / ITALIAN ROSÉ WINE
+p1: ricotta e carciofi marinati
+p1: Panna cotta al cioccolato fondente e fava tonka, rosa del deserto 13€
+p1: Salade d’orge au pesto de roquette et tomates confites, bresaola,
+p1: ricotta et artichauts marinés Filetto di branzino alla plancha, caponata e salsa allo zafferano 35€ Panna cotta chocolat noir et fève tonka, rose des sables
+p1: VÉNÉTIE Chiaretto Bardolino DOC - Azienda Cavalchina 43€
+p1: Filet de bar à la plancha, caponata et sauce safranée Dark chocolate and tonka bean panna cotta served
+p1: Barley salad with rocket pesto and tomatoes confit, bresaola,
+p1: ricotta and marinated artichokes Grilled sea bass fillet served with caponata and saffron sauce with a chocolate cornflake cluster
+p1: VINI ROSSI / VINS ROUGES ITALIENS / ITALIAN RED WINE
+p1: Sauté di vongole alla marinara con crostini 19€
+p1: Costoletta di vitello alla griglia, fondo alla salvia, polenta taragna, 41€ Babà al limoncello, panna montata al mascarpone e frutti di bosco 15€
+p1: Sauté de palourdes à la marinière et croûtons insalatina di finocchi e ravanelli Babà au limoncello, crème fouettée au mascarpone et fruits rouges
+p1: TOSCANE Chianti DOCG - Luggiano 29€
+p1: Clams sautéed in white wine sauce with croutons
+p1: Côte de veau grillée, jus à la sauge, polenta taragna, salade de fenouil et radis Limoncello babà, whipped cream with mascarpone and red berries
+p1: Grilled veal chop, sage sauce, taragna polenta, fennel and radish salad
+p1: Nero D’Avola Sicilia DOC - Aquilae - Cantina Di Canicatti 36€
+p1: SICILE
+p1: PIATTI / PLATS / MAIN COURSES Tiramisù del Manhattan con terra al cacao 15€
+p1: Maialino da latte in porchetta ripieno di salsiccia toscana con semi di finocchio, 41€ Tiramisù du Manhattan, « terre » au cacao
+p1: purea di ceci alle erbe e gremolada agli agrumi Manhattan tiramisù, cocoa crumble
+p1: ACQUA MINERALE / EAUX MINÉRALES / MINERAL WATER
+p1: Cochon de lait façon porchetta farci à la saucisse toscane au fenouil,
+p1: ZUPPA / SOUPE / SOUP
+p1: purée de pois chiches aux herbes et gremolada aux agrumes
+p1: Macaron al cioccolato e amarena 13€ 50 CL 100 CL
+p1: Porchetta-style milk-fed pork stuffed with Tuscan fennel-seasoned sausage,
+p1: chickpea purée with herbs and citrus gremolada Macaron au chocolat et amarena
+p1: Minestrone 15€ Vittel® 5€ 6€
+p1: Chocolate and Amarena cherry macaron
+p1: S.Pellegrino® 5,5€ 6,5€
+p1: Suprema di pollo ruspante Label Rouge, fregola tostata con primizie di verdure, 35€
+p1: PASTA / PÂTES / PASTA
+p1: Cannolo siciliano con ricotta di pecora e arance candite,
+p1: cipolle in agrodolce e salsa all’arancia
+p1: crema al cioccolato e pistacchi caramellati 13€
+p1: Suprême de poulet fermier Label Rouge, fregula tostata aux petits légumes,
+p1: BEVANDE RINFRESCANTI / BOISSONS FRAÎCHES / COLD DRINKS
+p1: Cannolo sicilien à la ricotta de brebis et oranges confites,
+p1: Spaghettoni1 alla Luciana con polpo 38€ oignons aigre-doux et sauce à l’orange
+p1: crème au chocolat et pistaches caramélisées
+p1: Label Rouge free-range chicken breast, fregula tostata with baby vegetables,
+p1: Spaghettoni1 sauce façon Luciana au poulpe 25 CL 33 CL
+p1: Sicilian cannolo with sheep’s milk ricotta and candied orange, Coca-Cola ORIGINAL, Coca-Cola ZÉRO SUCRES,
+p1: Spaghettoni1 with “Luciana style” octopus pickled onions and orange sauce
+p1: chocolate pudding and caramelised pistachios
+p1: Coca-Cola Cherry 6€
+p1: Fanta Orange, Sprite 6€
+p1: Gnocchi con crema di mozzarella profumata al limone e coulis di peperoni 30€
+p1: CONTORNI / ACCOMPAGNEMENTS / SIDE DISHES
+p1: Crostatina al limone e pralinato alla nocciola 15€ FuzeTea Pêche Intense / Peach Black Tea 6€
+p1: Gnocchi, crème à la mozzarella parfumée au citron et coulis de poivrons
+p1: Gnocchi, mozzarella and lemon cream sauce and bell pepper coulis Tartelette au citron et praliné à la noisette Jus d’orange ou de pomme / Orange or apple juice 6€
+p1: Lemon and hazelnut praline tartlet
+p1: Patate arrosto all’aglio e al rosmarino 15€ Perrier® 5€
+p1: Cannelloni di grano saraceno1 farciti con funghi, pistacchi Pommes de terre rôties à l’ail et au romarin
+p1: Roast potatoes with garlic and rosemary
+p1: e profumo di agrumi su coulis di pomodoro 32€
+p1: Cannelloni à la farine de sarrasin1 farcis aux champignons, pistaches
+p1: Siamo in grado di fornirvi su richiesta una guida che contiene tutte le informazioni
+p1: et parfumés aux agrumes sur coulis de tomates
+p1: Caponata di verdure alla siciliana 15€ sulla presenza di allergeni nei nostri piatti. Per richiederla, contattate un responsabile.
+p1: Buckwheat cannelloni1 stuffed with mushrooms and pistachios,
+p1: Caponata de légumes à la sicilienne
+p1: Acqua potabile a disposizione - Prezzi netti
+p1: flavoured with citrus and served on a tomato sauce
+p1: Sicilian-style vegetable caponata Un recueil d’information sur la présence d’allergènes dans nos plats est disponible,
+p1: Festeggia il tuo Compleanno con noi e ordina la tua torta prima di cominciare!
+p1: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members.
+p1: Célébrez votre Anniversaire en notre compagnie et commandez
+p1: Mafaldine alla norcina con salsiccia, tartufo nero e salsa al Parmigiano Reggiano 35€ Eau potable à disposition - Prix nets
+p1: 15€
+p1: Mafaldine façon norcina à la chair de saucisse, truffe noire et sauce Polenta taragna, salsa di pomodoro votre dessert d’anniversaire en début de repas.
+p1: A list of the allergens present in our dishes is available upon request with any of our
+p1: Polenta taragna, sauce tomate Celebrate your Birthday with us. Don’t forget to order
+p1: au Parmigiano Reggiano Cast Members; please make a Cast Member aware of any allergies you may have.
+p1: Mafaldine alla Norcina with sausage, black truffles and Parmigiano-Reggiano sauce «Polenta taragna», tomato sauce your birthday dessert before your meal!
+p1: Drinking water available - Tax included
+p1: Dessert a partire da 2 persone Dessert a partire da 6 persone
+p1: 25€ 45€
+p1: Ravioli ripieni di vitello, salsa al pomodoro, spuma di cipolle e chips di guanciale 30€ Insalata di stagione all’olio d’oliva extravergine e aceto balsamico 15€ Dessert à partir de 2 personnes Dessert à partir de 6 personnes
+p1: 62/60
+p1: Dessert to share for 2 or more people Dessert to share for 6 or more people
+p1: Ravioli farci au veau, sauce tomate, écume d’oignons et chips de guanciale Salade de saison, huile d’olive extra vierge et vinagre balsamique
+p1: Ravioli stuffed with veal, tomato sauce, onion foam and crispy guanciale Seasonal greens, extra virgin olive oil and balsamic vinegar
+p1: Consultate il menu yensiD©
+p1: Consultez le menu
+p1: 1 pasta fresca prodotta in loco dai nostri chef / pâtes fraîches fabriquées sur place par nos chefs / fresh pasta homemade by our chefs Check out our menu
