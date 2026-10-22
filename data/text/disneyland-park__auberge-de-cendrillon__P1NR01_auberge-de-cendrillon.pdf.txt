@@ -1,87 +1,97 @@
 p1: Menu A dulte / A dult Menu
 p1: 100€
 p1: Vin compris / Wine included
-p1: 120€
-p1: Velouté et fi ne purée de potiron / Cream of pumpkin soup and pumpkin purée
+p1: 125€
+p1: Velouté de potiron, lentins de chêne poêlés et graines de courge
+p1: Pumpkin velouté with pan-fried shiitake mushrooms and pumpkin seeds
 p1: Roulé saumon fumé et épinards / Smoked salmon and spinach roll
 p1: ou or
 p1: Pâté en croûte de canard à l’abricot et gingembre / Duck pâté en croûte with apricot and ginger
 p1: ou or
-p1: IGP Cité de Carcassonne - Gérard Bertrand - Chardonnay
-p1: 8 cl
+p1: IGP Pays d’Oc Cité de Carcassonne - Gérard Bertrand
+p1: 10 cl
 p1: IGP Cité de Carcassonne - Gérard Bertrand - Merlot
-p1: ou / or 8 cl
-p1: Parmentier de bœuf / Beef parmentier
-p1: Filet de turbot doré sauce champagne / Pan-fried turbot fi llet in a champagne sauce
+p1: ou / or 10 cl
+p1: AOP Côtes de Provence - Minuty - Prestige rosé
+p1: ou / or 10 cl
+p1: Parmentier de bœuf, salade d’herbes du jardin, jus corsé à la truffe
+p1: Beef parmentier, garden herb salad, full-bodied truffle sauce
+p1: Risotto aux gambas, petits pois et tuile au parmesan / Prawn risotto with garden peas and a Parmesan crisp
 p1: ou or
-p1: /
-p1: ou Suprême de volaille rôti or Roast supreme of chicken
-p1: Palet moelleux de pois chiches / So(cid:28) chickpea pa(cid:30) y
+p1: Suprême de volaille rôti, sauce aux morilles, pommes de terre grenaille à la sauge
+p1: ou
+p1: Roasted chicken breast, morel sauce, baby potatoes with sage
+p1: or
+p1: Palet moelleux de pois chiches / Soft chickpea patty
 p1: ou or
 p1: AOC Bourgogne Hautes-Côtes de Nuits - Pierre Maizière
-p1: 8 cl
+p1: 10 cl
 p1: AOC Chablis - La Pierrelée - La Chablisienne
-p1: ou / or 8 cl
-p1: Le dessert de Cendrillon*/ Cinderella’s dessert*
-p1: Fondant* au cacao tiède / Warm Cocoa fondant*
-p1: ou or
-p1: Fruits du moment / Seasonal fruits
-p1: ou or
+p1: ou / or 10 cl
+p1: Vin du moment / Wine of the moment
+p1: ou / or 10 cl
+p1: Le dessert de Cendrillon1/ Cinderella’s dessert1
+p1: Fondant au cacao tiède1, émulsion soja-sirop d’orgeat et crémeux soja et pistache
+p1: ou
+p1: Warm cocoa fondant1, soya and almond syrup emulsion, soya and pistachio cream
+p1: or
+p1: Ecrin de fruits de saison en gelée citronnée à la verveine, soupe aux fruits rouges
+p1: ou
+p1: Seasonal fruit in a lemon and lemon verbena jelly, red fruit soup
+p1: or
 p1: Edition Spéciale Disneyland® Paris - Champagne Pierre Mignon Grande Réserve - brut
 p1: 10 cl
 p1: Menu Enfant / K ids’ Menu
 p1: Pour enfants âgés de 3 à 11 ans / For children ages 3 to 11
 p1: 50€
 p1: Bouchée de la Fée : Velouté de potiron et tartine de aux graines de courge
-p1: Fairy canapé: Cream of pumpkin soup with and pumpkin seed open sandwich
-p1: Saumon fumé roulé au / Smoked salmon rolled with cheese
+p1: Fairy canapé: Cream of pumpkin soup withKiri® cheese and pumpkin seed open sandwich
+p1: Saumon fumé roulé au / Smoked salmon rolled with Kiri® cheese
 p1: ou or
 p1: Volaille parfumée au thym / Thyme chicken
-p1: Filet de sole tropicale / Tropical sole fi llet
+p1: Filet de sole tropicale / Tropical sole fillet
 p1: ou or
-p1: Gnocchi aux légumes / Gnocchi with vegetables
+p1: Pâtes aux légumes / Pasta with vegetables
 p1: ou or
 p1: La surprise de Cendrillon / Cinderella’s surprise
-p1: Fruits coupés en salade à la menthe / Fruit salad with mint
+p1: Soupe de fruits rouges et crème vanillée aérienne / Red fruit soup with light whipped vanilla cream
 p1: ou or
-p1: Vi(cid:30) el® Jus d’orange ou de pomme / Orange or apple juice Lait / Milk
+p1: Vittel® Jus d’orange ou de pomme / Orange or apple juice Lait / Milk
 p1: 33 cl ou/or 25 cl ou/or 20 cl
 p1: Autre boisson fraîche (25 cl) sur demande et en remplacement du produit proposé
-p1: A diff erent so(cid:28) drink may replace a similar item on request
-p1: (25 cl)
+p1: A different soft drink (25 cl) may replace a similar item on request
 p1: Sélection de Boissons / D rinks Selection
 p1: Vin blanc / White wine Boissons fraîches / Cold drinks
 p1: 37,5 cl 75 cl 33 cl
 p1: Bourgogne
-p1: Coca-Cola  6€
+p1: Coca-Cola Original 6€
 p1: AOC Chablis - La Pierrelée
-p1: Coca-Cola (cid:18) 6€
-p1: La Chablisienne
-p1: 24€ 43€
-p1: Fanta Orange
-p1: (cid:18) 6€
+p1: Coca-Cola Zéro Sucres
+p1: 6€
+p1: La Chablisienne 24€ 43€
+p1: Fanta Orange Zéro Sucres 6€
 p1: Vins rouges / Red wine
-p1: Sprite (cid:18) 6€
+p1: Sprite Sans Sucres 6€
 p1: 37,5 cl 75 cl
-p1: Bordeaux FuzeTea Pêche Intense / Peach Black Tea 6€
-p1: AOC Saint-Emilion - Fortin Plaisance 24€ 38€
-p1: Perrier® 5€
-p1: Jus d’orange ou de pomme
-p1: Vallée du Rhône 25 cl 6€
+p1: /
+p1: Bordeaux FuzeTea Saveur Pêche Peach flavour 6€
+p1: AOC Saint-Emilion - Fortin Plaisance 24€ 38€ Perrier®
+p1: 5€
+p1: Jus d’orange ou de pomme 6€
+p1: Vallée du Rhône 25 cl
 p1: AOC Châteauneuf-du-Pape Orange or apple juice
-p1: L’Âme - Ogier - Bio 65€
+p1: L’Oratoire des Papes 72€
 p1: Eaux minérales
-p1: 50 cl 100 cl
-p1: Vin rosé / Rosé wine
+p1: Vin rosé / Rosé wine 50 cl 100 cl
 p1: 50 cl 75 cl M ineral waters
 p1: Provence
-p1: Vi(cid:30) el®
-p1: AOP Côtes de Provence 5€ 6€
+p1: AOP Côtes de Provence Vittel® 5€ 6€
 p1: Minuty - Prestige rosé 27€ 38€ S.Pellegrino® 5,5€ 6,5€
-p1: Eau potable à votre disposition / Drinking water available *produit décongelé / defrosted product
-p1: 52/11
+p1: Ce menu (sans modification) comprend au moins 2 portions This menu (without substitution) contains at least 2 servings
+p1: de fruits et légumes et est faible en graisses saturées of fruits and vegetables and is low in saturated fats
+p1: Eau potable à votre disposition / Drinking water available 1produit décongelé / defrosted product 62/01
 p1: Prix nets / Tax included veggie = végétarien
 p1: -
 p1: yensiD©
-p1: Un recueil d’information sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p1: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
 p1: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have
