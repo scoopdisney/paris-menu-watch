@@ -1,175 +1,518 @@
-p1: 1 8 h 0 0 2 2 h 3 0
-p1: H O R A I R E S D ’ O U V E R T U R E D E À
-p1: O P E N I N G H O U R S F R O M 6 . 0 0 P . M . U N T I L 1 0 . 3 0 P . M .
-p1: U n e f a b l e d e f e s t i n s e t d e m e t s r a f f i n é s
-p1: / A f i n e d i n i n g f a b l e f o r t h e a g e s
-p1: Prenez place aux côtés des personnages Disney royaux dans un décor somptueux inspiré de l’emblématique Galerie
-p1: des Glaces de Versailles et de l’univers de La Belle et la Bête
-p1: Be our Guest alongside royal Disney Characters in a magical setting inspired by the iconic Hall of Mirrors in the royal Palace
-p1: of Versailles and Disney classic Beauty and the Beast
-p1: M e n u V i e d e C h â t e a u M e n u P ’ t i t s I n v i t é s d e L u m i è r e
-p1: T h e R o y a l M e n u 120€ L u m i e r e ’ s L i t t l e G u e s t s m e n u 60€
-p1: PPPooouuurrr aaaccccccooommmpppaaagggnnneeerrr vvvoootttrrreee mmmeeennnuuu,,, nnnooouuusss vvvooouuusss sssuuuggggggééérrrooonnnsss Pour enfants âgés de 3 à 11 ans
-p1: uuuunnnn cccchhhhooooiiiixxxx ddddeeee 3333 cccchhhhaaaammmmppppaaaaggggnnnneeeessss ((((3333 xxxx 11110000 ccccllll)))) ppppaaaarrrrmmmmiiii nnnnoooottttrrrreeee sssséééélllleeeeccccttttiiiioooonnnn,,,, aaaauuuu pppprrrriiiixxxx ddddeeee 66660000€€€€ For children ages from 3 to 11
-p1: oouu uunn cchhooiixx ddee 33 vviinnss ((33 xx 1100 ccll)) ppaarrmmii nnoottrree sséélleeccttiioonn,, aauu pprriixx ddee 5500€€
-p1: Vittel® 33 cl ou ou jus d’orange ou de pomme 25 cl ou Verre de lait 20 cl
-p1: To accompany your meal, we suggest
-p1: Vittel® 33 cl or or orange juice or apple juice 25 cl or Milk 20 cl
-p1: a flight of 3 champagnes (3 x 10 cl)from our selection, priced at €60
-p1: or a flight of 3 wines (3 x 10 cl) from our selection, priced at €50
-p1: AAAuuutttrrreee bbboooiiissssssooonnn fffrrraaaîîîccchhheee 222555 ccclll sssuuurrr dddeeemmmaaannndddeee eeennn rrreeemmmppplllaaaccceeemmmeeennnttt ddduuu ppprrroooddduuuiiittt ppprrrooopppooosssééé
-p1: OOtthheerr ccoolldd ddrriinnkk 2255 ccll mmaayy rreeppllaaccee ssiimmiillaarr iitteemm oonn rreeqquueesstt
-p1: PPPOOOUUURRR CCCOOOMMMMMMEEENNNCCCEEERRR // TTOO SSTTAARRTT
-p1: PPPOOOUUURRR CCCOOOMMMMMMEEENNNCCCEEERRR // TTOO SSTTAARRTT
-p1: La tartelette fi ne, fl an de courgettes aux olives, coulis de courgettes
-p1: Courgette and olive quiche with filo crust and courgette coulis
-p1: Dips de légumes croquants du moment, sauce cocktail
-p1: ooouuu /// oorr
-p1: Cocktail sauce with seasonal crudités
-p1: La tomate rouge à la stracciatella et mozzarella, sorbet tomate jaune ananas
-p1: ou / or
-p1: Red tomato, stracciatella and mozzarella salad with yellow tomato and pineapple sorbet
-p1: Tatin de tomates jaunes et rouges à l’huile d’olive et mozzarella
-p1: ooouuu /// oorr
-p1: Red and yellow tomato tatin with olive oil and mozzarella
-p1: La terrine de canard en croûte tiède à l’abricot et à la pistache, condiment abricot acidulé
-p1: ooouuu /// oorr
-p1: Warm duck, apricot and pistachio terrine en croûte with apricot chutney
-p1: EEEsssqqquuuiiimmmaaauuu dddeee sssaaauuummmooonnn eeettt ccciiitttrrrooonnn jjjaaauuunnneee cccooonnnfififi ttt,,, cccrrrééémmmeeeuuuxxx aaauuuxxx fififi nnneeesss hhheeerrrbbbeeesss
-p1: ooouuu /// oorr
-p1: SSaallmmoonn aanndd pprreesseerrvveedd lleemmoonn iiccee ppoopp,, fifi nnee hheerrbb ccrreeaamm
-p1: Le tartare de bar, condiments d’aubergine grillée et mangue épicée, glace au wasabi
-p1: ooouuu /// oorr
-p1: Sea bass tartare with aubergine caviar, spicy mango chutney and wasabi ice cream
-p1: ŒŒŒuuufff dddeee LLLooouuuééé LLLaaabbbeeelll RRRooouuugggeee cccuuuiiittt eeennn cccooocccoootttttteee,,, eeessspppuuummmaaa dddeee cccooommmtttééé AAAOOOPPP,,, cccrrroooûûûtttooonnnsss dddooorrrééésss ààà lll’’’hhhuuuiiillleee ddd’’’ooollliiivvveee
-p1: ooouuu /// oorr LLoouuéé LLaabbeell RRoouuggee cchhiicckkeenn’’ss eegggg ““eenn ccooccoottttee””,, ccoommttéé PPDDOO ffooaamm,, ccrriissppyy ccrroouuttoonnss iinn oolliivvee ooiill
-p1: L’œuf de Loué Label Rouge cuit “parfait”, crémeux aux petits pois, amandes torréfiées et émulsion à l’amande
-p1: Loué Label Rouge “64-degree” chicken’s egg, cream of petits pois, toasted almonds and almond emulsion
-p1: MAIS ENCORE / TO CONTINUE
-p1: 10 cl Pâtes Bio issues d’Ile-de-France :
-p1: CHAMPAGNE
-p1: Taittinger - Prestige rosé ou À la crème d’Isigny AOP, ou À la sauce tomate , ou Au beurre d’Isigny AOP
-p1: ooouuu /// oorr Louis Roederer - Collection 246 OOOOOrrrrrgggggaaaaannnnniiiiiccccc,,,,, lllllooooocccccaaaaallllllllllyyyyy sssssooooouuuuurrrrrccccceeeeeddddd pppppaaaaassssstttttaaaaa fffffrrrrrooooommmmm ttttthhhhheeeee PPPPPaaaaarrrrriiiiisssss rrrrreeeeegggggiiiiiooooonnnnn ssssseeeeerrrrrvvvvveeeeeddddd wwwwwiiiiittttthhhhh ccccchhhhhoooooiiiiiccccceeeee ooooofffff:::::
-p1: IIssiiggnnyy PPDDOO ccrrèèmmee ffrraaîîcchhee ssaauuccee , or Tomato sauce , or IIssiiggnnyy PPDDOO bbuutttteerr
-p1: ooouuu /// oorr 10 cl
-p1: VIN / WINE
-p1: AOC Saint-Romain - Le Clos du Château - Domaine Coste-Caumartin ooouuu /// oorr
-p1: ooouuu /// oorr AOP Sancerre - Cuvée du Connétable - Château de Sancerre - Sauvignon blanc Pavé de saumon poêlé, pommes de terre écrasées à l’huile d’olive, beurre blanc citronné
-p1: Pan-fried salmon fi llet, crushed potatoes with olive oil, lemon beurre blanc sauce
-p1: ooouuu /// oorr
-p1: MAIS ENCORE / TO CONTINUE
-p1: Pièce de bœuf poêlée origine France, jus de viande, pommes de terre et légumes
-p1: Pan-fried steak (beef of French origin) with its juices, potatoes and vegetables
-p1: Le médaillon aux protéines de blé et soja, crumble amande et cacao, bavarois aux tomates confites
-p1: Soy and wheat medallion with almond and cacao crumble, tomato confit bavarois ooouuu /// oorr
-p1: ooouuu /// oorr Le croque de bœuf : Steak haché, comté, chiff onnade de salade liée à la sauce cocktail accompagné de pommes paille
-p1: Croque de bœuf sandwich: Hamburger, comté cheese and shredded lettuce mixed with cocktail sauce served with fried straw potatoes
-p1: La sole dorée sur l’arête au beurre d’Isigny AOP et poêlée de jeunes légumes
-p1: Sole dorée on the bone with Isigny PDO butter and pan-fried spring vegetables ooouuu /// oorr
-p1: ooouuu /// oorr Poulet jaune fermier, légumes fondants et pommes de terre confi tes
-p1: Le saumon Label Rouge, fenouil grillé, croûtons de polenta frits et beurre d’agrumes Corn-fed chicken, tender vegetables and confi t potato
-p1: Label Rouge salmon, roasted fennel, fried polenta croutons and citrus butter
-p1: ooouuu /// oorr
-p1: PPPOOOUUURRR LLLEEE PPPLLLAAAIIISSSIIIRRR // FFOORR YYOOUURR PPLLEEAASSUURREE
-p1: La pièce de bœuf rôtie origine France, gel de betterave et framboise,
-p1: pommes de terre en millefeuille et légumes du moment
-p1: La tartelette Big Ben : Tartelette de fruits de saison, mousse aérienne à la vanille
-p1: Roast beef of French origin, beetroot and raspberry jelly, potato mille-feuille and seasonal vegetables
-p1: Cogsworth tartlet: Seasonal fruit tartlet, whipped vanilla mousse
-p1: ou / or
-p1: ooouuu /// oorr
-p1: Le filet mignon de porc fermier, asperges poêlées, pommes noisette et condiment à l’ail noir
-p1: Finger moelleux chocolat, caramel, glace vanille et noisettes torréfi ées
-p1: Farmhouse pork fillet, pan-fried asparagus, noisette potatoes and black garlic sauce
-p1: Lava chocolate fi nger, caramel, vanilla ice cream and toasted hazelnuts
-p1: ou / or
-p1: ou / or
-p1: Le poulet jaune fermier Label Rouge cuit à la rôtissoire, pommes de terre confites et jus corsé
-p1: Fruits du moment arrosés de coulis et barbe à papa
-p1: Rotisserie Label Rouge corn-fed chicken, confit potatoes and gravy
-p1: Fruits du moment arrosés de coulis et barbe à papa
-p1: ooouuu /// oorr
-p1: 10 cl
-p1: LLLaaa RRRooossseee EEEnnnccchhhaaannntttéééeee ::: bbbaaavvvaaarrroooiiissseee vvvaaannniiilllllleee,,, mmmooouuusssssseee fffrrruuuiiitttsss rrrooouuugggeeesss eeettt bbbiiissscccuuuiiittt aaammmaaannndddeee 1
-p1: CHAMPAGNE
-p1: Taittinger - Folies de la Marquetterie - brut TTTThhhheeee EEEEnnnncccchhhhaaaannnntttteeeedddd RRRRoooosssseeee:::: VVVVaaaannnniiiillllllllaaaa bbbbaaaavvvvaaaarrrrooooiiiissss,,,, rrrreeeedddd bbbbeeeerrrrrrrryyyy mmmmoooouuuusssssssseeee aaaannnndddd aaaallllmmmmoooonnnndddd bbbbiiiissssccccuuuuiiiitttt 11
-p1: ooouuu /// oorr Moët & Chandon - Grand Vintage - extra brut
-p1: ooouuu /// oorr Pierre Mignon - Blanc de noirs - brut
-p1: ooouuu /// oorr 10 cl
-p1: VIN / WINE
-p1: AOC Saint Emilion Grand Cru - Château Capet-Guillier
-p1: ooouuu /// oorr AOC Châteauneuf-du-Pape - L’oratoire des Papes S é l e c t i o n d e b o i s s o n s
-p1: D r i n k S e l e c t i o n
-p1: POUR LE PLAISIR / FOR YOUR PLEASURE
-p1: 75 cl
-p1: French White Wine
-p1: Vins blancs français /
-p1: La pavlova végétale revisitée aux fruits rouges et sorbet à l’huile d’olive
-p1: AOC Montagny --- CCChhhâââttteeeaaauuu dddeee CCChhhaaammmiiillllllyyy --- LLLeeesss RRReeecccuuullleeerrrooonnnsss --- CCChhhaaarrrdddooonnnnnnaaayyy
-p1: 45€
-p1: Plant-based Pavlova with red berries and olive oil sorbet
-p1: AOC Saint-Romain - Le Clos du Château - Domaine Coste-Caumartin
-p1: ooouuu /// oorr 67€
-p1: La rose en vitrail, entremets chocolat, insert crémeux dulcey et streusel cacao AOC Pernand-Vergelesses - Maison Champy
-p1: 67€
-p1: Rose window tuile, chocolate mousse cake, creamy Dulcey chocolate fi lling and cocoa nib streusel
-p1: 37,5 cl 75 cl
-p1: ooouuu /// oorr Vins rouges français / French Red Wine
-p1: Le crémeux thym-citron, biscuit miel amandes, tuile nid d’abeille, AOC Bourgogne Hautes-Côtes de Nuits - Pierre Maizière
-p1: 25€ 45€
-p1: perles au miel, gels citron et thym citron, sorbet thym-citron
-p1: AOC Haut-Médoc - Château Cantemerle - Grand Cru Classé
-p1: 42€ 77€
-p1: Lemon thyme curd, honey almond biscuit, honeycomb tuile, honey pearls, lemon and lemon thyme jellies, lemon thyme sorbet
-p1: AOC Haut-Médoc - Héritage de Chasse-Spleen
-p1: 68€
-p1: ooouuu /// oorr
-p1: Les sorbets et déclinaison de fruits
-p1: Boissons fraîches / Cold Drink
-p1: Sorbets and fruit variations
-p1: Coca-Cola ORIGINAL, Coca-Cola ZÉRO SUCRES 33 cl
-p1: ooouuu /// oorr 9€
-p1: Sprite, Fanta Orange, FuzeTea Pêche Intense / 25 cl
-p1: Fruits frais du moment en salade et crème fouettée vanillée Peach black tea 9€
-p1: Seasonal fresh fruit salad and whipped vanilla cream Notre sélection de Tonic / 20 cl
-p1: Our selection of tonic 9€
-p1: 10 cl 50 cl 100 cl
-p1: CHAMPAGNE Eaux Minérales / Mineral Water
-p1: Moët & Chandon - Ice Impérial Rosé - demi Sec
-p1: Vittel
-p1: 8€ 12€
-p1: ooouuu /// oorr Pierre Mignon - Ratafia de champagne
-p1: S.Pellegrino®
-p1: 9€ 13€
-p1: ooouuu /// oorr 10 cl
-p1: VIN / WINE
-p1: Perrier® Fines Bulles /
-p1: AOC Sauternes - Château Coutet - Premier Grand Cru Classé Fine bubbles 9€ 13€
-p1: D e s s e r t d ’ A n n i v e r s a i r e 1
-p1: Consultez
-p1: 1
-p1: B i r t h d a y D e s s e r t Prix nets /
-p1: Tax included
-p1: le menu
-p1: Veggie = végétarien
-p1: Check out
-p1: 1 produit décongelé /
-p1: Célébrez votre Anniversaire en notre compagnie et commandez votre dessert d’anniversaire en début de repas ! defrosted product
-p1: our menu
-p1: Eau potable à votre disposition /
-p1: Drinking water available
-p1: Celebrate your Birthday with us. Don’t forget to order your birthday dessert before your meal!
-p1: Ce menu (sans modifi cation) comprend au moins 2 portions de fruits et légumes et est faible en graisses saturées
-p1: À partir de 2 personnes / Dessert to share for 2 or more people
-p1: 25€ This menu (without substitution) contains at least 2 portions of fruits and vegetables and is low in saturated fats
-p1: À partir de 6 personnes / Dessert to share for 6 or more people
-p1: 45€
-p1: un recueil d’informations sur la présence d’allergènes dans nos plats
-p1: 62/60
-p1: est disponible, n’hésitez pas à vous signaler et à le demander
-p1: à l’un de nos Cast Members
-p1: -
-p1: yensiD©
-p1: A list of the allergens present in our dishes is available upon request with any
-p1: of our Cast Members; please make a Cast Member aware of any allergies you may have
-p1: 22660066__LLAA__TTAABBLLEE__DDEE__LLUUMMIIEERREE__BBOOAARRDD__EEXXTTEERRIIEEUURR__668800xx887700..iinndddd 11 1166//0066//22002266 1166::4400
+p1: 22660066__LLAA--TTAABBLLEE--DDEE--LLUUMMIIEERREE__MMEENNUU--66--LLAANNGGUUEESS__119955xx330055__1100--2266..iinndddd 11 2233//1100//22002266 0099::4477
+p2: M E N U
+p2: V I E D E C H Â T E A U
+p2: 120 €
+p2: Pour accompagner votre menu, nous vous suggérons
+p2: un choix de 3 champagnes (3 x 10 cl) parmi notre sélection, au prix de 60€
+p2: ou un choix de 3 vins (3 x 10 cl) parmi notre sélection, au prix de 50€
+p2: P O U R C O M M E N C E R
+p2: Le pressé de poireaux façon maki, condiment croquant et crémeux végétal pimenté
+p2: ou
+p2: Les Saint-Jacques poêlées, velouté de potimarron et éclats de châtaignes
+p2: ou
+p2: La tourte de canard tiède à l'abricot et à la pistache, condiment abricot acidulé
+p2: ou
+p2: Les tranches de bar au sésame grillé et noix de cajou,
+p2: bouillon parfumé au gingembre et aux épices, cébette et tofu fumé
+p2: ou
+p2: L’œuf de Loué Label Rouge cuit “parfait”,
+p2: crémeux de girolles, émulsion amande-moutarde aux noix
+p2: 10 cl
+p2: CHAMPAGNE
+p2: Taittinger - Prestige rosé
+p2: ou Louis Roederer - Collection 246
+p2: ou 10 cl
+p2: VIN
+p2: AOP Limoux - Domaine de l'Aigle - Gérard Bertrand - Chardonnay
+p2: ou AOP Sancerre - Cuvée du Connétable - Château de Sancerre - Sauvignon blanc
+p2: M A I S E N C O R E
+p2: Le médaillon aux protéines de blé et soja, crumble au cacao
+p2: et flan de tomate confite
+p2: ou
+p2: La sole dorée sur l’arête au beurre d’Isigny AOP et écrasé de pommes de terre
+p2: ou
+p2: Le saumon Label Rouge confit à l'huile d'olive, légumes d'hiver et polenta frite
+p2: ou
+p2: La pièce de bœuf rôtie origine France, confit de betteraves et framboises,
+p2: pommes de terre en millefeuille et légumes du moment
+p2: ou
+p2: Le filet mignon de porc fermier, jus de porc, endive grillée et confite à l'ail noir,
+p2: spätzle sautés aux herbes aromatiques
+p2: ou
+p2: Le poulet jaune fermier Label Rouge cuit à la rôtissoire et pommes de terre confites, jus corsé
+p2: 10 cl
+p2: CHAMPAGNE
+p2: Taittinger - Folies de la Marquetterie - brut
+p2: ou Moët & Chandon - Grand Vintage - extra brut
+p2: ou Pierre Mignon - Blanc de noirs - brut
+p2: ou
+p2: VIN 10 cl
+p2: AOC Saint-Emilion Grand Cru - Château Capet-Guillier
+p2: ou AOC Châteauneuf-du-Pape - L’oratoire des Papes
+p2: ou Vin du moment
+p2: 22660066__LLAA--TTAABBLLEE--DDEE--LLUUMMIIEERREE__MMEENNUU--66--LLAANNGGUUEESS__119955xx330055__1100--2266..iinndddd 22 2233//1100//22002266 0099::4477
+p3: L A T A B L E
+p3: fr
+p3: D E L U M I È R E
+p3: P O U R L E P L A I S I R
+p3: Déclinaison de fromages affi nés AOP, raisins frais et en pickles
+p3: ou
+p3: L'entremets chocolat-noisette, tuile rose
+p3: ou
+p3: L'entremets crémeux thym citron
+p3: ou
+p3: Les sorbets et déclinaison de fruits
+p3: ou
+p3: La pavlova végétale revisitée aux fruits rouges, sorbet à l'huile d'olive
+p3: 10 cl
+p3: CHAMPAGNE
+p3: Moët & Chandon - Ice Impérial Rosé - demi sec
+p3: ou Pierre Mignon - Ratafia de champagne
+p3: ou 10 cl
+p3: VIN
+p3: AOC Barsac - Grand vin de Sauternes - Château Coutet - 1er Grand Cru Classé
+p3: ou AOC Alsace - Gewurztraminer Vendange Tardive - Famille Hugel
+p3: D E S S E R T
+p3: 1
+p3: D ’ A N N I V E R S A I R E
+p3: Célébrez votre Anniversaire en notre compagnie
+p3: et commandez votre dessert d’anniversaire
+p3: en début de repas !
+p3: À partir de 2 personnes 25€
+p3: À partir de 6 personnes 45€
+p3: Un recueil d’informations sur la présence d’allergènes
+p3: dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander
+p3: à l’un de nos Cast Members
+p3: 1 produit décongelé
+p3: Prix nets
+p3: 22660066__LLAA--TTAABBLLEE--DDEE--LLUUMMIIEERREE__MMEENNUU--66--LLAANNGGUUEESS__119955xx330055__1100--2266..iinndddd 33 2233//1100//22002266 0099::4477
+p4: T H E R O Y A L
+p4: M E N U
+p4: €120
+p4: To accompany your meal, we suggest
+p4: a flight of 3 champagnes (3 x 10 cl) from our selection, priced at €60
+p4: or a flight of 3 wines (3 x 10 cl) from our selection, priced at €50
+p4: TO START
+p4: Maki-style leek terrine, crispy topping and spiced plant-based cream
+p4: or
+p4: Pan-fried scallops, pumpkin velouté and crushed chestnuts
+p4: or
+p4: Warm duck, apricot and pistachio pie with apricot relish
+p4: or
+p4: Toasted sesame and cashew nut-crusted sea bass, thinly sliced,
+p4: broth with ginger and spices, spring onion and smoked tofu
+p4: or
+p4: Loué Label Rouge “64-degree” chicken’s egg,
+p4: Chanterelle cream, almond and walnut
+p4: 10 cl
+p4: CHAMPAGNE
+p4: Taittinger - Prestige rosé
+p4: or Louis Roederer - Collection 246
+p4: or 10 cl
+p4: WINE
+p4: AOP Limoux - Domaine de l'Aigle - Gérard Bertrand - Chardonnay
+p4: or AOP Sancerre - Cuvée du Connétable - Château de Sancerre - Sauvignon blanc
+p4: TO CONTINUE
+p4: Soy and wheat medallion, cocoa crumble
+p4: and confit tomato custard
+p4: or
+p4: Sole dorée on the bone with Isigny AOP butter and crushed potatoes
+p4: or
+p4: Olive oil-confit Label Rouge Scottish salmon, winter vegetables and fried polenta
+p4: or
+p4: Roast beef of French origin, beetroot and raspberry confit,
+p4: potato mille-feuille and seasonal vegetables
+p4: or
+p4: Free-range pork fillet, pork jus, chargrilled chicory confit with black garlic,
+p4: pan-fried spätzle with aromatic herbs
+p4: or
+p4: Rotisserie Label Rouge corn-fed chicken, confit potatoes and gravy
+p4: 10 cl
+p4: CHAMPAGNE
+p4: Taittinger - Folies de la Marquetterie - brut
+p4: or Moët & Chandon - Grand Vintage - extra brut
+p4: or Pierre Mignon - Blanc de noirs - brut
+p4: or
+p4: WINE 10 cl
+p4: AOC Saint-Emilion Grand Cru - Château Capet-Guillier
+p4: or AOC Châteauneuf-du-Pape - L’oratoire des Papes
+p4: or Sommelier's selection
+p4: 22660066__LLAA--TTAABBLLEE--DDEE--LLUUMMIIEERREE__MMEENNUU--66--LLAANNGGUUEESS__119955xx330055__1100--2266..iinndddd 44 2233//1100//22002266 0099::4477
+p5: L A T A B L E
+p5: uk
+p5: D E L U M I È R E
+p5: FOR YOUR PLEASURE
+p5: Assortment of AOP ripened cheeses, grapes and pickles
+p5: or
+p5: Chocolate and hazelnut entremet, rose tuile
+p5: or
+p5: Creamy lemon and thyme entremets
+p5: or
+p5: Selection of sorbets and seasonal fruit
+p5: or
+p5: Plant-based Pavlova with red berries and olive oil sorbet
+p5: 10 cl
+p5: CHAMPAGNE
+p5: Moët & Chandon - Ice Impérial Rosé - demi sec
+p5: or Pierre Mignon - Ratafia de champagne
+p5: or 10 cl
+p5: WINE
+p5: AOC Barsac - Grand vin de Sauternes - Château Coutet - 1er Grand Cru Classé
+p5: or AOC Alsace - Gewurztraminer Vendange Tardive - Famille Hugel
+p5: BIRTHDAY DESSERT1
+p5: Celebrate your Birthday with us.
+p5: Don’t forget to order your birthday dessert before your meal!
+p5: From 2 people €25
+p5: From 6 people €45
+p5: A list of the allergens present in our dishes is available
+p5: upon request with any of our Cast Members; please make a Cast Member
+p5: aware of any allergies you may have
+p5: 1 defrosted product
+p5: Tax included
+p5: 22660066__LLAA--TTAABBLLEE--DDEE--LLUUMMIIEERREE__MMEENNUU--66--LLAANNGGUUEESS__119955xx330055__1100--2266..iinndddd 55 2233//1100//22002266 0099::4477
+p6: M E N Ú
+p6: R E A L
+p6: 120 €
+p6: Para acompañar el menú, sugerimos
+p6: una selección de 3 de champagnes (3 x 10 cl) de nuestra carta por 60€
+p6: o una selección de 3 vinos (3 x 10 cl) de nuestra carta por 50€
+p6: PARA EMPEZAR
+p6: Puerros prensados estilo maki, condimento crujiente y crema vegetal picante
+p6: o
+p6: Vieiras a la sartén, velouté de calabaza y chispas de castañas
+p6: o
+p6: Tarta templada de pato con albaricoque y pistacho, condimento de albaricoque acidulado
+p6: o
+p6: Rodajas de lubina con sésamo tostado y chispas de anacardos, caldo aromatizado
+p6: con jengibre y especias, cebolleta y tofu ahumado
+p6: o
+p6: Huevo de Loué Etiqueta Roja cocido «al punto»,
+p6: crema de rebozuelos, emulsión de almendra y mostaza con nueces
+p6: 10 cl
+p6: CHAMPAGNE
+p6: Taittinger - Prestige rosé
+p6: o Louis Roederer - Collection 246
+p6: o 10 cl
+p6: VINO
+p6: AOP Limoux - Domaine de l'Aigle - Gérard Bertrand - Chardonnay
+p6: o AOP Sancerre - Cuvée du Connétable - Château de Sancerre - Sauvignon blanc
+p6: PARA CONTINUAR
+p6: Medallón de proteínas de trigo y soja, crumble de cacao
+p6: y flan de tomate confitado
+p6: o
+p6: Lenguado dorado sobre su espina con mantequilla de Isigny AOP y puré de patata
+p6: o
+p6: Salmón Etiqueta roja confitado en aceite de oliva, verduras de invierno y polenta frita
+p6: o
+p6: Pieza de vacuno de origen francés asada, confit de remolacha y frambuesas,
+p6: milhojas de patata y verduras de temporada
+p6: o
+p6: Filet mignon de cerdo criado de forma tradicional, jugo de cerdo,
+p6: endivia a la brasa y ajo negro confitado, spätzle salteados con hierbas aromáticas
+p6: o
+p6: Pollo amarillo de corral Etiqueta Roja asado en espetón, patatas confitadas y salsa concentrada
+p6: 10 cl
+p6: CHAMPAGNE
+p6: Taittinger - Folies de la Marquetterie - brut
+p6: o Moët & Chandon - Grand Vintage - extra brut
+p6: o Pierre Mignon - Blanc de noirs - brut
+p6: o
+p6: VINO 10 cl
+p6: AOC Saint-Emilion Grand Cru - Château Capet-Guillier
+p6: o AOC Châteauneuf-du-Pape - L’oratoire des Papes
+p6: o Vino de temporada
+p6: 22660066__LLAA--TTAABBLLEE--DDEE--LLUUMMIIEERREE__MMEENNUU--66--LLAANNGGUUEESS__119955xx330055__1100--2266..iinndddd 66 2233//1100//22002266 0099::4477
+p7: L A T A B L E
+p7: ES
+p7: D E L U M I È R E
+p7: PARA SU DISFRUTE
+p7: Tabla de quesos curados AOP, uvas frescas y encurtidas
+p7: o
+p7: Postre de chocolate y avellana, teja en forma de rosa
+p7: o
+p7: Postre cremoso de tomillo y limón
+p7: o
+p7: Sorbetes y frutas de temporada en texturas
+p7: o
+p7: Pavlova vegetal revisitada con frutos rojos y aceite de oliva
+p7: 10 cl
+p7: CHAMPAGNE
+p7: Moët & Chandon - Ice Impérial Rosé - demi sec
+p7: o Pierre Mignon - Ratafia de champagne
+p7: o 10 cl
+p7: VINO
+p7: AOC Barsac - Grand vin de Sauternes - Château Coutet - 1er Grand Cru Classé
+p7: o AOC Alsacia - Gewurztraminer Vendimia tardía - Familia Hugel
+p7: POSTRE
+p7: DE CUMPLEAÑOS1
+p7: ¡Celebra su Cumpleaños
+p7: con nosotros y pide su postre de cumpleaños
+p7: antes de empezar la comida!
+p7: A partir de 2 personas 25€
+p7: A partir de 6 personas 45€
+p7: Disponemos de una lista con informaciónes
+p7: sobre la presencia de alérgenos en nuestros platos,
+p7: no dude en solicitarla a nuestros Cast Members
+p7: 1 producto descongelado
+p7: Precios netos
+p7: 22660066__LLAA--TTAABBLLEE--DDEE--LLUUMMIIEERREE__MMEENNUU--66--LLAANNGGUUEESS__119955xx330055__1100--2266..iinndddd 77 2233//1100//22002266 0099::4477
+p8: M E N U
+p8: R E A L E
+p8: 120 €
+p8: Per accompagnare il menu, suggeriamo
+p8: una scelta di 3 champagne (3 x 10 cl) all’interno della nostra selezione, al prezzo di 60€
+p8: oppure una scelta di 3 vini (3 x 10 cl) all’interno della nostra selezione, al prezzo di 50€
+p8: PER INIZIARE
+p8: Terrina di porri in stile maki, con accompagnamento croccante e crema vegetale piccante
+p8: o
+p8: Capesante in padella, vellutata di zucca butternut e scaglie di castagne
+p8: o
+p8: Tortino tiepido di anatra all'albicocca e pistacchio, condimento agrodolce alle albicocche
+p8: o
+p8: Filetti di branzino al sesamo torrefatto e anacardi,
+p8: brodo profumato allo zenzero e spezie con cipollotto e tofu affumicato
+p8: o
+p8: Uovo di Loué Label Rouge “parfait” (cotto a bassa temperatura),
+p8: crema di finferli, emulsione di mandorla e senape alle noci
+p8: 10 cl
+p8: CHAMPAGNE
+p8: Taittinger - Prestige rosé
+p8: o Louis Roederer - Collection 246
+p8: o 10 cl
+p8: VINO
+p8: AOP Limoux - Domaine de l'Aigle - Gérard Bertrand - Chardonnay
+p8: o AOP Sancerre - Cuvée du Connétable - Château de Sancerre - Sauvignon blanc
+p8: PER CONTINUARE
+p8: Medaglione alle proteine di grano e soia, crumble al cacao
+p8: e flan di pomodori confit
+p8: o
+p8: Sogliola dorata sulla lisca al burro di Isigny AOP e patate schiacciate
+p8: o
+p8: Salmone Label Rouge confit all'olio d'oliva, verdure invernali e polenta fritta
+p8: o
+p8: Taglio di manzo arrosto origine Francia, barbabietole e lamponi confit,
+p8: millefoglie di patate e verdure di stagione
+p8: o
+p8: Filetto di maiale nostrano, fondo di maiale, indivia grigliata e confit all'aglio nero,
+p8: spätzle saltati alle erbe aromatiche
+p8: o
+p8: Pollo ruspante “Label Rouge” cotto al girarrosto, patate confit e fondo di cottura ristretto
+p8: 10 cl
+p8: CHAMPAGNE
+p8: Taittinger - Folies de la Marquetterie - brut
+p8: o Moët & Chandon - Grand Vintage - extra brut
+p8: o Pierre Mignon - Blanc de noirs - brut
+p8: o
+p8: VINO 10 cl
+p8: AOC Saint-Emilion Grand Cru - Château Capet-Guillier
+p8: o AOC Châteauneuf-du-Pape - L’oratoire des Papes
+p8: o Proposta del Sommelier
+p8: 22660066__LLAA--TTAABBLLEE--DDEE--LLUUMMIIEERREE__MMEENNUU--66--LLAANNGGUUEESS__119955xx330055__1100--2266..iinndddd 88 2233//1100//22002266 0099::4477
+p9: L A T A B L E
+p9: it
+p9: D E L U M I È R E
+p9: PER IL PIACERE
+p9: Assortimento di formaggi AOP stagionati, uva fresca e sottaceti
+p9: o
+p9: Entremet cioccolato-nocciola, cialda artistica
+p9: o
+p9: Entremet cremoso timo limone
+p9: o
+p9: Sorbetti e frutta di stagione
+p9: o
+p9: Pavlova vegetale rivisitata ai frutti di bosco e sorbetto all’olio d’oliva
+p9: 10 cl
+p9: CHAMPAGNE
+p9: Moët & Chandon - Ice Impérial Rosé - demi sec
+p9: o Pierre Mignon - Ratafia de champagne
+p9: o 10 cl
+p9: VINO
+p9: AOC Barsac - Grand vin de Sauternes - Château Coutet - 1er Grand Cru Classé
+p9: o AOC Alsace - Gewurztraminer Vendange Tardive - Famille Hugel
+p9: DOLCE
+p9: DI COMPLEANNO1
+p9: Festeggiate il Compleanno con noi
+p9: e ordinate il dolce di compleanno
+p9: all’inizio del pasto!
+p9: A partire de 2 persone
+p9: 25€
+p9: A partire de 6 persone
+p9: 45€
+p9: Una raccolta di informazioni
+p9: sulla presenza di allergeni nei nostri piatti è a vostra disposizione,
+p9: non esitate a richiederla a uno dei nostri Cast Member
+p9: 1 prodotto scongelato
+p9: Prezzi netti
+p9: 22660066__LLAA--TTAABBLLEE--DDEE--LLUUMMIIEERREE__MMEENNUU--66--LLAANNGGUUEESS__119955xx330055__1100--2266..iinndddd 99 2233//1100//22002266 0099::4477
+p10: D A S M E N Ü
+p10: R O Y A L
+p10: 120 €
+p10: Zu Ihrem Menü empfehlen wir
+p10: Ihnen zum Preis von 60€ eine Auswahl von 3 verschiedenen Champagnersorten (3 x 10 cl)
+p10: oder eine Auswahl von 3 Weinen (3 x 10 cl) zum Preis von 50€
+p10: FÜR DEN ANFANG
+p10: Lauchterrine nach Maki-Art, knusprige und cremige pflanzliche Würzsauce mit Chili
+p10: oder
+p10: Gebratene Jakobsmuscheln, Kürbiscremesuppe mit Kastanienstückchen
+p10: oder
+p10: Lauwarme Entenpastete mit Aprikosen und Pistazien, säuerliche Aprikosensauce
+p10: oder
+p10: Seebarschscheiben mit geröstetem Sesam und Cashewnüssen,
+p10: aromatische Brühe mit Ingwer und Gewürzen, Frühlingszwiebeln und geräucherter Tofu
+p10: oder
+p10: „Perfekt“ gekochtes Label-Rouge-Ei aus Loué,
+p10: Cremige Pfifferlingsuppe, Mandel-Senf-Emulsion mit Walnüssen
+p10: 10 cl
+p10: CHAMPAGNE
+p10: Taittinger - Prestige rosé
+p10: oder Louis Roederer - Collection 246
+p10: oder 10 cl
+p10: WEIN
+p10: AOP Limoux - Domaine de l'Aigle - Gérard Bertrand - Chardonnay
+p10: oder AOP Sancerre - Cuvée du Connétable - Château de Sancerre - Sauvignon blanc
+p10: AUF ZUR NÄCHSTEN RUNDE
+p10: Medaillon aus Weizen- und Sojaprotein, Kakao-Crumble
+p10: und Flan aus confierten Tomaten
+p10: oder
+p10: An der Gräte golden gebratene Seezunge mit Isigny-Butter (g. U.) und Kartoffelstampf
+p10: oder
+p10: Label-Rouge-Lachs, in Olivenöl geschmort, mit Wintergemüse und frittierter Polenta
+p10: oder
+p10: Gegrilltes Rindfleisch aus Frankreich, Rote-Beete-Konfit mit Himbeeren,
+p10: Kartoffel-Millefeuille und Gemüse der Saison
+p10: oder
+p10: Schweinefilet vom Bauernhof, Fleischjus, gegrillter und mit schwarzem Knoblauch geschmorter
+p10: Chicorée, in aromatischen Kräutern gebratene Spätzle
+p10: oder
+p10: Gegrilltes Label-Rouge-Maishähnchen vom Bauernhof, konfierte Kartoffeln und kräftiger Bratensaft
+p10: 10 cl
+p10: CHAMPAGNE
+p10: Taittinger - Folies de la Marquetterie - brut
+p10: oder Moët & Chandon - Grand Vintage - extra brut
+p10: oder Pierre Mignon - Blanc de noirs - brut
+p10: oder
+p10: WEIN 10 cl
+p10: AOC Saint-Emilion Grand Cru - Château Capet-Guillier
+p10: oder AOC Châteauneuf-du-Pape - L’oratoire des Papes
+p10: oder Wein des Tages
+p10: 22660066__LLAA--TTAABBLLEE--DDEE--LLUUMMIIEERREE__MMEENNUU--66--LLAANNGGUUEESS__119955xx330055__1100--2266..iinndddd 1100 2233//1100//22002266 0099::4477
+p11: L A T A B L E
+p11: de
+p11: D E L U M I È R E
+p11: ZUM GUTEN SCHLUSS
+p11: Auswahl gereifter Käsesorten (AOP), frische und eingelegte Weintrauben
+p11: oder
+p11: Schokoladen-Haselnuss-Dessert, rosa Tuile
+p11: oder
+p11: Cremiges Dessert mit Thymian und Zitrone
+p11: oder
+p11: Sorbets und Obstvariationen
+p11: oder
+p11: Neu interpretierte pflanzliche Pavlova mit roten Beeren und Olivenölsorbet
+p11: 10 cl
+p11: CHAMPAGNE
+p11: Moët & Chandon - Ice Impérial Rosé - demi sec
+p11: oder Pierre Mignon - Ratafia de champagne
+p11: oder 10 cl
+p11: WEIN
+p11: AOC Barsac - Grand vin de Sauternes - Château Coutet - 1er Grand Cru Classé
+p11: oder AOC Elsass - Gewürztraminer Vendange Tardive - Familie Hugel
+p11: GEBURTSTAGS-DESSERT1
+p11: Feiern Sie bei uns Ihren Geburtstag und bestellen Sie zu
+p11: Beginn Ihres Besuchs eine köstliche Nachspeise!
+p11: Für mindestens 2 personen 25€
+p11: Für mindestens 6 personen 45€
+p11: Unsere Mitarbeiter halten eine Aufstellung aller in unseren
+p11: Gerichten vorhandenen Allergene auf Anfrage für Sie bereit
+p11: 1 aufgetautes produkt
+p11: Netto-Preise
+p11: 22660066__LLAA--TTAABBLLEE--DDEE--LLUUMMIIEERREE__MMEENNUU--66--LLAANNGGUUEESS__119955xx330055__1100--2266..iinndddd 1111 2233//1100//22002266 0099::4477
+p12: H E T K O N I N K L I J K E
+p12: M E N U
+p12: 120 €
+p12: Voor een perfecte match met je menu, kun je genieten
+p12: van 3 champagnes (3 x 10 cl) naar keuze uit onze selectie, voor 60€
+p12: of 3 wijnen (3 x 10 cl) naar keuze uit onze selectie, voor 50€
+p12: OM TE BEGINNEN
+p12: Geperste prei op suhsirol-wijze, een knapperig condiment en een pittige plantaardige crèmesaus
+p12: of
+p12: Gebakken sint-jakobsschelpen, pompoencrèmesoep en stukjes kastanje
+p12: of
+p12: Lauwwarme eendentaart met abrikoos en pistache, vergezeld van een lichtzure abrikozensaus
+p12: of
+p12: lakjes zeebaars met geroosterde sesam en cashewnoten, bouillon met gember en kruiden,
+p12: lente-uitjes en gerookte tofu
+p12: of
+p12: Gepocheerd ei (Label Rouge), cantharellencrèmesoep,
+p12: amandel-mosterdemulsie met walnoten
+p12: 10 cl
+p12: CHAMPAGNE
+p12: Taittinger - Prestige rosé
+p12: of Louis Roederer - Collection 246
+p12: of 10 cl
+p12: WIJN
+p12: AOP Limoux - Domaine de l'Aigle - Gérard Bertrand - Chardonnay
+p12: of AOP Sancerre - Cuvée du Connétable - Château de Sancerre - Sauvignon blanc
+p12: HET VERVOLG
+p12: Medaillon met tarwe- en soja-eiwitten, cacaocrumble
+p12: en flan van gekonfijte tomaat
+p12: of
+p12: Op de graat gebakken tong met AOP-boter uit Isigny en aardappelpuree
+p12: of
+p12: Label Rouge-zalm gekonfijt in olijfolie, met wintergroenten en gebakken polenta
+p12: of
+p12: Gebraden rundvlees van Franse oorsprong, gekonfijte rode bieten en frambozen,
+p12: aardappelmillefeuille en seizoensgroenten
+p12: of
+p12: Varkenshaas van de boerderij, varkensjus, gegrilde en met zwarte knoflook gekonfijte witlof,
+p12: gebakken spätzle met kruiden aromatische kruiden
+p12: of
+p12: Gele boerderijkip (Label Rouge), bereid in de braadpan, met gekonfijte aardappelen en een krachtige jus
+p12: 10 cl
+p12: CHAMPAGNE
+p12: Taittinger - Folies de la Marquetterie - brut
+p12: of Moët & Chandon - Grand Vintage - extra brut
+p12: of Pierre Mignon - Blanc de noirs - brut
+p12: of
+p12: WIJN 10 cl
+p12: AOC Saint-Emilion Grand Cru - Château Capet-Guillier
+p12: of AOC Châteauneuf-du-Pape - L’oratoire des Papes
+p12: of Wijn van het moment
+p12: 22660066__LLAA--TTAABBLLEE--DDEE--LLUUMMIIEERREE__MMEENNUU--66--LLAANNGGUUEESS__119955xx330055__1100--2266..iinndddd 1122 2233//1100//22002266 0099::4477
+p13: L A T A B L E
+p13: nl
+p13: D E L U M I È R E
+p13: DE PERFECTE AFSLUITING
+p13: Selectie van gerijpte AOP-kazen, verse en ingelegde druiven
+p13: of
+p13: Chocolade-hazelnootdessert, roze tuile
+p13: of
+p13: Romig dessert met citroentijm
+p13: of
+p13: Sorbets en fruitvariaties
+p13: of
+p13: Exclusieve plantaardige pavlova met rode vruchten en sorbet van olijfolie
+p13: 10 cl
+p13: CHAMPAGNE
+p13: Moët & Chandon - Ice Impérial Rosé - demi sec
+p13: of Pierre Mignon - Ratafia de champagne
+p13: of 10 cl
+p13: WIJN
+p13: AOC Barsac - Grand vin de Sauternes - Château Coutet - 1er Grand Cru Classé
+p13: of AOC Alsace - Gewurztraminer Vendange Tardive - Famille Hugel
+p13: VERJAARDAGSDESSERT1
+p13: Vier samen met ons uw verjaardag
+p13: en bestel aan het begin van de maaltijd uw verjaardagsdessert!
+p13: Vanaf 2 personen 25€
+p13: Vanaf 6 personen 45€
+p13: Voor gasten met een allergie is informatie beschikbaar over de allergenen
+p13: in onze gerechten. Aarzel niet om hiernaar te vragen bij een van onze Cast Member
+p13: 1 ontdooid product
+p13: Prijzen Inclusief btw
+p13: 22660066__LLAA--TTAABBLLEE--DDEE--LLUUMMIIEERREE__MMEENNUU--66--LLAANNGGUUEESS__119955xx330055__1100--2266..iinndddd 1133 2233//1100//22002266 0099::4477
+p14: 62/01
+p14: -
+p14: yensiD©
+p14: 22660066__LLAA--TTAABBLLEE--DDEE--LLUUMMIIEERREE__MMEENNUU--66--LLAANNGGUUEESS__119955xx330055__1100--2266..iinndddd 1144 2233//1100//22002266 0099::4477
+p15: 22660066__LLAA--TTAABBLLEE--DDEE--LLUUMMIIEERREE__MMEENNUU--66--LLAANNGGUUEESS__119955xx330055__1100--2266..iinndddd 1155 2233//1100//22002266 0099::4477
+p16: 22660066__LLAA--TTAABBLLEE--DDEE--LLUUMMIIEERREE__MMEENNUU--66--LLAANNGGUUEESS__119955xx330055__1100--2266..iinndddd 1166 2233//1100//22002266 0099::4477
