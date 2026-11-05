@@ -11,49 +11,35 @@ p1: avec sauce ketchup ou mayonnaise 8€
 p1: Crispy chicken bites
 p1: Heinz®
 p1: with ketchup or mayonnaise sauce
-p1: Chips Lay’s® nature ou saveur barbecue 3,8€
+p1: Chips Lay’s® 33,,88€€
 p1: 45g
-p1: Plain or BBQ crisps
-p1: Pause Gourmande
-p1: 8€
-p1: SWEET BREAK
-p1: Gâteau Fantômignon1
-p1: Brownie et ganache au chocolat
-p1: Le Brownie de Minuit1
-p1: Little Ghostie1
-p1: et boisson chaude ou fraîche Chocolate ganache fi lled brownie
-p1: 5,5€
-p1: Phantom Clock Brownie1
-p1: and a hot or a cold drink
-p1: Le Brownie de Minuit1
-p1: Brownie et ganache au chocolat
-p1: Phantom Clock Brownie1
-p1: SSSSeeeeaaaauuuu MMMMiiiicccckkkkeeeeyyyy HHHHaaaalllllllloooowwwweeeeeeeennnn
-p1: Chocolate ganache fi lled
-p1: avec pop-corn sucré
-p1: 5,5€
-p1: Bucket
-p1: with sweet popcorn
-p1: 26€
-p1: dont éco-participation
+p1: Crisps
+p1: MICKEY CHOU DE NOËL1 DDOONNUUTT PPLLUUTTOO SSOOUUSS LLEE SSAAPPIINN1
+p1: MICKEY CHRISTMAS TREAT1 PPLLUUTTOO UUNNDDEERR
+p1: TTHHEE CCHHRRIISSTTMMAASS TTRREEEE DDOOUUGGHHNNUUTT1
+p1: Chou craquelin au chocolat
+p1: DDoouugghhnnuutt ffoouurrrréé ccaaccaaoo aavveecc ggllaaççaaggee
+p1: Chocolate craquelin choux
+p1: CChhooccoollaatt--fifi lllleedd ddoouugghhnnuutt wwiitthh iicciinngg
+p1: 7€
+p1: 55€
 p1: Frites fraîches
 p1: 5,3€
-p1: aavveecc ssaauuccee kkeettcchhuupp
-p1: PPiineapple whip 6€ 6
+p1: avec sauce ketchup
+p1: 6
 p1: 2
-p1: oouu mmaayyoonnnnaaiissee 9/
-p1: 0
-p1: SSaavveeuurr aannaannaass -
-p1: ey
-p1: oouu mmoouuttaarrddee
-p1: n
+p1: 1/
+p1: 1
+p1: ou mayonnaise ey -
+p1: Pineappppllee wwhhiipp 66€€ n
 p1: Dis
-p1: PPiinneeaappppllee flfl aavvoouurr
 p1: ©
-p1: FFrreesshh FFrriieess
-p1: wwiitthh HHeeiinnzz®ketchup
+p1: Saveur ananas Fresh Fries
+p1: PPiinneeaappppllee flfl aavvoouurr
+p1: with Heinz® kkeettcchhuupp
 p1: or mayonnaise
-p1: or mustard sauce
+p1: sauce
 p1: Prix net - 1 produit décongelé - Photos non contractuelles
-p1: Tax included - 1 defrosted product - Presentation photos are non-binding
-p1: 00000055__CCaaffee--ddee--llaa--BBrroouussssee__SSuucceettttee BBaass__337700xx554455..iinndddd 11 1188//0099//22002266 1166::4466
+p1: Tax included - 1 defrosted product
+p1: Presentation photos are non-binding
+p1: 00000066__CCaaffee--ddee--llaa--BBrroouussssee__SSuucceettttee BBaass__337700xx554455..iinndddd 11 2288//1100//22002266 1166::4444

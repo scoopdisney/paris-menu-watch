@@ -1,82 +1,106 @@
-p1: LA MÉCHANTE DOUCEUR1
-p1: pause gourmande €
-p1: 8
-p1: Donut fourré fraise
-p1: THE QUEEN’S GLAZE1
-p1: sweet break
-p1: Strawberry filled donut
-p1: 4,5€
-p1: La Méchante Douceur1
-p1: ou
-p1: ou/or
-p1: Donut Dingo Farceur
-p1: et boisson chaude2 ou fraîche3
-p1: DONUT DINGO FARCEUR1
-p1: the queen’s glaze1 Donut fourré cacao
-p1: GOOFY MUMMY1
-p1: ou
-p1: Cocoa filled donut
-p1: goofy mummy doughnut1
-p1: 4,5€
-p1: and a hot2 or a cold drink3
-p1: Cheetos® Original Pizza Gondole1 Cookie vegan1
-p1: Pide pizza1 Pépites de chocolat et noisette
+p1: MICKEY DES FÊTES1 PAIN D’ÉPICES NOËL TOURBILLONNANT LA LETTRE AU PÈRE NOËL1
+p1: DONALD DE MICKEY1
+p1: MICKEY MERRY CUPCAKE1 LETTER TO SANTA1
+p1: DONALD MICKEY’S CHRISTMAS
+p1: Cupcake façon red velvet, Brownie, ganache montée
+p1: GINGERBREAD SWIRL1
+p1: au chocolat blanc
+p1: crème au beurre
+p1: 6€
+p1: Roulé à la cannelle
+p1: et caramel au beurre salé
+p1: Red velvet-style
+p1: Cinnamon roll
+p1: cupcake with buttercream Brownie, whipped white chocolate
+p1: 6€
+p1: 5€ ganache and salted butter caramel
+p1: 6,5€
+p1: lliM
+p1: dlO
+p1: -
+p1: gnidnib-non
+p1: era
+p1: sotohp
+p1: Cheetos® Original Pizza Gondole1 Pom’Potes® Bio Pomme
+p1: noitatneserP
+p1: Pide pizza1
+p1: (sans sucres ajoutés)
 p1: Goût Fromage
-p1: Cheese Jambon et mozzarella ou 4 fromages Chocolate chunks and hazelnut
-p1: Ham and mozzarella or 4-Cheese 3,5€
-p1: 27g 3,3€
-p1: 7€
-p1: Magnum® Amande Twister® Frrreeze Cornetto® Soft Glace Mickey
-p1: Amande / Almond Parfums framboise, Vanille & parfum Fraise
-p1: Mickey Ice Cream Bar
-p1: orange et pêche Vanilla & strawberry flavour Saveur Vanille
-p1: 4€
-p1: Raspberry, orange
-p1: Vanilla Flavour
-p1: 4,3€
-p1: and peach flavours
-p1: 4,5€
-p1: 3,5€
-p1: Prix nets - 1 produit décongelé - 2 excepté Espresso - 3 excepté granité - Nous n’acceptons pas les coupures au-delà de 50€
-p1: Tax included - 1 defrosted product - 2 except Espresso - 3 except slush - We do not accept notes over €50
-p2: NOTRE GAMME DE SOUVENIR
-p2: OUR SOUVENIR GAMME
-p2: Seau Carrosse de Cendrillon
-p2: Cinderella carriage bucket
-p2: 16€ avec pop-corn sucré
-p2: with sweet popcorn
-p2: Gobelet Stitch Mug
-p2: Tumbler
-p2: avec une
-p2: 17€
-p2: avec une boisson chaude
-p2: 18€
-p2: with a hot drink
-p2: boisson fraîche
-p2: with a cold drink
+p1: Cheese Jambon et mozzarella ou 4 fromages Pom’Potes® organic
+p1: Ham and mozzarella or 4-cheese apple puree
+p1: -
+p1: 3,3€ selleutcartnoc
+p1: 27g
+p1: 7€ (no added sugar)
+p1: 2,3€
+p1: non
+p1: sotohP
+p1: BOISSONS CHAUDES
+p1: Hot Drinks
+p1: -
+p1: 62/11
+p1: Espresso 100% Arabica.............................................3,3€
+p1: -
+p1: yensiD©
+p1: Café 100% Arabica / Coffee ...............................3,5€
+p1: Double Espresso 100% Arabica........................3,8€
+p1: Café au lait / Coffee with milk .........................4€
+p1: Cappuccino ...........................................................................4€
+p1: Chocolat chaud / Hot chocolate ...................4,2€
+p1: 50cl 50cl 50cl
+p1: Thé, infusion / Tea, herbal tea...........................3,5€ 4,2€ 3,5€ 3,8€
+p1: Prix nets - 1 produit décongelé - Nous n’acceptons pas les coupures au-delà de 50€
+p1: Tax included - 1 defrosted product - We do not accept notes over €50
+p2: MICKEY DES FÊTES1 PAIN D’ÉPICES NOËL TOURBILLONNANT LA LETTRE AU PÈRE NOËL1
+p2: DONALD DE MICKEY1
+p2: MICKEY MERRY CUPCAKE1 LETTER TO SANTA1
+p2: DONALD MICKEY’S CHRISTMAS
+p2: Cupcake façon red velvet, Brownie, ganache montée
+p2: GINGERBREAD SWIRL1
+p2: au chocolat blanc
+p2: crème au beurre
+p2: 6€
+p2: Roulé à la cannelle
+p2: et caramel au beurre salé
+p2: Red velvet-style
+p2: Cinnamon roll
+p2: cupcake with buttercream Brownie, whipped white chocolate
+p2: 6€
+p2: 5€ ganache and salted butter caramel
+p2: 6,5€
 p2: lliM
 p2: dlO
 p2: -
 p2: gnidnib-non
-p2: Paille Mickey Paille granité Stitch era
+p2: era
 p2: sotohp
-p2: ou Minnie Slush straw
-p2: Straw noitatneserP
-p2: avec un granité
-p2: 7€
-p2: with a slush
-p2: avec une
-p2: 7€
-p2: boisson chaude /
-p2: selleutcartnoc
-p2: with a hot drink Changement de couleur
-p2: au contact du granité
-p2: Colour changing with slush
+p2: Cheetos® Original Pizza Gondole1 Pom’Potes® Bio Pomme
+p2: noitatneserP
+p2: Pide pizza1
+p2: (sans sucres ajoutés)
+p2: Goût Fromage
+p2: Cheese Jambon et mozzarella ou 4 fromages Pom’Potes® organic
+p2: Ham and mozzarella or 4-cheese apple puree
+p2: -
+p2: 3,3€ selleutcartnoc
+p2: 27g
+p2: 7€ (no added sugar)
+p2: 2,3€
 p2: non
 p2: sotohP
+p2: BOISSONS CHAUDES
+p2: Hot Drinks
 p2: -
-p2: 62/90
+p2: 62/11
+p2: Espresso 100% Arabica.............................................3,3€
 p2: -
 p2: yensiD©
-p2: Prix nets - Nous n’acceptons pas les coupures au-delà de 50€
-p2: Tax included - We do not accept notes over €50
+p2: Café 100% Arabica / Coffee ...............................3,5€
+p2: Double Espresso 100% Arabica........................3,8€
+p2: Café au lait / Coffee with milk .........................4€
+p2: Cappuccino ...........................................................................4€
+p2: Chocolat chaud / Hot chocolate ...................4,2€
+p2: 50cl 50cl 50cl
+p2: Thé, infusion / Tea, herbal tea...........................3,5€ 4,2€ 3,5€ 3,8€
+p2: Prix nets - 1 produit décongelé - Nous n’acceptons pas les coupures au-delà de 50€
+p2: Tax included - 1 defrosted product - We do not accept notes over €50

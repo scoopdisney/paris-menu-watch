@@ -1,115 +1,60 @@
 p1: NOS SPÉCIALITÉS GOURMANDES
 p1: OUR SPECIALITY TREATS
-p1: DOUCEURS SUCRÉES
-p1: 7€
-p1: PAUSE GOÛTER
-p1: SWEET TREATS
-p1: SWEET BREAK
-p1: CROISSANT1 ___________________________________ 2,3€
-p1: PRESIDIO MUFFIN
-p1: CHOCOLAT1
-p1: PAIN AU ________________________ 2,3€
-p1: Pépites de chocolat noir
-p1: et boisson chaude ou fraîche
-p1: Dark chocolate chunks BOISSONS CHAUDES
-p1: and a hot or a cold drink
-p1: HOT DRINKS
-p1: ESPRESSO 100% ARABICA __________________3,3€
-p1: GOURMANDISES SALÉES AU KIRI®
-p1: KIRI® SAVOURY TREATS CAFÉ 100% ARABICA Coffee ________________3,5€
-p1: DOUBLE ESPRESSO 100% ARABICA _____3,8€
-p1: CAFÉ AU LAIT Coffee with milk ____________4€
-p1: FOCACCIA1 _____________________ 8€
-p1: CAPPUCCINO __________________________________4€
-p1: Dinde et
-p1: Turkey and Kiri® cheese CHOCOLAT CHAUD Hot chocolate ________4,2€
-p1: THÉ, INFUSION Tea, herbal tea _____________3,5€
-p1: SANDWICH MICKEY1 _________ 10,5€
-p1: Pain bretzel, jambon,
-p1: emmental et
-p1: BOISSONS FRAÎCHES
-p1: Pretzel bread, ham,
-p1: COLD DRINKS
-p1: emmental cheese and Kiri®
+p1: DOUCEURS SUCRÉES AU KIRI® GOURMANDISES SALÉES AU KIRI®
+p1: KIRI® SWEET TREATS KIRI® SAVOURY TREATS
+p1: FOCACCIA1 dinde et _______________________ 8€
+p1: 5,5€
+p1: NOËL ÉTERNEL DE MICKEY Turkey and Kiri® cheese focaccia1
+p1: MICKEY’S SANTA SURPRISE
+p1: SANDWICH MICKEY1 _________________________ 10,5€
+p1: Sablé breton cacao, mousse bavaroise
+p1: Pain bretzel, jambon, emmental et
+p1: au , insert amarena et guimauve
+p1: Pretzel bread, ham, emmental cheese and Kiri®
+p1: Cocoa Breton shortbread, Kiri® Bavarian mousse,
+p1: amarena cherry insert and marshmallow
 p1: SANDWICH MICKEY
-p1: AUX LÉGUMES
-p1: ET FROMAGE ____________ 10,5€
-p1: Pain bretzel, légumes marinés,
-p1: 50 cl
-p1: emmental et
-p1: 4,2€
-p1: Pretzel bread, marinated shredded
-p1: vegetables, emmental cheese
-p1: JJUUSS
-p1: DD''OORRAANNGGEE
-p1: and Kiri®
-p1: ORANGE
-p1: JUICE
-p1: DOUCEURS SUCRÉES AU KIRI®
-p1: JJUUSS
-p1: DDEE PPOOMMMMEE
-p1: 23,5 cl 50 cl 50 cl
-p1: APPLE
-p1: KIRI® SWEET TREATS
-p1: 3,8€ 3,5€ 3,8€
-p1: JUICE
-p1: LAIT DEMI-ÉCRÉMÉ _____________________ 2,5€
-p1: 20 cl
-p1: Semi-skimmed milk
-p1: Délice Mouss’térieux 5,5
-p1: €
-p1: Mystery Mousse Treat
-p1: BIÈRE / BEER
-p1: Sablé breton, insert confit
-p1: de grenade, mousse
-p1: Breton shortbread with
-p1: 1664®
-p1: PREMIUM ___________________________ 6,3€
-p1: 33 cl
-p1: a pomegranate confit filling,
-p1: Kiri® mousse
-p1: SOUVENIRS
-p1: PRESIDIO MUFFIN ____________ 4,3€
-p1: PAILLE MICKEY OU MINNIE / Straw ______6€
+p1: AUX LÉGUMES ET FROMAGE ________ 10,5€
+p1: Pain bretzel, légumes marinés, emmental et
+p1: PRESIDIO MUFFIN _______________4,3€
+p1: Pretzel bread, marinated shredded vegetables,
 p1: aux pépites de chocolat noir
-p1: AVEC BOISSON FRAÎCHE __________________7€
+p1: emmental cheese and Kiri®
 p1: with dark chocolate chunks
-p1: with a cold drink
-p1: gnidnib-non
-p1: CABLE CAR
-p1: GOBELET / Tumbler __________________________15€
-p1: CAKE1
-p1: CARROT ________________ 4,3€
-p1: AVEC BOISSON FRAÎCHE __________________17€
-p1: era
-p1: sotohp
-p1: with a cold drink
-p1: MARKET ST. CUPCAKE ______ 5,5€
-p1: noitatneserP
-p1: MUG _____________________________________________ 15€
+p1: CABLE CAR CARROT CAKE1 ____4,3€
+p1: MARKET ST. CUPCAKE _________5,5€
+p1: PAUSE GOÛTER 7€
 p1: Cupcake parfum vanille, insert
-p1: AVEC BOISSON CHAUDE ___________________17€
+p1: SWEET BREAK
 p1: au café, crémeux au , crumble
-p1: /
-p1: with a hot drink
 p1: au café et poudre de cacao
-p1: selleutcartnoc
-p1: Vanilla flavour cupcake with a coffee
-p1: Kiri®
-p1: insert, cream, coffee crumble
-p1: non
+p1: Vanilla flavour cupcake with a coffee PRESIDIO MUFFIN
+p1: insert, Kiri® cream, coffee crumble
+p1: Pépites de chocolat noir gnidnib-non
 p1: and cocoa powder
-p1: Eau potable à votre disposition / Drinking water available
-p1: sotohP
-p1: -
-p1: Un recueil d’informations sur la présence d’allergènes dans nos plats
-p1: 62/90
+p1: et boisson chaude ou fraîche
+p1: Dark chocolate chunks
+p1: era
 p1: GOLDEN GATE
-p1: est disponible, n’hésitez pas à vous signaler et à le demander à l’un
+p1: and a hot or a cold drink sotohp
+p1: CHEESECAKE1 ____________________6€
+p1: noitatneserP
+p1: DOUCEURS SUCRÉES
+p1: /
+p1: selleutcartnoc
+p1: SWEET TREATS Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible,
+p1: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p1: A list of the allergens present in our dishes is available upon request with any of our Cast
+p1: Members; please make a Cast Member aware of any allergies you may have
+p1: non
+p1: CROISSANT1 _____________________________________ 2,3€ Prix nets / Tax included
+p1: sotohP
+p1: Veggie = végétarien
+p1: 1 produit décongelé / defrosted product
+p1: CHOCOLAT1
+p1: PAIN AU __________________________ 2,3€
+p1: Eau potable à votre disposition / Drinking water available
 p1: -
-p1: CHEESECAKE1 ________________ 6€
-p1: de nos Cast Members
+p1: 62/11
+p1: -
 p1: yensiD©
-p1: A list of the allergens present in our dishes is available
-p1: Prix nets / Tax included / Veggie = végétarien upon request with any of our Cast Members; please make
-p1: 1 produit décongelé / defrosted product a Cast Member aware of any allergies you may have

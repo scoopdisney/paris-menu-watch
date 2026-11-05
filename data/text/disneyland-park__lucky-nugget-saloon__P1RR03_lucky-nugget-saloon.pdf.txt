@@ -1,198 +1,213 @@
-p1: avec Boisson fraîche ou Eau minérale
-p1: 33 cl 50 cl
-p1: Menu 30€
-p1: +4€ with a Cold drink or Mineral water
-p1: 33 cl 50 cl
-p1: Le steack
-p1: se double
-p1: comme par magie
-p1: The steack doubles
-p1: as if by magic
-p1: Burger Spectral Spécialité Funeste Roulé Hanté
-p1: ou ou
-p1: Steak haché de bœuf, bacon, tranche Aiguillettes de poulet croustillantes, Effiloché de porc aux oignons confits,
-p1: de brie, sauce au brie, pickles de chou sauce noire au cheddar sauce noire au cheddar, pico de gallo,
-p1: et concombre, roquette et bun noir. et sauce sweet chilli. pickles de maïs et ketchup fumé.
-p1: Servi avec frites ondulées
-p1: Servi avec frites ondulées Servi avec frites ondulées
-p1: ou salade fraîcheur
-p1: ou salade fraîcheur ou salade fraîcheur
-p1: Spectral Burger Grim Delight Haunted Hog Roll
-p1: or or
-p1: Pulled pork with caramelised onions,
-p1: Beef, bacon, a slice of Brie cheese, Crispy chicken strips, black cheddar
-p1: black cheddar sauce, pico de gallo,
-p1: Brie cheese sauce, pickled cabbage sauce and sweet chilli sauce.
-p1: pickled sweetcorn and smoky ketchup.
-p1: and cucumber, rocket and a black bun. Served with crinkle-cut fries
-p1: Served with crinkle-cut fries
-p1: Served with crinkle-cut fries or a side salad
-p1: or a side salad
-p1: or a side salad
+p1: Menu
+p1: Avec Boisson
+p1: fraîche 33
+p1: cl
+p1: ou Eau minérale
+p1: 28€ 50 cl
+p1: With
+p1: a cold drink 33
+p1: cl
+p1: or Mineral water
+p1: 50 cl
+p1: ou / or ou / or
+p1: Poulet croustillant Burger de l’Ouest
+p1: Travers de porc
+p1: du Lucky Nugget
+p1: Pain au poivre, steak haché de bœuf, sauce barbecue
+p1: avec sauce barbecue, beignets d’oignons
+p1: fumée, cheddar au poivre, tomate, bacon, roquette
+p1: avec sauce sweet-chili
+p1: Pork spare ribs with barbecue sauce, onions rings
+p1: Lucky Nugget’s crispy chicken Pepper Rush Burger : Pepper bread, beef steak, smoked barbecue
+p1: et Salade fraîcheur ou Frites
+p1: with sweet-chilli sauce sauce, pepper cheddar cheese, tomato, bacon, rocket salad
+p1: Side salad or Fries
+p1: et Salade fraîcheur ou Frites
+p1: et Salade fraîcheur ou Frites
+p1: Side salad or Fries
+p1: Side salad or Fries
 p1: avec / with
-p1: ou Le Chant Craquant de la Crypte
-p1: Chou craquelin noir,
-p1: Gâteau des Tristes Noces 1 ou L’Apparition Glacée ou Douceur
-p1: ganache montée au sésame noir
-p1: Génoise, mousses à la fraise Glace parfum cassis, des Noces Sombres et confit de passion
-p1: et à la vanille, glaçage brisures de biscuit cacaotés
-p1: Fruits rouges, grenade
-p1: au fromage frais or Singing Cream
-p1: et nappage aux myrtilles et raisin, coulis, écume
-p1: et au beurre
-p1: citron vert-menthe Black craquelin choux,
-p1: whipped black sesame ganache
-p1: Happily Never After Cake1 or Cold Soul Sundae or Scary Berry Bowl and passion fruit confit
-p1: Sponge cake, strawberry Blackcurrant-flavoured Mixed berries,
-p1: +2€
-p1: and vanilla mousses, ice cream, cocoa biscuit pomegranate and grape,
-p1: cream cheese and butter icing pieces and blueberry coulis, lime
-p1: topping and mint foam
-p1: Offre valable de 15h à 17h30
-p1: Available from 3pm to 5:30pm
-p1: Pause gourmande12€
-p1: Sweet Break
-p1: Dessert avec boisson fraîche 33 cl ou chaude
-p1: Dessert with a cold drink 33 cl or a hot drink
-p1: Remplacez gnidnib-non
-p1: Menu votre boisson
-p1: +3€ par un cocktail
-p1: Swap your drink
-p1: Jardin Nuptial
-p1: for a cocktail era
-p1: Falafels, haricots, pois cassés, lentilles, riz noir vénéré,
-p1: sotohp
-p1: sauce au tofu soyeux et pico de gallo
+p1: Sundae parfum vanille Salade de fruits
+p1: avec sauce caramel, pépites d’amandes et de noisettes caramélisées à l’orange sanguine
+p1: ou / or
+p1: ou sauce chocolat ou sauce fruits rouges
+p1: Fruit salad with blood orange
+p1: Vanilla-Flavoured sundae with caramel sauce, caramelised almonds and hazelnuts chuncks
+p1: or chocolate sauce or red berry sauce
+p1: 32€
+p1: les saveurs Menu Double Burger de l’Ouest
+p1: Doublez
+p1: menu
+p1: avec le ddoouubbllee sstteeaakk hhaacchhéé ddee bbœœuuff,, ddoouubbllee cchheeddddaarr aauu ppooiivvrree eett ddoouubbllee bbaaccoonn
+p1: avour
+p1: Double the fl Double pepper rush burger menu
+p1: menu
+p1: with the double beef steak, double pepper cheddar cheese and double bacon
+p1: 16€
+p1: 28€ Menu Enfant
+p1: Menu Vegan
+p1: Kids’ Menu
+p1: Pour enfants âgés de 3 à 11 ans
+p1: For children ages 3 to 11
+p1: Poulet Poulet croustillant croustillant du du Lucky Lucky Nugget Nugget et et sauce sauce barbecue barbecue
+p1: ou Cheeseburger, sauce fromagère à La Vache qui rit®
+p1: Frites ou Tomates cerise
+p1: Pom’Potes® Bio Pomme (sans sucres ajoutés)
+p1: CCaassssoolleettttee vvééggééttaallee ou Kids’ Sundae ou Yaourt à boire sucré aromatisé
+p1: gnidniB-noN
+p1: Vittel®33 clou Jus d’orange ou de pomme clou Lait
+p1: Ragoût de haricots, fèves, butternut et pommes de terre violettes, 25 20 cl
+p1: boulettes végétales panées aux flocons d’avoine Autre boisson fraîche 25 cl sur demande et en remplacement du produit proposé
+p1: era
+p1: et graines de courge, sauce tomatée
+p1: Lucky Nugget’s crispy chicken with barbecue sotohP
+p1: Cheeseburger with The Laughing Cow® cheese sauce
+p1: Mousse chocolat-amandes or
 p1: noitatneserP
-p1: avec Compote du Jardin Hanté
-p1: Compotée de myrtilles, crémeux de patates douces violettes
-p1: et coco, riz soufflé au beurre de cacao et amandes,
-p1: graines de courges caramélisées /
-p1: selleutcartnoc
-p1: Love at First Fright
-p1: Falafels, beans, split peas, lentils, Venere black rice,
-p1: silken tofu sauce and pico de gallo
+p1: Fries Cherry tomatoes
+p1: et brisures de cookie choco-noisettes or
+p1: Pom’Potes® organic apple puree
+p1: (no added sugar)
+p1: Boisson fraîche ou Eau minérale /
+p1: 33 cl 50 cl Kids’ Sundae Sweet drinking yoghurt selleutcartnoc
+p1: or or
+p1: Vittel®33 Orange or apple juice Milk
+p1: Veggie cassolette clor 25 clor 20 cl
+p1: Other cold drink may replace similar item on request
+p1: Beans, beans, butternut and purple potatoes stew, vegetable dumplings breaded 25 cl
 p1: non
-p1: with Haunted Garden Compote sotohP
-p1: Blueberry compote, purple sweet potato and coconut
-p1: cream, puffed rice with cocoa butter and almonds, -
-p1: 62/90
-p1: and caramelised pumpkin seeds
-p1: -
-p1: yensiD©
-p1: (1) produit décongelé / defrosted product - Prix nets / Tax included
-p1: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
-p1: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have
-p2: 16€
-p2: Menu Enfant
-p2: Kids’ Menu
-p2: Pour enfants âgés de 3 à 11 ans For children ages 3 to 11
-p2: Burger le Facétieux The Playful Spoon Burger
-p2: Steak haché de bœuf , bacon, Doritos®, Beef, bacon, Doritos®, Emmental,
-p2: emmental, ketchup fumé et bun violet smoky ketchup and a purple bun
-p2: ou Repas des Petits Esprits or Lil’ Spoons’ Supper
-p2: Aiguillettes de poulet croustillantes, Crispy chicken strips, black cheddar sauce,
-p2: sauce noire au cheddar et ketchup fumé and smoked ketchup
-p2: Frites ondulées ou Tomates cerise Crinkle-cut fries or Cherry tomatoes
-p2: Petite Âme Givrée Cold Feet Sundae
-p2: Glace parfum cassis, brisures de biscuit cacaoté
-p2: Blackcurrant-flavoured ice cream, cocoa biscuit pieces
-p2: et nappage aux myrtilles
-p2: and blueberry topping
-p2: Treat1
-p2: ou L’Heure du Délice1 or Time for a
-p2: Éclair fourrage goût cacao
-p2: Cocoa-flavoured filled éclair
-p2: ou Yaourt à boire sucré aromatisé
-p2: or Flavoured sweet drinking yoghurt
-p2: ou Pom’Potes® Bio Pomme (sans sucres ajoutés)
-p2: or Pom’Potes® organic apple puree (no added sugar)
-p2: Jus de pomme ou jus d’orange Apple or orange juice
-p2: 25 cl 25 cl
-p2: ou lait ou Vittel® or milk or Vittel®
-p2: 20 cl 33 cl 20 cl 33 cl
-p2: Autre boisson fraîche 25 cl sur demande et en remplacement du produit proposé Other cold drink 25 cl may replace similar item on request
-p2: Le Souffle du Fantôme Bières /
-p2: Beers
-p2: The Ghost’s Breath 9,5€
-p2: ............................................................21 cl
-p2: Pression / Draught 25 cl 50 cl
-p2: Sur une base saveur mojito, Perrier®, guimauve
-p2: 1664® Premium 5,5€ 8,5€
-p2: et opaline noire ........................ ......
-p2: Mojito-flavoured base, Perrier®, marshmallow
-p2: and black sugar opaline
-p2: Bouteille / Bottled 33 cl
-p2: Le Frisson Mélancolique
-p2: Gallia nouveau Western
-p2: West coast IPA 7€
-p2: The Melancholic Mojito 12,5€ .............................................
-p2: ......................................................21 cl
-p2: Sur une base saveur mojito, Perrier®, rhum Bud® 7,5€
-p2: .....................................................................
-p2: blanc Trois Rivières, espuma sirop saveur
-p2: fleur de cerisier et filaments de poivrons rouges
-p2: Mojito-flavoured base, Perrier®, Trois Rivières
-p2: white rum, cherry blossom-flavoured syrup
-p2: espuma and red pepper strands
-p2: Bière à la myrtille 8€
-p2: .......
-p2: Esprit Ténébreux / Groom of Gloom 9,5€ Blueberry beer
-p2: ..........................21 cl
-p2: Sur une base hibiscus-fraise-rose, Perrier®,
-p2: guimauve et opaline noire
-p2: Hibiscus, strawberry and rose-flavoured base,
-p2: Perrier®, marshmallow and black sugar opaline
-p2: Les Noces Macabres
-p2: Café Hurlant 9,5€
-p2: ................................................21 cl
-p2: The Macabre Wedding 12,5€
-p2: ..............................................................................21 cl Screaming Coffee
-p2: Sur une base hibiscus-fraise-rose, Perrier®,
-p2: gin Gordon’s London Dry, espuma sirop saveur Espresso Lavazza, lait, sirop
-p2: saveur ube, crème fouettée,
-p2: fleur de cerisier et filaments de poivrons rouges
-p2: sauce chocolat,
-p2: Hibiscus, strawberry and rose-flavoured base,
-p2: crispy framboise et biscuit
-p2: Perrier®, Gordon’s London Dry Gin,
-p2: cherry blossom-flavoured Lavazza espresso, milk, ube-
-p2: flavoured syrup, whipped cream,
-p2: crispy raspberry pieces, biscuit
-p2: Vins au verre/ and chocolate sauce
-p2: Glass of wine 15 cl
-p2: Blanc/ White
-p2: IGP Pays d’Oc - Naturalys - Gérard Bertrand - Chardonnay - Bio 7€ Boissons chaudes gnidnib-non
-p2: .
-p2: Rosé Hot drinks
-p2: IGP Pays d’Oc - Gris Blanc 6,5€ era
-p2: ...................................................................................... Espresso 100% Arabica 3,5€
-p2: ........................
-p2: sotohp
-p2: Rouge/ Red Café 100% Arabica / Coffee 3,8€
-p2: .................
-p2: noitatneserP
-p2: IGP Pays d’Oc - Naturalys - Gérard Bertrand - Merlot - Bio 6,5€
-p2: .............. Double Espresso 100% Arabica 4€
-p2: .......
-p2: Café au lait / Coffee with milk 4,2€
-p2: ............
-p2: /
-p2: selleutcartnoc
-p2: Cappuccino 4,2€
-p2: ....................................................
-p2: Chocolat chaud / Hot chocolate 4,4€
-p2: .........
-p2: non
-p2: Lait demi-écrémé 3,5€
-p2: 33 cl 25 cl 50 cl 50 cl 20 cl ..............................
+p1: with oat flakes and pumpkin seeds, tomato sauce sotohP
+p1: Ce menu (sans modification) comprend au moins 2 portions
+p1: de fruits et légumes et est faible en graisses saturées. -
+p1: Chocolate almonds mousse 62/11
+p1: This menu (without substitution) contains at least 2 servings
+p1: of fruits and vegetables and is low in saturated fats. -
+p1: with chocolate-hazelnut cookie chunks yensiD©
+p1: Cold drink33 clor Mineral water 50 cl
+p1: Veggie = végétarien - Prix nets / Tax included
+p1: 0000443377__LLUUCCKKYY--NNUUGGGGEETTSS__MMIINNII--MMEENNUU__AA44__ NNOOEELL 1111--2266..iinndddd 11 3300//1100//22002266 1111::5522
+p2: À la carte
+p2: Poulet croustillant du Lucky Nugget .................................................20€ Double burger de l’Ouest......................................................................25€
+p2: avec sauce sweet-chili et Salade fraîcheur ou Frites Pain au poivre, double steak haché de bœuf, sauce barbecue fumée, double cheddar
+p2: Lucky Nugget’s crispy chicken with sweet-chilli sauce and Side salador Fries au poivre, tomate, double bacon, roquette et Salade fraîcheur ou Frites
+p2: Double pepper rush burger : Pepper bread, double beef steak, smoked barbecue sauce,
+p2: Travers de porc .......................................................................................20€
+p2: double pepper cheddar cheese, tomato, double bacon, rocket salad and Side salad
+p2: Sauce barbecue, beignets d’oignons et Salade fraîcheur ou Frites
+p2: or Fries
+p2: Pork spare ribs
+p2: : Barbecue sauce, onions rings and Side salador Fries
+p2: Cassolette végétale ....................................................................20€
+p2: Burger de l’Ouest ...................................................................................20€
+p2: Ragoût de haricots, fèves, butternut et pommes de terre violettes,
+p2: Pain au poivre, steak haché de bœuf, sauce barbecue fumée,
+p2: boulettes végétales panées aux flocons d’avoine
+p2: cheddar au poivre, tomate, bacon, roquette et Salade fraîcheur ou Frites et graines de courge, sauce tomatée
+p2: Pepper rush burger : Pepper bread, beef steak, smoked barbecue sauce, pepper cheddar Veggie Cassolette : Beans, beans, butternut and purple potatoes stew, vegetable dumplings
+p2: cheese, tomato, bacon, rocket salad and Side salador Fries breaded with oat flakes and pumpkin seeds, tomato sauce
+p2: Desserts
+p2: SSaallaaddee ddee ffrruuiittss Muffin1 Brownie au chocolat Donut1 SSSSuuuunnnnddddaaaaeeee ppppaaaarrrrffffuuuummmm vvvvaaaannnniiiilllllllleeee,,,,
+p2: à l’orange sanguine et noix de pécan1 Doughnut1 avec sauce caramel, pépites d’amandes
+p2: 6,5€
+p2: et de noisettes caramélisées ou sauce chocolat
+p2: Fruit salad Chocolate and pecan
+p2: 6€ ou sauce fruits rouges
+p2: with blood orange nuts brownie1
+p2: Vanilla-Flavoured sundae,
+p2: with caramel sauce, caramelised almonds
+p2: 5€ 6€
+p2: and hazelnuts chuncks or chocolate sauce
+p2: or red berry sauce
+p2: Goûter / Tea-Time treat 13€ 8€
+p2: de 15h à 18h / from 3pm to 6pm
+p2: Donut1ou Brownie au chocolatet noix de pécan1
+p2: Sundae parfum vanille, avec sauce caramel,
+p2: et Pause Gourmande / 9€
+p2: Sweet break
+p2: pépites d’amandes et de noisettes caramélisées
+p2: de 15h à 18h / from 3pm to 6pm
+p2: ou sauce chocolat ou sauce fruits rouges
+p2: Muffin1 et Boisson chaude ou fraîche
+p2: et Boisson fraîche 33 cl ou chaude 33 cl
+p2: Muffin1anda Hot a Cold drink
+p2: Doughnut1or Chocolate and pecan nuts brownie1 or 33 cl
+p2: a Vanilla-Flavoured sundae, with caramel sauce, caramelised
+p2: and
+p2: almonds and hazelnuts chuncks or chocolate sauce or red berry sauce
+p2: and a Hot or a Cold drink 33 cl
+p2: Vins au verre /Glass Boissons chaudes /Hot
+p2: of wine15 cl drinks
+p2: Blanc / White : IGP Pays d’Oc - Naturalys - Chardonnay - Bio ...7€ Espresso 100% Arabica .......................................................3,5€
+p2: Rouge / Red : IGP Pays d’Oc - Naturalys - Merlot - Bio ..............6,5€ Café 100% Arabica / Coffee ..................................................3,8€
+p2: Rosé : IGP Pays d’Oc - Gris Blanc ............................................6,5€ Double Espresso 100% Arabica ............................................4€
+p2: Café au lait / Coffee with milk ...............................................4,2€
+p2: Bières /Beers
+p2: Cappuccino ..........................................................................4,2€
+p2: Pression / Draught 1664® Premium .........5,5€ ......8,5€
+p2: 25 cl 50 cl Chocolat chaud / Hot chocolate .............................................4,4€
+p2: Gallia Nouveau Western IPA .............................................. 7€
+p2: 33 cl
+p2: Bouteilles / Bottled Bud® .................................................. 7,5€
+p2: 33 cl Lait demi-écrémé / Semi-skimmed milk ...........................3,5€
+p2: 20 cl
+p2: Thé, infusion / Tea, herbal tea ...............................................3,8€ gnidniB-noN
+p2: Cidre /
+p2: Cider
+p2: La Mordue Original - Cidre aromatisé /Flavoured cider ......7€
+p2: 27,5 cl
+p2: era
 p2: sotohP
-p2: 5€ 4,3€ 3,8€ 4€ Semi-skimmed milk
-p2: -
-p2: Thé, infusion / Tea, herbal tea 3,8€ 62/90
-p2: ............
+p2: Boissons fraîches /
+p2: Cold drinks
+p2: noitatneserP
+p2: JJUUSS
+p2: DD''OORRAANNGGEE
+p2: /
+p2: ORANGE selleutcartnoc
+p2: JUICE
+p2: 33 cl JJUUSS 25 cl
+p2: 5500 ccll 5500 ccll non
+p2: DDEE PPOOMMMMEE
+p2: 5€ 4,5€ 44€€ sotohP
+p2: APPLE 33,,88€€
+p2: JUICE
+p2: - 62/11
+p2: (1) Produit décongelé / defrosted product - Veggie = végétarien-Prix nets / Tax included
 p2: -
 p2: yensiD©
-p2: (1) produit décongelé / defrosted product - Prix nets / Tax included
 p2: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
 p2: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have
+p2: 0000443377__LLUUCCKKYY--NNUUGGGGEETTSS__MMIINNII--MMEENNUU__AA44__ NNOOEELL 1111--2266..iinndddd 22 3300//1100//22002266 1111::5522
+p3: 30€
+p3: MENU DES SOMMETS
+p3: WINTER SUMMIT MENU
+p3: BURGER
+p3: MONTS DES MERVEILLES
+p3: MOUNTAINS & WONDERS BURGER
+p3: Bun goût pain d’épices, steak haché de bœuf,
+p3: raclette fumée et bacon, compotée de butternut,
+p3: pickles d’oignons rouges et sauce au raifort
+p3: Servi avec frites et sauce raclette
+p3: Gingerbread-fl avoured bun, beef patty, smoked raclette cheese and bacon,
+p3: butternut squash compote, pickled red onions and horseradish sauce
+p3: Served with fries and raclette cheese sauce
+p3: +
+p3: TRÉSOR DU TRAÎNEAU1
+p3: 8€
+p3: SLED’S TREASURE1
+p3: Parfum vanille, bûchette crème au beurre,
+p3: pain d’épices et topping au caramel BIÈRE DE NOËL
+p3: Vanilla-fl avoured with a mini buttercream Yule log,
+p3: AMBRÉE
+p3: gingerbread and caramel topping
+p3: +
+p3: AVEYRONNAISE
+p3: 33 cl
+p3: AMBER CHRISTMAS ALE
+p3: Boisson fraîche 33 cl ou Eau minérale 50 cl 33 cl
+p3: Cold drink 33 cl / Mineral water 50 cl
+p3: 1 existe en version enfant / Also available in a kids’ size --- PPPrrriiixxx nnneeetttsss /// TTaaxx iinncclluuddeedd
+p3: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p3: A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have
+p3: ©Disney 11/26 - Photos non contractuelles / Presentation photos are non-binding
+p3: 0000443377__LLUUCCKKYY--NNUUGGGGEETTSS__MMIINNII--MMEENNUU__AA44__ NNOOEELL 1111--2266..iinndddd 33 3300//1100//22002266 1111::5533
