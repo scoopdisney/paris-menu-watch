@@ -1,0 +1,250 @@
+p1: Menu Du shérif
+p1: enTrées
+p1: Beignets croustillants de légumes 37€ 45€
+p1: entrée et Plat Plat et Dessert entrée, Plat et Dessert
+p1: ou
+p1: aux saveurs de la mer, 13€
+p1: (boisson non comprise) (boisson non comprise)
+p1: coleslaw à la sauce moutarde
+p1: enTrées
+p1: «Silver Spur Salade Caesar» au bœuf séché 15€
+p1: Beignets croustillants de légumes aux saveurs de la mer,
+p1: Truite fumée, 18€ coleslaw à la sauce moutarde
+p1: pickles de betterave et confit de citron jaune
+p1: ou «Silver Spur Salade Caesar» au bœuf séché
+p1: Soupe de tomates au paprika doux fumé, 15€ Soupe de tomates au paprika doux fumé,
+p1: ou
+p1: graines de courge et crème de maïs salsa d’avocat, crème de maïs et galette de blé croustillante
+p1: Pulled pork sauce barbecue, 18€ PLaTs
+p1: salsa d’avocat, crème de maïs et galette de blé croustillante
+p1: Brochette de bœuf grillée au feu de bois,
+p1: sauce chimichurri, gratin de pommes de terre au cheddar fumé, tempura de légumes
+p1: ouSaumon rôti mariné à l’aneth,
+p1: sauce au poivron vert, «riz du Silver» et tempura de légumes
+p1: PLaTs
+p1: Cocotte mijotée d’épeautre,
+p1: ou
+p1: Bavette de bœuf écossais grillé au feu de bois, 35€ shitake, haricots noirs et fèves de soja,
+p1: sauce chipotle, gratin de pommes de terre au cheddar fumé brochettes de boulettes aux protéines de pois
+p1: DesserTs
+p1: Brochette de bœuf grillée au feu de bois, 32€
+p1: sauce chimichurri, gratin de pommes de terre au cheddar fumé,
+p1: le Sundae des Cowboys
+p1: tempura de légumes
+p1: oumille-feuille chocolat amande,
+p1: Côte de porc grillée , marinée au sirop d’érable, 38€
+p1: crémeux de riz vanillé à l’avoine
+p1: sauce barbecue «Carolina gold», gratin de pommes de terre
+p1: ravioles d’ananas, garnies de fruits rouges,
+p1: ou
+p1: au cheddar fumé
+p1: sirop aux saveurs de thé fumé
+p1: La sauce barbecue Carolina Gold est une sauce à base de moutarde, tandis que les autres
+p1: types de sauce barbecue sont généralement à base de tomate. Cela donne à la sauce barbecue Carolina
+p1: Gold une saveur unique qui est piquante, sucrée et légèrement épicée
+p1: Menu enfanT
+p1: Poulet sauté, mariné ail-gingembre, 32€
+p1: sauce aux cacahuètes, «riz du Silver» et tempura de légumes
+p1: Pour enfants âgés de 3 à 11 ans
+p1: Saumon rôti mariné à l’aneth, 35€ entrée, Plat, Dessert et Boisson 25€
+p1: sauce au poivron vert, «riz du Silver» et tempura de légumes
+p1: Vittel® 33 cl ou Jus d’orange ou de pomme 25 cl ou lait 20 cl
+p1: Autre boisson fraîche (25 cl) sur demande en remplacement du produit proposé
+p1: Cocotte mijotée d’épeautre, 32€
+p1: enTrées
+p1: shitake, haricots noirs et fèves de soja,
+p1: brochettes de boulettes aux protéines de pois
+p1: roll’s toasté au blanc de dinde et
+p1: ou Salade de poulet croustillant, cheddar rouge rapé, tomates cerise et maïs doux
+p1: ou «Petite salade du far west»
+p1: Haricots rouges, tomate, concombre, maïs doux, carottes,
+p1: Bleu SAIGNANT à poINT BIeN cuIT
+p1: sauce végétale façon tartare
+p1: Viande juste Viande bien saisie, Viande rosée Viande cuite
+p1: PLaTs
+p1: saisie sur le grill rouge à l’intérieur à l’intérieur, juteuse jusqu’à l’intérieur
+p1: à l’extérieur
+p1: Poulet sauté,
+p1: sauce aux cacahuètes, purée de petits pois et gratin de pâtes au cheddar fumé
+p1: ou Steak haché, purée de petits pois et gratin de pâtes au cheddar fumé
+p1: DesserTs
+p1: ou Pavé de saumon, beurre blanc et riz du Silver
+p1: Croustillant aux pommes caramélisées DesserTs
+p1: à la cannelle, 16€
+p1: le délice de l’Ouest1
+p1: noix de pécan et raisins secs, crémeux de riz vanillé à l’avoine
+p1: ou le Sundae des petits Cowboys
+p1: le Sundae des Cowboys 15€
+p1: cookie chocolat-noisette et sauce chocolat
+p1: Flan pâtissier au whisky, 18€ ou Carpaccio d’ananas1,cookie chocolat-noisette
+p1: pralin et noisettes torréfiées, et pop corn caramélisé
+p1: sauce caramel au Bailey’s The Original Irish cream
+p1: mille-feuille chocolat amande,
+p1: ou
+p1: crémeux de riz vanillé à l’avoine 15€
+p1: Menu Disney check
+p1: ravioles d’ananas, garnies de fruits rouges,
+p1: Petite salade du Far West
+p1: sirop aux saveurs de thé fumé 16€
+p1: Pavé de saumon
+p1: Carpaccio d’ananas1
+p1: Vittel® 33 cl
+p1: Ce menu (sans modification) comprend au moins 2 portions de fruits et légumes
+p1: et est faible en graisses saturées
+p1: anniversaire
+p1: Célébrez votre
+p1: Dessert à partir de
+p1: en notre compagnie et commandez
+p1: seLecTion De Vins
+p1: 25€ 45€
+p1: 75 cl votre dessert d’anniversaire en début de repas ! 2 personnes 6 personnes
+p1: Vin BlanC
+p1: aOP Sancerre - Château de Sancerre - Sauvignon blanc ............................49€
+p1: Boissons fraîches
+p1: aOC Chablis - la Pierrelée - la Chablisienne ............................................43€ 25 cl 33 cl
+p1: Coca-Cola Original, Coca-Cola zérO SuCreS ........................................5,5€
+p1: VinS rOugeS
+p1: aOC Pauillac - Baron nathaniel - Baron Philippe de rothschild ................46€ Fanta Orange SanS SuCreS, Sprite SanS SuCreS ...................................5,5€
+p1: u.S.a. : Beringer Classics - Cabernet Sauvignon ......................................38€ FuzeTea Pêche intense .............................................................................5,5€
+p1: Jus d’orange, jus de pomme....................................................... 5€
+p1: Vin rOSé
+p1: igP Pays d’Oc - gris Blanc .......................................................................32€
+p1: 50 cl 100 cl
+p1: ChamPagne
+p1: Vittel® ....................................................................................... 4,5€ .....5,5€
+p1: édition Spéciale Disneyland® Paris - Champagne Pierre mignon
+p1: grande réserve - brut ..............................................................................82€ S.Pellegrino® ............................................................................ 4,8€ .....5,8€
+p1: Eau potable à votre disposition 52/21
+p1: Veggie = végétarien - 1 produit décongelé - Prix nets
+p1: -
+p1: yensiD©
+p1: Un recueil d’information sur la présence d’allergènes dans nos plats est disponible,
+p1: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members Consultez le menu
+p2: sherif’s Menu
+p2: sTarTers
+p2: Crispy vegetable fritters with seaside flavours, €13
+p2: Starter and main Course €45
+p2: Starter, main Course and Dessert
+p2: €37
+p2: coleslaw with mustard dressing main Course and Dessert
+p2: or (drink not included)
+p2: (drink not included)
+p2: «Silver Spur Caesar Salad» with dried beef €15
+p2: sTarTers
+p2: Smoked trout, €18
+p2: Crispy vegetable fritters with seaside flavours,
+p2: beetroot pickles and preserved lemon
+p2: coleslaw with mustard dressing
+p2: Tomato soup with smoked sweet paprika, €15
+p2: «Silver Spur Caesar Salad» with dried beef
+p2: or
+p2: pumpkin seeds and corn cream
+p2: Tomato soup with smoked sweet paprika,
+p2: or
+p2: Pulled pork, barbecue sauce €18
+p2: pumpkin seeds and corn cream
+p2: avocado salsa, creamed corn and crispy wheat pancake
+p2: Main courses
+p2: Flamed-grilled steak skewers,
+p2: Chimichurri sauce, smoked cheddar potato gratin, vegetable tempura
+p2: Main courses
+p2: roasted salmon marinated with dill,
+p2: or
+p2: green pepper sauce, «Silver rice» and vegetable tempura
+p2: Scottish flank steak grilled over wood fire, €35
+p2: Slow-cooked spelt cocotte with shiitake,
+p2: or
+p2: chipotle sauce, smoked cheddar potato gratin
+p2: black beans and soybeans, pea-protein vegan meatball skewers
+p2: Flamed-grilled steak skewers, €32
+p2: DesserTs
+p2: Chimichurri sauce, smoked cheddar potato gratin, vegetable tempura
+p2: Cowboys treat
+p2: grilled pork chop marinated in maple syrup, €38
+p2: Chocolate–almond mille-feuille, vanilla oat rice crémeux
+p2: «Carolina Gold» barbecue sauce, smoked cheddar potato gratin or
+p2: Carolina Gold BBQ sauce is a mustard-based sauce while other BBQ sauces
+p2: Pineapple ravioli filled with red berries,
+p2: or
+p2: are mostly tomato-based. This gives Carolina Gold BBQ sauce a unique flavour that is sweet,
+p2: tangy and mildly spicy. smoked-tea infused syrup
+p2: Stir-fried chicken marinated with garlic and ginger, €32
+p2: peanut sauce, «Silver rice» and vegetable tempura
+p2: kiDs’ Menu
+p2: roasted salmon marinated with dill, €35
+p2: green pepper sauce, «Silver rice» and vegetable tempura
+p2: For children ages from 3 to 11
+p2: Slow-cooked spelt cocotte with shiitake, €32
+p2: Starter, main Course, Dessert and Drink €25
+p2: black beans and soybeans, pea-protein vegan meatball skewers
+p2: Vittel® 33 cl or Orange or apple juice 25 cl or milk 20 cl
+p2: A different cold drink (25 cl) may replace a similar item on request
+p2: sTarTers
+p2: Bloody rAre medIum well doNe Toasted roll with turkey breast and cheese
+p2: or Crispy chicken salad with grated red cheddar,
+p2: Just flashed Well-seared, Pink inside, Completely cooked cherry tomatoes and sweetcorn
+p2: on the grill red inside juicy on the outside all the way through
+p2: or «little Far West salad»
+p2: red beans, tomato, cucumber, sweetcorn, carrots, vegan tartare-style dressing
+p2: Main courses
+p2: DesserTs
+p2: Stir-fried chicken with peanut sauce,
+p2: Crispy pastry with cinnamon-caramelised apples, €16
+p2: pea purée and smoked cheddar pasta gratin
+p2: pecan nuts and raisins, vanilla oat rice crémeux
+p2: or minced beef steak, pea purée and smoked cheddar pasta gratin
+p2: Cowboys treat €15 or Salmon fillet, beurre blanc and Silver rice
+p2: vanilla sundae with crunchy brownie and caramel sauce
+p2: DesserTs
+p2: Custard flan with whisky, €18
+p2: Wild west delight1
+p2: praline and roasted hazelnuts,
+p2: or little cowboys treats
+p2: Bailey’s The Original Irish Cream caramel sauce
+p2: Chocolate-hazelnut cookie with chocolate sauce
+p2: Chocolate–almond mille-feuille,
+p2: or Pineapple carpaccio1,
+p2: chocolate–hazelnut cookie
+p2: vanilla oat rice crémeux €15
+p2: and caramelised popcorn
+p2: Pineapple ravioli filled with red berries,
+p2: smoked-tea infused syrup €16
+p2: or
+p2: Disney check Menu
+p2: little Far West salad
+p2: Salmon steak
+p2: Pineapple carpaccio1
+p2: Vittel®
+p2: 33 cl
+p2: This menu (whithout substitution) contains at least 2 servings
+p2: of fruits and vegetablesand is low in saturated fats
+p2: Birthday
+p2: Celebrate your with us. Dessert to share for
+p2: Don’t forget to order your birthday dessert
+p2: 2 or more 6 or more
+p2: €25 €45
+p2: wine seLecTion
+p2: 75 cl before your meal! people people
+p2: WhiTe Wine
+p2: aOP Sancerre - Château de Sancerre - Sauvignon blanc ............................€49
+p2: coLD Drinks
+p2: 25 cl 33 cl
+p2: aOC Chablis - la Pierrelée - la Chablisienne ............................................€43
+p2: Coca-Cola Original, Coca-Cola zérO SuCreS ........................................€5,5
+p2: reD Wine
+p2: aOC Pauillac - Baron nathaniel - Baron Philippe de rothschild ................€46 Fanta Orange SanS SuCreS, Sprite SanS SuCreS ...................................€5,5
+p2: u.S.a.: Beringer Classics - Cabernet Sauvignon .......................................€38 FuzeTea Peach Black Tea .........................................................................€5,5
+p2: rOSé Wine Orange juice, apple juice ........................................................... €5
+p2: igP Pays d’Oc - gris Blanc .......................................................................€32
+p2: 50 cl 100 cl
+p2: ChamPagne
+p2: Vittel® ....................................................................................... €4,5 .....€5,5
+p2: édition Spéciale Disneyland® Paris - Champagne Pierre mignon
+p2: grande réserve - brut ..............................................................................€82 S.Pellegrino® ............................................................................ €4,8 .....€5,8
+p2: Drinking water available 52/21
+p2: 1 Defrosted Product - Tax Included
+p2: -
+p2: yensiD©
+p2: A list of the allergens present in our dishes is available upon request with any of our Cast Members;
+p2: Check our menu
+p2: please make a Cast Member aware of any allergies you may have

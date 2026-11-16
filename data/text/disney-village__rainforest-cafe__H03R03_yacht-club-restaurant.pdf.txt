@@ -1,0 +1,186 @@
+p1: Horaires d’ouverture 18h - 22h30 Opening hours 6 pm - 10.30 pm
+p1: Menu Régate
+p1: Entrées
+p1: Starters
+p1: Entrée, Plat et Dessert 55€
+p1: Starter, Main Course and Dessert
+p1: Chair de crabe, purée d’avocat à la crème,
+p1: vinaigrette citronnée aux poivrons, tomates et cumin 18€ 75€
+p1: Vin compris
+p1: Crab Meat, Creamy Avocado Purée,
+p1: Wine Included
+p1: Lemon Vinaigrette with Peppers, Tomatoes and Cumin
+p1: Entrées
+p1: Soupe de lentille corail aux épices douces,
+p1: Starters
+p1: lait de coco et coriandre 17€
+p1: Coral Lentil Soup with Mild Spices, Coconut Milk and Coriander
+p1: Salade de choux aux algues wakamé,
+p1: cranberries et poulet mariné au soja et sésame
+p1: Tarte fine au chèvre frais, tomate et roquette 17€
+p1: Cabbage Soup with Wakame Algae,
+p1: Goat’s Cheese Tart with Tomato and Rocket Salad
+p1: Cranberries and Soy-Sesame Marinated Chicken
+p1: Salade de choux aux algues wakamé,
+p1: Soupe de lentilles corail aux épices douces, lait de coco et coriandre
+p1: ou
+p1: cranberries et poulet mariné au soja et sésame 18€
+p1: or Coral Lentil Soup with Mild Spices, Coconut Milk and Coriander
+p1: Cabbage Soup with Wakame Algae,
+p1: Cranberries and Soy-Sesame Marinated Chicken Tarte fine au chèvre frais, tomate et roquette
+p1: ou
+p1: Goat’s Cheese Tart with Tomato and Rocket Salad
+p1: or
+p1: Housemade “New England Clam Chowder”
+p1: Velouté de palourdes aux pommes de terre et poitrine fumée 19€
+p1: Plats
+p1: Housemade ”New England Clam Chowder”
+p1: Main Courses
+p1: Cream of Clam, Potatoes and Smoked Ham
+p1: Volaille fermière en fricassée aux légumes de saison
+p1: Lamelles d’encornets panés et frits au piment d’Espelette
+p1: Free-Range Chicken Fricassée with Seasonal Vegetables
+p1: et sauce tartare 19€
+p1: Breaded and Fried Squid Strips with Espelette Pepper and Tartar Sauce
+p1: ou Filet de merlu en croûte d’olives noires, anchois et parmesan,
+p1: écrasée de pommes de terre et coulis de tomate
+p1: Hake Filet in a Black Olive, Anchovy and Parmesan Crust, Mashed Potatoes and Tomato Coulis
+p1: or
+p1: Plats
+p1: Conchiglioni aux courgettes, artichauts et olives kalamata, sauce tomate
+p1: ou
+p1: Main Courses Conchiglioni Pasta Shells Stuffed with Zucchini,Artichokes and Kalamata Olives, Tomato Sauce
+p1: or
+p1: Desserts
+p1: Filet de merlu en croûte d’olives noires, anchois et parmesan,
+p1: Coulant au chocolat tiède, crème glacée à la vanille
+p1: écrasée de pommes de terre et coulis de tomate 35€
+p1: Hake Filet in a Black Olive, Anchovy and Parmesan Crust, Warm Chocolate Lava Cake, Vanilla Ice Cream
+p1: Mashed Potatoes and Tomato Coulis
+p1: Glace à l’italienne parfum vanille, coulis de framboise,
+p1: ou
+p1: brisures de cookies et brisures de caramel croquant avec du chocolat au lait
+p1: Dorade grillée au citron et à l’origan, fenouil,
+p1: or Vanilla Italian-Style Ice Cream, Raspberry Coulis, Cookie Crumbs
+p1: poivrons et olives Kalamata 38€
+p1: and Crunchy Caramel Bits with Milk Chocolate
+p1: Grilled Sea Bream with Oregano and Lemon, Fennel,
+p1: Peppers and Kalamata Olives ou Tarte fine aux pommes, crème fouettée myrtille
+p1: French-Style Apple Tart, Blueberry Whipped Cream
+p1: or
+p1: Conchiglioni aux courgettes, artichauts et olives kalamata,
+p1: sauce tomate 32€
+p1: Conchiglioni Pasta Shells Stuffed with Zucchini,
+p1: Artichokes and Kalamata Olives, Tomato Sauce
+p1: Chaudrée de la mer
+p1: Saumon, cabillaud, moules, gambas, pommes de terre,
+p1: carottes et sauce crustacés safranée 40€
+p1: Menu du Moussaillon
+p1: Seafood Chowder
+p1: Salmon, Cod, Mussels, Gambas, Potatoes,
+p1: Carrots and Saffron-Flavoured Shellfish Sauce
+p1: Pour les enfants âgés de 3 à 11 ans
+p1: For children ages 3 to 11
+p1: Noix d’entrecôte Angus, pommes de terre au Boursin et cheddar,
+p1: sauce au poivre 45€ 30€
+p1: Angus Sirloin Steak, Potatoes with Boursin and Cheddar, Pepper Sauce
+p1: Entrée, Plat, Dessert et Boisson
+p1: Volaille fermière en fricassé aux légumes de saison 32€ Starter, Main Course, Dessert and Drink
+p1: Free-Range Chicken Fricassée with Seasonal Vegetables
+p1: Vittel® (33 cl) ou Jus d’orange ou de pomme (25 cl) ou Lait (20 cl)
+p1: Côte de veau, poêlée de pommes de terre et champignons à l’ail Autre boisson fraîche (25 cl) sur demande et en remplacement du produit proposé.
+p1: et au persil, jus à la sauge 43€ Vittel® (33 cl) or Orange or apple juice (25 cl) or Milk (20 cl)
+p1: A different cold drink (25 cl) may replace a similar item on request.
+p1: Veal Cutlet, Pan-Fried with Potatoes and Mushrooms, Garlic and Parsley, Sage Jus
+p1: Entrées
+p1: Desserts
+p1: Starters
+p1: Soupe de saison
+p1: “La Boussole du Capitaine” 16€
+p1: Seasonal Soup
+p1: chocolat-caramel,
+p1: cœur coulant à la vanille et fève tonka, ou Jardin de légumes acidulés (carotte, tomate cerise, concombre)
+p1: streusel croustillant aux amandes or Tangy Vegetable Garden (Carrot, Cherry Tomato, Cucumber)
+p1: “Captain’s Compass”
+p1: Torsade à la tomate et à La Vache qui rit®
+p1: ou
+p1: Chocolate and Caramel Dessert with a Soft Vanilla
+p1: or Tomato and The Laughing Cow® Cheese Twist
+p1: and Tonka Bean Centre and Almond Streusel Crunch
+p1: Pavlova végane aux fruits du moment 18€ Plats
+p1: Vegan Pavlova Made with Seasonal Fruits
+p1: Main Courses
+p1: Entremet à la vanille, insert confit de myrtilles et cassis, Ballotine de volaille, noisettes pilées,
+p1: fruits rouges et crumble aux amandes 18€ écrasée de pommes de terre et petits légumes, sauce champignons
+p1: Vanilla Entremet, Candied Blueberry and Blackcurrant Centre, Chicken Pouch, Crushed Hazelnuts, Mashed Potatoes and Mixed Vegetables, Mushroom Sauce
+p1: Berries and Almond Crumble
+p1: Filet de cabillaud façon tempura, frites et citron
+p1: ou
+p1: Tempura-Style Cod Fillet, Chips and Lemon
+p1: Coulant au chocolat tiède, crème glacée à la vanille 16€ or
+p1: Warm Chocolate Lava Cake, Vanilla Ice Cream
+p1: Pâtes conchiglioni à la sauce tomate
+p1: ou
+p1: Conchiglioni Pasta Shells with Tomato Sauce
+p1: Finger café chocolat-noisettes 15€ or
+p1: Coffee Chocolate-Hazelnut Finger
+p1: Desserts
+p1: Glace à l’italienne parfum vanille, coulis de framboise,
+p1: Coupe de glace à l’italienne, parfum vanille
+p1: brisures de cookies et brisures de caramel croquant avec du chocolat au lait 16€
+p1: Soft Italian-Style, Vanilla Flavoured Ice Cream
+p1: Vanilla Italian-Style Ice Cream, Raspberry Coulis, Cookie Crumbs
+p1: and Crunchy Caramel Bits with Milk Chocolate Salade de fruits
+p1: ou
+p1: or Fruit Salad
+p1: Tarte fine aux pommes, crème fouettée myrtille 16€
+p1: French-Style Apple Tart, Blueberry Whipped Cream Yacht au chocolat à décorer
+p1: ou
+p1: or Chocolate Yacht to Decorate
+p1: Vins & Boissons
+p1: ou / or
+p1: Wine & Drinks
+p1: Menu Disney Check
+p1: 37,5 cl 75 cl
+p1: Jardin de légumes acidulés (carotte, tomate cerise, concombre)
+p1: Blanc / White : AOC Chablis - La Pierrelée - La Chablisienne 24€ 43€
+p1: Tangy Vegetable Garden (Carrot, Cherry Tomato, Cucumber)
+p1: Rosé : AOP Côtes de Provence - Minuty - Prestige rosé 27€ 38€
+p1: Pâtes conchiglioni à la sauce tomate
+p1: Rouge / Red : AOC Bordeaux - Mouton Cadet - Baron Philippe de Rothschild 38€
+p1: Conchiglioni Pasta Shells with Tomato Sauce
+p1: Bières et cidre / Beers and cider
+p1: Salade de fruits
+p1: Pression / Draught 25 cl 50 cl
+p1: Fruit Salad
+p1: 1664® Premium 6,5€ 9,8€
+p1: Vittel®
+p1: (33 cl)
+p1: Bouteille / Bottle 33 cl
+p1: Heineken 8,5€ Ce menu (sans modification) comprend au moins 2 portions de fruits
+p1: et légumes et est faible en graisses saturées
+p1: Grimbergen d’Abbaye blonde 8,5€
+p1: This menu (without substitution) contains at least 2 servings
+p1: of fruit and vegetables and is low in saturated fat.
+p1: Cidre / Cider 33 cl
+p1: La Mordue Original - Cidre aromatisé 8€
+p1: Célébrez votre Anniversaire en notre compagnie
+p1: Boissons fraîches / Cold drinks et commandez votre dessert d’anniversaire en début de repas
+p1: 25 cl 33 cl
+p1: Celebrate your Birthday with us.
+p1: Coca-Cola ORIGINAL, Coca-Cola ZÉRO SUCRES, Coca-Cola Cherry 6€
+p1: Don’t forget to order your birthday dessert before your meal!
+p1: Fanta Orange, Sprite 6€
+p1: 25€
+p1: FuzeTea Pêche Intense, TROPICO Original 6€ Dessert à partir de 2 personnes / Dessert to share for 2 people or more
+p1: 45€
+p1: Dessert à partir de 6 personnes / Dessert to share for 6 people or more
+p1: Perrier® 5€
+p1: Eaux minérales / Mineral water 52/01
+p1: 50 cl 100 cl
+p1: Vittel® 5€ 6€
+p1: -
+p1: yensiD©
+p1: S.Pellegrino® 5,5€ 6,5€
+p1: Veggie = Végétarien / Prix nets / Un recueil d’information sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members / Eau potable à votre disposition.
+p1: Tax Included / A list of the allergens present in our dishes is available upon request with any of our Cast Members; please make a Cast Member aware of any allergies you may have / Drinking water available.

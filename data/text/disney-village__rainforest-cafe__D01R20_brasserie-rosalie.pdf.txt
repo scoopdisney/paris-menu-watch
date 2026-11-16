@@ -1,0 +1,212 @@
+p1: RASSER
+p1: I
+p1: B E
+p1: FALL I WINTER MENU OPEN EVERYDAY
+p1: BAR & CAFÉ
+p1: MENU ELABORATED BY THE CHEF SUNDY LIBEROS AND HIS TEAM.
+p1: OYSTER BAR LUNCH MENU
+p1: MONDAY TO FRIDAY, 11:30 AM TO 5:00 PM
+p1: excluding public holidays
+p1: BY 3 BY 6 BY 9
+p1: BRITTANY
+p1: 19 50
+p1: “CADORET” BRETON HORS-D'ŒUVRE + MAIN DISH OR MAIN DISH + DESSERT1
+p1: CUPPED OYSTERS NO. 3 . . . . . . . . . . . 6 90 . . 13 8.0 . 20 70
+p1: HORS-D'ŒUVRE
+p1: NORMANDY
+p1: BUTTERNUT SQUASH SOUP,
+p1: “LA TATIHOU” SAINT-VAAST chestnuts, golden croutons
+p1: . . . . . . . . . . . . . 60. . FREE-RANGE PERFECT EGG AND MUSHROOM FRICASSEE,
+p1: SPECIAL OYSTERS NO. 3 7 80 15 23 40 OR
+p1: Comté PDO cream
+p1: GILLARDEAU OYSTERS OR LABEL ROUGE DAUPHINÉ RAVIOLI,
+p1: parmesan cream, PDO Comté cheese
+p1: “GILLARDEAU” SPECIAL OYSTERS NO. 3 . . 11 70 . . 23 4.0 . 35 10
+p1: MAIN DISHES
+p1: MARINIÈRE MUSSELS, French fries
+p1: OR WINTER VEGETABLE VOL-AU-VENT,
+p1: HHAAPPPPYY OOYYSSTTEERRSS
+p1: beurre blanc sauce
+p1: LORRAINE QUICHE, young shoots salad
+p1: OR
+p1: 1300
+p1: DESSERTS
+p1: BOURBON VANILLA CRÈME BRULÉE
+p1: 3 X "LA TATIHOU" SAINT-VAAST SPECIAL OYSTERS NO.3
+p1: OR ÎLE FLOTTANTE, custard, salted butter caramel
+p1: +
+p1: OR ICE CREAM, 2 scoops
+p1: 1 GLASS OF WHITE WINE 13CL
+p1: Entre-Deux-Mers Château Bonnet
+p1: SEAFOOD
+p1: HORS-D’ŒUVRE + MAIN DISH + DESSERT 39 50
+p1: HORS-D'ŒUVRE
+p1: SHRIMP (approx. 100g) . . . . . . . . . . . . . . . . . . . . . . . 10 00 ONION SOUP AU GRATIN WITH EMMENTAL CHEESE
+p1: 6 LABEL ROUGE BURGUNDY SNAILS
+p1: WHELKS . . . . . . . . . . . . . . . . . . . . . . . 12 50 or
+p1: (approx. 300g)
+p1: or FRENCH CHICKEN PÂTÉ EN CROÛTE,
+p1: PRAWNS LABEL ROUGE . . . . . . . . . (by 12) 29 0.0 . (by 6) 14 50 young shoots salad
+p1: MAIN DISH
+p1: 1/2 LOBSTER* cold. . . . . . . . . . . . . . . . . . . . . . 22 50
+p1: served
+p1: mayonnaise FRENCH CHICKEN SUPREME WITH MOREL MUSHROOMS,
+p1: gratin Dauphinois
+p1: WHOLE LOBSTER* 500g.) . . . . . . . . . . 45 00
+p1: served cold (approx.
+p1: or LABEL ROUGE DAUPHINÉ RAVIOLI,
+p1: mayonnaise
+p1: parmesan cream, PDO Comté cheese
+p1: or SCOTTISH SALMON FILLET,
+p1: EAFOO mashed potatoes, citrus-infused beurre blanc
+p1: S D
+p1: • • DESSERT
+p1: BOURBON VANILLA CRÈME BRÛLÉE
+p1: CHOCOLATE SOUFFLÉE MOUSSE
+p1: or
+p1: or COFFEE LIÉGEOIS or CHOCOLATE LIÉGEOIS
+p1: THE OYSTER SHUCKER 29 50
+p1: 3 no. 3 “Cadoret” Breton cupped oysters,
+p1: 3 no. 3 “La Tatihou” Saint-Vaast special oysters,
+p1: 3 prawns Label Rouge,
+p1: whelks, mayonnaise UP TO 11 YEARS OLD
+p1: 1650
+p1: SCOTTISH SALMON FILLET, simmered vegetables
+p1: OYSTER TASTING PLATTER 33 50
+p1: HAM COQUILLETTES, parmesan cream
+p1: OR
+p1: 4 no. 3 “Cadoret” Breton cupped oysters, CHICKEN NUGGETS, French fries
+p1: OR
+p1: 4 no. 3 “La Tatihou” Saint-Vaast special oysters, HAND-CUT SAUSAGE, mashed potatoes
+p1: OR
+p1: 4 no. 3 “Gillardeau” special oysters +
+p1: CHOCOLATE MOUSSE
+p1: OR FRUIT SALAD
+p1: ROSALIE 58 50 OR SCOOP OF ICE CREAM
+p1: +
+p1: 3 no. 3 “Cadoret” Breton cupped oysters, APPLE JUICE 20CL
+p1: 3 no. 3 “La Tatihou” Saint-Vaast special oysters,
+p1: OR VITTEL FRUITÉ STRAWBERRY RASPBERRY 33CL
+p1: 2 no. 3 “Gillardeau” special oysters, ½ lobster*,
+p1: OR VITTEL 33CL
+p1: 5 Label Rouge prawns,
+p1: choice of syrup: grenadine, raspberry, strawberry, mint
+p1: whelks, shrimp,
+p1: mayonnaise
+p1: 1Excluding
+p1: Net prices in euros, service included. * Canadian holidays, drinks not included
+p2: SELECTION
+p2: HORS-D’ŒUVRE OF
+p2: croutons. . . . . . . . . . . . . . . . . . .
+p2: BUTTERNUT CREAM SOUP, chestnuts, golden 9 00
+p2: BRUT CHAMPAGNE PDO
+p2: LABEL ROUGE DAUPHINÉ RAVIOLI, cheese. . . . . . . . 9 90 12CL
+p2: parmesan cream, PDO Comté
+p2: MOËT & CHANDON «BRUT IMPÉRIAL» 17 00
+p2: FRICASSEE. . . . . . . . . . . . .
+p2: PERFECT FREE-RANGE EGG AND MUSHROOM 10 50
+p2: WHITE WINE PDO
+p2: 13CL
+p2: PDO Comté cheese
+p2: . . . . . . . . . . . RIESLING “CUVÉE PARTICULIÈRE” . . . 8 00
+p2: ROASTED RAW-MILK HALF-CAMEMBERT FROM NORMANDY 11 50
+p2: toasted bread, young shoots salad Gustave Lorentz
+p2: ONION SOUP AU GRATIN WITH EMMENTAL CHEESE . . . . . . . . . . . . . . . . . 12 50 CHABLIS “CUVÉE 1923” . . . . . . . . . 12 00
+p2: La Chablisienne
+p2: SNAILS. . . . . . . . . . . . . . . . 00. . .
+p2: LABEL ROUGE BURGUNDY (by 12) 22 (by 6) 12 50
+p2: ROSÉ WINE
+p2: 13CL
+p2: FRENCH CHICKEN PÂTÉ EN CROÛTE, young shoots salad. . . . . . . . . . . . . . . . . 13 50 . . . . . . . . . . .
+p2: IGP MÉDITERRANÉE 7 00
+p2: Peyrassol (organic wine)
+p2: AVOCADO AND SHRIMP COCKTAIL. . . . . . . . . . . . . . . . . . . . . . . . . . . . 13 50
+p2: RED WINES PDO 13CL
+p2: SCOTTISH SALMON TARTARE WITH LIME, creamy avocado, citrus vinaigrette. . . . . . . . 13 50
+p2: . . . . . . . . .
+p2: BOURGOGNE "GAMAY" 8 00
+p2: LANGOUSTINE RAVIOLI . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 14 50 Jean Loron
+p2: Beurre Blanc sauce, spinach PUISSEGUIN SAINT-EMILION . . . . . . 12 00
+p2: Château des Laurets
+p2: LARGE
+p2: • •
+p2: . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p2: LABEL ROUGE RAVIOLI FROM THE DAUPHINÉ, parmesan cream, PDO Comté cheese 19 50
+p2: RIGATONI WITH SUMMER TRUFFLE MUSHROOM CREAM SAUCE**, parmesan. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 19 90
+p2: dressin.g . . . . . . . . . . . . . . . . . . . .
+p2: CAESAR SALAD, roasted French chicken breast, free-range egg, Parmesan, romaine lettuce, croutons, Caesar 22 00
+p2: WINTER VEGETABLE VOL-AU-VENT, Beurre Blanc Sauce. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 22 50
+p2: MMEEAATTSS && PPOOUULLTTRRYY
+p2: FISH
+p2: BRAISED PORK SHANK WITH BEER. . . . . . . . . . . . . . 22 50
+p2: French Fries
+p2: MUSSELS WITH CREAM . . . . . . . . . . . . . . . . . . 21 50
+p2: ROSALIE'S CORDON BLEU. . . . . . . . . . . . . . . . . . . . 23 50
+p2: French fries
+p2: ham, coquillettes, parmesan cream
+p2: . . . . . . . . . . . . . . . .
+p2: SCOTTISH SALMON FILLET 24 50
+p2: ROSALIE'S BURGER. . . . . . . . . . . . . . . . . . . . . . . . 24 50
+p2: citrus-infused beurre blanc, mashed potatoes
+p2: Normandy beef patty, PDO Comté cheese, onion compote,
+p2: rocket, French fries FILLET. . . . . . . . . . . . . . .
+p2: ROYAL SEA BREAM 25 50
+p2: Chablis Sauce, Winter Vegetables
+p2: SAINT-NECTAIRE BURGER. . . . . . . . . . . . . . . . . . . . 25 00
+p2: Normandy beef hamburger, smoked bacon, Saint-Nectaire PDO cream, . . . . . . .
+p2: SCALLOPS WITH CHAMPAGNE SAUCE 32 90
+p2: caramelised onions, cocktail sauce, rocket, French fries
+p2: creamy parmesan risotto
+p2: SUPREME. . . . . . . . . . . . . . . . . .
+p2: FRENCH POULTRY 27 50 GRILLED LOBSTER 500g). . . . . . . . . . . . 48 50
+p2: (approx.
+p2: WITH MOREL MUSHROOMS béarnaise sauce, French fries
+p2: gratin dauphinois
+p2: CLASSIC PEPPER STEAK, . . . . . . . . . . . . . . 27 50
+p2: French fries
+p2: . . . . . . . . .
+p2: TENDER BRAISED BEEF, parmesan rigatoni gratin 28 50
+p2: SIDES� 6 00
+p2: ������������������������������������������������������������������
+p2: ANGUS BEEF STEAK, fries. . . . . . . . . 32 50 Mashed potatoes with butter, French fries, Winter vegetables,
+p2: Béarnaise sauce, French
+p2: Young shoots salad
+p2: IICCEE CCRREEAAMMSS
+p2: CHEESE DESSERTS
+p2: ARTISANAL ICE CREAMS AND SORBETS
+p2: PLATTER. . . . . . . . . . . . . . . . . . . . .
+p2: FRENCH CHEESE 12 50
+p2: Ice creams : Madagascar Bourbon vanilla, chocolate,
+p2: S ainte-Maure de Touraine PDO, PDO Comté cheese,
+p2: Indian coffee, salted butter caramel, yoghurt, pistachio
+p2: Brie de Melun, young shoots salad
+p2: Sorbets : lime, strawberry, raspberry, mango
+p2: SALAD. . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p2: CITRUS 9 00 2 SCOOPS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 8 50
+p2: Verbena Sorbet
+p2: SCOOPS. . . . . . . . . . . . . . . . . . . . . . . . . . . . . .
+p2: 3 10 50
+p2: carame.l . . . . .
+p2: FLOATING ISLAND, custard sauce, salted butter 9 50
+p2: COFFEE LIÉGEOIS or CHOCOLATE LIÉGEOIS. . . . . . . . . 12 50
+p2: BOURBON VANILLA CRÈME BRÛLÉE. . . . . . . . . . . . . . 9 90
+p2: SUNDAE. . . . . . . . . . . . . . . . . . . . . . .
+p2: NOCCIOLATA 12 50
+p2: MERINGUE. . . . . . . . . . . . . . . . .
+p2: LIME TARTLET WITH 11 00 Madagascar Bourbon vanilla ice cream, chocolate ice cream,
+p2: Nocciolata sauce, whipped cream, hazelnuts
+p2: PAVLOVA WITH EXOTIC FRUITS, Mascarpone Cream . . . . . . 11 50
+p2: DAME BLANCHE. . . . . . . . . . . . . . . . . . . . . . . . . . . 12 50
+p2: FRENCH TOAST. . . . . . . . . . . . . . . . . . . . . . . . . . . . 12 00
+p2: Madagascar Bourbon vanilla ice cream, chocolate sauce,
+p2: caramelized apples, Bourbon Vanilla Ice Cream
+p2: whipped cream, flaked almonds
+p2: PROFITEROLES WITH WARM CHOCOLATE SAUCE. . . . . . 12 50
+p2: MOUSSE. . . . . . . . . . . . . . . . .
+p2: CHOCOLATE SOUFFLÉ 12 90
+p2: served warm, Bourbon vanilla ice cream
+p2: : Vegetarian. *Canadian Lobster. ** Tuber Aestivum, mushroom cream with 5% summer truffle flavouring. Black truffle flavouring and white truffle flavouring. PDO: Protected Designation of
+p2: Origin. All our eggs come from free-range hens. Information regarding allergens is available in your restaurant. For further details: a guide is available at reception. Please note that you may ask us
+p2: for free drinking water. To reduce food waste, doggy bags are available (excluding raw meat, raw fish and raw eggs). Credit cards, American Express and meal vouchers are accepted.
+p2: Brasserie Rosalie 419 946 918 R.C.S. Nanterre. 10/26 FOR YOUR HEALTH, EAT AT LEAST 5 PORTIONS OF FRUIT AND VEGETABLES A DAY - WWW.MANGERBOUGER.FR.
+p2: ALCOHOL ABUSE IS DANGEROUS FOR YOUR HEALTH; PLEASE DRINK IN MODERATION.

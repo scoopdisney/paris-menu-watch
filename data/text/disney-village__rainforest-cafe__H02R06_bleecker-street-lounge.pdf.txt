@@ -1,0 +1,289 @@
+p1: P E T I T D É J E U N E R D E 8 H À 1 1 H
+p1: B R E A K FA S T F R O M 8 A M T O 1 1 A M
+p2: C H O I S I S S E Z L E S U P E R H É R O S
+p2: Q U E V O U S V O U L E Z Ê T R E
+p2: CHOOSE THE SUPERHERO YOU WANT TO BE
+p2: Choisissez votre héros et retrouvez-le sur votre boisson,
+p2: à personnaliser sur nos spécialités chaudes, froides et
+p2: AVENGERS
+p2: boissons à base de lait
+p2: Choose your hero and see it appear on your drink,
+p2: available on our hot, iced and milk-based specialities
+p2: CAPTAIN MARVEL
+p2: BLACK WIDOW
+p2: BLACK PANTHER (LA VEUVE NOIRE)
+p2: BABY GROOT
+p2: ROCKET
+p2: ANT-MAN
+p2: IRON MAN
+p2: DOCTOR STRANGE
+p2: THOR
+p2: STAR-LORD
+p2: SPIDER-MAN
+p2: SCARLET WITCH
+p2: (LA SORCIÈRE ROUGE)
+p3: Pour bien commencer la journée ! / Start your day right!
+p3: CROISSANT OU PAIN AU CHOCOLAT
+p3: AVEC ESPRESSO OU RISTRETTO 7€
+p3: CROISSANT PAIN AU CHOCOLAT
+p3: OR
+p3: WITH ESPRESSO RISTRETTO
+p3: OR
+p3: CROISSANT OU PAIN AU CHOCOLAT
+p3: AVEC BOISSON CHAUDE «LES TRADITIONNELLES»1 8€
+p3: CROISSANT PAIN AU CHOCOLAT
+p3: OR
+p3: WITH A ANY «CLASSIC» HOT DRINK1
+p3: BOISSONS CHAUDES «LES TRADITIONNELLES»
+p3: HOT DRINKS “THE CLASSICS”
+p3: Espresso 100% Arabica - La Reserva de Tierra - Bio 5,3€
+p3: ________________________________________________________________________
+p3: Espresso Macchiato 100% Arabica - La Reserva de Tierra - Bio 5,8€
+p3: __________________________________________________
+p3: Double Espresso 100% Arabica - La Reserva de Tierra - Bio 6€
+p3: _________________________________________________________
+p3: Ristretto 100% Arabica - La Reserva de Tierra - Bio 5,3€
+p3: _________________________________________________________________________
+p3: Café allongé 100% Arabica - La Reserva de Tierra - Bio / Large coffee 5,5€
+p3: ____________________________________
+p3: Thé, infusion / Tea, herbal tea 5,5€
+p3: _________________________________________________________________________________________________________________
+p3: Lait demi-écrémé 20 cl / Semi-skimmed milk 3,8€
+p3: _________________________________________________________________________________________
+p3: CRÉEZ LA BOISSON QUI VOUS RESSEMBLE +1€
+p3: MAKE IT YOURS
+p3: Sirop : Syrup:
+p3: Saveur caramel, saveur caramel salé, flavoured caramel, salted caramel,
+p3: saveur chocolat cookie, saveur noisette, chocolate cookie, hazelnut,
+p3: saveur popcorn, saveur spéculoos ou vanille popcorn, speculoos or vanilla
+p3: et crème fouettée and whipped cream
+p3: et Sauce :
+p3: and Sauce:
+p3: cacao ou caramel cocoa or caramel
+p3: Toutes nos recettes de boissons peuvent être réalisées avec une boisson végétale
+p3: (boisson à l’avoine ou à l’amande ou au soja) en remplacement du lait de vache
+p3: All our drinks can be prepared with plant-based milk (oat, almond or soya) instead of cow’s milk
+p3: Toutes nos boissons à base de café existent en version décaféinée
+p3: All our coffee drinks are also available decaffeinated
+p3: Prix nets / Tax included
+p3: 1 - sauf décaféiné et lait demi-écrémé / except decaffeinated and semi-skimmed milk
+p4: SPÉCIALITÉS CHAUDES OU GLACÉES
+p4: HOT OR ICED SPECIALITIES
+p4: Café latte / Caffè Latte 6€
+p4: _______________________________________________________________________________________________________________________________
+p4: Matcha latte 7€
+p4: __________________________________________________________________________________________________________________________________________________
+p4: Cappuccino 6€
+p4: ___________________________________________________________________________________________________________________________________________________
+p4: Mocha 6€
+p4: _____________________________________________________________________________________________________________________________________________________________
+p4: Chocolat / Chocolate 5,5€
+p4: _________________________________________________________________________________________________________________________________
+p4: Chocolat chaud chamallow / Hot chocolate with marshmallows 7€
+p4: ____________________________________________________
+p4: SMOOTHIE FRUITS ROUGES 7,5€ SMOOTHIE SPRING 7,5€
+p4: 25 cl ______________________ 25 cl ________________
+p4: RED BERRY Mangue, abricot et goyave
+p4: Fraise, griotte et mûre
+p4: Mango, apricot and guava
+p4: Strawberry, morello cherry and blackberry
+p4: BOISSONS FRAÎCHES EAUX MINÉRALES
+p4: COLD DRINKS MINERAL WATER
+p4: Jus d’orange frais 20 cl 5€ Vittel® 50 cl 5€
+p4: ________________________________ _______________________________________________________
+p4: Fresh orange juice
+p4: S.Pellegrino® 50 cl 5,5€
+p4: __________________________________________
+p4: Jus de pomme 25 cl 6€
+p4: _______________________________________
+p4: Apple juice
+p4: gnidnib-non
+p4: era
+p4: FAITES-VOUS PLAISIR / TREAT YOURSELF
+p4: sotohp
+p4: Cake Mickey nature et cacao2 / Mickey cake plain and cocoa2 5,5€
+p4: ___________________________________________________
+p4: noitatneserP
+p4: Blondie cake noix de pécan-chocolat-caramel 7€
+p4: ____________________________________________________________________________________
+p4: Pecan-chocolate-caramel blondie
+p4: Cookie chocolat-noisette (sans blé) / Chocolate-hazelnut cookie (wheat-free) 5,5€
+p4: _____________________________ /
+p4: selleutcartnoc
+p4: Cookie beurre de cacao-amande-cranberry 5,5€
+p4: _________________________________________________________________________________
+p4: Cocoa butter-almond-cranberry cookie
+p4: Croissant 3€
+p4: _________________________________________________________________________________________________________________________________________________________
+p4: non
+p4: Croissant vegan 3€
+p4: / Vegan Croissant
+p4: ______________________________________________________________________________________________ sotohP
+p4: Pain au chocolat 3€
+p4: __________________________________________________________________________________________________________________________________________
+p4: -
+p4: 62/50
+p4: -
+p4: LEVRAM
+p4: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible,
+p4: 6202©
+p4: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p4: A list of the allergens present in our dishes is available upon request with any of
+p4: our Cast Members, please make a Cast Member aware of any allergies you may have yensiD©
+p4: Prix nets / Tax included
+p4: 2 - produit décongelé / defrosted product
+p4: Eau potable à votre disposition / Drinking water available
+p5: À E M P O RT E R S U R P L A C E / TAKEAWAY EAT IN
+p5: OU OR
+p5: D I S P O N I B L E D E 1 1 H À 1 5 H
+p5: AVA I L A B L E F R O M 1 1 A M T O 3 P M
+p5: UNE PAUSE GOURMANDE / FAITES-VOUS PLAISIR
+p5: A GOURMET BREAK
+p5: TREAT YOURSELF
+p5: Cake Mickey nature et cacao1 5,5€
+p5: Mickey cake plain and cocoa1
+p5: BOISSONS SIGNATURE
+p5: SIGNATURE DRINKS Blondie cake
+p5: noix de pécan-chocolat-caramel 7€
+p5: Pecan-chocolate-caramel blondie
+p5: MANDALA LATTE 9€ PATRIOT LATTE 9€
+p5: ____ _______
+p5: Cookie chocolat-noisette (sans blé) 5,5€
+p5: Lait, sirop de vanille, Lait, coulis de fraise et crème
+p5: Chocolate-hazelnut cookie (wheat-free)
+p5: curcuma, gingembre, fouettée au mascarpone bleue
+p5: cannelle et poivre noir
+p5: Cookie beurre de cacao-
+p5: Milk, strawberry coulis and blue
+p5: Milk, vanilla syrup, mascarpone whipped cream amande-cranberry 5,5€
+p5: turmeric, ginger, cinnamon Cocoa butter-almond-cranberry cookie
+p5: and black pepper
+p5: Muffin cacao-noisette,
+p5: crème au mascarpone cacao-noisette 7€
+p5: Cocoa-hazelnut muffin, cocoa-hazelnut mascarpone cream
+p5: COSMIC COOKIE COCO 9,5€
+p5: _ __
+p5: QUANTUM FOAM
+p5: Muffin fruits rouges-amandes,
+p5: 9€ Lait saveur chocolat blanc,
+p5: DALGONA
+p5: _ ______________ crémeux fruits rouges 7€
+p5: purée de noix de coco, sirop
+p5: Lait, espresso Lavazza,
+p5: saveur chocolat cookie, Red berry-almond muffin, red berries crémeux
+p5: café Dalgona et sirop
+p5: crème fouettée et crispy coco
+p5: saveur caramel
+p5: White chocolate flavoured milk,
+p5: Milk, Lavazza espresso,
+p5: SOKOVIAN SWEET TEA 8,5€
+p5: coconut purée, chocolate cookie flavour
+p5: Dalgona coffee and
+p5: syrup, whipped cream and coconut crisps
+p5: Infusion glacée - Infusion bissap au fruits
+p5: caramel flavour syrup
+p5: rouges, sirop de grenade, fruits rouges frais
+p5: (framboises, myrtilles, mûres)
+p5: PLANET X PISTACHIO
+p5: SANCTUM 9,5€ Iced Infusion - Hibiscus infusion with red berries,
+p5: LATTE
+p5: 9€ _________________________________
+p5: UBE LATTE pomegranate syrup and fresh berries (raspberries,
+p5: _______________ Lait infusé à la pâte de
+p5: blueberries, blackberries)
+p5: Lait, coulis de fraise,
+p5: pistache, double espresso
+p5: sirop de vanille et ube Lavazza, crème fouettée, éclats
+p5: GLORIOUS PURPOSE 8,5€
+p5: de pistaches et sauce cacao
+p5: Milk, strawberry coulis,
+p5: Thé vert menthe, jus de cirton jaune, sirop de
+p5: vanilla syrup and ube
+p5: Milk infused with pistachio paste, double
+p5: sucre de canne, concombre, feuille de basilic
+p5: Lavazza espresso, whipped cream,
+p5: Mint green tea, lemon juice, cane sugar syrup,
+p5: crushed pistachios and chocolate sauce
+p5: cucumber and basil leaf
+p5: 7,5€ 7,5€
+p5: AVOCADO TOAST 15€ SMOOTHIE FRUITS ROUGES 25 cl SMOOTHIE SPRING 25 cl
+p5: ____________________________________________________________________________ ________
+p5: Mangue, abricot et goyave
+p5: Avocat, féta, crudité et salade RED BERRY
+p5: Fraise, griotte et mûre Mango, apricot and guava
+p5: Avocado, feta, raw vegetables and salad
+p5: Strawberry, morello cherry and blackberry
+p5: SALADE CÉSAR / 16,5€
+p5: CAESAR SALAD ___________________________________________________
+p5: Espresso 100% Arabica - La Reserva de Tierra - Bio 5,3€
+p5: Œuf poché, copeaux de Parmigiano Reggiano, croûtons de focaccia, ______________________________
+p5: sauce aux anchois et salade romaine
+p5: Espresso Macchiato 100% Arabica - La Reserva de Tierra - Bio 5,8€
+p5: ________
+p5: Poached egg, Parmigiano Reggiano shavings, focaccia croutons, anchovy dressing
+p5: Double Espresso 100% Arabica - La Reserva de Tierra - Bio 6€
+p5: and romaine lettuce _______________
+p5: Ristretto 100% Arabica - La Reserva de Tierra - Bio 5,3€
+p5: _______________________________
+p5: 18€
+p5: FOCACCIA CLUB
+p5: ______________________________________________________________________________ Café allongé 100% Arabica - La Reserva de Tierra - Bio / Large coffee 5,5€
+p5: __
+p5: Poulet, bacon, tomates, œufs durs, laitue et mayonnaise
+p5: Thé, infusion / Tea, herbal tea 5,5€
+p5: Chicken, bacon, tomatoes, boiled eggs, lettuce and mayonnaise __________________________________________________________________________
+p5: Lait demi-écrémé 20 cl / Semi-skimmed milk 3,8€
+p5: SANDWICH AU PASTRAMI/ PASTRAMI SANDWICH 18€ ___________________________________________________
+p5: ______________________
+p5: Pastrami, sauce au , moutarde et cornichons
+p5: Pastrami, Kiri® sauce, mustard and pickles
+p5: SPÉCIALITÉS CHAUDES OU GLACÉES
+p5: HOT OR ICED SPECIALITIES
+p5: Nos snacks sont accompagnés de chips ou de salade mélangée
+p5: Served with crisps or mixed salad
+p5: Café latte / Caffè Latte ________________________________6€
+p5: Matcha latte ________________________________________7€
+p5: APPLE PIE 10€
+p5: Cappuccino ________________________________________6€
+p5: TOURTE AUX POMMES
+p5: Mocha ____________________________________________6€
+p5: «NEW YORK CHEESECAKE»,ET COULIS DE FRUITS ROUGES1 12,5€ Chocolat / Chocolate _________________________________5,5€
+p5: gnidnib-non
+p5: COULIS1
+p5: NEW YORK CHEESECAKE AND RED BERRY Chocolat chaud chamallow / Hot chocolate with marshmallows __7€
+p5: era
+p5: sotohp
+p5: CRÉEZ LA BOISSON QUI VOUS RESSEMBLE noitatneserP
+p5: 1664® Premium 8,5€ +1€
+p5: 33 cl _______________________________________________________________________________________ MAKE IT YOURS
+p5: Bud® /
+p5: 33 cl 8,5€ Sirop : selleutcartnoc
+p5: ______________________________________________________________________________________________________________ Syrup:
+p5: saveur caramel, saveur caramel salé, flavoured caramel,
+p5: saveur chocolat cookie, saveur noisette, salted caramel,
+p5: non
+p5: Coca-Cola Original 6€ Jus d’orange frais 5€
+p5: 33 cl 20 cl saveur popcorn, saveur spéculoos chocolate cookie, hazelnut, sotohP
+p5: Fresh orange juice ou vanille popcorn, speculoos or vanilla,
+p5: Coca-Cola Zéro sucres 33 cl 6€
+p5: -
+p5: 62/50
+p5: Jus de pomme 6€
+p5: Sprite 25 cl 6€ 25 cl et crème fouettée and whipped cream
+p5: - LEVRAM
+p5: FuzeTea Saveur pêche 6€ Apple juice
+p5: 25 cl et Sauce : and Sauce:
+p5: cacao ou caramel cocoa or caramel 6202©
+p5: Peach Black Tea
+p5: yensiD©
+p5: Toutes nos recettes de boissons peuvent être réalisées avec une boisson végétale
+p5: (boisson à l’avoine ou à l’amande ou au soja) en remplacement du lait de vache
+p5: S.Pellegrino® 5,5€ All our drinks can be prepared with plant-based milk (oat, almond or soya) instead of cow’s milk
+p5: 50 cl
+p5: Vittel® 5€ Toutes nos boissons à base de café existent en version décaféinée
+p5: 50 cl
+p5: All our coffee drinks are also available decaffeinated
+p5: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members.
+p5: A list of the allergens present in our dishes is available upon request with any of our Cast Members, please make a Cast Member aware of any allergies you may have.
+p5: Prix nets / Tax included - 1 - produit décongelé / defrosted product
+p5: Eau potable à votre disposition / Drinking water available

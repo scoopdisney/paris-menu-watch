@@ -1,0 +1,245 @@
+p1: PASTA LOVERS
+p1: -> Pâtes fraîches faites maison au choix !
+p1: NOS CRÉATIONS
+p1: LES INCONTOURNABLES
+p1: CH IC K E N R U S T I Q U E CA R B O N A R A S A L M O N E
+p1: CARBONARA QUATTRO FORMAGGI 1 5 . 9 0 17 . 9 0
+p1: 15.90 17.90
+p1: Po ul et , p es to , c rè m e , to m a t e s c e r ises Sa u m on , c rè m e , fr om a ge i ta lie n , o i gn on,
+p1: Lardons, crème, fromage, oignons, sauce Crème, gorgonzola, fromage italien, burrata,
+p1: fondantes, oignons, une touche de œuf, persil.
+p1: c r é m e use, œuf, persil, servi avec fromage ch è v re , r oq u e tte , no is e tt es to r ré fi é e s.
+p1: balsamique, servi avec fromage italien.
+p1: it a li en . CHICKEN ALFREDO 17.50
+p1: CH I C K E N P E S T O R O S S O
+p1: 1 5 .9 0
+p1: BOLOGNESE P o u le t, c rè m e , fr o m a g e i t a li e n , m é la n g e d e
+p1: 16.50 Poulet, pesto rosso maison, pignons de pin, SCAMPI E SPINACI
+p1: 18.90 ch a m p i g n o ns , œ u f , o i g n o n s b a l s a m iq u e , a il ,
+p1: Ragoût italien de bœuf maison, oignons, céleri, tomates, piment, servi avec fromage italien.
+p1: Crevettes, pesto, crème, fromage italien, muscade, servi avec fromage italien.
+p1: carottes, tomates cerises, basilic, servi avec
+p1: TRUFFE o i g n o n s b l a n c s , to m a t e s c e rises, muscade,
+p1: fromage italien. 16.90 SCAMPI ALFREDO 19.00
+p1: p o u s s e s d ’ é p in a r d s, c i tr o n .
+p1: C r è m e d e t r u f f e , c r è m e , o ig n o n s b l a n c s , ail, vin
+p1: PESTO BASILICO 13.90 C re v e t te s , c r è m e , f r o m a g e i t a li e n , m é la n g e
+p1: bl a n c , p e r s il , s e r v i a v e c f ro m a g e i t a l ie n . SCAMPI E SALMONE 19.50
+p1: de c h a m p i g n o n s , o e u f , o i g n o n s b a l s a m iq u e ,
+p1: Pesto basilic fait maison, pignons de pin, servi
+p1: Saumon, crevettes, crème, fromage italien, ail, muscade.
+p1: avec fromage italien.
+p1: C a r b on a r a a i l, o i g n o n s , t o m a t e s c e r ises, pousses
+p1: SCAMPI E LEMON 16.90
+p1: POMODORO 13.90 S a l m o n e d ’é p i n a r d s , p e r si l, c i t r o n .
+p1: SCAMPI PICCANTE C r e v e t t e s , c it r on, fromage italien, courgettes,
+p1: Sauce tomate, oignons balsamique et 18.90
+p1: ai l , c i t r o n v e r t .
+p1: tomates cerises, servi avec fromage italien. Crevettes, crème, pesto, oignons,
+p1: CACIO E PEPE
+p1: CREMA DI FUNGHI courgettes, piments, tomates cerises, 15.30
+p1: 14.30
+p1: citron.
+p1: Mélange de champignons, crème, oignons Crème, pecorino, poivre, ail, noisettes
+p1: CHICKEN ARRABIATA
+p1: balsamique, muscade, vin blanc, persil, servi 15.90 torréfiées.
+p1: avec fromage italien. Sauce tomate, poulet, oignon, poivron et
+p1: piment confits, piment séché.
+p1: PIZZA LOVERS
+p1: -> Pâtes à pizza fraîches faites maison au choix !
+p1: Napolitaine
+p1: Pan +2€
+p1: (fine classique) (épaisse et moelleuse)
+p1: LES INCONTOURNABLES NOS CRÉATIONS
+p1: MARGHERITA REGINA DEL RE
+p1: 13.40 16.90 CANNIBALE 18.90 CARBONARA 14.90
+p1: Base tomate, mozzarella, une tomate cerise. Base tomate, mozzarella, jambon cuit Base tomate barbecue, mozzarella, pepperoni, Base crème, mozzarella, lardons, oignons
+p1: MARGHERITA DI BUFALA italien, mélange de champignons. viande hachée, scamorza,poivrons, oignons rouges, oeuf, persil.
+p1: 16.10
+p1: CALZONE JAMBON rouges, tomates séchées. BURRATA E PESTO
+p1: Base tomate, mozzarella, mozzarella di Bufala. 16.10 18.50
+p1: BBQ CHICKEN
+p1: 19.50
+p1: QUATTRO FORMAGGI Chausson garni, base tomate, mozzarella, Base crème pesto, mozzarella, burrata,
+p1: 18.90
+p1: mélange de champignons, jambon cuit Base tomate barbecue, mozzarella, poulet, tomates cerises, basilic.
+p1: Base crème, mozzarella, gorgonzola, chèvre,
+p1: i t a li e n , t h ym , r o m a r in . t o m at e s m a r i n é e s h u i l e d ’ o li ve e t a i l, CH I C K E N P I C C A N T E
+p1: 1/ 4 d e bu r r a t a , roquette, noisettes torréfiées. 1 8 . 9 0
+p1: PE P P E R O N I C L A S S I Q U E s c a m o r z a , o i g n o n s r o u g e s .
+p1: FU N G H I 1 4 . 9 0 B a s e to m a t e , p o u l e t m a r i n é , s c a m o r z a ,
+p1: 1 3 . 9 0 PE P P E R O N I S I G N A T U R E
+p1: S a u c e t o m a t e , m o z z a re ll a , p e pp e r o n i. 1 6 . 9 0 m o z z a re ll a , t o m a t e c e r is e , p i m e n t v e r t,
+p1: Base tomate, mozzarella, mélange de
+p1: Base tomate, mozzarella, pepperoni, poivrons, poivron, oignon et piment confits.
+p1: champignons.
+p1: pi m e nt s ve r ts , o ig n on s ro u g e s.
+p1: C A C I O E P E P E
+p1: CHÈVRE MIEL Calzone Jambon 1 4 . 9 0
+p1: 14.90 CH I C K E N A L F R E D O
+p1: 1 7 .9 0 B a se cr è m e, fr om a g e it a l ien, poivre, huile
+p1: Base créme, mozzarella, chèvre, miel, basilic.
+p1: Base crème, mozzarella, poulet, mélange de d’olive extra vierge, basilic.
+p1: TONNO 16.90 champignons, oignons balsamique, muscade,
+p1: Base tomate, mozzarella, thon, oignons fromage italien, persil.
+p1: rouges, persil.
+p1: BIANCA 13.40
+p1: Base crème, mozzarella, gorgonzola, basilic.
+p1: MENU BAMBINO
+p1: -> Plat + dessert + boisson au choix
+p1: 10.90 (enfants - de 10 ans)
+p1: PASTA PIZZA DESSERT BOISSON
+p1: OU
+p1: Fusilli ou penne en forme de lapin au choix au choix
+p1: BOLOGNESE MARGHERITA VERRINE CHOCO MONSTER MINUTE MAID
+p1: (orange ou pomme) 0,20L
+p1: Bœuf, oign on s, cé le ri, carottes. Sauce t om a te , m o zz arella. + MOUSSE AU CHOCOLAT + VITTEL
+p1: ou ou 0,50L
+p1: B IA N C A J A M B O N
+p1: COMPOTE À BOIRE POMME VITTEL FRAISE
+p1: ou ou 0,33L
+p1: Sauce crémeuse et fromage italien. Sauce tomate, jambon, mozzarella.
+p1: POMODORO 1 BOULE DE GLACE
+p1: ou
+p1: Vanille, chocolat ou smarties
+p1: Sauce tomate, tomates cerises
+p1: et fromage italien.
+p1: DOLCI
+p1: -> Toujours faits maison !
+p1: CHEESECAKE TIRAMISU 4.50 PANNA COTTA 4.40
+p1: 6.40
+p1: A la new-yorkaise avec des spéculoos Crème de mascarpone, biscuits à la Crème vanillée et son coulis de fraise.
+p1: et servi avec un coulis de fraise. cuillère, café, liqueur d’amaretto, cacao.
+p1: CREMA DI FRAGOLA 4.50 Gâteau
+p1: CHEESECAKE OREO TIRAMISU PISTACHE FRAISE
+p1: 6.40 4.50 Crème de mascarpone et fraises fraîches. au chocolat
+p1: Crème de mascarpone, crème de
+p1: A la new-yorkaise avec une crème CHOCO MONSTER 4.30
+p1: noisette pistache, coulis de fraise, biscuits à la
+p1: Crème vanillée, crème noisette, fraises fraîches avec des biscuits Oreo.
+p1: et des biscuits Oreo. cuillère à la fleur d’oranger, éclats de
+p1: pis ta c he s . CI T R O N S P E C U L O S 4 .5 0
+p1: GÂTEAU AU CHOCOLAT
+p1: 6.00
+p1: MO U S S E A U CHOCOLAT 4.30 C ré m e ux ci tro n , c rè m e d e m a s carpone, spéculos.
+p1: Gâteau moelleux au chocolat avec glaçage
+p1: au chocolat. Onctueuse et aérienne. RETROUVEZ L’INTÉGRALITÉ DE NOTRE CARTE SUR VAPIANO.FR
+p2: PASTA LOVERS
+p2: -> Choose your homemade fresh pasta !
+p2: OUR CREATIONS
+p2: OUR CLASSICS
+p2: CARBONARA 15.90 QUATTRO FORMAGGI CHICKEN RUSTIQUE 15.90 CARBONARA SALMONE 17.90
+p2: 17.90
+p2: Creamy Italian cheese sauce, bacon, onions, Creamy Italian cheese sauce, bacon, onions, Creamy pesto sauce, chicken, cherry Creamy Italian cheese sauce, salmon, onions,
+p2: tomatoes, onions, a touch of balsamic,
+p2: egg, parsley, served with Italian cheese. gorgonzola, burrata, goat cheese, topped with egg, parsley.
+p2: se r ve d w it h I ta l ia n ch e e s e .
+p2: BO L O G N E S E ar ug ul a a nd r oa st ed h az e l n u t s . CH I C K E N A L F R E D O
+p2: 1 6 . 5 0 1 7 .5 0
+p2: CR E M A D I F U N G H I SC A M P I E S P I N A C I
+p2: Ho m e m ad e It al i a n be e f stew, onions, celery, 1 4 . 3 0 1 8 .9 0 Cr e a m y I ta l ian c h ee s e s a u c e , c hicken,
+p2: carrots, cherry tomatoes, basil, served with Creamy sauce, mushrooms, onions balsamic, Creamy pesto sauce, shrimp, italian cheese, mushrooms, egg, balsamic onions, garlic,
+p2: Italian cheese. touch of nutmeg, white wine, parsley, served onions, cherry tomatoes, touch of nutmeg, top touch of nutmeg, served with Italian cheese.
+p2: w ith I ta lia n c h e e se. w ith s pi n a c h a nd le m o n. SC A M P I A L F R E D O
+p2: PE S T O B A S I L I C O 1 3 .9 0 1 9 . 0 0
+p2: SC A M P I E S A L M O N E
+p2: TR U F F E 16 . 9 0 19.50 Cr e am y I t ali an c h ee s e s a u c e , shrimp,
+p2: H om e m a d e b a s il p e st o , p in e nut s, served
+p2: Creamy italian cheese sauce, salmon, shrimp, mushrooms, egg, balsamic onions, garlic,
+p2: with Italian cheese. Creamy truffle sauce, onions, garlic, and white
+p2: garlic, onions, cherry tomatoes, spinach, touch of nutmeg.
+p2: POMODORO wine.
+p2: 13.90 parsley, lemon.
+p2: SCAMPI E LEMON
+p2: Tomato sauce, balsamic onions and cherry Carbonara SCAMPI PICCANTE 18.90 16.90
+p2: tomatoes, served with Italian cheese. Salmone Creamy pesto sauce, shrimp, onions, zucchini, Shrimp, lemon, Italian cheese, zucchini,
+p2: peppers, cherry tomatoes, lemon. garlic, lime.
+p2: CH I C K E N P E S T O R O S S O
+p2: 1 5 . 9 0 CHICKEN ARRABIATA
+p2: 15.90 CACIO E PEPE 15.30
+p2: Cr e a my p es to ro s so sa uc e, c hi ck e n , p in e
+p2: Tomato sauce, chicken, onion, candied bell
+p2: nuts, tomatoes, hot pepper, served with Cream, pecorino, pepper, garlic, roasted
+p2: pepper and chilli, dried chilli.
+p2: Italian cheese. hazelnuts.
+p2: PIZZA LOVERS
+p2: -> Homemade and fresh pizza dough!
+p2: Napolitaine
+p2: Pan +2€
+p2: (Classic crust) (Thick crust)
+p2: OUR CLASSICS OUR CREATIONS
+p2: MARGHERITA REGINA DEL RE CANNIBALE CARBONARA
+p2: 13.40 16.90 18.90 14.90
+p2: Tomato base, mozzarella, a cherry tomato. Tomato base, mozzarella, Italian cooked Barbecue and tomato base, mozzarella, Cream base, mozzarella, bacon, red
+p2: ham, mix of mushrooms. pepperoni, minced meat, scamorza, peppers, onions, egg, parsley.
+p2: MARGHERITA DI BUFALA 16.10
+p2: red onions, sun-dried tomatoes. BURRATA E PESTO
+p2: CALZONE JAMBON 16.10 18.50
+p2: Tomato base, mozzarella, mozzarella di Bufala. BB Q C H I C K E N
+p2: 19 . 5 0 P e s to c r e am b as e , m o z zarella, burrata,
+p2: QUATTRO FORMAGGI 18.90 F o ld ed p i z za , to m a t o b a s e , m o z za r e l la , m ix
+p2: Ba r b ec u e to m a to b a s e , mozzarella, chicken, ch e r ry t o m at o e s , b as il .
+p2: of m u sh r o o m s , I ta li a n c o o k ed h a m , t h y m e ,
+p2: C re a m b a s e , m o z z a r e l la , g o rg o n z o l a , rosemary. tomatoes marinated in olive oil and garlic,
+p2: go a t ch e e s e , 1/ 4 b u r r a t a , a ru g u la , r o a sted CHICKEN PICCANTE 18.90
+p2: sc a m or za , r ed o n i on s.
+p2: ha ze ln u t s . TO N N O 1 6 .9 0
+p2: PE P P E R O N I S I G N ATURE T o m a to b a s e, m a r in a te d c h i c k e n ,
+p2: 16.90
+p2: FU N G H I 1 3.90 To m at o b a s e , mozzarella, tuna, red sc a m o r z a , m o zz a r el la , c h e r r y t o m atoes,
+p2: onions, parsley. T o m a t o b a s e , m o z z a r e lla , p epperoni, peppers,
+p2: g re e n c h i ll ie s, candied peppers, onions
+p2: Tomato base, mozzarella, mix of mushrooms. g re e n p e p p e r s , r e d o n io n s .
+p2: an d c h il li e s .
+p2: CH È V R E M I E L
+p2: 1 4 . 9 0 Calzone Jambon CHICKEN ALFREDO 17.90 CACIO E PEPE
+p2: 14.90
+p2: Cr e am b a s e, m o z z a r e l la , goat cheese, basil,
+p2: Cream base, mozzarella, chicken, mushrooms,
+p2: drizzled with honey. Cream base, Italian cheese, pepper, extra
+p2: balsamic onions, nutmeg, Italian cheese.
+p2: PEPPERONI CLASSIQUE virgin olive oil, basil.
+p2: 14.90 BIANCA 13.40
+p2: Tomato sauce, mozzarella, pepperoni.
+p2: Cream base, mozzarella, gorgonzola, basil.
+p2: BAMBINO MENU
+p2: -> Main course + dessert + drink
+p2: 10.90(kids under 10 years old)
+p2: PASTA PIZZA DESSERT DRINK
+p2: OU
+p2: Fusilli or penne rabbit-shaped
+p2: BOLOGNESE MARGHERITA MINUTE MAID
+p2: CHOCO MONSTER VERRINE (orange or apple) 0,20L
+p2: Beef, onions, celery, carrots. Tomato sauce, mozzarella. CHOCOLATE MOUSSE + VITTEL
+p2: + or 0,50L
+p2: or
+p2: BIANCA JAMBON DRINKABLE COMPOTE STRAWBERRY VITTEL
+p2: or or 0,33L
+p2: Creamy sauce, egg and Italian cheese. Tomato sauce, ham, mozzarella. 1 ICE CREAM SCOOP
+p2: or
+p2: POMODORO
+p2: Vanilla, chocolate ou smarties
+p2: Tomato sauce, balsamic onions, cherry
+p2: DOLCI
+p2: -> Always homemade !
+p2: CREMA DI FRAGOLA
+p2: CHEESECAKE 6.40 TIRAMISU 4.50 4.50
+p2: Mascarpone cream with fresh strawberries.
+p2: New-York-Style cheesecake Graham Mascarpone, lady fingers dipped in coffee, amaretto Chocolate
+p2: cracker crust topped with strawberry liqueur, cocoa. PANNA COTTA cake
+p2: 4.40
+p2: sauce.
+p2: STRAWBERRY PISTACHIO TIRAMISU 4.50
+p2: Vanilla cream with strawberry coulis.
+p2: CH E E S E C A K E O R E O
+p2: 6 .4 0 M a s c a r p o n e , s t r a w b e r r y c o u lis , p is t ac h io c re a m , CHOCO MONSTER
+p2: 4.30
+p2: Ne w - yo rk -s t yle c h e es e ca k e w i th a hint of la d y fi n g e r s d i p p e d i n o r a n g e b lo s s o m , t o p p e d w it h
+p2: crushed pistachio. Vanilla cream, hazelnut cream, fresh strawberries with Oreo cookies.
+p2: hazelnut and Oreo cookies.
+p2: CI T R O N S P E C U L O S
+p2: MO U S S E A U C H O C O L A T 4 .5 0
+p2: CHOCOLATE CAKE 6.00 4 .3 0
+p2: Cr ea m y an d l ig h t ch oc o la te m o u s se . L e m on c r ea m , m a s ca rp o n e c r eam, speculos.
+p2: Velvety chocolate with chocolate
+p2: FIND OUR ENTIRE MENU ON VAPIANO.FR

@@ -1,0 +1,117 @@
+p1: ÀÀ VV OO
+p1: TT
+p1: DÎNER 18H00 - 22H30 EE LL CENA 18:00 - 22:30
+p1: OO
+p1: FF
+p1: DINNER 6:00 pm - 10:30 pm CENA 18.00 - 22.30
+p1: FF NN
+p1: UU
+p1: TT
+p1: BB
+p1: ÉÉ
+p1: AALLLL--YYOOUU--CCAANN--EEAATT BBUUFFFFEETT
+p1: BBUUFFÉÉ LLIIBBRREE
+p1: BBUUFFFFEETT AA VVOOLLOONNTTÀÀ
+p1: Adulte
+p1: Avec Boisson fraîche 25 cl ou Eau minérale 50 cl
+p1: Adult
+p1: With a Cold drink 25 cl or a Mineral water 50 cl
+p1: 45€
+p1: Adulto Con Refresco 25 cl o Agua mineral 50 cl
+p1: Con Bevanda fresca o Acqua minerale
+p1: 25 cl 50 cl
+p1: Adulto
+p1: Excepté le 24 et 31 décembre.
+p1: Except on December 24th and 31st.
+p1: Excepto los días 24 y 31 de diciembre.
+p1: Tranne il 24 e 31 dicembre.
+p1: Vittel® ou Jus d’orange ou pomme ou Lait
+p1: Enfant 33 cl 25 cl 20 cl
+p1: Autre boisson fraîche 25 cl sur demande en remplacement du produit proposé
+p1: Kids’
+p1: Vittel® or Orange or Apple juice or Milk
+p1: 33 cl 25 cl 20 cl
+p1: Niño
+p1: Other cold drink 25 cl may replace similar item on request
+p1: Bambino
+p1: Vittel® o Zumo de naranja o manzana o Leche
+p1: 33 cl 25 cl 20 cl
+p1: Puede solicitar cambiarlo por otro refresco de 25 cl
+p1: 25€
+p1: Pour enfants âgés de 3 à 11 ans
+p1: For children ages 3 to 11
+p1: Vittel®
+p1: o Succo di arancia o di mela o Latte
+p1: 33 cl 25 cl 20 cl
+p1: Para niños de 3 a 11 años
+p1: Per bambini da 3 a 11 anni É possibile la sostituzione con una bibita simile su richiesta
+p1: 25 cl
+p1: Excepté le 24 et 31 décembre.
+p1: Except on December 24th and 31st.
+p1: Excepto los días 24 y 31 de diciembre.
+p1: Tranne il 24 e 31 dicembre.
+p1: Dessert à partir de 2 personnes
+p1: 25€
+p1: Dessert to share for 2 or more people
+p1: Célébrez votre Anniversaire en notre compagnie et commandez votre dessert d’anniversaire en début de repas !
+p1: Postre a partir de 2 personas
+p1: Celebrate your Birthday with us. Don’t forget to order your birthday dessert before your meal! Dessert a partire da 2 persone
+p1: Celebre su Cumpleaños con nosotros y pida su postre de cumpleaños antes de empezar la comida ! Dessert à partir de 6 personnes
+p1: 45€
+p1: Dessert to share for 6 or more people
+p1: Festeggiate il vostro Compleanno in nostra compagnia e ordinate il vostro dolce all’inizio del pasto!
+p1: Postre a partir de 2 personas
+p1: Dessert a partire da 6 persone
+p1: BOISSONS / DRINKS / BEBIDAS / BEVANDE
+p1: BIÈRES / BEERS / CERVEZAS / BIRRE BOISSONS FRAICHES / COLD DRINKS
+p1: REFRESCOS / BIBITE FRESCHE 33 cl
+p1: Pression / Draught / De barril / Alla spina 25 cl 50 cl
+p1: 1664® Premium 6€ 8,8€ Coca-Cola ORIGINAL, Coca-Cola ZÉRO SUCRES 5,5€
+p1: Fanta Orange SANS SUCRES, Sprite SANS SUCRES 5,5€
+p1: Bouteille / Bottle / Botella / Bottiglia 27,5 cl 33 cl
+p1: FuzeTea Pêche Intense / Peach Black tea 5,5€
+p1: Heineken 7,5€
+p1: 1664® 0,0% sans alcool / alcohol-free 6,5€
+p1: EAUX MINÉRALES / MINERAL WATER
+p1: AGUA MINERALE / ACQUA MINERALE 50 cl 100 cl
+p1: VINS BLANCS / WHITE WINE
+p1: VINOS BLANCOS / VINI BIANCHI 75 cl
+p1: Vittel® 4,5€ 5,5€
+p1: S.Pellegrino® 4,8€ 5,8€
+p1: Bordeaux
+p1: AOC Entre-Deux-Mers - Cuvée Clémence 32€
+p1: JUS DE FRUIT / FRUIT JUICE
+p1: Vallée de la Loire
+p1: ZUMO DE FRUTA / SUCCO DI FRUTTA 25 cl
+p1: AOP Sancerre - Château de Sancerre - Sauvignon blanc 49€
+p1: Jus d’orange ou de pomme / Orange or Apple juice 5€
+p1: VINS ROSÉ / ROSÉ WINE Zumo de naranja o manzana / Succo di arancia o mela
+p1: VINOS ROSADOS / VINI ROSATI 75 cl
+p1: BOISSONS CHAUDES / HOT DRINKS
+p1: AOP Côtes de Provence - Minuty - Prestige 36€
+p1: BEBIDAS CALIENTES / BEVANDE CALDE
+p1: VINS ROUGES / RED WINE
+p1: VINOS TINTOS / VINI ROSSI 75 cl
+p1: Espresso 100% Arabica 3,5€
+p1: Bordeaux Double espresso 100% Arabica 4,5€
+p1: AOC Bordeaux - Mouton Cadet - Baron Philippe de Rothschild 38€ Café 100% Arabica / Coffee 4€
+p1: Décaféiné / Decaffeinated 3,3€
+p1: Languedoc
+p1: Cappuccino 4,8€
+p1: Cuvée Disneyland® Paris - AOP La Clape
+p1: Chocolat chaud / Hot chocolate 5€
+p1: Château L’Hospitalet - Bio - Demeter 35€
+p1: 62/30
+p1: Thé, infusion / Tea, herbal tea 4€
+p1: -
+p1: yensiD
+p1: ©
+p1: Eau potable à disposition - Prix nets Drinking water available - Precios netos
+p1: Un recueil d’information sur la présence d’allergènes dans nos plats est disponible, Disponemos de una lista con información sobre la presencia de alérgenos
+p1: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members. en nuestros platos, no dude en solicitarla a nuestros Cast Members.
+p1: Le prix du buffet sera facturé à toute personne installée en salle. El precio del bufé se facturará a todas las personas que se sienten en el comedor.
+p1: Agua potable disponible Tax included Acqua potabile disponibile Prezzi netti
+p1: A list of the allergens present in our dishes is available upon request with any of our Una raccolta di informazioni sulla presenza di allergeni nei nostri piatti
+p1: Consultez le menu
+p1: Cast Members; please make a Cast Member aware of any allergies you may have. è a vostra disposizione, non esitate a richiederla a uno dei nostri Cast Member.
+p1: The price of the buffet will be charged to any person seated in the restaurant. Il costo del buffet verrà addebitato a tutti gli ospiti seduti in sala. Check out our menu
