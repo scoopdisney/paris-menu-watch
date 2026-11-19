@@ -5,13 +5,12 @@ p2: XXL
 p2: HOT-DOG _______________ 27 €
 p2: Saucisse de volaille, moutarde américaine,
 p2: ketchup et oignons frits
-p2: Chicken sausage, american mustard,
-p2: SANDWICH CHAUD À L'ITALIENNE 33 €
+p2: Chicken sausage, american mustard, SANDWICH CHAUD À L'ITALIENNE 33 €
 p2: ketchup and fried onions
-p2: Pâte à pain croustillante avec jambon cru italien, roquette, pesto,
-p2: tomates confites, olives et Stracciatella
-p2: Crusty bread filled with prosciutto, rocket leaves, pesto, sun-dried
-p2: tomatoes, olives and Stracciatella
+p2: Pâte à pain croustillante avec jambon cru, roquette, pesto, tomates confites,
+p2: olives et Stracciatella
+p2: Crusty bread filled with prosciutto, rocket leaves, pesto, sun-dried tomatoes,
+p2: olives and Stracciatella
 p2: POUR + DE GOURMANDISE
 p2: Avec sauce Accompagné de chili aux
 p2: au cheddar arôme fumé +2 € protéines de soja +8,5 €
@@ -29,7 +28,7 @@ p2: Prosciutto, salami, coppa, pancetta, mortadella with pistachio and marinated
 p2: PLANCHE DE FROMAGES
 p2: DES RÉGIONS FRANÇAISES ________________ 16 € _____________26 €
 p2: FRENCH CHEESE BOARD
-p2: Comté AOP, Saint-Nectaire AOP, Fourme d’Ambert AOP, Cantal Entre Deux AOP,
+p2: Comté AOP, Saint-Nectaire AOP, Fourme d’Ambert AOP, Cantal Entre Deux AOP
 p2: et chèvre frais. Accompagnés d’une préparation à la cerise au chocolat
 p2: et piment d’Espelette
 p2: Comté PDO, Saint-Nectaire PDO, Fourme d’Ambert PDO, Cantal Entre Deux PDO,
@@ -65,7 +64,7 @@ p3: _______________________+3,5 €
 p3: Avec quartiers de pommes de terre frits
 p3: With fried potato wedges
 p3: SOUPE DU MOMENT, ET CROÛTONS ________________ 8 €
-p3: SOUP OF THE DAY KIRI®, AND CROUTONS
+p3: SOUP OF THE DAY, KIRI® AND CROUTONS
 p3: CHIPS LAY’S® GOURMET / 4,3 €
 p3: (40 g) CRISPS
 p4: SNACKS CHAUDS / NOS
@@ -82,51 +81,48 @@ p4: FRIED POTATO WEDGES
 p4: BABY BACK RIBS 14 €
 p4: ______________________
 p4: BOUCHÉES DE POMMES
-p4: Travers de porc au sirop d’érable et sauce soja
-p4: DE TERRE FRITES 6,5 €
+p4: Travers de porc au sirop d’érable et sauce soja DE TERRE FRITES 6,5 €
 p4: ______________
-p4: Pork ribs with maple syrup and soy sauce
-p4: FRIED POTATO TOTS
-p4: VEGAN SANDWICH
-p4: POUR + DE GOURMANDISE
+p4: Pork ribs with maple syrup and soy sauce FRIED POTATO TOTS
+p4: VEGAN SANDWICH POUR + DE GOURMANDISE
 p4: CHAUD 15 €
 p4: _____________________________
 p4: + Sauce au cheddar arôme fumé _____ +2 €
 p4: Pain hot-dog, laitue, nuggets aux protéines
-p4: de pois , pico de gallo Smoked flavoured cheddar sauce
-p4: et sauce végétale façon tartare
+p4: Smoked flavoured cheddar sauce
+p4: de pois , pico de gallo
 p4: + Sauce au cheddar arôme fumé,
-p4: SANDWICH CHAUD
-p4: Hot dog roll, lettuce, pea protein nuggets, +3,5 €
-p4: bacon et oignons frits ________________
-p4: pico de gallo and tartare sauce ET CROUSTILLANT _____________________12 €
-p4: Smoked flavoured cheddar sauce,
+p4: et sauce végétale façon tartare SANDWICH CHAUD
+p4: +3,5 €
+p4: Hot dog roll, lettuce, pea protein nuggets, bacon et oignons frits ________________
+p4: ET CROUSTILLANT _____________________12 €
+p4: pico de gallo and vegan tartare sauce Smoked flavoured cheddar sauce,
 p4: HOT CRISPY SANDWICH
 p4: bacon and fried onions
 p4: Au jambon blanc et fromages
 p4: SANDWICH CHAUD BRETZEL 16 €
-p4: ____
-p4: HOT PRETZEL SANDWICH Boiled ham and cheese
-p4: SALADE MÉLANGÉE, CROÛTONS
+p4: ____ Boiled ham and cheese
+p4: HOT PRETZEL SANDWICH SALADE MÉLANGÉE, CROÛTONS
+p4: ET VINAIGRETTE
 p4: Effiloché de poulet barbecue, oignons caramélisés,
-p4: TORTILLA À L'AGNEAU 17 € ET VINAIGRETTE
-p4: pickles de chou rouge, sauce au poivre _____________
-p4: LAMB TORTILLA AGRUMES ________________________ 6,5 €
-p4: Pulled BBQ chicken, caramelised onions,
+p4: TORTILLA À L'AGNEAU _____________ 17 €
+p4: AGRUMES ________________________ 6,5 €
+p4: pickles de chou rouge, sauce au poivre LAMB TORTILLA
 p4: MIXED SALAD WITH CROUTONS
-p4: pickled red cabbage, peppercorn sauce Effiloché d'agneau, salade, avocat,
-p4: AND CITRUS DRESSING
-p4: Avec quartiers de pommes de terre frits ___+3,5 € sauce au poivre et Pico de Gallo
-p4: Pulled lamb, lettuce, avocado,
+p4: Pulled BBQ chicken, caramelised onions,
+p4: Effiloché d'agneau, salade, avocat, AND CITRUS DRESSING
+p4: pickled red cabbage, peppercorn sauce
+p4: sauce au poivre et Pico de Gallo
+p4: Avec quartiers de pommes de terre frits ____+3,5 €
+p4: Pulled lamb, lettuce, avocado, CHILI AUX PROTÉINES
 p4: With fried potato wedges
-p4: peppercorn sauce and Pico de Gallo CHILI AUX PROTÉINES
-p4: DE SOJA 8,5 €
+p4: peppercorn sauce and Pico de Gallo DE SOJA 8,5 €
 p4: ____________________
 p4: SOYA PROTEIN CHILLI
 p4: NOS PLATS
 p4: COMPLETS FISH & CHIPS __________________________21,5 €
-p4: sauce tartare et citron
-p4: tartare sauce and lemon
+p4: Sauce tartare et citron
+p4: Tartare sauce and lemon
 p4: OUR COMPLETE DISHES
 p4: AIGUILLETTES DE POULET PANÉES, MAC & CHEESE CHICKEN _______ 18 € PÂTES SERPENTINI AU CHILI ___17 €
 p4: ET QUARTIERS DE POMMES SERPENTINI PASTA WITH CHILLI
@@ -149,9 +145,9 @@ p5: NOS SALADES
 p5: OUR SALADS
 p5: SALADE BIEN-ÊTRE __________________________________________ 19 €
 p5: WELLNESS BOWL
-p5: Salade, radis, concombre, oignons rouges, tomate, olives, baies de goji, graines de
-p5: courge, dés végétaux à la grecque, fèves de soja et sauce végétale aux cornichons
-p5: et herbes fraîches
+p5: Salade, radis, concombre, oignons rouges, tomate, olives, baies de goji, graines
+p5: de courge, dés végétaux à la grecque, fèves de soja et sauce végétale
+p5: aux cornichons et herbes fraîches
 p5: Lettuce, radish, cucumber, red onion, tomato, olives, goji berries, squash seeds,
 p5: greek-style plant-based cubes, soya beans, vegan pickle and fresh herb sauce
 p5: SALADE CÉSAR AU POULET PANÉ 20 €
@@ -338,11 +334,11 @@ p9: bleu de fruit de la passion, concentré saveur citron vert,
 p9: ananas frais, coco râpée et spiruline
 p9: coulis de fraise
 p9: Trois Rivières white rum, coconut purée, pineapple
-p9: Smirnoff N°21 Red vodka, blue passion fruit and
+p9: Smirnoff N°21 Red vodka, blue passion fruit
 p9: juice2, blue passion fruit syrup, fresh pineapple,
-p9: hibiscus flavour syrup, lime concentrate, strawberry
+p9: and hibiscus flavour syrup, lime concentrate,
 p9: grated coconut and spirulina
-p9: coulis
+p9: strawberry coulis
 p9: LA CEINTURE BLANCHE 12,5 €
 p9: (14 cl) ____
 p9: RING MEXICAIN (8 cl) x 3 _____________ 12,5 €
@@ -424,7 +420,7 @@ p10: 8,5 € 38 €
 p10: Bio - Demeter ________________________ __
 p10: AOC Bourgogne
 p10: 8,5 € 38 €
-p10: La Chablisienne - Sauvignon _________ __
+p10: La Chablisienne - Chardonnay _______ __
 p10: BOISSONS FRAÎCHES
 p10: VINS ROSÉS / ROSÉ WINE
 p10: 6,5 € 30 €
@@ -440,7 +436,7 @@ p10: VINS ROUGES / RED WINE
 p10: Tonic Water Original bio, Tonic saveur Méditerranéen, PEACH BLACK TEA
 p10: AOC Côtes du Rhône
 p10: Tonic saveur Fleur de sureau, Tonic Water Concombre bio,
-p10: TROPICO ORIGINAL ________________________ 5 €
+p10: TROPICO TROPICAL ________________________ 5 €
 p10: Soda Craft Pamplemousse bio Esprit - Brotte 6,5 € 30 €
 p10: ________________________ __
 p10: BUNDABERG TRADITIONAL
@@ -670,7 +666,7 @@ p15: DE TERRE FRITS __________ 10,5€
 p15: 12,5€
 p15: Sprite Sans Sucres, Fanta Orange Sans Sucres,
 p15: BAKED CAMEMBERT WITH FRIED
-p15: FuzeTea Saveur Pêche ou Tropico Original
+p15: FuzeTea Saveur Pêche ou Tropico Tropical
 p15: POTATO WEDGES
 p15: JUS DE FRUIT (25 cl) 4,3 € 3€
 p15: ___________________
