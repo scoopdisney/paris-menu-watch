@@ -1,0 +1,123 @@
+p1: V.004
+p1: BUFFET à VOLONTÉ
+p1: ``ALL-YOU-CAN-EAT ´´ BUFFET
+p1: 1 ADULTE / ADULT
+p1: 45€
+p1: Boisson fraîche ou eau minérale
+p1: (33 cl) (50 cl)
+p1: A Cold Drink or A Mineral Water
+p1: (33 cl) (50 cl)
+p1: C
+p1: / CHILD
+p1: 2 ENFANT
+p1: 25€
+p1: POUR ENFANTS ÂGÉS DE 3 À 11 ANS / FOR CHILDREN AGED FROM 3 TO 11
+p1: Vittel®
+p1: ou Minute Maid Orange, Pomme
+p1: (33 cl)
+p1: ou Lait
+p1: (20 cl)
+p1: Vittel® or Minute Maid Orange, Apple
+p1: (33 cl)
+p1: or Milk
+p1: (20 cl)
+p1: MAGNIFICATION 300%
+p1: AUTRE BOISSON FRAÎCHE (25 CL) SUR DEMANDE ET EN REMPLACEMENT DU PRODUIT PROPOSÉ.
+p1: OTHER COLD DRINK (25 CL) MAY REPLACE SIMILAR ITEM ON REQUEST.
+p1: 2
+p1: 3
+p1: 1
+p1: CÉLÉBREZ VOTRE ANNIVERSAIRE
+p1: EN NOTRE COMPAGNIE
+p1: 35€
+p1: CELEBRATE YOUR BIRTHDAY WITH US
+p1: ET COMMANDEZ VOTRE DESSERT D’ANNIVERSAIRE EN DÉBUT DE REPAS !
+p1: DON’T FORGET TO ORDER YOUR BIRTHDAY DESSERT BEFORE YOUR MEAL!
+p1: DESSERT JUSQU’À 8 PERSONNES I DESSERT UP TO 8 PEOPLE
+p1: BOISSONS DRINKS
+p1: 1 COCKTAIL SIGNATURE 6 BIÈRES I BEERS
+p1: SIGNATURE COCKTAIL
+p1: PRESSION I DRAUGHT
+p1: Spritz bleu et baies de Goji ......................................................15.50€ 1664® Premium...............................................(25 5.50€ 8€
+p1: cl) .........(50 cl)
+p1: Chardonnay bleu effervescent, Vermouth blanc, Perrier®, baies de Goji
+p1: BOUTEILLES I BOTTLED
+p1: Blue Spritz and Goji Berries
+p1: Chouffe cerise ...........................................................................7.50€
+p1: Perrier® (33 cl)
+p1: Sparkling Blue Chardonnay, White Vermouth, and Goji Berries
+p1: Grimbergen d’Abbaye rouge ................................................7€
+p1: (33 cl)
+p1: 2
+p1: MOCKTAIL SIGNATURE Lindemans framboise ...............................................................7€
+p1: (25 cl)
+p1: SIGNATURE MOCKTAIL
+p1: 7 VINS I WINE
+p1: Mocktail à particules et son sérum de fruits rouges ..............10.50€
+p1: Sprite sans sucres, sirop saveur curaçao bleu, nectar de canneberge*,
+p1: BLANC I WHITE .............................(15
+p1: purée de griottes, jus de citron frais, perles aromatisées à la fraise cl) ..............(37,5 cl) ..........(75 cl)
+p1: Chablis AOC - «La Pierrelée»
+p1: Particles Mocktail and Red Fruits Serum
+p1: Sprite sans sucres, Blue Curaçao Flavour Syrup, Cranberry Nectar*, La Chablisienne .....................................11€ .................27€ .........43€
+p1: Cherries Puree, Lemon Juice and Strawberry Flavour Pearls
+p1: ROSÉ I ROSÉ
+p1: 3 BIÈRES SIGNATURE
+p1: Côtes de Provence AOC
+p1: SIGNATURE BEERS
+p1: Prestige de Minuty .............................10€ ......(50 24€ ........38€
+p1: cl)
+p1: Bières rouges à petite échelle ROUGE I RED
+p1: (4 x 6 cl)
+p1: avec Règlette et ses mini verres à bière (à emporter) ...19€ Bordeaux AOC - Mouton Cadet
+p1: Dégustation de quatre bières rouges (Chouffe cerise, Grimbergen d’Abbaye rouge, Baron Philippe de Rothschild ............10€ .................24€ ........38€
+p1: Lindemans framboise et 1664® Premium à la purée de griottes)
+p1: ou Quatre bières blondes 1664® Premium
+p1: Small Scale Red Beers 8 BOISSONS FRAÎCHES I COLD DRINKS
+p1: (4 x 6 cl)
+p1: with Mini-Beer Glasses and Ruler Board
+p1: (to take away)
+p1: Coca-Cola Original, Coca-Cola Sans Sucres,
+p1: Tasting of Four Red Beers (Cherry Chouffe, Red Grimbergen, Raspberry Lindemans
+p1: Fanta Orange sans sucres, Sprite sans sucres ..........5€
+p1: and 1664® Premium with Cherry Puree) (33 cl)
+p1: or Four 1664® Premium Blond Fuze Tea Pêche Intense I Intense Peach ..............5€
+p1: (33 cl)
+p1: Minute Maid Orange ou Pomme I Orange or Apple....(20 4.50€
+p1: cl)
+p1: 4 VINS SIGNATURE
+p1: Vittel® 4€ 5€
+p1: ....................................................................(50 cl) ...........(100 cl)
+p1: SIGNATURE WINE
+p1: S.Pellegrino® 4.50€ 5.50€
+p1: ...............................................(50 cl) .......(100 cl)
+p1: Perrier® Fines Bulles 4.50€ 5.50€
+p1: Vin rouge Brouilly dans son tube à particules ............8€ ..............................(50 cl) .......(100 cl)
+p1: (10 cl)
+p1: Perrier® ...............................................................................................4€
+p1: (33 cl)
+p1: Brouilly Red Wine In Its Particles Tube
+p1: (10 cl)
+p1: Brouilly AOC - Château de la Chaize
+p1: 9
+p1: Vin blanc Orange Gold - Vin de France SOUVENIR
+p1: 9€ 43€
+p1: Gérard Bertrand BIO ................................(15 cl) ..........(75 cl)
+p1: Le Souvenir PYM Kitchen I PYM Kitchen Souvenir .........15€
+p1: Réglette et ses mini verres à bière (sans boisson)
+p1: 5 BOISSON ALCOOLISÉE SIGNATURE
+p1: Mini-Beer Glasses and Ruler Board (without Drink)
+p1: SIGNATURE ALCOHOLIC DRINK
+p1: 9€ 15€ 28€
+p1: Chardonnay Bleu ................(15 cl) ...........(25 cl) .........(50 cl)
+p1: Le paiement sans contact
+p1: Blue Chardonnay sera encouragé
+p1: Consultez le menu
+p1: Contactless payment
+p1: will be encouraged Check out our menu
+p1: Chers visiteurs allergiques, nous tenons à votre disposition un recueil d’informations sur la présence d’allergènes dans nos plats,
+p1: n’hésitez pas à le demander à l’un des responsables du restaurant.
+p1: If you suffer from food allergies, a Cast Member will be pleased to provide you with information on allergens present in our dishes.
+p1: *Jus à base de concentré / Made from concentrated.
+p1: Prix nets / Tax Included - ©Disney - 11/22
+p1: PYML5000-1 Exterior Menu-408x780-dec2022.indd 1 21/11/2022 11:32

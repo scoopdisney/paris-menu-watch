@@ -1,0 +1,297 @@
+p1: HORAIRES D’OUVERTURE DE 18H00 À 22H30 OPENING HOURS FROM 6:00 PM TO 10:30 PM
+p1: BUFFET À VOLONTÉ
+p1: ALL YOU CAN EAT BUFFET
+p1: ADULTE / ADULT
+p1: BOISSON FRAÎCHE 25 CL
+p1: 35€
+p1: OU EAU MINÉRALE
+p1: 50 CL
+p1: A COLD DRINK
+p1: 25 CL
+p1: OR A MINERAL WATER
+p1: 50 CL
+p1: ENFANT / KIDS’ VITTEL®
+p1: 33 CL
+p1: 20€
+p1: OU JUS D’ORANGE OU DE POMME
+p1: 25 CL
+p1: OU LAIT
+p1: 20 CL
+p1: POUR ENFANTS ÂGÉS DE 3 À 11 ANS Autre boisson fraîche 25 cl sur demande et en remplacement
+p1: du produit proposé.
+p1: FOR CHILDREN AGES 3 TO 11
+p1: VITTEL® 33 CL
+p1: Excepté le 24 et 31 décembre.
+p1: OR ORANGE OR APPLE JUICE 25 CL
+p1: OR MILK Except on December 24th and 31st.
+p1: 20 CL
+p1: Other cold drink 25 cl may replace similar item on request
+p1: APÉRITIFS VINS ROSÉS / ROSÉ WINE
+p1: Mocktail Signature
+p1: 4 CL 6 CL 75 CL
+p1: Dolin - Vermouth de Chambéry IGP Pays d’Oc - Gris blanc. ................................. 30€
+p1: Route 66 9,5€
+p1: Blanc ou rouge ........................................................... AOP Côtes de Provence - Minuty - Prestige ..............
+p1: 6,5€ 33€
+p1: Jus d’ananas(1), nectar de fruit de passion(1), Ricard - Pastis de Marseille ........................
+p1: 6,5€ BOISSONS FRAÎCHES / COLD DRINKS
+p1: 33 CL
+p1: Verjus, sirop saveur curaçao bleu et piment d’Espelette
+p1: SPIRITEUX & LIQUEURS 4,2€
+p1: Pineapple juice(1), passion fruit nectar(1), 4 CL
+p1: Verjus, curacao flavour syrup and Espelette pepper
+p1: Rhum blanc Trois Rivières......................................... 7,5€
+p1: Whisky Johnnie Walker Red Label .......................... 8,5€
+p1: Cocktails Signature
+p1: Gin Engine - Bio .........................................................
+p1: 9€
+p1: Get 27 ............................................................................. 7,5€
+p1: Margarita Tropical 12,5€ EAUX MINÉRALES / MINERAL WATERS
+p1: 50 CL 100 CL
+p1: VINS 1/4 DE BOUTEILLE / 1/4 WINE BOTTLE
+p1: 18,7 CL Vittel® ..................................................3,8€ .........
+p1: Téquila José Cuervo, liqueur de curaçao bleu, 4,8€
+p1: jus d’ananas(1), nectar de fruit de la passion(1), Blanc / White ........................ S.Pellegrino® .......................................4€ ...........
+p1: IGP Pays d’Oc - Gio blanc 8€ 5€
+p1: Verjus et piment d’Espelette
+p1: Rouge / Red IGP Pays d’Oc - Gio rouge .......................... 8€
+p1: JUS DE FRUITS / FRUIT JUICES
+p1: José Cuervo tequila, blue curacao liqueur, pineapple juice(1), Rosé ....................................... 25 CL
+p1: IGP Pays d’Oc - Gris blanc 8€
+p1: passion fruit nectar(1), Verjus and Espelette pepper
+p1: Jus d’orange ou de pomme / ................................
+p1: 4,3€
+p1: VINS AU PICHET / JUG OF WINE
+p1: 50 CL
+p1: Orange or apple juice
+p1: CHAMPAGNE & VIN EFFERVESCENT / CHAMPAGNE & SPARKLING WINE
+p1: 75 CL
+p1: Blanc / White .............
+p1: IGP Pays d’Oc - Sauvignon blanc 21€
+p1: BOISSONS CHAUDES / HOT DRINKS
+p1: Edition Spéciale Disneyland® Paris
+p1: Rouge / Red IGP Pays d’Oc - Merlot ........................... 21€
+p1: Champagne Pierre Mignon Grande Réserve - brut. ..77€ Espresso 100% Arabica ......................................
+p1: Rosé IGP Méditerranée - Brise Marine ........................... 21€ 3,5€
+p1: Double espresso 100% Arabica..............................
+p1: Italie : Spumante Prosecco DOC .......................30€ 4€
+p1: VINS BLANCS / WHITE WINE
+p1: 75 CL
+p1: Café 100% Arabica / Coffee .............................. 3,8€
+p1: BIÈRE PRESSION / DRAUGHT BEER
+p1: 25 CL 50 CL Décaféiné / Decaffeinated .................................
+p1: IGP Pays d’Oc - Naturalys - Gérard Bertrand - Chardonnay - Bio ... 30€ 3,3€
+p1: 1664® Premium AOC Bordeaux - Agneau Blanc Cappuccino .........................................................
+p1: ................................................ 5,5€ .......... 8,5€ 4,2€
+p1: Baron Philippe de Rothschild ............................. 30€
+p1: Grimbergen blonde Café au lait / Coffee with milk ............................... 4,2€
+p1: ........................................ 5,5€ ........... 8,5€
+p1: Cuvée Disneyland® Paris - AOP La Clape
+p1: Chocolat chaud / Hot chocolate. ........................
+p1: 4,4€
+p1: Château L’Hospitalet - Bio - Demeter ................
+p1: BIÈRE & CIDRE BOUTEILLE / BOTTLED BEER AND CIDER 38€
+p1: 33 CL
+p1: Thé, infusion / Tea, herbal tea ............................
+p1: 3,8€
+p1: Desperados ........................................................ 7,5€ VINS ROUGES / RED WINE
+p1: 75 CL
+p1: Lait demi-écrémé / Milk semi-skimmed ...... 20 cl 3,5€
+p1: Corona Extra ......................................................
+p1: 7,5€
+p1: IGP Pays d’Oc - Naturalys - Gérard Bertrand - Merlot - Bio .... 30€
+p1: La Mordue Original - Cidre aromatisé .....27,5 CL 7€
+p1: AOC Bordeaux - Agneau Blanc
+p1: gnidnib-non
+p1: Baron Philippe de Rothschild ............................. 30€
+p1: era
+p1: (1)jus à base de concentré de fruit (1)made from concentrated fruit juice sotohp
+p1: Drinking water available
+p1: Eau potable à disposition
+p1: Prix nets Tax included noitatneserP
+p1: PETIT-DÉJEUNER
+p1: Un recueil d’information sur la présence A list of the allergens present in our dishes
+p1: d’allergènes dans nos plats est disponible, is available upon request with any of
+p1: BREAKFAST
+p1: n’hésitez pas à vous signaler et à le demander our Cast Members; please make a Cast Member
+p1: CÉLÉBREZ VOTRE ANNIVERSAIRE
+p1: à l’un de nos Cast Members aware of any allergies you may have
+p1: 7:00 11:00 /
+p1: DE 7H00 À 11H00 - FROM AM TO AM EN NOTRE COMPAGNIE ET COMMANDEZ
+p1: Le prix du buffet sera facturé à toute personne The price of the buffet will be charged to any person selleutcartnoc-non
+p1: installée en salle VOTRE DESSERT D’ANNIVERSAIRE EN DÉBUT DE REPAS ! seated in the restaurant
+p1: ADULTE / ADULT
+p1: CELEBRATE
+p1: 22€
+p1: YOUR BIRTHDAY
+p1: sotohP
+p1: WITH US – DON’T FORGET TO ORDER
+p1: ENFANT / KIDS’
+p1: YOUR BIRTHDAY DESSERT BEFORE YOUR MEAL!
+p1: 62/30
+p1: 18€
+p1: DESSERT TO SHARE FOR –
+p1: DESSERT À PARTIR DE /
+p1: yensiD©
+p1: Consultez le menu
+p1: 25€ 45€
+p1: Réservation nécessaire à la réception de l’Hôtel 2 PERSONNES 6 PERSONNES
+p1: Check out our menu
+p1: Reservation needed at the hotel reception 2 OR MORE PEOPLE 6 OR MORE PEOPLE
+p2: ÖFFNUNGSZEITEN 18.00 UHR BIS 22.30 UHR
+p2: ABIERTO DE 18 HORAS A 22:30 HORAS
+p2: BUFÉ LIBRE
+p2: ALL-YOU-CAN-EAT BUFFET
+p2: ADULT0 / ERWACHSENE
+p2: REFRESCO 25 CL
+p2: 35€
+p2: O AGUA MINERAL
+p2: 50 CL
+p2: ERFRISCHUNGSGETRÄNK
+p2: 25 CL
+p2: ODER MINERALWASSER
+p2: 50 CL
+p2: NIÑO / KIND VITTEL® 33 CL
+p2: 20€
+p2: O ZUMO DE NARANJA O DE MANZANA 25 CL
+p2: O LECHE 20 CL
+p2: Puede solicitar cambiarlo por otro refresco de 25 cl
+p2: PARA NIÑOS DE 3 A 11 AÑOS
+p2: FÜR KINDER VON 3 BIS 11 JAHREN VITTEL® 33 CL
+p2: ODER ORANGEN- ODER APFELSAFT 25 CL
+p2: Excepto los días 24 y 31 de diciembre.
+p2: ODER MILCH 20 CL
+p2: Auf Anfrage kann für ein gleichwertiges getränk ein anderer Außer am 24. und 31. Dezember.
+p2: softdrink 25 cl bestellt werden
+p2: VINOS ROSADOS / ROSÉWEINE
+p2: Mocktail Signature
+p2: APERITIVOS / APÉRITIFS 75 CL
+p2: 4 CL 6 CL
+p2: IGP Pays d’Oc - Gris blanc. .................................. 30€
+p2: Dolin - Vermouth de Chambéry
+p2: Route 66 9,5€
+p2: AOP Côtes de Provence - Minuty - Prestige rosé ........
+p2: 33€
+p2: Blanc ou rouge ........................................................... 6,5€
+p2: piña(1), pasión(1), Ricard - Pastis de Marseille BEBIDAS REFRESCANTES / ERFRISCHUNGSGETRÄNKE
+p2: Zumo de néctar de fruta de la verjus .............................. 6,5€
+p2: 33 CL
+p2: -zumo de uva verde-, sirope de pimiento de Espelette
+p2: LICORES Y BEBIDAS ESPIRITUOSAS / SPIRITUOSEN UND LIKÖRE
+p2: 4,2€
+p2: 4 CL
+p2: Ananassaft(1), Passionsfruchtnektar(1),
+p2: Verjus - Saft von grünen Trauben, Sirup von Rhum blanc Trois Rivières......................................... 7,5€
+p2: Whisky Johnnie Walker Red Label ..........................
+p2: 8,5€
+p2: Cocktails Signature
+p2: Gin Engine - Bio ......................................................... 9€
+p2: Get 27 .............................................................................
+p2: 7,5€
+p2: AGUA MINERAL / MINERALWASSER
+p2: Margarita Tropical 12,5€ 50 CL 100 CL
+p2: CUARTO BOTELLA / VIERTE FLASCHE
+p2: 18,7 CL
+p2: Vittel® ..................................................3,8€ ...........4,8€
+p2: Tèquila José Cuervo, licor de curaçao azul, zumo de piña(1),
+p2: Blancos / Weißwein ..........
+p2: IGP Pays d’Oc - Gio blanc 8€
+p2: S.Pellegrino® .......................................4€ .............5€
+p2: néctar de fruta de la pasión(1), verjus - zumo de uva verde,
+p2: Rojos / Rotweine ..........
+p2: IGP Pays d’Oc - Gio rouge 8€
+p2: guindilla de Espelette
+p2: ZUMO DE FRUTA / SÄFTE
+p2: Rosados / Roséweine IGP Pays d’Oc - Gris blanc .......... 8€ 25 CL
+p2: Tèquila José Cuervo, Blue Curaçao Likör, Ananassaft(1),
+p2: Jugo de naranja o manzana / ........................................... 4,3€
+p2: Passionsfruchtnektar(1), Verjus - grüner Traubensaft, Piment d’Espelette JARRA DE VINO / WEINHAUG
+p2: 50 CL
+p2: Orangen- oder Apfelsaft
+p2: Blancos / Weißwein .
+p2: IGP Pays d’Oc - Sauvignon blanc 21€
+p2: CHAMPAGNE & CAVA / CHAMPAGNE & SPRÜDELWEIN
+p2: 75 CL BEBIDAS CALIENTES / HEISSE GETRÄNKE
+p2: Rojos / Rotweine IGP Pays d’Oc - Merlot ............ 21€
+p2: Edition Spéciale Disneyland® Paris
+p2: Rosados / Roséweine Espresso 100% Arábica ..................................... 3,5€
+p2: IGP Méditerranée - Brise Marine 21€
+p2: Champagne Pierre Mignon Grande Réserve - brut. ..77€
+p2: Double espresso 100% Arábica ......................... 4€
+p2: VINOS BLANCOS / WEISSWEIN
+p2: 75 CL
+p2: Italie : Spumante Prosecco DOC .......................30€
+p2: Café 100% Arábica / Coffee .............................
+p2: 3,8€
+p2: IGP Pays d’Oc - Naturalys - Gérard Bertrand - Chardonnay - Bio ...
+p2: CERVEZA DE BARRIL / BIER VOM FASS 30€ Descafeinado / Entkoffeinierten ....................... 3,3€
+p2: 25 CL 50 CL
+p2: AOC Bordeaux - Agneau Blanc Cappuccino ........................................................
+p2: 4,2€
+p2: 1664® Premium ......................................5,5€ ........ 8,5€ Baron Philippe de Rothschild .............................
+p2: 30€
+p2: Café con leche / Kaffee mit milch .....................
+p2: 4,2€
+p2: Grimbergen blonde . ...............................5,5€ ........
+p2: 8,5€ Cuvée Disneyland® Paris - AOP La Clape
+p2: Chocolate caliente / Heiße schokolade ............ 4,4€
+p2: Château L’Hospitalet - Bio - Demeter ................ 38€
+p2: Té, Infusión / Tee, infusion ................................. 3,8€
+p2: VINOS TINTOS / ROTWEINE
+p2: BOTELLA DE CERVEZA Y SIDRA / FLASCHE BIER ND APFELWEIN 75 CL
+p2: 33 CL
+p2: Leche semidesnatada / Teilentrahmte milch ...... 3,5€
+p2: 25 CL
+p2: Desperados ......................................................... 7,5€ IGP Pays d’Oc - Naturalys - Gérard Bertrand - Merlot - Bio .... 30€
+p2: AOC Bordeaux - Agneau Blanc
+p2: Corona Extra ...................................................... 7,5€
+p2: Baron Philippe de Rothschild ............................. 30€
+p2: La Mordue Original - Cidre aromatisé 27,5 CL
+p2: .. 7€
+p2: dnednib
+p2: (1)zumo concentrado de frutas (1)saft aus Konzentrat Frucht
+p2: hcilgartrev
+p2: Agua potable a disposicón Trinkwasser verfügbar
+p2: Precios netos DESAYUNO Inklusive Steuern
+p2: Disponemos de una lista con información sobre la Unsere Mitarbeitenden halten eine Aufstellung
+p2: thcin
+p2: presencia de alérgenos en nuestros platos, no dude FRÜHSTÜCK aller in unseren Gerichten vorhandener
+p2: en solicitarla a nuestros Cast Members. Allergene auf Anfrage für Sie bereit.
+p2: Celebre su cumpleaños
+p2: sotoF
+p2: 07:00 HORAS A 11:00 HORAS
+p2: El precio del bufé se facturará a todas las personas Der Preis für das Buffet wird jeder Person in Rechnung
+p2: 07.00 UHR BIS 11.00 UHR con nosotros y pida su postre de cumpleaños
+p2: que se sienten en el comedor. gestellt, die im Saal Platz genommen hat.
+p2: /
+p2: antes de empezar la comida !
+p2: selautcartnoc
+p2: ADULTO / ERWACHSENE
+p2: 22€
+p2: Feiern Sie bei uns Ihren Geburtstag
+p2: on
+p2: und bestellen Sie zu Beginn Ihrer Mahlzeit
+p2: sotoF
+p2: NIÑO / KIND eine köstliche Nachspeise!
+p2: 62/30
+p2: 18€
+p2: DESSERT FÜR MINDESTENS –
+p2: POSTRE A PARTIR /
+p2: yensiD©
+p2: Consultez le menu
+p2: Se requiere reservación en la recepción del hotel 25€ 45€
+p2: 2 PERSONAS 6 PERSONAS
+p2: Reservierungen für Rezeption des Hotels erforderlich Check out our menu
+p2: 2 PERSONEN 6 PERSONEN
+p3: noitatneserP
+p3: gnidniB-noN
+p3: /
+p3: selleutcartnoc-non
+p3: Consultez les prix des menus
+p3: sotohP
+p3: Check out the menu prices
+p3: Consulte los precios de los menú
+p3: –
+p3: 62/30
+p3: –
+p3: yensiD©

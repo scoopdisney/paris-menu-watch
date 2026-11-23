@@ -1,0 +1,107 @@
+p1: Réservation fortement conseillée à la réception ou sur l’application Disneyland® Paris / Reservation recommended at the reception desk or on the Disneyland® Paris application
+p1: Reservierung an der Rezeption oder über die Disneyland® Paris-App empfohlen / Se recomienda reservar en la recepción o en la aplicación de Disneyland® Paris
+p1: Dîner 18h à 22h / Dinner 6:00 pm to 10:00 pm / Abendessen 18:00 bis 22:00 Uhr / Cena de 18:00 a 22:00
+p1: Buffet à volonté
+p1: , All-you-can-eat Buffet,
+p1: Buffet nach Belieben, Bufé libre
+p1: Excepté le 24 et 31 décembre. Except on December 24th and 31st. Außer am 24. und 31. Dezember. Excepto los días 24 y 31 de diciembre.
+p1: Adulte
+p1: Avec Boisson fraîche (33 cl) ou Eau minérale (50 cl)
+p1: Adult With a Cold Drink (33 cl) or a Mineral Water (50 cl)
+p1: 35€
+p1: Mit Erfrischungsgetränk (33 cl) oder Mineralwasser (50 cl)
+p1: Erwachsene
+p1: Con Refresco (33 cl) o Agua mineral (50 cl)
+p1: Adulto
+p1: Enfant
+p1: Vittel® (33 cl) ou Jus d’orange ou de pomme (25cl) ou Lait (20 cl)
+p1: (pour enfants âgés de 3 à 11 ans inclus)
+p1: Child
+p1: Autre boisson fraîche (25 cl) sur demande et en remplacement du produit proposé
+p1: Kind
+p1: Vittel® (33 cl) or Orange or apple juice (25 cl) or Milk (20 cl)
+p1: Niño (for children aged from 3 to 11)
+p1: Other cold drink (25 cl) may replace similar item on request
+p1: 20€
+p1: Vittel® (33 cl) oder Orangen- oder Apfelsaft (25 cl) oder Milch (20 cl)
+p1: (für Kinder von 3 bis 11 Jahren)
+p1: Auf Wunsch kann auch ein entsprechendes anderes Erfrischungsgetränk (25 cl)
+p1: gewählt werden
+p1: Vittel® (33 cl) o Zumo de naranja o de manzana (25 cl) o Leche (20 cl)
+p1: (para niños de 3 a 11 años incluidos)
+p1: Puede solicitar cambiarlo por otro refresco de (25 cl)
+p1: Boissons fraîches
+p1: (33 cl)
+p1: Cold Drinks / Erfrischungsgetränke / Bebidas frescas
+p1: Crockett's Tavern
+p1: Õ
+p1: Scannez ce QR code avec votre téléphone pour
+p1: consulter notre carte. Bon appétit !
+p1: Eaux minérales
+p1: (50 cl) Scan the QR code below on your phone
+p1: to see our menu. Bon appetit! 33 cl
+p1: Mineral Water / Mineralwasser / Agua mineral
+p1: 62/30
+p1: -
+p1: yensiD©
+p1: Consultez le menu
+p1: 25 cl 50 cl
+p1: Check out our menu
+p1: Prix nets / Tax included / Inklusive Steuern / Precios netos
+p1: Eau potable à votre disposition / Drinking water available / Drinkwaterkan beschikbaar / Agua potable disponible
+p1: Le prix du buffet sera facturé à toute personne installée en salle / The price of the buffet will be charged to any person seated in the restaurant
+p1: yensiD@
+p1: Der Preis für das Buffet wird jeder Person in Rechnung gestellt, die im Saal Platz genommen hat / El precio del bufé se facturará a todas las personas que se sienten en el comedor
+p2: Réservation fortement conseillée à la réception ou sur l’application Disneyland® Paris / Reservation recommended at the reception desk or on the Disneyland® Paris application
+p2: Reservierung an der Rezeption oder über die Disneyland® Paris-App empfohlen / Se recomienda reservar en la recepción o en la aplicación de Disneyland® Paris
+p2: Dîner 18h à 22h / Dinner 6:00 pm to 10:00 pm / Abendessen 18:00 bis 22:00 Uhr / Cena de 18:00 a 22:00
+p2: Buffet à volonté
+p2: , All-you-can-eat Buffet,
+p2: Buffet nach Belieben, Bufé libre
+p2: Excepté le 24 et 31 décembre. Except on December 24th and 31st. Außer am 24. und 31. Dezember. Excepto los días 24 y 31 de diciembre.
+p2: Adulte
+p2: Avec Boisson fraîche (33 cl) ou Eau minérale (50 cl)
+p2: Adult With a Cold Drink (33 cl) or Mineral Water (50 cl)
+p2: 35€
+p2: Mit Erfrischungsgetränk (33 cl) oder Mineralwasser (50 cl)
+p2: Erwachsene
+p2: Con Refresco (33 cl) o Agua mineral (50 cl)
+p2: Adulto
+p2: Enfant
+p2: Vittel® (33 cl) ou Jus d’orange ou de pomme (25cl) ou Lait (20 cl)
+p2: (pour enfants âgés de 3 à 11 ans inclus)
+p2: Child
+p2: Autre boisson fraîche (25 cl) sur demande et en remplacement du produit proposé
+p2: Kind
+p2: Vittel® (33 cl) or Orange or apple juice (25 cl) or Milk (20 cl)
+p2: Niño (for children aged from 3 to 11)
+p2: Other cold drink (25 cl) may replace similar item on request
+p2: 20€
+p2: Vittel® (33 cl) oder Orangen- oder Apfelsaft (25 cl) oder Milch (20 cl)
+p2: (für Kinder von 3 bis 11 Jahren)
+p2: Auf Wunsch kann auch ein entsprechendes anderes Erfrischungsgetränk (25 cl)
+p2: gewählt werden
+p2: Vittel® (33 cl) o Zumo de naranja o de manzana (25 cl) o Leche (20 cl)
+p2: (para niños de 3 a 11 años incluidos)
+p2: Puede solicitar cambiarlo por otro refresco de (25 cl)
+p2: Boissons fraîches
+p2: (33 cl)
+p2: Cold Drinks / Erfrischungsgetränke C/r oBcekbeitdta'ss T farveesrcnas
+p2: Scannez ce QR code avec votre téléphone pour Õ
+p2: consulter notre carte. Bon appétit !
+p2: Eaux minérales
+p2: Scan the QR code below on your phone
+p2: (50 cl) to see our menu. Bon appetit!
+p2: 33 cl
+p2: Mineral Water / Mineralwasser / Agua mineral
+p2: 62/30
+p2: -
+p2: yensiD©
+p2: Consultez le menu
+p2: 25 cl 50 cl
+p2: Check out our menu
+p2: Prix nets / Tax included / Inklusive Steuern / Precios netos
+p2: Eau potable à votre disposition / Drinking water available / Drinkwaterkan beschikbaar / Agua potable disponible
+p2: Le prix du buffet sera facturé à toute personne installée en salle / The price of the buffet will be charged to any person seated in the restaurant
+p2: yensiD@
+p2: Der Preis für das Buffet wird jeder Person in Rechnung gestellt, die im Saal Platz genommen hat / El precio del bufé se facturará a todas las personas que se sienten en el comedor

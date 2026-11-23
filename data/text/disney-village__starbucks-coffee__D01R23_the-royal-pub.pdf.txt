@@ -1,0 +1,292 @@
+p1: wines
+p1: 15 cl 25 cl 75 cl
+p1: white
+p1: French wine
+p1: "Plein la Vue" - Sauvignon blanc Jeff Carell (organic wine) 6.50 10.00 29.00
+p1: Bordeaux
+p1: BORDEAUX pdo - sauvignon blanc, muscadelle, sémillon 7.00 11.00 32.00
+p1: Gantonnet
+p1: SWEET WINES
+p1: Sauternes AOP - Sauvignon Blanc 9.50 15.50 47.50
+p1: Sémillon L'Ilot de Haut-Bergeron
+p1: bourgogne
+p1: PETIT CHABLIS pdo "PAS SI PETIT" - chardonnay 9.50 15.50 47.50
+p1: La Chablisienne
+p1: beers
+p1: Languedoc-Roussillon
+p1: pgi PAYS D’OC - CHARDONNAY Saint-Victor Gérard Bertrand 7.50 12.00 37.50 & cider
+p1: rosé
+p1: Provence
+p1: 25 cl 50 cl 1 L 25 cl 50 cl 1L
+p1: Côtes de Provence pdo - Tibouren, Cinsault, Grenache 8.50 13.50 42.50
+p1: Soif de Pampa (organic wine)
+p1: 1664 Blonde (5,5°) 5.50 9.00 15.50 La Bête (8°) 6.50 10.00 17.50
+p1: Languedoc-Roussillon
+p1: pgi PAYS D'OC - grenache 7.00 11.00 32.00 Carlsberg (5°) 5.50 9.00 15.50 Guinness (4,2°) 6.50 10.00 17.50
+p1: Gérard Bertrand - Gris blanc
+p1: red 1664 Blanc (5°) 5.50 9.00 15.50 Kilkenny Red Ale (4,3°) 7.00 10.00 17.50
+p1: Beaujolais
+p1: Brooklyn IPA Bodega Run (6,7°) 6.00 9.50 16.00 Cider Magners (4,5°) 5.50 8.50 15.00
+p1: Brouilly PDO - GAMAY 7.00 11.00 32.00
+p1: Réserve de la Beauvoisie
+p1: Vallée de la Loire
+p1: Saint-Nicolas de Bourgueil pdo cabernet franc 8.50 13.50 42.50
+p1: "La Tour de mon Père" (organic wine) boTTLEs
+p1: 33 cl 33 cl
+p1: Bordeaux
+p1: Anosteke 8.00 Pietra Limoncella 8.50
+p1: Haut-Médoc PDO - Cabernet Sauvignon, Merlot (8°) (5°)
+p1: 9.50 15.50 47.50
+p1: "Les Granges" Domaines Edmond de Rothschild Corona 8.00 1664 0% 6.50
+p1: (4,5°) (0°)
+p1: Languedoc-Roussillon
+p1: pgi PAYS D'OC PINOT NOIR "Saint-Victor" Gérard Bertrand 7.50 12.00 37.50
+p1: cocktails
+p1: sparklings
+p1: 12 cl 75 cl
+p1: PDO CHAMPAGNE BRUT 13.00 60.00
+p1: aperitifs
+p1: JACQUART "SIGNATURE"
+p1: pub creations
+p1: classic cocktails
+p1: Prosecco Riccadonna Extra Dry DOC 8.00 40.00
+p1: White Wine Kir 6.00
+p1: 12 cl
+p1: Blackcurrant, peach, blackberry, raspberry RED LION 13.00 Aperol Spritz 12.50
+p1: 15 cl 14 cl
+p1: DDDIIIGGGEEESSSTTTIIIFFFEEESSS A b s o l u t T a b a sc o V o d k a , h o ne y sy ru p , li m e j u i c e * , Aperol, Prosecco Riccadonna, Perrier, fresh orange
+p1: 4 cl kir royal 13.00
+p1: 12 cl ap p l e ju i c e , F e ve r -T r e e p re m iu m g in g e r b e e r , c u c umber
+p1: Blackcurrant, peach, blackberry, raspberry Hugo Spritz 12.50
+p1: Jagermeister, get 27, BAILEYs 8.00 14 cl
+p1: R O Y A L G A R D E N 13.00
+p1: ricard, pastis 51 5.00 10 c l St-Germain e ld e r fl o w e r li q u e u r, R i c c a do n na Prosecco,
+p1: 2 cl P e r ri e r , l e m o n , f re s h r o s e m a ry
+p1: Merry's Irish Cream Chocolate & Peanuts 8.00 Ci ta d e ll e G in , FA I R b a o b ab liqueur, yuzu puree**,
+p1: lime juice*, pear juice, vegan foamer
+p1: Lillet Blanc, Lillet Rosé 6.00 Italicus Spritz 12.50
+p1: Amaretto Roasted Adriatico 9.00 6 cl 14 cl
+p1: Italicus bergamo t l iq u e u r , R i c c a d o nn a Prosecco, Perrier,
+p1: Dolin Vermouth : red, white, dry 6.00 GOLDEN CIDER 13.00
+p1: Limoncello Mamma Mia 9.00 6 cl 17 cl l e m o n , f r e s h r o se m a r y
+p1: Planteray Original Dark Rum, FAIR coconut liqueur,
+p1: Cognac Hennessy Very Special 12.00 Dolin Bitter, Campari 6.00 mandarin orange purée**, lime juice*, Magners cider Limoncello Spritz 12.50
+p1: 6 cl 14 cl
+p1: Mamma Mia Limoncello, Riccadonna Prosecco, Perrier,
+p1: Americano 9.50
+p1: Cognac Hennessy VSOP 14.50 14 cl lemon, fresh rosemary
+p1: Dolin red vermouth, Dolin bitters, Perrier, fresh orange
+p1: Cognac Hennessy XO 26.50 Mojito 12.50
+p1: 14 cl
+p1: Virgin Americano 14 cl 9.50 Havana Club 3-year-old rum, fresh mint,
+p1: Bas-Armagnac Château Laubade Signature 9.00
+p1: VRMH No. 1, BTTR No. 1, Perrier, fresh orange lime, cane sugar, Perrier
+p1: Calvados Christian Drouin VSOP 12.00
+p1: Iessi - L'aperitivo sans alcool 5.50 fruit Mojito 14 cl 13.00
+p1: 6 cl
+p1: Calvados Christian Drouin XO Pays-d'Auge 14.50 Havana Club 3-year-old rum, fresh mint, lime, cane sugar,
+p1: Perrier, passion fruit purée** mandarin purée**
+p1: Chartreuse Verte 11.50
+p1: Paloma 16 cl 12.50
+p1: mocktails
+p1: Altos Blanco tequila, lime juice*,
+p1: ssspppiiirrriiitttsss
+p1: Fever-Tree grapefruit soda
+p1: whiskies 4cl Piña Colada
+p1: VIRGIN Mojito 9.50 18 cl 12.50
+p1: vodkas 4cl 14 cl
+p1: F r e s h m i n t , li m e , c a n e s u g a r , a p p l e j u ic e , P e r rier H a v a n a C l u b 3 - y e a r - o l d r u m ,
+p1: B a l l a n t in e 's F i n e s t B l en d e d - S c o tl a nd 8 . 0 0
+p1: a b s o l u t 8 . 0 0 pin e a p p le n e c t a r , c o c o n u t p u r é e * *
+p1: S w eden
+p1: J a m e s o n 8 . 50 E X O T I C O 1 0 c l 9.50 M o s c o w M u l e 1 2 .
+p1: B l e n d e d - I r la n d 1 8 c l 5 0
+p1: fa i r F r a nc e 8 . 50 R H H M H y d r o s o l N o . 1 , p a s s i o n f r u it p u r é e * * ,
+p1: A b e r l o u r 1 0 Y e a r O l d F o r e s t R e s e r ve 9 . A b s o l u t v o d k a , li m e j u i c e * ,
+p1: 0 0 lim e ju i c e * , F e v e r - T r e e p r e m i u m g i n g e r b e e r Fever-Tree premium ginger beer
+p1: HAKU 9.00
+p1: Single Malt , Speyside - Scotland Japan
+p1: V i r g in S p r i t z 9.50 E x p r e s s o M a r t in i 12 . 5 0
+p1: Chivas Regal 12 Year Old Belvedere Pure Organic 12.00 14 c l 13 c l
+p1: Blended - Scotland 10.00 Poland Vi b r an te M ar ti n i , F e v e r - Tree premium tonic water, fresh orange
+p1: F A IR v o d k a, FA IR co ff e e l i q u e u r ,
+p1: c an e s ug ar sy ru p , e sp re s s o
+p1: G l e n m o r a n g ie 1 2 Y e a r O ld 11.00 Belvedere dirty brew Poland 13.00
+p1: V ir g i n A m a r e t t o S o u r 9.50
+p1: Si n gl e Ma lt , Hi gh la n d s - S c o tl an d 10 , 5 c l Cl a s s ic G in & T o n ic 12.50
+p1: Am a r e tt o A d ri at ic o 0 . 0 % , li m e j u i c e *, 1 6 c l
+p1: Beefeater gin, Fever-Tree premium tonic water,
+p1: Laphroaig 10 Year Old 11.50 vegan foamer, Maldon salt
+p1: TEQUILAS & mezcal 4cl fresh lemons
+p1: Peated Single Malt, Islay - Scotland
+p1: G R E E N D r e a m 9.50
+p1: 2 0 cl N e g r o n i 1 2 . 5 0
+p1: The Macallan 12 Year Old Double Cask 14.50 Altos Blanco 9.00 9 c l
+p1: Jalisco Ap p l e, c u c u m b er , le m o n, ginger Beefea te r gi n , D o li n r e d v e r m outh,
+p1: S i n g le M a lt - S c ot la n d C o d i g o R e p o s a d o 1 3. 0 0 D o l in b it t er s, f re s h o r a n g e
+p1: Ja l is c o G i n g e r D r e a m 9.50
+p1: H i g h l a n d P a r k 12 Year Old 12.00 2 0 c l
+p1: M e z c a l D e l M a g u e y V i d a 1 0 . 0 0 Pi n e a pp l e , pa s s ion f r u i t , ginger, lemon, turmeric, apple C u b a n M u l e 13 . 0 0
+p1: Mexico 1 6 c l
+p1: Single Malt, Highlands-Orkney - Scotland Eminente Ambar Claro rum, lime juice*,
+p1: The Glenrothes 15 Year Old 16.50 fruity VIRGIN Mojito 10.00 Fever-Tree premium ginger beer, lime,
+p1: 14 cl
+p1: Fresh mint, lime, cane sugar, Perrier, passion fruit purée** Angostura bitters
+p1: Single Malt, Speyside - Scotland rhums 4cl
+p1: or mandarin purée** H e n n e s s y G i n g e r
+p1: Jim Beam 1 6 c l 1 3 .0 0
+p1: Kentucky Bourbon 8.00 Havana Club 3 Year Old 8.00
+p1: Cuba H e n ne s s y Ve ry S pe c ia l c o g n a c ,
+p1: Maker's Mark 9.50 Fever-Tree premium ginger ale, fresh lime
+p1: Kentucky Bourbon Havana Club Especial Cuba 8.50
+p1: N i k k a O l d f a s h i o n e d 1 3 .
+p1: Nikka Days 8.50 6 c l 00
+p1: blended - Japan Eminente Ambar Claro 10.00
+p1: Cuba Nikka fr o m Th e B a r re l w h i sk y , c a n e s u g a r s yrup,
+p1: Angostura bitters, orange zest
+p1: Nikka from the Barrel blended - Japan 10.00 PLANTERAY Original Dark 8.50
+p1: Barbados & Jamaïca
+p1: Toki Suntory 10.50
+p1: blended - Japan HSE blanc 50° Martinique 8.00
+p1: Hibiki Japanese Harmony 18.00
+p1: blended - Japan HSE Très Vieux Port Cask Finish VSOP 12.50
+p1: Martinique
+p1: GINs 4cl La Hechicera 12.50
+p1: Colombie draft beers
+p1: 16 6 4 B lo n d e , 1 6 6 4 B la n c G l a s s o f w i n e 5 . 0 0
+p1: Beefeater 8.00 Brugall 1888 Dominican Republic 11.50 noisserpmI 1 5 c l
+p1: England 4 . 00 | 7 . 00 | 11.50
+p1: 25cl 5 0 c l 10 0 c l Wh it e : B o r d ea ux pd o G a n t o n n et
+p1: fair 8.50 Havana Club Iconica Seleccion de Maestros 13.00
+p1: France Cuba Gris Blanc pgi Pays d'Oc
+p1: paC Rosé :
+p1: S e l e c t i o n o f c l a s s i c c ocktails 9 . 5 0
+p1: c i t a d e l l e F rance 9. 0 0 Red : Brouilly pdo GAMAY
+p1: 7:00pm
+p1: 5:00pm - Se l e c t i o n o f m o c k t a i l s 7 . 5 0
+p1: R O K U 10 . 0 0 Cachaça 4cl
+p1: J a p an
+p1: Monkey 47 13.50 Abelha Silver Organic 9.00
+p1: Germany Brésil
+p1: PDO: Protected Designation of Origin. PGI: Protected Geographical Indication. DOC: Denominazione di Origine Controllata. The Royal Pub – FLO KINGDOM – 445 201 783
+p1: *MADE FROM CONCENTRATED JUICE. **FRUIT-BASED PREPARATION. ALLERGEN INFORMATION IS AVAILABLE AT THE RESTAURANT RECEPTION.
+p1: RCS Nanterre – SAS with a share capital of €38,000. EXCESSIVE ALCOHOL CONSUMPTION IS DANGEROUS FOR YOUR HEALTH. DRINK RESPONSIBLY.
+p2: burgers
+p2: Starters
+p2: All our burgers are available
+p2: in a veggie version*
+p2: & sharing platters V
+p2: ORIGINAL ROYAL BURGER 25.90
+p2: Ground beef steak, hash brown, smoked bacon,
+p2: cheddar, caramelized onions, salad,
+p2: FINGER FOOD PLATTER 23.50
+p2: burger sauce, grain bun
+p2: Beer battered onion rings, mac'n cheese balls,
+p2: cajun chicken tenders, cheddar new potatoes, Chicken burger 23.90
+p2: BBQ sauce, spicy mayonnaise
+p2: Crispy spiced marinated chicken, cheddar,
+p2: onion compote, spicy mayonnaise, salad,
+p2: MAC'N CHEESE BALLS V Cheddar sauce 9.00 salsa sauce, brioche bun
+p2: cheesy garlic bread V 9.00 CHEDDAR LOVER BURGER 24.90
+p2: Garlic bread with cheddar, emmental, parmesan, parsley Ground beef steak, cheddar, onion ring,
+p2: salad, burger sauce, brioche bun
+p2: Beer battered onion rings V 9.50
+p2: PEPPER RACLETTE BURGER 25.90
+p2: BBQ sauce
+p2: Ground beef patty, thin potato patty,
+p2: CHEDDAR STICKS V 9.90 smoked bacon, pepper raclette, caramelized onions,
+p2: Spicy mayonnaise lettuce, pepper sauce, cheese-topped bun
+p2: TOWER BURGER 26.90
+p2: ROASTED MUSHROOMS WITH PESTO V 11.00
+p2: Garlic cream Double ground beef steak, cheddar,
+p2: onion ring, salad, burger sauce, brioche bun
+p2: Cajun chicken tenders 12.50
+p2: Spicy mayonnaise Our ground beef steak are sourced from France · Original Royal Burger ·
+p2: chicken wings 14.50
+p2: Ranch sauce
+p2: NACHOS V 19.50
+p2: Tortilla chips, guacamole, cheddar, jalapeños,
+p2: sour cream, salsa sauce
+p2: pub desserts
+p2: · Finger food platter · Warm chocolate cookie 9.90 CHOCOLATE CAKE 9.90
+p2: (gluten-free)
+p2: Vanilla ice cream, custard, chocolate sauce
+p2: Half-baked chocolate chip cookie, vanilla ice cream
+p2: FRENCH CRÈME BRULÉE 9.00 APPLE STRUDEL 10.50
+p2: Club sandwich TTThhheee bbbuuutttccchhheeerrr'''sss with MADAGASCAR VANILLA Whipped cream
+p2: MAPLE SYRUP CRÊPE 9.50 CHEESECAKE 11.00
+p2: & salads cccooorrrnnneeerrr
+p2: Caramelized pears, maple syrup ice cream, almonds Toffee caramel with pecans, whipped cream
+p2: CLUB CBA 22.90 HALF ROASTED CHICKEN IN HP BROWN SAUCE 23.90
+p2: Marinated French chicken fillet, bacon, avocado, New potatoes with pesto
+p2: free-range egg, salad, coleslaw, French fries
+p2: sundaes
+p2: Mixed Grill 27.00
+p2: POWER BOWL FETA V 19.50 Chicken skewers, sausages, shrimp, French fries,
+p2: Herb-seasoned bulgur, roasted winter vegetables, corn on the cob, chimichurri sauce
+p2: shredded carrots, avocado, feta, fava beans, 2 or 3 scoops 6.00 / 9.00
+p2: citrus vinaigrette GRILLED SCOTTISH BEEF SKIRT STEAK PGI 29.90 Ice Cream: Vanilla, chocolate, pistachio
+p2: Béarnaise sauce and/or pepper sauce, French fries Sorbet: Mango, passion fruit, lime
+p2: SALMON POWER BOWL 21.90
+p2: Herb-seasoned bulgur, marinated salmon, BEEF RIBS 39.50 BROWNIE SLICE
+p2: (approx. 400g) 10.50
+p2: roasted winter vegetables, grated carrots, avocado,
+p2: Béarnaise sauce and/or pepper sauce, baby potatoes Chocolate fudge brownie, brownie chunks,
+p2: fava beans, citrus vinaigrette
+p2: chocolate sauce, whipped cream
+p2: CHICKEN CAESAR SALAD 22.50
+p2: cookie dough ® 11.50
+p2: French chicken fillet marinated with lemon and thyme, Cookie Dough ice cream, cookies, salted butter caramel
+p2: parmesan, free-range egg, croutons, romaine, Caesar sauce
+p2: with Guérande sea salt, chocolate sauce, whipped cream
+p2: Extra : Whipped Cream 2.00
+p2: · WARM CHOCOLATE COOKIE ·
+p2: PUB SPECIALS
+p2: sssooofffttt dddrrriiinnnkkksss
+p2: THE INIMITABLE MAC & CHEESE V 19.90
+p2: Macaroni, cheddar, emmental, onions
+p2: CHICKEN PIE WITH HP BROWN SAUCE 21.50 UMÀ Organic Orangeade 33 cl 5.90 Fever-Tree Premium Indian Tonic Water1 20 cl 5.50
+p2: Mushrooms, spinach, green salad, port sauce Coca-Cola, Coca-Cola Zero 5.20 Fever-Tree Premium Ginger BeeR2 5.50
+p2: 33 cl 20 cl
+p2: VEGETABLE CURRY & COCONUT DAHL 22.50
+p2: Fanta, Sprite 25 cl 5.20 Red Bull 25 cl 5.20
+p2: Basmati rice, naan bread
+p2: Oasis, Orangina 5.20 Perrier 5.20
+p2: 25 cl 33 cl
+p2: WELSH PASTRAMI 22.50
+p2: French fries Fuze tea PEACH OU MINT LIME 25 cl 5.20
+p2: 50 cl 1L
+p2: Organic juices and nectars ‘Jus de Rêve’ 5.20
+p2: TANDOORI CHICKEN 22.90 25 cl
+p2: Orange juice, apple juice, pineapple juice, tomato juice, apricot nectar Vittel 5.00 7.00
+p2: Basmati rice, roasted vegetables, naan bread
+p2: Fever-Tree Sparkling Pink Grapefruit 5.50 S.Pellegrino 5.00 7.00
+p2: classic Fish & chips 23.90 20 cl
+p2: Battered haddock fillet, tartar sauce, French fries · half roasted french chicken
+p2: in hp brown sauce ·
+p2: GUINNESS-BRAISED BEEF 28.50
+p2: Bacon, button mushrooms, carrots, mashed potatoes
+p2: hot drinks
+p2: SIDES 6.00
+p2: French fries, new potatoes, mashed potatoes, macaroni with cheddar sauce, basmati rice, pesto vegetables, salad Irish Coffee 8.50 Viennese hot chocolate 6.50
+p2: Organic Massaya espresso, Jameson Irish whisky,
+p2: cane sugar and whipped cream Chaï Latte, Matcha Latte 6.50
+p2: Massaya Organic Espresso,
+p2: 3.90 Teas & Infusions from Comptoir Richard 5.20
+p2: Solela Organic & Fair Trade Decaf Green teas: mint, jasmine
+p2: Black teas: Darjeeling, Earl Grey, Breakfast
+p2: Viennese coffee 5.20 Infusions: verbena, lime blossom and mint,
+p2: organic red berry rooibos
+p2: kid's menu
+p2: Cappuccino, Latte macchiato 5.50
+p2: HOT PEANUT 9.00
+p2: UNTIL 10 YEARS OLD Hot chocolate, Mery's Irish Cream chocolate & peanut,
+p2: CARAMEL or VANILLa LATTE MACCHIATO 5.90
+p2: whipped cream
+p2: main dish + Dessert + drink
+p2: Hot chocolate 6.00
+p2: 17.50
+p2: All our hot drinks can be ordered made with Oatly oat milk at no extra charge.
+p2: V : vegetarian. : vegan. Net prices in euros, VAT and service included. Photos are non-contractual. PDO: Protected Designation of Origin – PGI: Protected Geographical Indication *Except for the Tower Burger and the Pulled Pork Burger. 1A carbonated beverage flavored with quinine. 2A carbonated beverage flavored with ginger. All of our eggs come from
+p2: free-range farms. Our customers can request free drinking water. To reduce food waste, doggy bags are available (except for raw meat, raw fish, and raw eggs).
+p2: FOR YOUR HEALTH, ENGAGE IN REGULAR PHYSICAL ACTIVITY. WWW.MANGERBOUGER.FR

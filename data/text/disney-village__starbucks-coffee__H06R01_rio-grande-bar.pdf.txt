@@ -1,0 +1,304 @@
+p1: Cocktails Signature
+p1: signature cocktails
+p1: SandStorm ........................................................12,5€
+p1: margarita ...........................................................10€ Digestifs & Liqueurs Nos Snacks
+p1: Tequila Calle 23 Reposado, boisson multifruits et aloe
+p1: Tequila José Cuervo, liqueur de triple sec, boisson
+p1: digestives & Liqueurs
+p1: Our snacks
+p1: 4 cl
+p1: vera, ginger beer, jus de citron vert et sirop d'agave
+p1: vert1 / José Cuervo tequila, triple sec liqueur,
+p1: au citron
+p1: caLvadoS ... ...........................
+p1: Le Domfrontais de Christian Drouin 10€ Doritos® , guacamole, sauce salsa 6€
+p1: Calle 23 Reposado tequila, multifruit and aloe vera drink,
+p1: lime drink1
+p1: ginger beer, lime juice and agave syrup cognac ............................................. Doritos®, guacamole, salsa sauce
+p1: Courvoisier VS 6,5€
+p1: mexican eSPreSSo ...........................10€
+p1: ..........................
+p1: Chips Lay's® / Lay's® potato crisps 4,3€
+p1: Lynchburg Lemonade ...............12,5€ LiqueurS
+p1: Tequila José Cuervo, liqueur de café - Fair, café Lavazza
+p1: .............................................................
+p1: Amaretto Disaronno 7,5€
+p1: Whiskey Jack Daniel's, liqueur de triple sec, jus de citron
+p1: et sirop d'agave / José Cuervo tequila, Fair - coffee
+p1: Sandwichs froids
+p1: frais, Sprite / Jack Daniel's whiskey, triple sec liqueur, ........................................................................................
+p1: Malibu 7,5€
+p1: liqueur, Lavazza coffee and agave syrup
+p1: fresh lemon juice, Sprite cold sandwiches
+p1: ........................................................................................
+p1: iriSh coffee Get 27 7,5€
+p1: .................................................10€
+p1: highway to heaven ..........................12,5€ .................................... wraP thon, oignonS fritS
+p1: Bailey's The Original Irish Cream 8,5€ ..10€
+p1: Whiskey Bushmills The Original, café Lavazza, sirop de
+p1: Vodka Tito's, liqueur de fleur de sureau - Fiorente,
+p1: tuna and fried onion wraP
+p1: sucre de canne et crème fouettée / Bushmills The Original
+p1: jus de citron vert et de pamplemousse1, barbe à papa
+p1: whiskey, Lavazza coffee, cane syrup and whipped cream Vins Thon, oignons frits, Cantadou® au poivre, concombre,
+p1: / Wine
+p1: Tito's vodka, Fiorente - elderflower liqueur, lime
+p1: salade, avocat, tomates confites et crème aigre.
+p1: vinS bLancS
+p1: / white wine 15 cl 75 cl
+p1: and grapefruit juices1, cotton candy
+p1: Champagnes Tuna, fried onions,
+p1: Servis avec chips Lay's ou Doritos® /
+p1: 75 cl IGP Pays d'Oc - Naturalys - Gérard Bertrand
+p1: texaS iced tea ..........................................12,5€ Cantadou® with pepper, cucumber, lettuce, avocado,
+p1: Edition Spéciale Disneyland® Paris -
+p1: Chardonnay - Bio .................................................... 7€ ........ 30€
+p1: sun-dried tomatoes, and sour cream.
+p1: Bourbon Buffalo Trace, crème de pêches, tequila José ............................
+p1: Pierre Mignon Grande Réserve - Brut 77€
+p1: AOC Bordeaux - Agneau Blanc -
+p1: Served with Lay's or Doritos® chips
+p1: Cuervo, rhum Saint James Impérial, gin Engine, jus de citron ....................................
+p1: Moët & Chandon - Impérial - Brut 87€ ............................. ....
+p1: Barron Philippe de Rothschild 6,5€ 30€
+p1: vert frais et Coca-Cola ORIGINAL / Buffalo Trace Bourbon, wraP vegetaL `` ``
+p1: Cuvée Disneyland® Paris - AOP La Clape
+p1: peach liqueur, José Cuervo tequila, Saint James Impérial Vin effervescent
+p1: aux LentiLLeS coraiL .................10€
+p1: .............. .....
+p1: Château L'Hospitalet - Bio - Demeter 7,5€ 38€
+p1: rum, Engine gin, lime juice and Coca-Cola ORIGINAL sparkling wine
+p1: 15 cl 75 cl PLant-baSed red LentiL wraP
+p1: ~~ vinS rougeS
+p1: / red wine
+p1: Pina coLada Pick-uP .....................12,5€
+p1: ........................ ....
+p1: Italie : DOC Prosecco Extra Dry 6,5€ 30€
+p1: IGP Pays d'OC - Naturalys - Gérard Bertrand Houmous, lentilles corail, chou rouge mariné, carotte et
+p1: Rhum Saint James ambré, purée de noix de coco,
+p1: ................................................................ .... Hummus,
+p1: Merlot - Bio 6,5€ 30€ avocat. Servis avec chips Lay's ou Doritos® /
+p1: Bières et cidre
+p1: boissons à l'Aloé vera et à l'ananas1 / Saint James dark
+p1: red lentils, marinated red cabbage, carrot, and avocado.
+p1: Cuvée Disneyland® Paris - AOP La Clape
+p1: rum, coconut purée, aloe vera and pineapple1 drinks Beers and Cider
+p1: Served with Lay's or Doritos® chips
+p1: Château L'Hospitalet - Bio - Demeter .............. 7,5€ ..... 38€
+p1: Pacific breeze .........................................12,5€
+p1: PreSSion / draught
+p1: 25 cl 50 cl AOC Côtes du Rhône - Esprit - Brotte ............ 6,5€ .... 30€
+p1: .......................................................... ..... Sandwichs chauds
+p1: Vodka Skyy Infusions aromatisée framboise, nectar de 1664® Premium 5,5€ 8,5€
+p1: vinS roSeS ``
+p1: / roSe wine
+p1: mangue1 et DOC Prosecco Extra Dry / Skyy Infusions ................................................. .....
+p1: Grimbergen blonde 5,5€ 8,5€
+p1: AOP Languedoc - Art de Vivre hot sandwiches
+p1: raspberry flavour vodka, mango nectar1 and DOC ...................
+p1: 1664® Premium 50 cl avec Chips Lay's® 10€
+p1: Gérard Bertrand Rosé ............................................ 6,5€ .... 30€
+p1: burrito au boeuf
+p1: ...................................11€
+p1: with Lay's® potato crisps
+p1: Prosecco Extra Dry
+p1: AOP Côtes de Provence - Minuty
+p1: beef burrito
+p1: bouteiLLe
+p1: break au SunSet / bottLed 33 cl
+p1: .................................12,5€ ...........................................................................
+p1: Prestige rosé 33€
+p1: Chili con carne, riz, crème aigre, oignon rouge, cheddar
+p1: .............................................
+p1: Grimbergen d'Abbaye blanche 7€
+p1: Mezcal Madre Espadin, liqueur de triple sec et
+p1: râpé et avocat. Servis avec chips Lay's® ou Doritos®
+p1: ..............................................
+p1: Grimbergen d'Abbaye rouge 7€
+p1: préparation fruit de la passion / Madre Espadin mezcal,
+p1: Boissons sans alcool
+p1: Chili con carne, rice, sour cream, red onion, shredded
+p1: ..........................................................................................
+p1: triple sec liqueur and passion fruit drink Bud®l 7,5€
+p1: cheddar cheese, and avocado.
+p1: non-alcoholic drinks
+p1: ...............................................................................
+p1: Desperados 7,5€
+p1: Smoky JuLeP ..................................................12,5€
+p1: Served with Lay's® or Doritos® chips
+p1: .......................................................... efferveScent SanS aLcooL
+p1: Guinness Draught 50 cl 8€
+p1: Bourbon Buffalo Trace, cordial arôme Palo Santo,
+p1: burrito au PouLet ePice `` ``
+p1: non-aLcohoLic SParkLing 15 cl 75 cl ...11€
+p1: Corona Extra ........................................................................7,5€
+p1: / Buffalo Trace bourbon, Palo Santo
+p1: menthe poivrée
+p1: Nooh by La Coste
+p1: Lagunitas IPA ........................................................................7€ SPicy chicken burrito
+p1: flavour cordial, peppermint
+p1: Effervescent / Sparkling Rosé 0% alcool .......... 10€ ...... 45€
+p1: cidre Emincé de poulet rôti, riz, cheddar râpé, sauce épicée
+p1: / cider 33 cl
+p1: biere `` SanS aLcooL
+p1: La Mordue Original - Cidre aromatisé (oignon rouge, coriandre, poivron émincé) et crème aigre
+p1: 27,5 cl
+p1: non-aLcohoLic beer 33 cl
+p1: Sans alcool
+p1: ....................................................................... Sliced roasted
+p1: Flavoured cider 7€ Servis avec chips Lay's® ou Doritos® /
+p1: .......................................................
+p1: Brooklyn Special Effects 6€
+p1: Non-Alcoholic chicken, rice, shredded cheddar cheese, spicy sauce
+p1: Apéritifs
+p1: / Aperitives (red onion, cilantro, sliced bell pepper), and sour cream.
+p1: fuzzy candy
+p1: ...................................................9,5€ 6 cl
+p1: Boissons fraîches
+p1: Served with Lay's® or Doritos® chips
+p1: ........................................................................................
+p1: Aperol 6,5€
+p1: Préparation à base de fraise, boisson à la framboise1,
+p1: ............. Cold Drinks
+p1: Dolin - Vermouth de Chambéry blanc / white 6,5€
+p1: sirop saveur bubble gum et Sprite / Strawberry and 33 cl
+p1: Desserts
+p1: .................
+p1: rapsberry1 Dolin - Vermouth de Chambéry rouge / red 6,5€ Coca-Cola .........................................................5€
+p1: drinks, bubble gum flavour syrup and Sprite ORIGINAL
+p1: ..........................................
+p1: Ricard - Pastis de Marseille 6,5€ SaLade de fruitS
+p1: red road triPPer ..............................9,5€ 4 cl Coca-Cola ZÉRO SUCRES..................................................5€ ..5€
+p1: / fruit SaLad
+p1: Fanta Orange .......................................................................5€
+p1: Nectar de cranberry1, purée de framboises, Perrier® Sirop menthe et citron vert / Mint syrup and lime
+p1: Spiritueux
+p1: / spirits
+p1: nectar1,
+p1: et barbe à papa / Cranberry raspberry purée, Sprite .....................................................................................5€ muffin2
+p1: .......................................................................4€
+p1: Perrier® and cotton candy ginS
+p1: 4 cl FuzeTea Pêche Intense / Peach Black Tea ............5€
+p1: 25 cl
+p1: mini beignetS mickey2 ...............6€
+p1: Gordon's London dry ..........................................................7,5€
+p1: the Sweet cactuS ..............................9,5€ Tonic ..............................................................................4€
+p1: 20 cl
+p1: mickey mini beignetS2
+p1: ....................................................................
+p1: Tanqueray N°Ten 8,5€
+p1: Boisson multifruits et aloe vera, ginger beer, jus de Perrier® .................................................................................3,8€
+p1: Beignets sucrés, sauce chocolat et crème fouettée
+p1: ......................
+p1: Engine - Italian Organic Gin - Vegan - Bio 10€
+p1: citron vert et sirop d'agave / Multifruit and aloe vera
+p1: Jus d'orange .................................................................4,3€
+p1: 25 cl
+p1: Beignet with sugar, chocolate sauce and whipped cream
+p1: vodkaS
+p1: drink, ginger beer, lime juice and agave syrup 4 cl
+p1: Jus de pomme 25 cl .............................................................4,3€
+p1: .................................................................. PuSh uP haribo® ....................................3,5€
+p1: Smirnoff N°21 Red 6,5€
+p1: the nooh-Limit
+p1: ..........................................9,5€
+p1: Nectar au choix ...........................................................3,8€
+p1: 25 cl
+p1: ......................................................
+p1: Belvedere Organic - Bio 7,5€ Parfum vanille et sauce fraise
+p1: Nooh by La Coste - effervescent rosé - 0% alcool, nectar
+p1: ............................. granite ``
+p1: Skyy Infusions aromatisée framboise 7,5€ / SLuSh
+p1: Vanilla flavour and strawberry sauce
+p1: de cranberry1, préparation fruit de la passion et jus de
+p1: Tito's .......................................................................................8,5€ Parfum fraise ou pomme / Strawberry or apple flavour
+p1: magnum®
+p1: citron vert / Nooh by La Coste - Sparkling rosé - 0% alcohol, ...................................................................4€
+p1: rhumS - cachaca Petit gobelet / Small cup ..........................................3,5€
+p1: cranberry nectar1, passion fruit drink and lime juice 4 cl 25 cl
+p1: Amande / Almond
+p1: Saint James Impérial - Rhum blanc agricole -
+p1: Grand gobelet / Large cup 50 cl .......................................6€
+p1: cornetto®
+p1: ...........................................................4,3€
+p1: .....................................................................
+p1: AOC Martinique 6,5€
+p1: Cocktails classiques eaux mineraLeS ``
+p1: / mineraL waterS 50 cl
+p1: ............................................................... Soft Cookie & Chocolat
+p1: Trois Rivières Blanc 7,5€
+p1: classic cocktails Vittel® ....................................................................................3,8€
+p1: ...................................................................... gLace mickey
+p1: Angostura 5 ans 8,5€ ................................................4,5€
+p1: S.Pellegrino® ........................................................................4€
+p1: .............
+p1: dark & Stormy ...........................................10€ Magnifica de Faria - Tradicional Ipê (cachaça) 8,5€ mickey ice cream bar
+p1: tequiLaS Sauce vanille / Vanilla flavour
+p1: Rhum Saint James Ambré, jus de citron vert, sirop 4 cl
+p1: ................................................................ Boissons chaudes
+p1: sucre de canne et ginger beer / Saint James amber José Cuervo Silver 7,5€
+p1: ..............................................................
+p1: rum, lime juice, sugar syrup and ginger beer Calle 23 - Reposado 8,5€
+p1: Hot Drinks
+p1: Menu Rio Grande
+p1: 14,5€
+p1: moJito mezcaL
+p1: .........................................................................10€ 4 cl
+p1: Espresso 100% Arabica ....................................................3,5€
+p1: ..................................... Rio Grande Menu
+p1: Rhum Trois Rivières blanc, Angostura aromatic bitters, Madre Desde Siempre - Espadin 8,5€
+p1: Double espresso 100% Arabica ......................................4€
+p1: feuilles de menthe fraîche, sirop de sucre de canne, whiSkieS
+p1: wraP thon, oignonS fritS
+p1: Café 100% Arabica / Coffee............................................3,8€
+p1: americain ``
+p1: morceau de citron vert et Perrier® / Trois Rivières / american 4 cl tuna and fried onion wraP
+p1: Café au lait / Coffee with milk .........................................4€
+p1: white rum, Angostura aromatic bitters, fresh mint, ..............................................
+p1: Bulleit Rye Frontier whiskey 8,5€
+p1: OU / OR
+p1: Décaféiné / Decaffeinated ...............................................3,3€
+p1: cane syrup, lime and Perrier® ........................................ wraP vegetaL `` ``
+p1: Maker's Mark Bourbon Whisky 8,5€
+p1: Vienna coffee
+p1: Café viennois / .........................................4,2€ aux LentiLLeS coraiL
+p1: PaLoma ..........................................................
+p1: .......................................................................10€ Jack Daniel's Old N° 7 9€
+p1: PLant-baSed red LentiL wraP
+p1: Cappuccino ..........................................................................4,2€
+p1: Tequila José Cuervo, jus de citron vert frais, jus de ecoSSaiS ``
+p1: / ScottiSh
+p1: +
+p1: Chocolat chaud / Hot chocolate .....................................4,4€ chiPS Lay'S® doritoS®
+p1: OU / OR
+p1: pamplemousse1, sirop d'agave, Perrier®, sel / José • Scotch bLended
+p1: Johnnie Walker Red Label .................................................. 8,5€ +
+p1: Chocolat viennois / Vienna hot chocolate ...................4,8€
+p1: Cuervo tequila, fresh lime juice, grapefruit juice1,
+p1: .............................................................................. boiSSon fraiche
+p1: Black Bottle 7,5€ ˆˆ
+p1: 33 cl
+p1: agave syrup, Perrier®, sel
+p1: coLd drink 52/01
+p1: • Scotch maLtS
+p1: Thé, infusion / Tea, herbal tea .........................................3,8€
+p1: cuba Libre .........................................................10€ ......................................
+p1: Glenfiddich 12 Triple Oak Twelve 8,5€ eau mineraLe
+p1: ``
+p1: OU / OR 50 cl -
+p1: Lait demi-écrémé 20 cl .......................................................3,5€ yensiD©
+p1: Rhum Angostura 5 ans, Coca-Cola ORIGINAL, citron vert frais irLandaiS / iriSh mineraL water
+p1: Semi-skimmed milk
+p1: Angostura 5 years rum, Coca-Cola ORIGINAL, fresh lime .........................................................
+p1: Bushmills The Original 8,5€
+p1: Prix nets / tax included. Eau potable à votre disposition / drinking water available
+p1: 1 - jus à base de concentré de fruit / made from cocentrated fruit juice
+p1: Le paiement sans contact
+p1: 2 - produit décongelé / defrosted product
+p1: sera encouragé
+p1: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible,
+p1: Contactless payment
+p1: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p1: will be encouraged
+p1: A list of the allergens present in our dishes is available upon request with any
+p1: of our Cast Members; please make a Cast Member aware of any allergies you may have

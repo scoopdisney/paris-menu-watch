@@ -1,0 +1,328 @@
+p1: Ce bar huppé aux vues époustouflantes sur les gratte-ciels
+p1: de New York est l’endroit idéal pour siroter
+p1: un délicieux cocktail américain
+p1: Elevate your night to heady heights by sipping on a classic American
+p1: cocktail in this swanky bar with a breathtaking view
+p1: of the iconic New York skyline
+p1: ©Disney ©2025 MARVEL
+p2: COCKTAILS SIGNATURE
+p2: M A R T I N I S S I G N A T U R E
+p2: Laissez-vous surprendre par nos Martinis inspirés des pierres d’infinités.
+p2: Quel sera votre choix ? Plutôt pierre de l’esprit, ou du temps ?
+p2: Surprise your taste buds with our Martinis inspired by Infinity Stones.
+p2: Which one calls to you? The Mind or Time Stone?
+p2: GREEN DIMENSION PURPLE POWER BLUE INFINITY
+p2: MARTINI 18€ MARTINI 18€ MARTINI 18€
+p2: Gin Hendrick’s, cordial arôme Vodka Skyy infusions aromatisée Gin Tanqueray infusé au romarin
+p2: vetiver, jus de citron frais, framboise, Martini Riserva Speciale et au citron vert, nectar de poire,
+p2: concombre et sirop saveur basilic Rubino, boissons à la cerise liqueur fleur de sureau - Fiorente
+p2: et à la myrtille, menthe fraîche et sirop saveur curaçao bleu
+p2: Hendrick’s Gin, vetiver flavour
+p2: cordial, fresh lemon juice, cucumber Skyy Infusions raspberry flavour Tanqueray gin infused with
+p2: and basil flavour syrup vodka, Martini Riserva Speciale rosemary and lime, pear nectar,
+p2: Rubino, cherry and blueberry drink, Fiorente - elderflower liqueur
+p2: fresh mint and blue curacao flavour syrup
+p2: MYSTIC YELLOW ORANGE SOUL RED REALITY
+p2: MARTINI MARTINI MARTINI
+p2: 18€ 18€ 18€
+p2: Vodka Skyy Infusions arômatisée Rhum Flor de Caña Extra Seco - Tequila Blanco El Espolón,
+p2: agrumes, limoncello, crème 4 ans, infusé à la cannelle, cordial Aperol, nectar de cranberry1,
+p2: de citrons, meringue italienne arôme Palo Santo, nectar de fruit purée de fruits rouges, sirop de
+p2: et biscuits de la passion1 et blanc d’œuf grenade, espuma de fruits rouges
+p2: et crispy framboise
+p2: Skyy Infusions citrus flavour vodka, Flor de Caña Extra Seco - 4 years
+p2: lemon liqueur, lemon curd, Italian old cinnamon infused rum, Palo El Espolо́n Blanco tequila,
+p2: meringue and biscuits Santo flavour cordial, passion Aperol, cranberry nectar1, red fruit
+p2: fruit nectar1 and egg white purée, pommegranade syrup,
+p2: redfruits espuma and crispy
+p2: raspberry
+p2: 1 - jus à base de concentré de fruit / made from concentrated fruit juice
+p2: Prix nets / Tax included
+p3: COCKTAILS SIGNATURE
+p3: S K Y L I N E M U L T I V E R S
+p3: Les cocktails classiques, de la prohibition à aujourd’hui,
+p3: revisités dans le multivers.
+p3: Classic cocktails, from Prohibition to today,
+p3: revisited in the multiverse.
+p3: SKYLINE BEE’S SKYLINE STAR SKYLINE MULE
+p3: 18€
+p3: KNEES MARTINI
+p3: 18€ 18€ Rhum Flor de Caña Extra Seco
+p3: Rhum Flor de Caña Gran Vodka Smirnoff N°21 Red, cordial - 4 ans , concentré de gingembre,
+p3: Reserva - 7 ans, cordial arôme arôme poivre de Penja, boisson jus de citron vert frais, boisson au
+p3: Labdanum, jus de citron frais, au citron vert1, boisson au yuzu, Jaboticaba et ginger ale
+p3: bière lager et miel nectar de fruit de la passion1,
+p3: Flor de Caña Extra Seco - 4 years old
+p3: Flor de Cana Gran Reserva - 7 years sirop de vanille, accompagné d’une rum, ginger concentrate, fresh lime
+p3: old rum, Labdanum flavour cordial, gelée de champagne au limoncello juice, jaboticaba drink and ginger ale
+p3: lemon juice, lager beer and honey
+p3: Smirnoff N°21 Red vodka, Penja
+p3: pepper flavour cordial, lime drink1,
+p3: yuzu drink, passion fruit nectar1,
+p3: vanilla syrup, served with
+p3: champagne jelly with limoncello
+p3: SKYLINE OLD FASHIONED 18€ SKYLINE SOUTH SIDE 18€
+p3: Whiskey Jack Daniel’s infusé au bacon, sirop d’érable, Gin Tanqueray, boisson au yuzu, sirop saveur falernum,
+p3: ginger ale et Angostura aromatic bitters menthe fraîche, tonic saveur rhubarbe-framboise
+p3: Bacon infused Jack Daniel’s whiskey, maple syrup, ginger et cordial arôme Baie de Timur
+p3: ale and Angostura aromatic bitters Tanqueray gin, yuzu drink, falernum flavour syrup,
+p3: fresh mint, rhubarb-raspberry flavour tonic
+p3: and Timur berry flavour cordial
+p3: 1 - jus à base de concentré de fruit / made from concentrated fruit juice
+p3: Prix nets / Tax included
+p4: COCKTAILS SIGNATURE
+p4: Z O N E D E S S U P E R H É R O S - S A N S A L C O O L
+p4: S U P E R H E R O E S Z O N E - N O N A L C O H O L I C
+p4: QUANTUM REALM EARTH’S
+p4: DRINK 14€ PROTECTOR 14€ MIGHTIEST
+p4: DRINK
+p4: Purée de pomme verte, cordial Concentré de gingembre, nectar 14€
+p4: arôme Labdanum, sirop saveur de cranberry1, sirop saveur Infusion Yerba maté, jus de citron
+p4: curaçao bleu et tonic fleur hibiscus et infusion de bissap
+p4: frais, boisson au yuzu, ginger ale
+p4: Ginger concentrate, cranberry
+p4: de sureau Yerba maté infusion, lemon juice,
+p4: nectar1, hibiscus flavour syrup
+p4: Green apple purée, Labdanum yuzu drink, ginger ale, honey
+p4: and bissap infusion
+p4: flavour cordial, blue curacao flavour
+p4: syrup and elderflower tonic
+p4: THE HEROIC THE INCREDIBLE ORANGE FUSION
+p4: STAR GREEN REACTOR
+p4: 14€ 14€ 14€
+p4: Nectars de framboise et cranberry1, Jus de pomme, nectar de banane1, Jus d'orange, nectar de fruit
+p4: passion1 mangue1,
+p4: purée de fruits rouges, sirop de boisson kiwi, purée de myrtilles de la et de
+p4: fraise et crème fouettée bleue et extrait de spiruline coulis de fraises
+p4: Raspberry and cranberry nectars1, red Apple juice, banana nectar1, kiwi drink, Orange juice, passion fruit1 and
+p4: berries purée, strawberry syrup and blueberry purée and spiruline extract mango1 nectars, strawberry coulis
+p4: blue whipped cream
+p4: 1 - jus à base de concentré de fruit / made from concentrated fruit juice
+p4: Prix nets / Tax included
+p5: C O C K T A I L S I C O N I Q U E S
+p5: I C O N I C C O C K T A I L S
+p5: STRAWBERRY ESPRESSO
+p5: COSMOPOLITAN 16€
+p5: DAIQUIRI 16€ MARTINI 16€
+p5: Vodka Smirnoff N°21 Red, liqueur
+p5: Rhum Trois Rivières blanc, purée Vodka Smirnoff N°21 Red, liqueur de triple sec, nectar de cranberry1
+p5: de fraises, boisson au citron vert1 de café - Fair, sirop de sucre et jus de citron vert frais
+p5: et sirop de fraise de canne et espresso Lavazza Smirnoff N°21 Red vodka, triple sec
+p5: Trois Rivières white rum, strawberry Smirnoff N°21 Red vodka, liqueur, cranberry nectar1 and fresh
+p5: purée, lime drink1 and strawberry Fair - coffee liqueur, cane syrup lime juice
+p5: syrup and Lavazza espresso
+p5: MANHATTAN 16€ NEGRONI 16€ PALOMA 16€
+p5: Whiskey Bulleit Rye, Martini Gin Gordon’s London dry, Martini Téquila José Cuervo, liqueur de
+p5: Riserva Speciale Rubino et Riserva Speciale Rubino et Campari triple sec, boisson au citron vert1
+p5: Angostura aromatic bitters bitter et boisson au pamplemousse
+p5: Bulleit Rye whiskey, red vermouth Gordon’s London dry gin, Martini José Cuervo tequila, triple sec
+p5: and Angostura aromatic bitters Riserva Speciale Rubino and liqueur, lime drink1 and grapefruit
+p5: Campari bitter drink
+p5: LONG ISLAND ICED TEA DRY MARTINI
+p5: 16€ 16€
+p5: Téquila José Cuervo, rhum Trois Rivières blanc, vodka Gin Gordon’s London Dry, Dolin - Vermouth de Chambéry
+p5: Smirnoff N°21 Red, gin Gordon’s London Dry, liqueur de Gordon’s London Dry gin, Dolin - Vermouth de Chambéry
+p5: triple sec, jus de citron jaune et Coca-Cola ORIGINAL
+p5: José Cuervo tequila, Trois Rivières white rum, Smirnoff
+p5: DRY MARTINI
+p5: N°21 Red vodka, Gordon’s London Dry gin, triple sec
+p5: ET SES VARIANTES
+p5: 16€
+p5: liqueur, lemon juice and Coca-Cola ORIGINAL
+p5: Demandez à votre serveur
+p5: 1 - jus à base de concentré de fruit / made from concentrated fruit juice
+p5: Prix nets / Tax included
+p6: OFFRE CLASSIQUE / CLASSICAL OFFER
+p6: C H A M P A G N E S
+p6: 15 cl 75 cl
+p6: Edition Spéciale Disneyland® Paris - Champagne Pierre Mignon Grande Réserve - brut 19€ 87€
+p6: Taittinger - Prestige Rosé 23€ 105€
+p6: Moët & Chandon - Impérial - brut 21€ 97€
+p6: Veuve Clicquot - Carte Jaune - brut 105€
+p6: B I È R E S E T C I D R E / B E E R S A N D C I D E R
+p6: PRESSION / DRAUGHT 25 cl 50 cl BOUTEILLE / BOTTLED 33 cl
+p6: Brooklyn IPA 7,5€ 10€ Grimbergen d’Abbaye Ambrée 8€
+p6: Brooklyn Lager 7,5€ 10€ Bud® 8,5€
+p6: Carlsberg Blonde 6,5€ 9,8€ Corona Extra 8,5€
+p6: Grimbergen d’Abbaye Blonde 7€ 10,5€ Desperados 8,5€
+p6: Guinness Draught 50 cl 9€
+p6: CIDRE / CIDER 27,5 cl
+p6: La Mordue Original aromatisé 8€
+p6: Flavoured cider
+p6: A P É R I T I F S / A P E R I T I V E S D I G E S T I F S & L I Q U E U R S
+p6: D I G E S T I V E S & L I Q U E U R S
+p6: 6 cl
+p6: 4 cl
+p6: Ricard - Pastis de Marseille 4 cl 8,5€
+p6: Eau-de-vie / Spirit
+p6: Martini Riserva Speciale Rubino 9,5€
+p6: Eau-de-vie de poires Williams
+p6: Martini Riserva Speciale Ambrato 9,5€
+p6: du Valais AOP - Morand 12€
+p6: Campari bitter 8,5€
+p6: Cognac Courvoisier VSOP 11€
+p6: Porto Graham’s - Tawny - 10 ans 9,5€
+p6: Calvados Le Domfrontais de Christian Drouin 12€
+p6: Armagnac Château de Laubade -
+p6: Bas Armagnac VSOP 13€
+p6: Liqueurs
+p6: Get 27 11€
+p6: Amaretto Disaronno 11€
+p6: Limoncello Mamma Mia 11€
+p6: Bailey’s The Original Irish Cream 12€
+p6: Jägermeister 10€
+p6: Prix nets / Tax included
+p7: OFFRE CLASSIQUE / CLASSICAL OFFER
+p7: S P I R I T U E U X / S P I R I T S
+p7: GINS 4 cl TEQUILAS 4 cl
+p7: Brooklyn 12€ El EspolÓn Reposado 12€
+p7: Gin américain créé en 2010, cette authentique
+p7: Calle 23 Añejo 15€
+p7: distillerie artisanale propose un gin frais aux
+p7: saveurs citronnées Created in 2010, this authentic
+p7: WHISKIES
+p7: craft distillery offers a fresh gin with lemony 4 cl
+p7: flavours
+p7: Américains / American
+p7: Bombay Sapphire 12€
+p7: Woodford Reserve - Double Oaked 12€
+p7: Madlord 14€
+p7: Jack Daniel’s - Single Barrel Select 13€
+p7: Tanqueray N°Ten 12€
+p7: Maker’s Mark Bourbon 12€
+p7: Hendrick’s 12€
+p7: Bulleit Rye Frontier Whiskey 11€
+p7: Aviation 14€
+p7: Écossais / Scottish 4 cl
+p7: VODKAS
+p7: 4 cl Scotch Blended
+p7: Skyy Premium ou Infusions aromatisée 11€
+p7: Johnnie Walker Red Label 12€
+p7: Vodka créée à San Francisco, à base d’eau
+p7: Black Bottle 11€
+p7: californienne, au goût rond et doux
+p7: Vodka created in San Francisco, made with Johnnie Walker - Black Label - 12 ans 12€
+p7: Californian water, with a smooth and mellow taste Chivas Regal 12 ans - Speyside 12€
+p7: Grey Goose 12€
+p7: Scotch Malts
+p7: Belvedere Organic - Bio 11€
+p7: Lagavulin - 16 ans - Islay Single
+p7: Malt Scotch Whisky 14,5€
+p7: RHUMS - CACHAÇA 4 cl
+p7: Highland Park - 12 ans - Viking Honour
+p7: Flor de Caña - Extra seco - 4 ans 11€
+p7: Orcades 12€
+p7: Angostura 5 ans 12€
+p7: Irlandais / Irish 4 cl
+p7: Flor de Caña - Grand Reserva - 7 ans 18€
+p7: The Sexton 12€
+p7: Magnifica de Faria - Traditional Ipê (cachaca) 12€
+p7: Barcelo - Imperial (République Dominicaine) 14€ Japonais / Japanes
+p7: 4 cl
+p7: Ron Zacapa - 23 - Solera Gran Reserva 14€ Nikka Coffey Malt 14€
+p7: Mount Gay Black Barrel 11€
+p7: Prix nets / Tax included
+p8: V I N S / W I N E
+p8: VINS BLANCS / WHITE WINE 15 cl 75 cl
+p8: IGP Cité de Carcassonne - Gérard Bertrand - Chardonnay 7,5€ 34€
+p8: U.S.A. : Diamond Collection - Francis Coppola - Sauvignon blanc 12€ 54€
+p8: Cuvée Disneyland® Paris - Aop la Clape - Château L’Hospitalet - Bio - Demeter 8,5€ 38€
+p8: AOC Chablis 1er Cru - Côte de Léchet - La Chablisienne 14€ 63€
+p8: AOC Alsace - Gentil Hugel - Famille Hugel 10€ 45€
+p8: ROSÉ WINE
+p8: VINS ROSÉS / 15 cl 75 cl
+p8: AOP Côtes de Provence - Minuty - Prestige rosé 8,5€ 38€
+p8: AOP Languedoc - Source of Joy - Gérard bertrand - Bio - Vegan 8,5€ 38€
+p8: VINS ROUGES / RED WINE
+p8: 15 cl 75 cl
+p8: IGP Cité de Carcassonne - Gérard Bertrand - Merlot 8€ 34€
+p8: U.S.A. : Diamond Collection - Francis Coppola - Zinfandel 10,5€ 46€
+p8: Cuvée Disneyland® Paris - AOP la Clape - Château L’Hospitalet - Bio - Demeter 8,5€ 38€
+p8: AOC Saint Emilion - Fortin Plaisance 8,5€ 38€
+p8: AOC Bourgogne Hautes-Côtes de Nuits - Pierre Maizière 9,5€ 43€
+p8: B O I S S O N S S A N S A L C O O L / N O N - A L C O H O L I C S P A R K L I N G
+p8: EFFERVESCENT SANS ALCOOL BIÈRE SANS ALCOOL
+p8: NON-ALCOHOLIC SPARKLING 15 cl 75 cl NON-ALCOHOLIC BEER 33 cl
+p8: Nooh by La Coste - Effervescent Rosé Brooklyn Special Effects
+p8: 0% alcool / Sparkling Rosé 12€ 55€ Sans alcool / Non-Alcoholic 8€
+p8: EAUX MINÉRALES / MINERAL WATERS 33 cl
+p8: B O I S S O N S F R A Î C H E S
+p8: Vittel® 5€
+p8: C O L D D R I N K S
+p8: S.Pellegrino® 5,5€
+p8: 25 cl 33 cl
+p8: Coca-Cola 6€
+p8: ORIGINAL B O I S S O N S C H A U D E S
+p8: Coca-Cola 6€
+p8: ZÉRO SUCRES H O T D R I N K S
+p8: Coca-Cola Cherry 6€
+p8: Sprite 6€
+p8: Espresso 100% Arabica 3,8€
+p8: Fanta Orange 6€ Double espresso 100% Arabica 5,5€
+p8: TROPICO Original 6€ Ristretto 100% Arabica 3,8€
+p8: FuzeTea Pêche Intense 6€ Café 100% Arabica / Coffee 5€
+p8: FuzeTea Peach Black Tea Café au lait / Coffee with milk 5,5€
+p8: Cappuccino 5,5€
+p8: Sélection de Tonics 5€
+p8: 20 cl
+p8: Décaféiné / Decaffeinated 3,5€
+p8: Indian, Elderflower, Mediterranean,
+p8: Saveur Rhubarbe-Framboise Chocolat chaud / Hot chocolate 5,5€
+p8: Perrier® 5€ Thé, Infusion / Tea, herbal tea 5,5€
+p8: Lait demi-écrémé 20 cl 3,8€
+p8: Jus d’orange, jus de pomme 6€
+p8: Semi-skimmed milk
+p8: Prix nets / Tax included
+p9: SNACKS
+p9: Jusqu’à minuit / Until 00 am
+p9: S A L É / S A V O U R Y
+p9: Petits légumes croquants et sauce yaourt au concombre à l’ail et à la menthe 9€
+p9: Baby vegetables and cucumber sauce with garlic and mint
+p9: Beef Jerky 15€
+p9: Pain brioché toasté au saumon fumé, avocat et sauce au et à l’aneth 12€
+p9: Toasted brioche with smoked salmon, avocado and Kiri® and dill sauce
+p9: Pain brioché toasté au homard, laitue, sauce cocktail 20€
+p9: Toasted brioche with lobster, lettuce, cocktail sauce
+p9: «Pizzetta al tegamino» margherita, sauce tomate, mozzarella et basilic 15€
+p9: «Pizzetta Al Tegamino» margherita with tomato sauce, mozzarella and basil
+p9: Assortiment de charcuteries italiennes (idéal à partager) : Bresaola,
+p9: mortadelle aux pistaches, jambon de Parme, porchetta et parmesan 20€
+p9: Selection of Italian cold cut (ideal to share) : Bresaola, mortadella
+p9: with pistachios, Parma ham, porchetta and parmesan cheese
+p9: Quartiers de pommes de terre rôtis aux aromates, sauce tartare 7€
+p9: Roast potatoes quarters with herbs, tartare sauce
+p9: Chips 6€
+p9: Pipers® potato crisps
+p9: S U C R É / S W E E T
+p9: Bourbon vanilla Crème Brûlée
+p9: Crème brûlée à la vanille bourbon / 8€
+p9: Petits fruits et baies du moment / Seasonal small fruits and berries 9€
+p9: Assortiment de macarons2 / Assorted macarons2 8€
+p9: Cheesecake litchi-passion-rose / Leechy-passion-rose cheesecake 9€
+p9: Chou «Doctor Strange» / "Dr. Strange" Pastry 10€
+p9: Chou craquelin, crème fouettée vanille, compotée de fruits rouges, brisures de meringue et noix de coco
+p9: Crispy puff pastry, vanilla whipped cream, red berries compote, meringue pieces and coconut
+p9: Crème glacée Chocolat ou vanille / Chocolate or vanilla GROM® ice cream 8€
+p9: Glace Pistache / Pistachio GROM® ice cream 8€
+p9: Sorbet Mangue ou fraise / Mango or strawberry GROM® sorbet 8€
+p9: 2 - produit décongelé / defrosted product
+p9: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members.
+p9: A list of the allergens present in our dishes is available upon request with any of our Cast Members, please make a Cast Member aware of any allergies you may have.
+p9: Prix nets / Tax included
+p10: OFFREZ-VOUS UN SOUVENIR MAGIQUE
+p10: AVEC NOTRE CUILLÈRE SOUVENIR DE L’HOTEL
+p10: NEW YORK THE ART OF MARVEL
+p10: COLLECT OUR MAGICAL SOUVENIR
+p10: SPOON FROM
+p10: THE HOTEL NEW YORK - THE ART OF MARVEL
+p10: 34€
+p10: noitatneserp
+p10: gnidnib-noN
+p10: /
+p10: elleutcartnoc-non
+p10: Prix net / Tax included
+p10: otohP
+p10: L’offre est valable pour toute personne ayant consommé au Skyline Bar
+p10: The offer is valid for anyone who has eaten at Skyline Bar
+p10: Vente limitée à 1 cuillère par personne / Limited to 1 per person
+p11: ©Disney ©2025 MARVEL

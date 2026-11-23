@@ -1,0 +1,728 @@
+p2: PETIT DÉJEUNER BREAKFAST
+p2: ADULTE
+p2: 60 €
+p2: Croissant1 et petit pain
+p2: Beurre, miel
+p2: Abricots mijotés au sucre de canne et préparation de fraise au sucre de canne
+p2: Jus d’orange frais ou jus de pomme
+p2: Boisson chaude
+p2: et
+p2: Formule salée
+p2: Saumon fumé, crème à l’aneth sur pain nordique,
+p2: Comté AOP 12 mois, jambon cuit en chiffonade.
+p2: Œuf mollet, English muffin, bacon de bœuf et sauce hollandaise
+p2: ou
+p2: Formule sucrée
+p2: Coupe de fruits. Pancakes1, myrtilles et sirop d’érable
+p2: ou
+p2: Formule duo
+p2: Tofu soyeux aux noix de cajou, banane, kiwi et fruits frais,
+p2: muesli sans gluten et baies de goji.
+p2: Omelette végétale à la ciboulette, champignons et tomates
+p2: ENFANT
+p2: 48 €
+p2: POUR ENFANT ÂGÉ DE 3 À 11 ANS
+p2: Croissant1 et petit pain
+p2: Beurre, miel
+p2: Abricots mijotés au sucre de canne et préparation de fraise au sucre de canne
+p2: Jus d’orange frais ou jus de pomme
+p2: Boisson chaude2
+p2: et
+p2: Jambon cuit en chiffonade, Kiri® et œufs brouillés
+p2: ou
+p2: Coupe de fruits, pancake1 et sauce chocolat
+p2: Sélection de céréales sur demande
+p2: BOISSONS CHAUDES
+p2: Café 100% Arabica
+p2: Décaféiné
+p2: Chocolat chaud ou alternative végétale
+p2: Café au lait ou alternative végétale
+p2: Thé, infusion
+p2: Lait demi-écrémé ou alternative végétale 20 cl
+p2: Alternatives végétales
+p2: Boisson à l’amande saveur vanille, boissons à l’avoine, boisson à la noix de coco,
+p2: boisson de riz, boisson de soja, boisson au riz, chocolat et noisette
+p2: COMMENCEZ LA JOURNÉE
+p2: AVEC UNE BULLE D’EXCEPTION
+p2: MIMOSA Edition spéciale Disneyland® Paris
+p2: Pierre Mignon Grande Réserve - brut et jus d’orange frais .........................................16 €
+p2: CHAMPAGNE Edition spéciale Disneyland® Paris
+p2: Pierre Mignon Grande Réserve - brut 15 cl ........................................................................19 €
+p3: PETIT DÉJEUNER BREAKFAST
+p3: ADULT
+p3: €60
+p3: Croissant1 and bread roll
+p3: Butter, honey
+p3: Stewed apricots in cane sugar and strawberry preserve with cane sugar
+p3: Fresh orange juice or apple juice
+p3: Hot drink
+p3: and
+p3: Savory option
+p3: Smoked salmon and dill cream on Nordic bread,
+p3: 12-month-aged Comté AOP, thinly-sliced cooked ham.
+p3: Soft-boiled egg, English muffin, beef bacon and hollandaise sauce
+p3: or
+p3: Sweet option
+p3: Seasonal fruit salad. Pancakes1, blueberries and maple syrup
+p3: or
+p3: Duo option
+p3: Silken tofu with cashew nuts, banana, kiwi and other fresh fruit,
+p3: gluten-free muesli and goji berries.
+p3: Plant-based omelette with mushrooms, tomatoes and chives
+p3: CHILDREN
+p3: €48
+p3: FOR CHILDREN AGES 3 TO 11
+p3: Croissant1 and bread roll
+p3: Butter, honey
+p3: Stewed apricots in cane sugar and strawberry preserve with cane sugar
+p3: Fresh orange juice or apple juice
+p3: Hot drink2
+p3: and
+p3: Thinly-sliced cooked ham with Kiri® and scrambled eggs
+p3: or
+p3: Seasonal fruit salad, pancake1 and chocolate sauce
+p3: Selection of cereals available on request
+p3: HOT DRINKS
+p3: 100% Arabica coffee
+p3: Decaffeinated coffee
+p3: Hot chocolate or plant-based alternative
+p3: Café au lait or plant-based alternative
+p3: Tea, herbal tea
+p3: Semi-skimmed milk or plant-based alternative 20 cl
+p3: Plant-based alternatives
+p3: Almond drink, oat drink, coconut drink, rice drink, soy drink,
+p3: Rice drink with chocolate and hazelnut
+p3: START THE DAY
+p3: WITH AN EXCEPTIONAL BUBBLE
+p3: MIMOSA Special edition Disneyland® Paris
+p3: Pierre Mignon Grande Réserve - brut and fresh orange juice ....................................€16
+p3: CHAMPAGNE Special edition Disneyland® Paris
+p3: Pierre Mignon Grande Réserve - brut 15 cl ........................................................................€19
+p4: Chers visiteurs,
+p4: Bienvenue au Regal View Restaurant & Lounge*,
+p4: Nous, qui prenons grand plaisir à vous servir ici,
+p4: vous invitons à profiter de cette retraite royale
+p4: nichée entre les jardins, aux abords de La Baie de l’Aventure.
+p4: La beauté incomparable du paysage environnant
+p4: captive notre imagination depuis longtemps,
+p4: et nous ne sommes pas les seuls.
+p4: Depuis des siècles, ces jardins magiques
+p4: attirent des visiteurs royaux venus de royaumes lointains.
+p4: Parmi les hôtes fréquents, on compte
+p4: des princesses bien-aimées qui ont apporté avec elles
+p4: leurs histoires et leur charme à ce havre de paix.
+p4: Les architectes et artisans qui ont créé le Regal View
+p4: ont trouvé une inspiration inestimable dans le caractère
+p4: et l'esprit de ces altesses estimées.
+p4: Depuis, les princesses ont veillé
+p4: à ce que les portes de leur magnifique demeure
+p4: loin de chez elles restent ouvertes à tous.
+p4: Que votre visite soit pleine d’enchantement.
+p4: Cordialement,
+p4: Le personnel du Restaurant & Bar La Vue Royale
+p4: * Restaurant & Bar La Vue Royale
+p5: MENU DU CHÊNE ROYAL
+p5: Accord mets et vins
+p5: 25 €
+p5: 100 €
+p5: Menu accompagné de 3 verres de vin de 8 cl
+p5: parmi la sélection suivante :
+p5: Entrée
+p5: Blanc : AOC Cheverny - Château de Chambord - Sauvignon Blanc - Bio
+p5: ou Rosé : AOP Côtes de Provence - Minuty - Prestige Rosé
+p5: Plat
+p5: Blanc : AOC Pouilly-Fuissé – Domaine de la Denante
+p5: ou Rouge : AOC Saint-Émilion Grand Cru – Château Capet-Guillier
+p5: Dessert
+p5: Blanc : AOC Alsace – Gewurztraminer – Vendange Tardive – Famille Hugel
+p5: ou Pierre Mignon – Ratafia de Champagne
+p5: Accord mets et champagnes
+p5: 40 €
+p5: Menu accompagné de 3 verres de champagne de 10 cl
+p5: parmi la sélection suivante :
+p5: Entrée
+p5: Édition Spéciale Disneyland® Paris – Pierre Mignon Grande Réserve – brut
+p5: Plat
+p5: Moët & Chandon – Grand Vintage – extra brut
+p5: ou Louis Roederer – Collection 246 – brut
+p5: Dessert
+p5: Taittinger – Prestige Rosé
+p5: ou Pierre Mignon – Ratafia de Champagne
+p6: MENU DU CHÊNE ROYAL
+p6: 100 €
+p6: Entrées
+p6: Velouté de courgettes, taboulé de chou au tagète,
+p6: beignet de gombos et épices colombo
+p6: ou Tataki de thon rouge au sésame, salade au daïkon et wakamé,
+p6: chutney d’ananas aux baies de Sichuan
+p6: ou Salade de la cueillette
+p6: Fruits et légumes crus et en pickles, viande des Grisons, fromage tête de
+p6: moine, sauce au vinaigre de framboises et pignons de pin
+p6: ou Mousse d’avocat relevée au gingembre, tartare de mangue et crumble
+p6: aux graines de courges, crème perlée à l’huile d’aneth
+p6: Plats
+p6: Dorade royale, sauce vanillée au combava,
+p6: purée de patates douces et pakchoï braisé
+p6: ou Pintade rôtie aux saveurs orientales,
+p6: fruits secs et citron confit
+p6: ou Bœuf cuit en basse température et confit aux oignons,
+p6: sauce vin rouge, pomme paillasson au Comté AOP et au thym
+p6: ou Filet aux protéines de soja et pois,
+p6: chapelure aux herbes et bouillon à l’ail noir, poêlée d’orge aux champignons
+p6: et blettes parfumée à la truffe, espuma à la bière
+p6: Desserts
+p6: Entremets ganache vanillée,
+p6: insert framboise et croustillant praliné2
+p6: ou Fruits exotiques à l’aloe vera en salade,
+p6: émulsion coco
+p6: ou Entremets chocolat blanc,
+p6: ananas-passion, amande et noix de coco2
+p6: ou Soufflé glacé au marc de champagne
+p7: POUR TERMINER CE REPAS ROYAL
+p7: Boissons chaudes
+p7: Espresso 100% Arabica .....................................................................................3,8 €
+p7: Double Espresso 100% Arabica .....................................................................5,5 €
+p7: Décaféiné 100% Arabica .................................................................................3,8 €
+p7: Café 100% Arabica .............................................................................................5 €
+p7: Café au lait ...........................................................................................................5,5 €
+p7: Cappuccino ..........................................................................................................5,5 €
+p7: Chocolat chaud ...................................................................................................5,5 €
+p7: Chocolat Viennois ..............................................................................................6 €
+p7: Thé, Infusion .......................................................................................................5,5 €
+p7: Digestifs & liqueurs
+p7: 4 cl
+p7: Eaux-de-vie
+p7: Cognac Courvoisier VSOP ................................................................................11 €
+p7: Calvados - Le Domfrontais - Christian Drouin ...........................................12 €
+p7: Château de Laubade - Bas Armagnac VSOP ..............................................13 €
+p7: Liqueurs
+p7: Amaretto Disaronno ..........................................................................................11 €
+p7: Bailey’s The Original Irish Cream ...................................................................12 €
+p7: Grand Marnier Cordon Rouge ........................................................................12 €
+p7: Get 27 .....................................................................................................................11 €
+p7: Limoncello Mamma Mia...................................................................................11 €
+p7: Célébrez votre Anniversaire en notre compagnie
+p7: et commandez votre dessert d’anniversaire
+p7: en début de repas !
+p7: Dessert à partir de 2 personnes 25 €
+p7: Dessert à partir de 6 personnes 45 €
+p7: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible,
+p7: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p7: 2 - produit décongelé - veggie = végétarien
+p7: Prix nets - Eau potable à votre disposition
+p8: POUR TERMINER CE REPAS ROYAL
+p8: Dear Guests,
+p8: Welcome to the Regal View Restaurant & Lounge,
+p8: We, who take great pleasure in serving here,
+p8: invite you to enjoy this royal retreat nestled
+p8: between the gardens on the edge of Adventure Bay.
+p8: The unparalleled beauty of the surrounding landscape
+p8: has captured our imaginations for quite some time,
+p8: and we are not alone.
+p8: For ages, these magical gardens
+p8: have drawn royal visitors from faraway kingdoms.
+p8: Frequent guests include beloved princesses
+p8: who have bestowed their stories and charm upon this
+p8: haven.
+p8: Architects and artisans who created the Regal View
+p8: found invaluable inspiration in the character
+p8: and spirit of these esteemed royals.
+p8: The princesses have since ensured that the gates
+p8: to their magnificent home away from home
+p8: remain forever open to you all.
+p8: May your visit be filled with enchantment.
+p8: Yours sincerely,
+p8: The Staff of The Regal View Restaurant
+p8: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible,
+p8: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p8: 2 - produit décongelé - veggie = végétarien
+p8: Prix nets - Eau potable à votre disposition
+p9: ROYAL OAK SET MENU
+p9: Wine Pairing
+p9: €25
+p9: €100
+p9: Menu served with three 8 cl glasses of wine,
+p9: selected from the following:
+p9: Starters
+p9: White: AOC Cheverny - Château de Chambord - Sauvignon Blanc - Bio
+p9: or Rosé: AOP Côtes de Provence - Minuty - Prestige Rosé
+p9: Main Courses
+p9: White: AOC Pouilly-Fuissé – Domaine de la Denante
+p9: or Red: AOC Saint-Émilion Grand Cru – Château Capet-Guillier
+p9: Desserts
+p9: White: AOC Alsace – Gewurztraminer – Vendange Tardive – Famille Hugel
+p9: or Pierre Mignon – Ratafia de Champagne
+p9: Champagne Pairing
+p9: €40
+p9: Menu served with three 10 cl glasses of champagne,
+p9: selected from the following:
+p9: Starters
+p9: Édition Spéciale Disneyland® Paris – Pierre Mignon Grande Réserve – brut
+p9: Main Courses
+p9: Moët & Chandon – Grand Vintage – extra brut
+p9: or Louis Roederer – Collection 246 – brut
+p9: Desserts
+p9: Taittinger – Prestige Rosé
+p9: or Pierre Mignon – Ratafia de Champagne
+p10: ROYAL OAK SET MENU
+p10: €100
+p10: Starters
+p10: Courgette velouté, cauliflower tabbouleh with marigolds
+p10: and a Colombo-spiced okra fritter
+p10: or Bluefin tuna tataki with sesame seeds, daikon and wakame salad,
+p10: pineapple and Sichuan peppercorn chutney
+p10: or Swiss salad
+p10: Raw and pickled fruit and vegetables, Grisons cured beef,
+p10: Tête de Moine cheese, raspberry vinegar dressing and pine nuts
+p10: or Avocado and ginger mousse, mango tartare and pumpkin seed crumble
+p10: with creamy dill oil sauce
+p10: Main Courses
+p10: Gilthead seabream, kaffir lime and vanilla sauce,
+p10: sweet potato purée and braised bok choy
+p10: or North African-style roast guinea fowl with dried fruits and lemon confit
+p10: or Slow-cooked beef at low temperature with onion confit,
+p10: red wine sauce, potato pancake with Comté AOP and thyme
+p10: or Soy and pea fillet,
+p10: herb crust and black garlic broth, pan-fried barley with mushrooms,
+p10: chard and truffle, beer foam
+p10: Desserts
+p10: Vanilla ganache mousse cake, raspberry insert, crispy praline2
+p10: or Tropical fruit and aloe vera salad, coconut emulsion
+p10: or White chocolate, pineapple-passion fruit,
+p10: almond and coconut mousse cake2
+p10: or Marc de champagne frozen soufflé
+p11: TO CONCLUDE THIS ROYAL MEAL PERFECTLY
+p11: Hot drinks
+p11: Espresso 100% Arabica .....................................................................................€3,8
+p11: Double Espresso 100% Arabica .....................................................................€5,5
+p11: Decaffeinated coffee ........................................................................................€3,8
+p11: Coffee .....................................................................................................................€5
+p11: Coffee with milk .................................................................................................€5,5
+p11: Cappuccino ..........................................................................................................€5,5
+p11: Hot chocolate ......................................................................................................€5,5
+p11: Vienna hot chocolate ........................................................................................€6
+p11: Tea, herbal tea ....................................................................................................€5,5
+p11: Digestifs & liqueurs
+p11: 4 cl
+p11: Spirits
+p11: Cognac Courvoisier VSOP ................................................................................€11
+p11: Calvados Le Domfrontais de Christian Drouin ..........................................€12
+p11: Château de Laubade - Bas Armagnac VSOP ..............................................€13
+p11: Liqueurs
+p11: Amaretto Disaronno ..........................................................................................€11
+p11: Bailey’s The Original Irish Cream ...................................................................€12
+p11: Grand Marnier Cordon Rouge ........................................................................€12
+p11: Get 27 .....................................................................................................................€11 62/30
+p11: –
+p11: Limoncello Mamma Mia...................................................................................€11 yensiD©
+p11: Celebrate your birthday with us.
+p11: Don’t forget to order your birthday dessert
+p11: before your meal!
+p11: Dessert to share for 2 or more people €25
+p11: Dessert to share for 6 or more people €45
+p11: A list of the allergens present in our dishes is available upon request with any of our Cast Members;
+p11: please make a Cast Member aware of any allergies you may have
+p11: 2 - defrosted product
+p11: Tax included - Drinking water available
+p12: 62/20 – yensiD© - dedulcni xaT 62/20 – yensiD© - ten xirP
+p12: evah yam uoy seigrella yna fo erawa rebmeM tsaC a ekam esaelp ;srebmeM tsaC .srebmeM tsaC son ed nu’l à rednamed el à te relangis suov à sap zetiséh’n
+p12: ruo fo yna htiw tseuqer nopu elbaliava si sehsid ruo ni tneserp snegrella eht fo tsil A ,elbinopsid tse stalp son snad senègrella’d ecnesérp al rus snoitamrofni’d lieucer nU
+p12: tcudorp detsorfed - 1 élegnocéd tiudorp - 1
+p12: dereffo tcudorp eht rof tnemecalper a sa tseuqer nopu elbaliava si lc52 knird dloc rehtonA
+p12: ésoporp tiudorp ud tnemecalpmer ne te ednamed rus lc 52 ehcîarf nossiob ertuA
+p12: lc 02 kliM ro lc 52 eciuj elppa ro egnarO ro lc 33 ®lettiV
+p12: tiaL emmop ed egnaro’d suJ ®lettiV
+p12: lc 02 uo lc 52 uo uo lc 33
+p12: SKNIRD
+p12: SNOSSIOB
+p12: yrtsap ffup desilemarac htiw essuom etalocohc kliM ro
+p12: ésilémarac ételliuef te tial ua talocohc essuoM uo
+p12: essuom enopracsam htiw teltrat tiurf lanosaeS
+p12: ro
+p12: enopracsam ua essuom te tnemom ud stiurf xua etteletraT
+p12: uo
+p12: ertnec yrrebeulb dna
+p12: 1
+p12: sellitrym tresni te cnalb talocohc essuom ,sednama xuellœM
+p12: essuom etalocohc etihw htiw ekac egnops dnomlA 1
+p12: STRESSED
+p12: STRESSED
+p12: ettelliuom te suj
+p12: pirts tsaot dna suj nap
+p12: ,errueb ua seésarcé erret ed semmop te teluop ed éhcolffiE
+p12: uo
+p12: ,seotatop dehsam yrettub htiw nekcihc delluP ro
+p12: teloiv ruefl-uohc te senuaj settorac ed eérup
+p12: rewofliluac elprup dna eérup torrac wolley
+p12: ,semurga xua ecuas ,nfielgé’d teliF uo
+p12: ,ecuas surtic htiw tellfi kcoddaH ro
+p12: senuaj te seguor setamot xua ecuas ,attocir ,eilgihcnoc setâP
+p12: ecuas otamot wolley dna der ,eseehc attocir htiw atsap eilgihcnoC
+p12: STALP
+p12: SESRUOC NIAM
+p12: liatkcoc ecuas ,émuf nomuas te snossiop ed settelliR uo
+p12: ecuas liatkcoc dna nomlas dekoms htiw settellir hsiF
+p12: ro
+p12: imartsap te esiannoyam ne semugél xua fuœ’d éluoR
+p12: uo
+p12: imartsap dna esiannoyam htiw ettelemo elbategev delloR ro
+p12: sobmog ed tengieb te siop stitep ed étuoleV
+p12: rettirf arko htiw étuolev aep neerG
+p12: SEÉRTNE
+p12: SRETRATS
+p12: € 05
+p12: 05 €
+p12: nossioB te tresseD ,talP ,eértnE
+p12: knirD dna tresseD ,esruoC niaM ,retratS
+p12: sna 11 à 3 ed ségâ stnafne ruoP
+p12: 11 ot 3 sega nerdlihc rof REICNIRP EMRO'L ED UNEM
+p12: UNEM MLE S’ECNIRP
+p12: MENU
+p12: ENFANT
+p12: KID'S MENU
+p12: ©Disney/Pixar FR/UK
+p13: KU/RF
+p13: raxiP/yensiD©
+p13: UNEM S'DIK
+p13: TNAFNE
+p13: UNEM
+p13: PRINCE’S ELM MENU
+p13: MENU DE L'ORME PRINCIER
+p13: for children ages 3 to 11
+p13: Pour enfants âgés de 3 à 11 ans
+p13: Starter, Main Course, Dessert and Drink
+p13: Entrée, Plat, Dessert et Boisson
+p13: € 50
+p13: 50 €
+p13: STARTERS
+p13: ENTRÉES
+p13: Green pea velouté with okra fritter
+p13: Velouté de petits pois et beignet de gombos
+p13: or Rolled vegetable omelette with mayonnaise and pastrami
+p13: Roulé d’œuf aux légumes en mayonnaise et pastrami
+p13: ou
+p13: Fish rillettes with smoked salmon and cocktail sauce
+p13: or
+p13: ou Rillettes de poissons et saumon fumé, sauce cocktail
+p13: MAIN COURSES
+p13: PLATS
+p13: Conchiglie pasta with ricotta cheese, red and yellow tomato sauce
+p13: Pâtes conchiglie, ricotta, sauce aux tomates rouges et jaunes
+p13: or Haddock fillet with citrus sauce,
+p13: ou Filet d’églefin, sauce aux agrumes,
+p13: yellow carrot purée and purple cauliflower
+p13: purée de carottes jaunes et chou-fleur violet
+p13: or Pulled chicken with buttery mashed potatoes,
+p13: ou Effiloché de poulet et pommes de terre écrasées au beurre,
+p13: pan jus and toast strip
+p13: jus et mouillette
+p13: DESSERTS
+p13: DESSERTS
+p13: Almond sponge cake with white chocolate mousse
+p13: Mœlleux amandes, mousse chocolat blanc et insert myrtilles1
+p13: centre1
+p13: and blueberry
+p13: Tartelette aux fruits du moment et mousse au mascarpone
+p13: ou
+p13: Seasonal fruit tartlet with mascarpone mousse
+p13: or
+p13: ou Mousse chocolat au lait et feuilleté caramélisé
+p13: or Milk chocolate mousse with caramelised puff pastry
+p13: BOISSONS
+p13: DRINKS
+p13: Vittel® ou Jus d’orange ou de pomme ou Lait
+p13: 33 cl 25 cl 20 cl
+p13: Vittel® or Orange or apple juice or Milk
+p13: 33 cl 25 cl 20 cl
+p13: Autre boisson fraîche 25 cl sur demande et en remplacement du produit proposé
+p13: Another cold drink 25cl is available upon request as a replacement for the product offered
+p13: 1 - produit décongelé 1 - defrosted product
+p13: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible, A list of the allergens present in our dishes is available upon request with any of our
+p13: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members. Cast Members; please make a Cast Member aware of any allergies you may have
+p13: Prix net - ©Disney – 02/26 Tax included - ©Disney – 02/26
+p14: CARTE DES BOISSONS
+p14: BEVERAGE MENU
+p15: Au cœur d’un royaume lointain
+p15: se cachait une nature enchantée,
+p15: où l’été ne finissait jamais : jardins aux fleurs captivantes,
+p15: vergers aux fruits envoûtants, allées aux épices fascinantes.
+p15: De ces trésors naquirent des élixirs délicats,
+p15: aux recettes transmises par les sages du royaume.
+p15: In the heart of an enchanted land
+p15: where summer reigned in golden splendour gardens
+p15: alive with alluring flowers,
+p15: orchards blessed with bewitching fruits
+p15: and winding paths scented with intriguing spices.
+p15: From these treasures came delicate elixirs,
+p15: their recipes passed from generation to generation
+p15: by the kingdom’s most gifted alchemists.
+p16: COCKTAIL SIGNATURE
+p16: Murmure du verger / Orchard Whisper ....18 €
+p16: Vin blanc, jus de pomme1, liqueur fleur de sureau
+p16: et verjus - jus de raisin vert
+p16: White wine, apple juice1, elderflower liqueur
+p16: and verjuice
+p16: Au cœur d’un royaume lointain
+p16: se cachait une nature enchantée,
+p16: où l’été ne finissait jamais : jardins aux fleurs captivantes,
+p16: vergers aux fruits envoûtants, allées aux épices fascinantes.
+p16: De ces trésors naquirent des élixirs délicats,
+p16: aux recettes transmises par les sages du royaume.
+p16: In the heart of an enchanted land COCKTAIL SIGNATURE SANS ALCOOL
+p16: where summer reigned in golden splendour gardens
+p16: ALCOHOL-FREE SIGNATURE COCKTAIL
+p16: alive with alluring flowers,
+p16: orchards blessed with bewitching fruits
+p16: and winding paths scented with intriguing spices.
+p16: From these treasures came delicate elixirs,
+p16: their recipes passed from generation to generation
+p16: by the kingdom’s most gifted alchemists.
+p16: Rosée Florale / Floral Whisper ............14 €
+p16: Infusion d’hibiscus et thé vert, jus de pomme1,
+p16: saveurs framboise et cassis
+p16: Hibiscus and green tea, apple juice1,
+p16: raspberry and blackcurrant flavours
+p17: COCKTAILS CLASSIQUES
+p17: CLASSIC COCKTAILS
+p17: Negroni ........................................................................................................16 €
+p17: Gin Gordon's London dry, Dolin - Vermouth de Chambéry rouge
+p17: et Campari bitter
+p17: Gordon's gin, Dolin - Chambery red vermouth and bitter Campari
+p17: Passion Martini .........................................................................................16 €
+p17: Vodka Smirnoff N°21 Red, liqueur de fruit de la passion,
+p17: purée de fruits de la passion et sirop de vanille
+p17: accompagné de son shot de champagne brut
+p17: Red Smirnoff N°21 vodka, passion fruit liqueur, passion fruit purée
+p17: and vanilla syrup
+p17: served with a shot of brut champagne
+p17: Bellini ............................................................................................................16 €
+p17: Champagne Pierre Mignon Grande Réserve - brut et purée de pêches
+p17: Pierre Mignon Grande Réserve brut champagne, and peach purée
+p17: Aperol Spritz ..............................................................................................16 €
+p17: Aperol, DOC Prosecco Extra Dry, tranche d'orange et Perrier®
+p17: Aperol, DOC Prosecco Extra Dry, orange slice and Perrier®
+p17: Gin Tonic ......................................................................................................16 €
+p17: Gin Gordon’s London Dry, Tonic au choix
+p17: (Tonic Indian, Tonic saveur Framboise-Rhubarbe, Tonic saveur fleur de sureau)
+p17: Gordon’s gin, choise tonic (Indian tonic, Raspberry-Rhubarb flavour tonic,
+p17: Elderflower flavour tonic)
+p17: BIÈRES & CIDRE
+p17: BEERS & CIDER
+p17: Bières pression / Draught beers
+p17: 25 cl 50 cl
+p17: 1664® Premium ....................................................................6,5 € ............9,8 €
+p17: Grimbergen d’Abbaye blonde .........................................7 € ..............10,5 €
+p17: Bières bouteille / Bottled beers 33 cl 50 cl
+p17: Brooklyn IPA .........................................................................8,5 €
+p17: Guinness Draught .....................................................................................9 €
+p17: 1664® 0,0% ...........................................................................7 €
+p17: Cidre / Cider
+p17: La Mordue Original - cidre aromatisé 27,5 cl ................8 €
+p17: Flavoured cider
+p18: APÉRITIFS
+p18: 6 cl
+p18: Dolin - Vermouth de Chambéry Blanc / White ..................................8,5 €
+p18: Dolin - Vermouth de Chambéry Rouge / Red ....................................8,5 €
+p18: Campari bitter .............................................................................................8,5 €
+p18: Aperol ............................................................................................................8,5 €
+p18: Ricard - Pastis de Marseille 4 cl ................................................................8,5 €
+p18: Pierre Mignon - Ratafia de Champagne ..............................................8,5 €
+p18: CHAMPAGNES & VIN EFFERVESCENT
+p18: CHAMPAGNE & SPARKLING WINE
+p18: 15 cl 75 cl
+p18: Edition Spéciale Disneyland® Paris
+p18: Pierre Mignon Grande Réserve - brut ...........................19 € .............87 €
+p18: Taittinger - Prestige Rosé ..................................................22 € .............100 €
+p18: Louis Roederer - Collection 246 - brut ..........................26 € .............116 €
+p18: Moët & Chandon - Grand Vintage - extra brut ...........26 € .............116 €
+p18: Italie : DOC Prosecco Extra Dry .......................................7,5 € ............34 €
+p18: Cuvées Prestige
+p18: Ruinart - Blanc de blancs ........................................................................180 €
+p18: Louis Roederer - Cristal ............................................................................480 €
+p18: Dom Pérignon - Vintage - brut ..............................................................380 €
+p18: EFFERVESCENT SANS ALCOOL
+p18: ALCOHOL-FREE SPARKLING
+p18: 15 cl 75 cl
+p18: Nooh by La Coste - Effervescent Rosé - 0% alcool ....12 € .............55 €
+p19: VINS / WINE
+p19: Grands vins d’exception 75 cl
+p19: AOC Puligny-Montrachet 1er cru
+p19: Truffières - Olivier Leflaive .....................................................................290 €
+p19: AOP Languedoc Cabrières - Clos du Temple
+p19: Gérard Bertrand - Bio - Demeter..........................................................240 €
+p19: AOC Pomerol - Château La Conseillante ...........................................330 €
+p19: Vins blancs / White wine 15 cl 37,5 cl 75 cl
+p19: Alsace
+p19: AOC Alsace - Gewurztraminer
+p19: Vendange Tardive - Famille Hugel ........................17 €....................78 €
+p19: Bordeaux
+p19: AOC Pessac-Léognan - Château Carbonnieux
+p19: Grand Cru Classé de Graves ..................................................................74 €
+p19: Bourgogne
+p19: AOC Pouilly-Fuissé - Domaine de la Denante ....14 €.....34 € ......61 €
+p19: AOC Chablis 1er Cru - Côte de Léchet
+p19: La Chablisienne .........................................................................................63 €
+p19: AOC Meursault - Maison Champy .......................................................108 €
+p19: Languedoc
+p19: Cuvée Disneyland® Paris - AOP La Clape
+p19: Château L’Hospitalet - Bio - Demeter .....................8,5 € ..................38 €
+p19: Provence
+p19: AOP Coteaux d’Aix-en-Provence
+p19: Les Pentes Douces - Château La Coste ...............................................34 €
+p19: Vallée de la Loire
+p19: AOC Cheverny - Château de Chambord
+p19: Sauvignon Blanc - Bio .................................................10 € ...................43 €
+p19: AOC Muscadet de Sèvre et Maine sur lie
+p19: Clos de la Chapelle - Gilbert Chon .......................................19 € ......34 €
+p19: Vallée du Rhône
+p19: AOC Châteauneuf-du-Pape - L’Oratoire des Papes ........................70 €
+p19: AOP Hermitage - Chante-Alouette - M. Chapoutier ......................108 €
+p19: Vins blancs étrangers / Foreign white wine 75 cl
+p19: Italie : Vénétie - DOC Garda
+p19: Azienda Agricola Prendina - Pinot Grigio .........................................43 €
+p19: Nouvelle Zélande - Marlborough ...............................................................57 €
+p19: Greywacke - Sauvignon Blanc
+p19: Vins rosés / Rosé wine 15 cl 50 cl 75 cl
+p19: Côtes de Provence
+p19: AOP Côtes de Provence - Minuty - Prestige rosé ....8,5 €....21 € ......38 €
+p19: AOC Bandol - Château Romassan - Domaines Ott ........................62 €
+p20: Vins rouges / Red wine
+p20: 15 cl 37,5 cl 75 cl
+p20: Bordeaux
+p20: AOC Haut-Médoc - Château Cantemerle
+p20: Grand Cru Classé .......................................................................39 € ......70 €
+p20: AOC Pauillac - Baron Nathaniel
+p20: Baron Philippe de Rothschild ...............................................................53 €
+p20: AOC Saint-Estèphe - Château de Pez ................................................78 €
+p20: AOC Saint-Emilion Grand Cru
+p20: Château Capet-Guillier ..............................................16 € ...................70 €
+p20: AOC Saint-Julien - Château Talbot
+p20: Grand Cru Classé .......................................................................86 € ......155 €
+p20: Bourgogne
+p20: AOC Givry 1er Cru - La Grande Berge
+p20: Domaine Goubard ..................................................................................62 €
+p20: AOC Bourgogne Hautes-Côtes de Nuits
+p20: Pierre Maizière ..............................................................10 € ....24 € ......43 €
+p20: AOC Nuits-Saint-Georges 1er Cru
+p20: Clos des Argillières – Pierre Maizière .................................................95 €
+p20: AOC Pommard - La Rue au Port
+p20: Domaine Coste-Caumartin ...................................................................81 €
+p20: AOP Gevrey-Chambertin - Domaine Huguenot .............................81 €
+p20: Languedoc
+p20: Cuvée Disneyland® Paris - AOP La Clape
+p20: Château L’Hospitalet - Bio - Demeter .....................8,5 € ..................38 €
+p20: AOP Corbières - Le Corbières de Georges
+p20: Gérard Bertrand ........................................................................21 € ......38 €
+p20: Provence
+p20: AOP Les Baux-de-Provence
+p20: Château d’Estoublon - Bio .....................................................................45 €
+p20: Vallée de la Loire
+p20: AOC Cheverny - Château de Chambord
+p20: Pinot Noir & Gamay - Bio ........................................................................45 €
+p20: Vallée du Rhône
+p20: AOC Châteauneuf-du-Pape - L’Oratoire des Papes .........40 € ......72 €
+p20: AOC Côte Rôtie - Les Murets - Brotte - Syrah ...................................81 €
+p20: AOC Crozes-Hermitage - La Rollande - Brotte .....10 € ...................43 €
+p20: Vins rouges étrangers / Foreign red wine
+p20: 75 cl
+p20: Argentine : Lujàn de Cuyo - Agrelo
+p20: Naoki’s Single Vineyard - Casarena - Malbec - Vegan .....................63 €
+p20: Italien : Piémont - DOCG Barolo - Albe - G.D. Vajra ........................81 €
+p21: SPIRITUEUX / SPIRITS
+p21: 4 cl
+p21: Gins
+p21: Gordon's London Dry .................................................................................11 €
+p21: Tanqueray N°Ten .........................................................................................12 €
+p21: Vodkas
+p21: Smirnoff N°21 Red .......................................................................................11 €
+p21: Belvedere Organic - Bio .............................................................................12 €
+p21: Rhums
+p21: Trois Rivières blanc .....................................................................................11 €
+p21: Angostura 5 ans ...........................................................................................12 €
+p21: Tequilas
+p21: José Cuervo Silver .......................................................................................11 €
+p21: Whiskies
+p21: • Etats-Unis / USA
+p21: Maker's Mark Bourbon ...............................................................................12 €
+p21: Jack Daniel's Old No. 7 ...............................................................................12 €
+p21: • Ecosse / Scotland
+p21: Johnnie Walker - Red Label ......................................................................12 €
+p21: Lagavulin - 16 ans - Islay Single Malt ....................................................15 €
+p21: • Irlande / Ireland
+p21: Bushmill’s The Original ..............................................................................12 €
+p21: • Japon / Japan
+p21: Nikka Coffey Malt ........................................................................................14 €
+p21: DIGESTIFS & LIQUEURS
+p21: 4 cl
+p21: Eaux-de-vie / Spirits
+p21: Cognac Courvoisier VSOP .........................................................................11 €
+p21: Calvados - Le Domfrontais - Christian Drouin ....................................12 €
+p21: Château de Laubade - Bas Armagnac VSOP .......................................13 €
+p21: Liqueurs
+p21: Amaretto Disaronno ...................................................................................11 €
+p21: Bailey’s The Original Irish Cream ............................................................12 €
+p21: Grand Marnier Cordon Rouge .................................................................12 €
+p21: Get 27 ..............................................................................................................11 €
+p21: Limoncello Mamma Mia............................................................................11 €
+p22: BOISSONS FRAÎCHES / COLD DRINKS
+p22: 33 cl
+p22: Coca-Cola Original ......................................................................................6 €
+p22: Coca-Cola Zéro Sucres ..............................................................................6 €
+p22: Coca-Cola CHERRY ......................................................................................6 €
+p22: Sprite 25 cl .......................................................................................................6 €
+p22: Fanta Orange ........................................................................................6 €
+p22: 25 cl
+p22: FuzeTea Pêche Intense / Peach Black Tea 25 cl ....................................6 €
+p22: Kombucha Original - Bio ...........................................................................7 €
+p22: Sélection de Tonics 20 cl .............................................................................6 €
+p22: Indian, saveur Framboise-rhubarbe, saveur Fleur de sureau
+p22: Indian, Raspberry-rhubarb flavour, Elderflower flavour
+p22: Ginger Beer Bundaberg ..................................................................7 €
+p22: 37,5 cl
+p22: Perrier® ...........................................................................................................5 €
+p22: Jus d’orange / Orange juice .............................................................6 €
+p22: 25 cl
+p22: Jus de pomme / Apple juice 25 cl ............................................................6 €
+p22: EAUX MINÉRALES / MINERAL WATERS
+p22: 50 cl 100 cl
+p22: Vittel® ........................................................................................5 € .............6 €
+p22: S.Pellegrino® ...........................................................................5,5 € ..........6,5 €
+p22: /
+p22: BOISSONS CHAUDES HOT DRINKS
+p22: Espresso 100% Arabica ..............................................................................3,8 €
+p22: Double Espresso 100% Arabica ..............................................................5,5 €
+p22: Décaféiné 100% Arabica / Decaffeinated Coffee ..............................3,8 €
+p22: Café 100% Arabica / Coffee ......................................................................5 €
+p22: Café au lait / Coffee with milk .................................................................5,5 €
+p22: Cappuccino ...................................................................................................5,5 €
+p22: Chocolat chaud / Hot chocolate .............................................................5,5 €
+p22: Chocolat Viennois / Vienna hot chocolate ..........................................6 €
+p22: Thé, Infusion / Tea, herbal tea .................................................................5,5 €
+p22: Lait demi-écrémé / Semi-skimmed milk 20 cl ......................................3,8 €
+p23: OFFREZ-VOUS UN SOUVENIR MAGIQUE
+p23: AVEC NOTRE FLÛTE COLLECTOR
+p23: TREAT YOURSELF TO A MAGICAL
+p23: KEEPSAKE WITH OUR COLLECTOR’S
+p23: CHAMPAGNE FLUTE
+p23: Flûte collector / Collector flute ...............................................................15 €
+p23: avec champagne brut .......................................................................22 €
+p23: 15 cl
+p23: with champagne brut
+p23: gnidnib-non
+p23: era
+p23: sotohp
+p23: noitatneserP
+p23: /
+p23: selleutcartnoc
+p23: non
+p23: sotohP
+p23: -
+p23: 62/30
+p23: –
+p23: yensiD©
+p23: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible,
+p23: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p23: A list of the allergens present in our dishes is available upon request with any of our Cast Members;
+p23: please make a Cast Member aware of any allergies you may have
+p23: 1 - Jus à base de concentré de fruit / Made from concentrated fruit juice
+p23: Prix nets / Tax included - Eau potable à votre disposition / Drinking water available

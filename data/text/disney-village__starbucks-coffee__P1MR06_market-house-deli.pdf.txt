@@ -1,0 +1,74 @@
+p1: Vente à emporter uniquement
+p1: Take away only
+p1: GOGO1 FORÊTS1
+p1: BROOKIE CADEAUX À BEIGNET ROI DES
+p1: MICKEY CHRISTMAS BROOKIE1 O CHRISTMAS TREE TREAT1
+p1: Cranberries, mousse parfumée à la vanille, crème au beurre Fourré speculoos avec glaçage
+p1: Cranberry, vanilla-flavoured mousse, buttercream Speculoos-filled doughnut with icing
+p1: 5,5€ 6€
+p1: .............................2,3€
+p1: Chips Lay’s® / Crisps ..................................3,8€ Yaourt à boire sucré aromatisé
+p1: 45g
+p1: Flavoured sweet drinking yoghurt
+p1: ..............................10,5€
+p1: Sandwich Mickey1
+p1: Mickey sandwich Pom’Potes® ............... 2,3€
+p1: Bio Pomme (sans sucres ajoutés)
+p1: Pom’Potes®organic apple puree
+p1: Pain bretzel, jambon, emmental et (no added sugar)
+p1: Pretzel bread, ham, emmental, Kiri® cheese
+p1: Croissant1 ............................................................2,3€
+p1: Sandwich Mickey aux légumes et fromage 10,5€
+p1: Pain au chocolat1 ..................................................2,3€
+p1: Mickey sandwich with vegetables and cheese
+p1: .................................................................3,5€
+p1: Cookie
+p1: Pain bretzel, légumes marinés, emmental et
+p1: Kiri®
+p1: Pretzel bread, shredded vegetables, emmental, cheese 3 chocolats ou Chocolat blanc-framboise
+p1: 3-Chocolate or White chocolate-raspberry
+p1: ......................10,5€
+p1: Croque-Monsieur jambon, fromage
+p1: Cookie1 ........................................................3,5€
+p1: Ham and cheese toastie
+p1: gnidnib-non
+p1: / Chocolate chunks and hazelnut
+p1: Pépites de chocolat et noisette
+p1: .........................10,5€
+p1: Croque-Monsieur dinde, fromage
+p1: / ...............................4€
+p1: Turkey and cheese toastie Sachet de fruit Fruit bag
+p1: era
+p1: .....................................................4,3€
+p1: .......................................................12€ Cookie Mickey sotohp
+p1: Salade Poulet
+p1: Chicken salad Pépites de chocolat au lait / Milk chocolate chunks
+p1: noitatneserP
+p1: Salade, poulet, œuf dur, Grana Padano, tomates séchées et marinées Muffin1 ................................................................4,3€
+p1: Lettuce, chicken, hard-boiled egg, Grana Padano cheese,
+p1: Cacao aux pépites de chocolat
+p1: /
+p1: marinated sun-dried tomatoes selleutcartnoc
+p1: ou Parfum vanille aux pépites de chocolat
+p1: ...........................................................12€ Cocoa with chocolate chunks
+p1: Salade
+p1: Vegan salad or Vanilla flavour with chocolate chunks
+p1: non
+p1: Quinoa, boulgour, orge, lentilles, soja, boulettes Mickey1 .....4,5€
+p1: Beignet Chocolat-noisette / Chocolate-hazelnut sotohP
+p1: pois chiches-coco-curry, tomates séchées et marinées, noix de cajou
+p1: Gourmandise1 / Treat1 ...........................................4,5€
+p1: -
+p1: Quinoa, bulgur, barley, lentils, soybeans, 62/11
+p1: chickpea-coco-curry balls, marinated sun-dried tomatoes, cashew nuts
+p1: Brookie1 ...............................................................5,5€
+p1: -
+p1: yensiD©
+p1: Un recueil d’informations sur la présence d’allergènes dans nos plats est disponible,
+p1: n’hésitez pas à vous signaler et à le demander à l’un de nos Cast Members
+p1: A list of the allergens present in our dishes is available upon request with any of our Cast Members;
+p1: please make a Cast Member aware of any allergies you may have
+p1: / Tax included
+p1: Prix nets
+p1: 1 / defrosted product
+p1: Veggie = végétarien produit décongelé
